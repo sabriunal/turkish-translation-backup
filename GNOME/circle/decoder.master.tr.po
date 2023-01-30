@@ -1,0 +1,321 @@
+# Turkish translation for decoder.
+#
+# Copyright (C) 2021-2022 decoder's COPYRIGHT HOLDER
+# This file is distributed under the same license as the decoder package.
+#
+# Ümit Solmaz <u2slmz@pm.me>, 2021.
+# Sabri Ünal <libreajans@gmail.com>, 2022.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: decoder master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/decoder/issues\n"
+"POT-Creation-Date: 2022-08-07 23:33+0000\n"
+"PO-Revision-Date: 2022-08-08 02:30+0300\n"
+"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"Language-Team: Turkish <gnometurk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1\n"
+
+#: data/com.belmoussaoui.Decoder.desktop.in.in:3
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:7
+#: data/resources/ui/history_page.ui:14 data/resources/ui/window.ui:32
+#: src/main.rs:28
+msgid "Decoder"
+msgstr "Decoder"
+
+#: data/com.belmoussaoui.Decoder.desktop.in.in:4
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:8 src/application.rs:62
+msgid "Scan and Generate QR Codes"
+msgstr "QR Kod Tara ve Oluştur"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/com.belmoussaoui.Decoder.desktop.in.in:10
+msgid "QR;Scan;Generate;Code;"
+msgstr "QR;Kare;Tara;Oluştur;Yarat;Üret;Kod;"
+
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:6
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:7
+msgid "Default window width"
+msgstr "Öntanımlı pencere genişliği"
+
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:11
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:12
+msgid "Default window height"
+msgstr "Öntanımlı pencere yüksekliği"
+
+#: data/com.belmoussaoui.Decoder.gschema.xml.in:16
+msgid "Default window maximized behaviour"
+msgstr "Öntanımlı pencere büyütülme davranışı"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:10
+msgid "Fancy yet simple QR Codes scanner and generator."
+msgstr "Süslü ama basit QR Kod tarayıcı ve oluşturucu."
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:11
+msgid "Features:"
+msgstr "Özellikleri:"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:13
+msgid "QR Code generation"
+msgstr "QR Kod oluşturma"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:14
+msgid "Scanning with a camera"
+msgstr "Kamera ile tarama"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:15
+msgid "Scanning from a screenshot"
+msgstr "Ekran görüntüsünden tarama"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:16
+msgid "Parses and displays QR code content when possible"
+msgstr "Oluyorsa QR kod içeriğini ayrıştırır ve görüntüler"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:22
+msgid "Generating a QR Code"
+msgstr "QR Kodu oluşturma"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:26
+msgid "Scanning QR Code with a camera"
+msgstr "Kamera ile QR Kodu tarama"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:30
+msgid "History of the scanner/generated QR codes"
+msgstr "Taranan/oluşturulan QR kodların geçmişi"
+
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:88
+msgid "Bilal Elmoussaoui"
+msgstr "Bilal Elmoussaoui"
+
+#: data/resources/ui/camera_page.ui:28
+msgid "Missing Camera Permission"
+msgstr "Kamera İzni Yok"
+
+#: data/resources/ui/camera_page.ui:29
+msgid "Allow camera usage in Settings"
+msgstr "Ayarlar’da kamera kullanımına izin ver"
+
+#: data/resources/ui/camera_page.ui:32 data/resources/ui/camera_page.ui:57
+msgid "_From a Screenshot"
+msgstr "_Ekran Görüntüsünden"
+
+#: data/resources/ui/camera_page.ui:54
+msgid "No Camera Found"
+msgstr "Kamera Bulunamadı"
+
+#: data/resources/ui/camera_page.ui:82
+msgid "Capture From a Screenshot"
+msgstr "Ekran Görüntüsünden Yakala"
+
+#: data/resources/ui/help-overlay.ui:13
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Genel"
+
+#: data/resources/ui/help-overlay.ui:17
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Kısayolları Göster"
+
+#: data/resources/ui/help-overlay.ui:24
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Çık"
+
+#: data/resources/ui/help-overlay.ui:33
+msgctxt "shortcut window"
+msgid "Codes"
+msgstr "Kodlar"
+
+#: data/resources/ui/help-overlay.ui:37
+msgctxt "shortcut window"
+msgid "Scan QR Code"
+msgstr "QR Kod Tara"
+
+#: data/resources/ui/history_page.ui:15
+msgid "Decode a QR code or create one first"
+msgstr "QR kodu çözün veya bir tane oluşturun"
+
+#: data/resources/ui/qrcode_create.ui:47
+msgid "_Text"
+msgstr "_Metin"
+
+#: data/resources/ui/qrcode_create.ui:57
+msgid "_Wi-Fi"
+msgstr "_Kablosuz Bağlantı"
+
+#: data/resources/ui/qrcode_create.ui:74 data/resources/ui/qrcode_row.ui:55
+#: data/resources/ui/qrcode_scanned_page.ui:98
+msgid "_Export"
+msgstr "_Dışa Aktar"
+
+#: data/resources/ui/qrcode_create.ui:85
+msgid "_Save"
+msgstr "_Kaydet"
+
+#: data/resources/ui/qrcode_create.ui:86
+msgid "Save in History"
+msgstr "Geçmişe Kaydet"
+
+#: data/resources/ui/qrcode_kind_event.ui:22
+msgid "Summary"
+msgstr "Özet"
+
+#: data/resources/ui/qrcode_kind_event.ui:51
+msgid "Starts At"
+msgstr "Başlayış"
+
+#: data/resources/ui/qrcode_kind_event.ui:78
+msgid "Ends At"
+msgstr "Bitiş"
+
+#: data/resources/ui/qrcode_kind_event.ui:105
+msgid "Location"
+msgstr "Yer"
+
+#: data/resources/ui/qrcode_kind_event.ui:132
+msgid "Description"
+msgstr "Açıklama"
+
+#: data/resources/ui/qrcode_kind_location.ui:22
+msgid "Latitude"
+msgstr "Enlem"
+
+#: data/resources/ui/qrcode_kind_location.ui:48
+msgid "Longitude"
+msgstr "Boylam"
+
+#: data/resources/ui/qrcode_kind_mail.ui:22
+msgid "E-Mail"
+msgstr "E-Posta"
+
+#: data/resources/ui/qrcode_kind_mail.ui:51
+msgid "Subject"
+msgstr "Konu"
+
+#: data/resources/ui/qrcode_kind_mail.ui:80
+msgid "Body"
+msgstr "Gövde"
+
+#: data/resources/ui/qrcode_kind_sms.ui:22
+#: data/resources/ui/qrcode_kind_telephone.ui:22
+msgid "Phone"
+msgstr "Telefon"
+
+#: data/resources/ui/qrcode_kind_sms.ui:49
+msgid "Content"
+msgstr "İçerik"
+
+#: data/resources/ui/qrcode_kind_text.ui:23
+msgid "Text"
+msgstr "Metin"
+
+#: data/resources/ui/qrcode_kind_url.ui:22
+msgid "Website"
+msgstr "İnternet Sitesi"
+
+#: data/resources/ui/qrcode_kind_wifi.ui:22
+msgid "Network"
+msgstr "Ağ"
+
+#: data/resources/ui/qrcode_kind_wifi.ui:50
+msgid "Encryption"
+msgstr "Şifreleme"
+
+#: data/resources/ui/qrcode_kind_wifi.ui:76 data/resources/ui/wifi_page.ui:16
+msgid "Password"
+msgstr "Parola"
+
+#: data/resources/ui/qrcode_row.ui:46
+msgid "Copy Contents"
+msgstr "İçerikleri Kopyala"
+
+#: data/resources/ui/qrcode_row.ui:62
+msgid "_Delete"
+msgstr "_Sil"
+
+#: data/resources/ui/qrcode_scanned_page.ui:21
+msgid "QR Code"
+msgstr "QR Kod"
+
+#: data/resources/ui/qrcode_scanned_page.ui:69
+msgid "Contents"
+msgstr "İçerikler"
+
+#: data/resources/ui/wifi_page.ui:10
+msgid "Network Name"
+msgstr "Ağ Adı"
+
+#: data/resources/ui/wifi_page.ui:23
+msgid "_Hidden"
+msgstr "_Gizli"
+
+#: data/resources/ui/wifi_page.ui:24
+msgid "Is this a hidden Wi-Fi network?"
+msgstr "Bu gizli kablosuz internet ağı mıdır?"
+
+#: data/resources/ui/wifi_page.ui:37
+msgid "_Encryption Algorithm"
+msgstr "_Şifreleme Algoritması"
+
+#: data/resources/ui/window.ui:5
+msgid "_Keyboard Shortcuts"
+msgstr "_Klavye Kısayolları"
+
+#: data/resources/ui/window.ui:9
+msgid "_About Decoder"
+msgstr "Decoder _Hakkında"
+
+#: data/resources/ui/window.ui:41
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: data/resources/ui/window.ui:56
+msgid "Create"
+msgstr "Yarat"
+
+#: data/resources/ui/window.ui:69
+msgid "Scan"
+msgstr "Tara"
+
+#: data/resources/ui/window.ui:81
+msgid "History"
+msgstr "Geçmiş"
+
+#: src/application.rs:66
+msgid "translator-credits"
+msgstr ""
+"Ümit Solmaz <u2slmz@pm.me>\n"
+"Emin Tufan Çetin <etcetin@gmail.com>"
+
+#. NOTE This is in the context of selecting a wifi encryption
+#. algorithm.
+#: src/qrcode_kind.rs:267
+msgid "None"
+msgstr "Bilinmeyen"
+
+#: src/widgets/qrcode/create.rs:172 src/widgets/qrcode/scanned_page.rs:157
+msgid "Could not generate QR code"
+msgstr "QR kodu oluşturulamadı"
+
+#: src/widgets/qrcode/create.rs:208 src/widgets/qrcode/scanned_page.rs:152
+msgid "QR Code saved in history"
+msgstr "QR Kodu geçmiye kaydedildi"
+
+#: src/widgets/window.rs:209
+msgid "Select"
+msgstr "Seç"
+
+#: src/widgets/window.rs:210
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: src/widgets/window.rs:214
+msgid "qr-code.png"
+msgstr "qr-code.png"

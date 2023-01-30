@@ -1,0 +1,304 @@
+# Turkish translation for apps-for-gnome.
+# Copyright (C) 2021 apps-for-gnome's COPYRIGHT HOLDER
+# This file is distributed under the same license as the apps-for-gnome package.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2021, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apps-for-gnome main\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/apps-for-gnome/issues\n"
+"POT-Creation-Date: 2022-08-28 21:54+0000\n"
+"PO-Revision-Date: 2022-09-04 22:46+0300\n"
+"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"Language-Team: Turkish <gnometurk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#. Translators: Page title and main heading
+msgid "Apps for GNOME"
+msgstr "GNOME İçin Uygulamalar"
+
+msgid "Discover the best Apps for GNOME"
+msgstr "GNOME için en iyi uygulamaları keşfet"
+
+#. Translators: Page subtitle
+msgid ""
+"Discover the best applications in the GNOME ecosystem and learn how to get "
+"involved."
+msgstr ""
+"GNOME ekosistemindeki en iyi uygulamaları keşfet ve nasıl katılabileceğini "
+"öğren."
+
+msgid "Overview"
+msgstr "Genel Görünüm"
+
+#. Translators: Short for 'GNOME Core apps.' Navigation link to app section.
+msgid "Core"
+msgstr "Çekirdek"
+
+#. Translators: Short for 'GNOME Circle apps.' Navigation link to app section.
+msgid "Circle"
+msgstr "Çevre"
+
+#. Translators: Short for 'GNOME Development tools.' Navigation link to app section.
+msgid "Development"
+msgstr "Geliştirme"
+
+msgid "Switch Language"
+msgstr "Dil Değiştir"
+
+#. Translators: Main page introductory text
+msgid ""
+"Apps featured in this curated overview are all built with the GNOME "
+"philosophy in mind. They are easy to understand and simple to use, feature a "
+"consistent and polished design and provide a noticeable attention to "
+"details. Naturally, they are <a href='https://fsfe.org/freesoftware/'>free "
+"software</a> and have committed to being part of a <a href='https://wiki."
+"gnome.org/Foundation/CodeOfConduct'>welcoming and friendly community</a>. "
+"These apps will perfectly integrate with your <a href='https://www.gnome."
+"org/'>GNOME Desktop</a>."
+msgstr ""
+"Burada sergilenen uygulamalar tümüyle GNOME felsefesiyle inşa edilmiştir. "
+"Anlaması kolay ve kullanımları basittir. Tutarlı ve kibar tasarım "
+"barındırır, ayrıntıların kolayca göze çarpmasını sağlarlar. Doğal olarak <a "
+"href='https://fsfe.org/freesoftware/'>özgür yazılım</a>dırlar, <a "
+"href='https://wiki.gnome.org/Foundation/CodeOfConduct'>misafirperver ve "
+"dostane topluluğun</a> parçası olmaya adanmışlardır. Bu uygulamalar <a "
+"href='https://www.gnome.org/'>GNOME Masaüstü</a>nüzle kusursuz tümleşecektir."
+
+#. Translators: Main page introductory text (markdown formatted)
+#, fuzzy
+#| msgid ""
+#| "Apps featured in this curated overview are all built with the GNOME "
+#| "philosophy in mind. They are easy to understand and simple to use, "
+#| "feature a consistent and polished design and provide a noticeable "
+#| "attention to details. Naturally, they are <a href='https://fsfe.org/"
+#| "freesoftware/'>free software</a> and have committed to being part of a <a "
+#| "href='https://wiki.gnome.org/Foundation/CodeOfConduct'>welcoming and "
+#| "friendly community</a>. These apps will perfectly integrate with your <a "
+#| "href='https://www.gnome.org/'>GNOME Desktop</a>."
+msgid ""
+"Apps featured in this curated overview are all built with the GNOME "
+"philosophy in mind. They are easy to understand and simple to use, feature a "
+"consistent and polished design and provide a noticeable attention to "
+"details. Naturally, they are [free software](https://fsfe.org/freesoftware/) "
+"and have committed to being part of a [welcoming and friendly community]"
+"(https://wiki.gnome.org/Foundation/CodeOfConduct). These apps will perfectly "
+"integrate with your [GNOME Desktop](https://www.gnome.org/)."
+msgstr ""
+"Burada sergilenen uygulamalar tümüyle GNOME felsefesiyle inşa edilmiştir. "
+"Anlaması kolay ve kullanımları basittir. Tutarlı ve kibar tasarım "
+"barındırır, ayrıntıların kolayca göze çarpmasını sağlarlar. Doğal olarak <a "
+"href='https://fsfe.org/freesoftware/'>özgür yazılım</a>dırlar, <a "
+"href='https://wiki.gnome.org/Foundation/CodeOfConduct'>misafirperver ve "
+"dostane topluluğun</a> parçası olmaya adanmışlardır. Bu uygulamalar <a "
+"href='https://www.gnome.org/'>GNOME Masaüstü</a>nüzle kusursuz tümleşecektir."
+
+msgid "App supports mobile devices"
+msgstr "Uygulama mobil aygıtları destekler"
+
+msgid "Apps supported on GNOME mobile devices are marked with the mobile icon."
+msgstr ""
+"GNOME mobil aygıtlarda desteklenen uygulamalar mobil simgesiyle imlenmiştir."
+
+#. Translators: App list section heading
+msgid "Core Apps"
+msgstr "Çekirdek Uygulamalar"
+
+#. Translators: App list section text
+msgid ""
+"GNOME Core apps cover ordinary tasks on the GNOME desktop. They are usually "
+"pre-installed on your GNOME system."
+msgstr ""
+"GNOME Çekirdek uygulamaları, GNOME masaüstündeki sıradan görevleri kapsar. "
+"Genellikle GNOME sisteminize önceden kuruludurlar."
+
+#. Translators: App list section heading
+msgid "Circle Apps"
+msgstr "Çevre Uygulamalar"
+
+#. Translators: App list section text
+msgid ""
+"GNOME Circle contains applications extending the GNOME ecosystem. It "
+"champions the great additional software that is available for the GNOME "
+"platform. <a href='https://circle.gnome.org/'>Learn more about GNOME Circle."
+"</a>"
+msgstr ""
+"GNOME Çevre, GNOME ekosistemini genişleten uygulamalar içerir. GNOME "
+"platformuna uyumlu harika ek yazılımları destekler. <a href='https://circle."
+"gnome.org/'>GNOME Çevre ile ilgili daha çoğunu öğren.</a>"
+
+#. Translators: App list section text (markdown formatted)
+#, fuzzy
+#| msgid ""
+#| "GNOME Circle contains applications extending the GNOME ecosystem. It "
+#| "champions the great additional software that is available for the GNOME "
+#| "platform. <a href='https://circle.gnome.org/'>Learn more about GNOME "
+#| "Circle.</a>"
+msgid ""
+"GNOME Circle contains applications extending the GNOME ecosystem. It "
+"champions the great additional software that is available for the GNOME "
+"platform. [Learn more about GNOME Circle.](https://circle.gnome.org/)"
+msgstr ""
+"GNOME Çevre, GNOME ekosistemini genişleten uygulamalar içerir. GNOME "
+"platformuna uyumlu harika ek yazılımları destekler. <a href='https://circle."
+"gnome.org/'>GNOME Çevre ile ilgili daha çoğunu öğren.</a>"
+
+#. Translators: App list section heading
+msgid "Development Tools"
+msgstr "Geliştirme Araçları"
+
+#. Translators: App list section text
+msgid ""
+"GNOME Development tools help develop and design new apps and make it easy to "
+"contribute to existing ones."
+msgstr ""
+"GNOME Geliştirme araçları; yeni uygulama geliştirmeye, tasarlamaya ve var "
+"olanlara katkı sunmaya yardımcıdır."
+
+msgid "The GNOME Project"
+msgstr "GNOME Projesi"
+
+msgid "Contact Us"
+msgstr "İletişime Geç"
+
+msgid "About Us"
+msgstr "Hakkımızda"
+
+msgid "Privacy"
+msgstr "Gizlilik"
+
+msgid "This website is available in many languages"
+msgstr "Bu web sitesi birçok dilde kullanılabilir"
+
+msgid "Page Software"
+msgstr "Sayfa Yazılımı"
+
+msgid "© The “Apps for GNOME” contributors"
+msgstr "© “GNOME İçin Uygulamalar” katkıcıları"
+
+msgid "Page generated"
+msgstr "Sayfa oluşturulma:"
+
+#. Translators: App details section headings
+msgid "Get involved"
+msgstr "Karış"
+
+msgid "Give feedback"
+msgstr "Geri bildirim ver"
+
+msgid "Contribute your ideas or report issues on the apps issue tracker."
+msgstr "Uygulama hata takipçisine sorunları veya görüşlerinizi bildirin."
+
+#. Translators: App details section headings
+msgid "Explore the interface"
+msgstr "Arayüzü keşfet"
+
+#. Translators: App details section heading
+msgid "Get to know us"
+msgstr "Bizi tanı"
+
+msgid "Maintainer"
+msgstr "Bakımcı"
+
+msgid "GitLab account"
+msgstr "GitLab hesabı"
+
+#. Translators: App details section heading
+msgid "More Information"
+msgstr "Daha çok bilgi"
+
+msgid "Project homepage"
+msgstr "Proje ana sayfası"
+
+msgid "Visit the dedicated homepage for this project."
+msgstr "Bu proje için ayrılmış ana sayfaya git."
+
+#. Translators: This is a template string. You can move a pair of curly braces with the keyword in between around. But do not change or translate the keyword in between the braces.
+msgid "Latest version { version_name } released on { date }."
+msgstr "{ date } tarihinde son sürüm { version_name } dağıtıldı."
+
+msgid "Newest Release"
+msgstr "En son dağıtım"
+
+msgid "App is translated"
+msgstr "Uygulama çevrildi"
+
+msgid "This app is available in your language."
+msgstr "Bu uygulama dilinizde kullanılabilir."
+
+msgid "App specific content © The respective app contributors"
+msgstr "Uygulama özeli içerik © Ayrı ayrı uygulama katkıcıları"
+
+msgid "Releases"
+msgstr "Dağıtımlar"
+
+msgid "Get the app"
+msgstr "Uygulamayı al"
+
+msgid "Install the latest version from Flathub."
+msgstr "Flathub’dan son sürümü kur."
+
+msgid "Donate money"
+msgstr "Para bağışla"
+
+msgid "Learn how you can donate to the developers of this project."
+msgstr "Bu projenin geliştiricilerine nasıl bağış yapabileceğinizi öğrenin."
+
+msgid "Donate to the GNOME Foundation to support this project."
+msgstr "Bu projeyi desteklemek için GNOME Vakfına bağış yap."
+
+msgid "Help translating"
+msgstr "Çeviriye yardım et"
+
+msgid "Help translate this app into your language."
+msgstr "Bu uygulamayı dilinize çevirmeye yardım edin."
+
+msgid "Learn more"
+msgstr "Daha çoğunu öğren"
+
+msgid "Visit the online help page for this app."
+msgstr "Bu uygulamanın çevrim içi yardım sayfasına git."
+
+msgid "Not translated"
+msgstr "Çevrilmedi"
+
+msgid "This app is not available in your language."
+msgstr "Bu uygulama, dilinizde kullanılamaz."
+
+msgid "Get in touch"
+msgstr "İletişime geç"
+
+msgid "Just chat with the app's community or get help when you are stuck."
+msgstr "Uygulamanın topluluğuyla sohbet edin veya sıkıştığınızda yardım alın."
+
+msgid "FAQ"
+msgstr "SSS"
+
+msgid "Find answers to the most frequently asked questions."
+msgstr "Sık sorulan sorulara yanıt bul."
+
+msgid "Partially translated"
+msgstr "Bir bölümü çevrildi"
+
+msgid "Some parts of this app are available in your language."
+msgstr "Bu uygulamanın bazı bölümleri dilinizde kullanılabilir."
+
+msgid "GitHub account"
+msgstr "GitHub hesabı"
+
+msgid "Twitter account"
+msgstr "Twitter hesabı"
+
+msgid "Website"
+msgstr "Web sitesi"
+
+msgid "Sparsely translated"
+msgstr "Azıcık çevrildi"
+
+msgid "Only a small part of this app is available in your language."
+msgstr "Bu uygulamanın yalnızca küçük parçası dilinizde kullanılabilir."

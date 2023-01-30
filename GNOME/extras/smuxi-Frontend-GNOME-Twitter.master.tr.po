@@ -1,0 +1,36 @@
+# Turkish translation for smuxi.
+# Copyright (C) 2014-2022 smuxi's COPYRIGHT HOLDER
+# This file is distributed under the same license as the smuxi package.
+#
+# Ş. Uzun <hashirrrt@gmail.com>, 2014
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Smuxi - GNOME Twitter\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/smuxi/issues\n"
+"POT-Creation-Date: 2022-11-23 20:21+0000\n"
+"PO-Revision-Date: 2014-11-02 06:43+0000\n"
+"Last-Translator: Ş. Uzun <hashirrrt@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/smuxi/language/"
+"tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../src/Frontend-GNOME-Twitter/TwitterGroupChatView.cs:57
+msgid "Direct Message"
+msgstr "Direkt Mesaj"
+
+#: ../src/Frontend-GNOME-Twitter/TwitterGroupChatView.cs:65
+msgid "Timeline"
+msgstr "Zaman Akışı"
+
+#: ../src/Frontend-GNOME-Twitter/TwitterGroupChatView.cs:70
+msgid "Unfollow"
+msgstr "Takibi Bırak"
+
+#: ../src/Frontend-GNOME-Twitter/TwitterGroupChatView.cs:74
+msgid "Follow"
+msgstr "Takip Et"

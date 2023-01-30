@@ -1,0 +1,908 @@
+# Turkish translation for fragments
+# Copyright (C) 2019 fragments's COPYRIGHT HOLDER
+# This file is distributed under the same license as the fragments package.
+#
+# Sabri Ünal <libreajans@gmail.com>, 2019.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2019, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fragments master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Fragments/issues\n"
+"POT-Creation-Date: 2022-12-28 12:39+0000\n"
+"PO-Revision-Date: 2022-10-24 00:43+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
+"Language-Team: Türkçe <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: data/de.haeckerfelix.Fragments.desktop.in.in:3
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:5
+msgid "@NAME@"
+msgstr "@NAME@"
+
+#: data/de.haeckerfelix.Fragments.desktop.in.in:14
+msgid "bittorrent;torrent;magnet;download;p2p;"
+msgstr ""
+"bittorrent;torrent;mıknatıs;demirkapan;magnet;indirme;download;eşteneşe;p2p;"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:6
+msgid "A BitTorrent Client"
+msgstr "BitTorrent İstemcisi"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:8
+msgid "Felix Häcker"
+msgstr "Felix Häcker"
+
+#: data/de.haeckerfelix.Fragments.metainfo.xml.in.in:16
+msgid ""
+"Fragments is an easy to use BitTorrent client. It can be used to transfer "
+"files via the BitTorrent protocol, such as videos, music or installation "
+"images for Linux distributions."
+msgstr ""
+"Fragments kullanımı kolay BitTorrent istemcisidir. Linux dağıtımlarında, "
+"videolar, müzik veya kurulum kalıbı gibi dosyaları BitTorrent iletişim "
+"kuralını kullanarak aktarmayı sağlar."
+
+#: data/gtk/add_connection_dialog.ui:8
+msgid "Add Remote Connection"
+msgstr "Uzak Bağlantı Ekle"
+
+#: data/gtk/add_connection_dialog.ui:12
+msgid "_Connect"
+msgstr "_Bağlan"
+
+#: data/gtk/add_connection_dialog.ui:24
+msgid "Cancel"
+msgstr "İptal"
+
+#: data/gtk/add_connection_dialog.ui:49
+msgid ""
+"Enter the address of a remote Fragments or Transmission session to connect "
+"to."
+msgstr "Bağlanılacak uzak Fragments veya Transmission oturumunun adresini gir."
+
+#: data/gtk/add_connection_dialog.ui:52 data/gtk/torrent_row.ui:117
+msgid "Name"
+msgstr "Ad"
+
+#: data/gtk/add_connection_dialog.ui:58
+msgid "Host"
+msgstr "Ana Makine"
+
+#: data/gtk/add_connection_dialog.ui:79
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+#: data/gtk/add_connection_dialog.ui:82
+msgid "Port"
+msgstr "Bağlantı Noktası"
+
+#: data/gtk/add_connection_dialog.ui:104
+msgid "URL Path"
+msgstr "URL Yolu"
+
+#: data/gtk/add_connection_dialog.ui:111
+msgid "SSL"
+msgstr "SSL"
+
+#: data/gtk/connection_box.ui:34
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Preferences"
+msgid "Preferences"
+msgstr "Tercihler"
+
+#: data/gtk/connection_box.ui:73
+msgid "Get Some Torrents"
+msgstr "Birkaç Torrent Al"
+
+#: data/gtk/connection_box.ui:115
+msgid "Click a magnet link on a website"
+msgstr "Web sitesinde mıknatıs bağlantısına tıkla"
+
+#: data/gtk/connection_box.ui:125
+msgid "Copy a magnet link to the clipboard"
+msgstr "Mıknatıs bağlantısını panoya kopyala"
+
+#: data/gtk/connection_box.ui:135
+msgid "Choose a torrent file…"
+msgstr "Torrent dosyası seç…"
+
+#: data/gtk/connection_box.ui:164
+msgid "Authentication required"
+msgstr "Yetkilendirme gerekli"
+
+#: data/gtk/connection_box.ui:179
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: data/gtk/connection_box.ui:184
+msgid "Password"
+msgstr "Parola"
+
+#: data/gtk/connection_box.ui:194
+msgid "Authenticate"
+msgstr "Yetkilendir"
+
+#: data/gtk/connection_box.ui:211
+msgid "Connection error"
+msgstr "Bağlantı hatası"
+
+#: data/gtk/connection_box.ui:215
+msgid "Try Again"
+msgstr "Yeniden Dene"
+
+#: data/gtk/preferences_window.ui:7
+msgid "General"
+msgstr "Genel"
+
+#: data/gtk/preferences_window.ui:10
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: data/gtk/preferences_window.ui:14
+msgid "_Dark Theme"
+msgstr "_Karanlık Gövde"
+
+#: data/gtk/preferences_window.ui:16
+msgid "Whether Fragments should use a dark theme"
+msgstr "Fragments uygulamasının koyu temayı kullanıp kullanmayacağı"
+
+#: data/gtk/preferences_window.ui:29
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: data/gtk/preferences_window.ui:32
+msgid "_New Torrent Added"
+msgstr "_Yeni Torrent Eklendi"
+
+#: data/gtk/preferences_window.ui:44
+msgid "_Torrent Completely Downloaded"
+msgstr "_Torrent Tümüyle İndirildi"
+
+#: data/gtk/preferences_window.ui:58
+msgid "Remote Control"
+msgstr "Uzaktan Denetim"
+
+#: data/gtk/preferences_window.ui:61
+msgid "Remote Access"
+msgstr "Uzak Erişim"
+
+#: data/gtk/preferences_window.ui:63
+msgid ""
+"Allow other devices on the local network to access the local Fragments "
+"session"
+msgstr ""
+"Yerel ağdaki diğer aygıtların yerel Fragments oturumuna erişimini sağla"
+
+#: data/gtk/preferences_window.ui:74
+msgid "Open Webinterface"
+msgstr "Web Arayüzünü Aç"
+
+#: data/gtk/preferences_window.ui:94
+msgctxt "A page title of the preferences dialog"
+msgid "Downloading"
+msgstr "İndirme"
+
+#: data/gtk/preferences_window.ui:106
+msgid "These settings apply to the remote connection"
+msgstr "Bu ayarlar uzak bağlantıya uygulanır"
+
+#: data/gtk/preferences_window.ui:118
+msgid "Location"
+msgstr "Konum"
+
+#: data/gtk/preferences_window.ui:121
+msgid "_Download Directory"
+msgstr "İn_dirme Dizini"
+
+#: data/gtk/preferences_window.ui:122
+msgid "Where to store downloaded torrents"
+msgstr "İndirilen torrentlerin nerede tutulacağı"
+
+#: data/gtk/preferences_window.ui:149
+msgid "_Incomplete Torrents"
+msgstr "_Tamamlanmayan Torrentler"
+
+#: data/gtk/preferences_window.ui:150
+msgid "Store incomplete torrents in a different directory"
+msgstr "Tamamlanmamış torrentleri başka dizinde sakla"
+
+#: data/gtk/preferences_window.ui:155
+msgid "_Incomplete Directory"
+msgstr "_Tamamlanmamış Dizin"
+
+#: data/gtk/preferences_window.ui:156
+msgid "Where to store incomplete torrents"
+msgstr "Tamamlanmamış torrentlerin nerede tutulacağı"
+
+#: data/gtk/preferences_window.ui:187
+msgid "Behavior"
+msgstr "Davranış"
+
+#: data/gtk/preferences_window.ui:190
+msgid "Download Queue"
+msgstr "İndirme Sırası"
+
+#: data/gtk/preferences_window.ui:191
+msgid "You can decide which torrents should be downloaded first"
+msgstr "Hangi torrentlerin önce indirileceğine karar verebilirsiniz"
+
+#: data/gtk/preferences_window.ui:196
+msgid "Maximum _Active Downloads"
+msgstr "Azami _Aktif İndirme"
+
+#: data/gtk/preferences_window.ui:197
+msgid "Number of maximum parallel downloads at the same time"
+msgstr "Aynı andaki azami eş zamanlı indirme sayısı"
+
+#: data/gtk/preferences_window.ui:219
+msgid "Automatically _Start Torrents"
+msgstr "Torrentleri Kendiliğinden _Başlat"
+
+#: data/gtk/preferences_window.ui:220
+msgid "Automatically start downloading torrents after adding them"
+msgstr "Torrentleri ekledikten sonra kendiliğinden başlat"
+
+#: data/gtk/preferences_window.ui:237
+msgid "Network"
+msgstr "Ağ"
+
+#: data/gtk/preferences_window.ui:257
+msgid "Listening Port"
+msgstr "Dinlenen Bağlantı Noktası"
+
+#: data/gtk/preferences_window.ui:258
+msgid ""
+"This port gets used by peers on the internet to connect to you. It's "
+"important that the communication works, otherwise you will have a limited "
+"ability to connect to other peers and suffer from slower download speeds."
+msgstr ""
+"Bu bağlantı noktası internetteki eşlerce size bağlanırken kullanılır. "
+"İletişimin kurulması önemlidir, yoksa diğer eşlere bağlantınız kısıtlanır ve "
+"düşük indirme hızı sıkıntısı çekersiniz."
+
+#: data/gtk/preferences_window.ui:261
+msgid "_Port"
+msgstr "_Bağlantı Noktası"
+
+#: data/gtk/preferences_window.ui:262
+msgid "Used for incoming connections"
+msgstr "Gelen bağlantılarda kullanılır"
+
+#: data/gtk/preferences_window.ui:282
+msgid "_Random Port"
+msgstr "_Rastgele Bağlantı Noktası"
+
+#: data/gtk/preferences_window.ui:283
+msgid "Select a random port on each session startup, can improve privacy"
+msgstr ""
+"Her oturum başlangıcında rastgele bağlantı noktası seç, gizliliği "
+"iyileştirebilir"
+
+#: data/gtk/preferences_window.ui:295
+msgid "Port _Forwarding"
+msgstr "Bağlantı Noktası _Yönlendirimi"
+
+#: data/gtk/preferences_window.ui:296
+msgid "Try using UPnP/NAT-PMP for automatic port forwarding on your router"
+msgstr ""
+"Yönlendiricinizde kendiliğinden bağlantı noktası yönlendirme için UPnP/NAT-"
+"PMP kullanmayı dene"
+
+#: data/gtk/preferences_window.ui:335
+msgid "Internet"
+msgstr "İnternet"
+
+#: data/gtk/preferences_window.ui:362
+msgid "Router"
+msgstr "Yönlendirici"
+
+#: data/gtk/preferences_window.ui:389
+msgid "Computer"
+msgstr "Bilgisayar"
+
+#: data/gtk/preferences_window.ui:402
+msgid ""
+"You can verify your connection by asking <a href=\"https://transmissionbt.com"
+"\">transmissionbt.com</a> to test connecting to your computer as peers would."
+msgstr ""
+"Bilgisayarınıza yapılacak bağlantıları <a href=\"https://transmissionbt.com"
+"\">transmissionbt.com</a> adresine sorarak sınayıp, doğrulayabilirsiniz."
+
+#: data/gtk/preferences_window.ui:414
+msgid "Test"
+msgstr "Sına"
+
+#: data/gtk/preferences_window.ui:428
+msgid "Peer Limits"
+msgstr "Eş Kısıtları"
+
+#: data/gtk/preferences_window.ui:429
+msgid ""
+"You may have to lower the limits if your router can't keep up with the "
+"demands of P2P."
+msgstr "Yönlendiriciniz P2P isteklerine yetişemiyorsa kısıtı düşürebilirsiniz."
+
+#: data/gtk/preferences_window.ui:432
+msgid "Maximum Peers per _Torrent"
+msgstr "_Torrent Başına Azami Eşler"
+
+#: data/gtk/preferences_window.ui:452
+msgid "Maximum Peers _Overall"
+msgstr "_Tüm Azami Eşler"
+
+#: data/gtk/preferences_window.ui:474
+msgid "Connection Encryption Mode"
+msgstr "Bağlantı Şifreleme Kipi"
+
+#: data/gtk/preferences_window.ui:475
+msgid ""
+"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption"
+"\">BitTorrent Protocol Encryption</a> can be used to improve privacy. It "
+"also can help to bypass ISP filters."
+msgstr ""
+"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption"
+"\">BitTorrent İletişim Kuralı Şifrelemesi</a>, gizliliği iyileştirmede "
+"kullanılabilir. Ayrıca İSS süzgeçlerinden sıyrılmaya yardım edebilir."
+
+#: data/gtk/preferences_window.ui:478
+msgid "_Encryption"
+msgstr "_Şifreleyiş"
+
+#: data/gtk/preferences_window.ui:484
+msgid "Force"
+msgstr "Zorla"
+
+#: data/gtk/preferences_window.ui:485
+msgid "Prefer"
+msgstr "Yeğle"
+
+#: data/gtk/preferences_window.ui:486
+msgid "Allow"
+msgstr "İzin Ver"
+
+#: data/gtk/shortcuts.ui:11
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Genel"
+
+#: data/gtk/shortcuts.ui:14
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr "Kısayolları Göster"
+
+#: data/gtk/shortcuts.ui:20
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr "Tercihler"
+
+#: data/gtk/shortcuts.ui:26
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Çık"
+
+#: data/gtk/shortcuts.ui:34
+msgctxt "shortcut window"
+msgid "Torrents"
+msgstr "Torrentler"
+
+#: data/gtk/shortcuts.ui:37
+msgctxt "shortcut window"
+msgid "Add New Torrent"
+msgstr "Yeni Torrent Ekle"
+
+#: data/gtk/stats_dialog.ui:8
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: data/gtk/stats_dialog.ui:16
+msgid "These statistics are from the remote connection"
+msgstr "Bu istatistikler uzak bağlantıdandır"
+
+#. Transmission is the name of the torrent daemon. Don't translate it.
+#: data/gtk/stats_dialog.ui:30
+msgid "Transmission Daemon"
+msgstr "Transmission Art Alan Süreci"
+
+#: data/gtk/stats_dialog.ui:31
+msgid "Version"
+msgstr "Sürüm"
+
+#: data/gtk/stats_dialog.ui:47
+msgid "Current Network Speed"
+msgstr "Geçerli Ağ Hızı"
+
+#: data/gtk/stats_dialog.ui:50
+msgid "Download Speed"
+msgstr "İndirme Hızı"
+
+#: data/gtk/stats_dialog.ui:64
+msgid "Upload Speed"
+msgstr "Gönderim Hızı"
+
+#: data/gtk/stats_dialog.ui:80
+msgid "Torrent Count"
+msgstr "Torrent Sayısı"
+
+#: data/gtk/stats_dialog.ui:83
+msgid "Total"
+msgstr "Toplam"
+
+#: data/gtk/stats_dialog.ui:96
+msgid "Active"
+msgstr "Aktif"
+
+#: data/gtk/stats_dialog.ui:109 src/utils.rs:117
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+#: data/gtk/stats_dialog.ui:122 data/gtk/stats_dialog.ui:166
+#: data/gtk/stats_dialog.ui:227
+msgid "Downloaded"
+msgstr "İndirilen"
+
+#: data/gtk/stats_dialog.ui:137
+msgid "Usage"
+msgstr "Kullanım"
+
+#: data/gtk/stats_dialog.ui:148
+msgid "This Session"
+msgstr "Bu Oturum"
+
+#: data/gtk/stats_dialog.ui:153 data/gtk/stats_dialog.ui:214
+msgid "Time Active"
+msgstr "Aktif Zaman"
+
+#: data/gtk/stats_dialog.ui:179 data/gtk/stats_dialog.ui:240
+msgid "Uploaded"
+msgstr "Gönderilen"
+
+#: data/gtk/stats_dialog.ui:192 data/gtk/stats_dialog.ui:253
+msgid "Added Files"
+msgstr "Eklenen Dosyalar"
+
+#: data/gtk/stats_dialog.ui:266
+msgid "Started"
+msgstr "Başlatılma"
+
+#: data/gtk/torrent_dialog.ui:8
+msgid "Torrent Details"
+msgstr "Torrent Ayrıntıları"
+
+#: data/gtk/torrent_dialog.ui:167 data/gtk/torrent_row.ui:230
+msgid "Pause"
+msgstr "Duraklat"
+
+#: data/gtk/torrent_dialog.ui:193 data/gtk/torrent_row.ui:247
+msgid "Continue"
+msgstr "Sürdür"
+
+#: data/gtk/torrent_dialog.ui:221
+msgid "Open"
+msgstr "Aç"
+
+#: data/gtk/torrent_dialog.ui:247
+msgid "Remove"
+msgstr "Kaldır"
+
+#: data/gtk/torrent_dialog.ui:272
+msgid "More"
+msgstr "Daha"
+
+#: data/gtk/torrent_dialog.ui:291
+msgid "A Problem Has Occurred"
+msgstr ""
+
+#: data/gtk/torrent_menu.ui:6
+msgid "_Pause"
+msgstr "_Duraklat"
+
+#: data/gtk/torrent_menu.ui:11
+msgid "_Continue"
+msgstr "_Sürdür"
+
+#: data/gtk/torrent_menu.ui:18
+msgid "Queue Move _Up"
+msgstr "Sırada _Yukarı Taşı"
+
+#: data/gtk/torrent_menu.ui:22
+msgid "Queue Move _Down"
+msgstr "Sırada _Aşağı Taşı"
+
+#: data/gtk/torrent_menu.ui:28 src/app.rs:523
+msgid "_Open"
+msgstr "_Aç"
+
+#: data/gtk/torrent_menu.ui:32 src/app.rs:581 src/utils.rs:363
+msgid "_Remove"
+msgstr "_Kaldır"
+
+#: data/gtk/torrent_menu.ui:36
+msgid "_More"
+msgstr "_Daha"
+
+#: data/gtk/torrent_menu.ui:38
+msgid "_Copy Magnet Link"
+msgstr "Mıktanıs Bağlantısı _Kopyala"
+
+#: data/gtk/torrent_menu.ui:42
+msgid "_Ask Tracker for More Peers"
+msgstr "Takipçiye Daha Çok Eş _Sor"
+
+#: data/gtk/torrent_menu.ui:46
+msgid "Set _Location…"
+msgstr "_Konum Belirle…"
+
+#: data/gtk/torrent_menu.ui:53
+msgid "_Properties"
+msgstr "_Özellikler"
+
+#: data/gtk/torrent_page.ui:6
+msgctxt "The title of a group of torrents (downloading/queued/seeding)"
+msgid "Downloading"
+msgstr "İndirilen"
+
+#: data/gtk/torrent_page.ui:11
+msgctxt "The title of a group of torrents (downloading/queued/seeding)"
+msgid "Queued"
+msgstr "Sırada"
+
+#: data/gtk/torrent_page.ui:16
+msgctxt "The title of a group of torrents (downloading/queued/seeding)"
+msgid "Seeding"
+msgstr "Gönderilen"
+
+#: data/gtk/torrent_row.ui:185
+msgid "Delete"
+msgstr "Sil"
+
+#: data/gtk/torrent_row.ui:206
+msgid "Queue – Move up"
+msgstr "Sıra - Yukarı taşı"
+
+#: data/gtk/torrent_row.ui:214
+msgid "Queue – Move down"
+msgstr "Sıra – Aşağı taşı"
+
+#: data/gtk/window.ui:21
+msgid "Add New Torrent"
+msgstr "Yeni Torrent Ekle"
+
+#: data/gtk/window.ui:28
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: data/gtk/window.ui:35
+msgid "Remote Connection Menu"
+msgstr "Uzak Bağlantı Menüsü"
+
+#: data/gtk/window.ui:58
+msgid "_Resume All"
+msgstr "Tümünü _Sürdür"
+
+#: data/gtk/window.ui:62
+msgid "_Pause All"
+msgstr "Tümünü _Duraklat"
+
+#: data/gtk/window.ui:66
+msgid "_Remove Completed Torrents"
+msgstr "Tamamlanan Torrentleri _Kaldır"
+
+#: data/gtk/window.ui:70
+msgid "_Statistics…"
+msgstr "İ_statistikler…"
+
+#: data/gtk/window.ui:76
+msgid "_Add Remote Connection…"
+msgstr "_Uzak Bağlantı Ekle…"
+
+#: data/gtk/window.ui:82
+msgid "_Preferences"
+msgstr "_Tercihler"
+
+#: data/gtk/window.ui:86
+msgid "_Keyboard Shortcuts"
+msgstr "_Klavye Kısayolları"
+
+#: data/gtk/window.ui:90
+msgid "_About Fragments"
+msgstr "Fragments _Hakkında"
+
+#: src/backend/connection.rs:147
+msgid "Local Fragments session"
+msgstr "Yerel Fragments oturumu"
+
+#: src/backend/connection_manager.rs:153
+#, fuzzy
+#| msgid "Unable to restart Transmission daemon"
+msgid "Unable to start transmission-daemon"
+msgstr "Transmission art alan süreci yeniden başlatılamadı"
+
+#: src/ui/about_window.rs:36
+msgid "A BitTorrent Client – Based on Transmission Technology"
+msgstr "BitTorrent İstemcisi – Transmission Teknolojisi Tabanlıdır"
+
+#: src/ui/about_window.rs:48
+msgid "translator-credits"
+msgstr ""
+"Sabri Ünal <libreajans@gmail.com>\n"
+"Emin Tufan Çetin <etcetin@gmail.com>"
+
+#: src/ui/add_connection_dialog.rs:123
+msgid ""
+"Could not connect with “{}”:\n"
+"{}"
+msgstr ""
+"“{}” ile bağlanılamadı:\n"
+"{}"
+
+#: src/ui/connection_box.rs:143
+msgid "Connection with {} was lost."
+msgstr "{} ile bağlantı koptu."
+
+#: src/ui/connection_box.rs:177
+msgid "Credentials could not be saved"
+msgstr "Kimlik bilgileri kaydedilemedi"
+
+#: src/ui/connection_box.rs:191
+#, fuzzy
+#| msgid "_Download Directory"
+msgid "Invalid Download Directory"
+msgstr "İn_dirme Dizini"
+
+#: src/ui/connection_box.rs:192
+msgid ""
+"Unable to write data. The configured download directory cannot be accessed."
+msgstr ""
+
+#: src/ui/connection_box.rs:195
+#, fuzzy
+#| msgid "_Incomplete Directory"
+msgid "Invalid Incomplete Directory"
+msgstr "_Tamamlanmamış Dizin"
+
+#: src/ui/connection_box.rs:196
+msgid ""
+"Unable to write data. The configured incomplete directory cannot be accessed."
+msgstr ""
+
+#: src/ui/connection_row.rs:142
+msgid "This computer"
+msgstr "Bu bilgisayar"
+
+#: src/ui/preferences_window.rs:208
+msgid "Unable to restart Transmission daemon"
+msgstr "Transmission art alan süreci yeniden başlatılamadı"
+
+#: src/ui/preferences_window.rs:372
+msgid "Testing…"
+msgstr "Sınanıyor…"
+
+#: src/ui/preferences_window.rs:383
+msgid "Port is open. You can communicate with other peers."
+msgstr "Bağlantı noktası açık. Diğer eşlerle iletişebilirsiniz."
+
+#: src/ui/preferences_window.rs:386
+msgid ""
+"Port is closed. Communication with other peers is limited.\n"
+"Check your router or firewall if port forwarding is enabled for your "
+"computer. "
+msgstr ""
+"Bağlantı noktası kapalı. Diğer eşlerle iletişim kısıtlıdır.\n"
+"Bilgisayarınız için bağlantı noktası yönlendirmenin etkin olup olmadığını "
+"yönlendiricinizde veya güvenlik duvarında gözden geçirin. "
+
+#: src/ui/preferences_window.rs:391
+msgid "Test failed. Make sure you are connected to the internet."
+msgstr "Sınama başarısız. İnternete bağlı olduğunuza emin olun."
+
+#: src/ui/preferences_window.rs:424 src/ui/stats_dialog.rs:309
+msgid "You are connected with “{}”"
+msgstr "“{}” ile bağlandınız"
+
+#: src/ui/stats_dialog.rs:292
+msgid "{} time"
+msgid_plural "{} times"
+msgstr[0] "{} kez"
+
+#: src/ui/torrent_dialog.rs:276
+msgid "{} ({} active)"
+msgid_plural "{} ({} active)"
+msgstr[0] "{} ({} aktif)"
+
+#. Translators: First {} is the amount uploaded, second {} is the
+#. uploading speed
+#. Displayed under the torrent name in the main window when torrent
+#. download is finished
+#: src/ui/torrent_row.rs:315
+msgid "{} uploaded · {}"
+msgstr "{} gönderildi · {}"
+
+#. Translators: First {} is the amount downloaded, second {} is the
+#. total torrent size
+#. Displayed under the torrent name in the main window when torrent
+#. is stopped
+#: src/ui/torrent_row.rs:323
+msgid "{} of {}"
+msgstr "{} / {}"
+
+#. Translators: First {} is the amount downloaded, second {} is the
+#. total torrent size, third {} is the download speed
+#. Displayed under the torrent name in the main window when torrent
+#. is downloading
+#: src/ui/torrent_row.rs:329
+msgid "{} of {} · {}"
+msgstr "{} / {} · {}"
+
+#: src/ui/window.rs:146
+msgid "Remote control \"{}\""
+msgstr "\"{}\" uzaktan denetim"
+
+#: src/ui/window.rs:195
+msgid "New torrent added"
+msgstr "Yeni torrent eklendi"
+
+#: src/ui/window.rs:204
+msgid "Torrent completely downloaded"
+msgstr "Torrent tümüyle indirildi"
+
+#: src/ui/window.rs:220
+msgid "Add magnet link “{}” from clipboard?"
+msgstr "Panodan “{}” mıknatıs bağlantısı eklensin mi?"
+
+#: src/ui/window.rs:221
+msgid "Add magnet link from clipboard?"
+msgstr "Panodan mıknatıs bağlantısı eklensin mi?"
+
+#: src/ui/window.rs:225
+msgid "_Add"
+msgstr "_Ekle"
+
+#: src/app.rs:499
+msgid "Failed to establish a connection with the Transmission service (“{}”)."
+msgstr "Transmission hizmetiyle (“{}”) bağlantı kurulamadı."
+
+#: src/app.rs:506
+msgid "No connection found with UUID \"{}\""
+msgstr "UUID \"{}\" ile bağlantı bulunamadı"
+
+#: src/app.rs:520
+msgid "Open Torrents"
+msgstr "Torrent Aç"
+
+#: src/app.rs:532
+msgid "Torrent files"
+msgstr "Torrent dosyaları"
+
+#: src/app.rs:538
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+#. NOTE: Title of the modal when the user removes all downloaded torrents
+#: src/app.rs:570
+msgid "Remove all Downloaded Torrents?"
+msgstr "Tüm İndirilen Torrentleri kaldır?"
+
+#: src/app.rs:574
+msgid ""
+"This will only remove torrents from Fragments, but will keep the downloaded "
+"content."
+msgstr ""
+"Bu, torrentleri yalnızca Fragments’ten kaldıracak ancak indirilen içeriği "
+"koruyacak."
+
+#: src/app.rs:579 src/utils.rs:361 src/utils.rs:401 src/utils.rs:465
+msgid "_Cancel"
+msgstr "_İptal Et"
+
+#: src/utils.rs:89
+msgid "more than a day"
+msgstr "bir günden çok"
+
+#: src/utils.rs:97
+msgid "{} day"
+msgid_plural "{} days"
+msgstr[0] "{} gün"
+
+#: src/utils.rs:98
+msgid "{} hour"
+msgid_plural "{} hours"
+msgstr[0] "{} saat"
+
+#: src/utils.rs:99
+msgid "{} minute"
+msgid_plural "{} minutes"
+msgstr[0] "{} dakika"
+
+#: src/utils.rs:100
+msgid "{} second"
+msgid_plural "{} seconds"
+msgstr[0] "{} saniye"
+
+#. i18n: "Queued" is the current status of a torrent
+#: src/utils.rs:123 src/utils.rs:126 src/utils.rs:129
+msgid "Queued"
+msgstr "Sırada"
+
+#: src/utils.rs:124
+msgid "Checking…"
+msgstr "Denetleniyor…"
+
+#: src/utils.rs:127
+msgid "Seeding…"
+msgstr "Gönderiliyor…"
+
+#: src/utils.rs:202
+msgid "Unable to copy magnet link to clipboard"
+msgstr "Mıknatıs bağlantısı panoya kopyalanamadı"
+
+#: src/utils.rs:206
+msgid "Copied magnet link to clipboard"
+msgstr "Mıknatıs bağlantısı panoya kopyalandı"
+
+#: src/utils.rs:259
+msgid "Could not show the containing folder"
+msgstr "İçeren klasör gösterilemedi"
+
+#: src/utils.rs:264
+msgid "Could not open file"
+msgstr "Dosya açılamadı"
+
+#: src/utils.rs:355
+msgid "Remove Torrent?"
+msgstr "Torrenti Kaldır?"
+
+#: src/utils.rs:357
+msgid ""
+"Once removed, continuing the transfer will require the torrent file or "
+"magnet link."
+msgstr ""
+"Kaldırdıktan sonra aktarımı sürdürmek için torrent dosyası veya mıknatıs "
+"bağlantısı gerekecektir."
+
+#. Check button
+#: src/utils.rs:367
+msgid "Remove downloaded data as well"
+msgstr "İndirilen verileri de kaldır"
+
+#: src/utils.rs:394
+#, fuzzy
+#| msgid "Set _Location…"
+msgid "Set Torrent Location"
+msgstr "_Konum Belirle…"
+
+#: src/utils.rs:400 src/utils.rs:464
+msgid "_Select"
+msgstr "_Seç"
+
+#: src/utils.rs:415
+msgid "Move Data?"
+msgstr ""
+
+#: src/utils.rs:416
+msgid ""
+"In order to continue using the torrent, the data must be available at the "
+"new location."
+msgstr ""
+
+#: src/utils.rs:419
+msgid "_Only Change Location"
+msgstr ""
+
+#: src/utils.rs:420
+msgid "_Move Data to New Location"
+msgstr ""
+
+#: src/utils.rs:455
+msgid "Select Download Directory"
+msgstr "İndirme Dizini Seç"
+
+#: src/utils.rs:456
+msgid "Select Incomplete Directory"
+msgstr "Tamamlanmamış Dizin Seç"

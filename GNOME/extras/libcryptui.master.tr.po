@@ -1,0 +1,911 @@
+# translation of Seahorse to Turkish
+# -------------------------------------------------------
+# Copyright (C) 2000, 2004, 2007, 2008 Free Software Foundation, Inc.
+#
+# Fatih Demir <kabalak@gmx.net>, 2000.
+# Sertaç Ö. Yıldız <sertacyildiz@gmail.com>, 2007.
+# Baris Cicek <baris@teamforce.name.tr>, 2004, 2007, 2008, 2009.
+# Necdet Yücel <necdetyucel@gmail.com>, 2015.
+# Muhammet Kara <muhammetk@gmail.com>, 2011, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: seahorse\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libcryptui/issues\n"
+"POT-Creation-Date: 2022-08-31 14:28+0000\n"
+"PO-Revision-Date: 2019-02-10 10:54+0200\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-POOTLE-MTIME: 1423951859.000000\n"
+
+#: ../daemon/seahorse-daemon.c:50
+msgid "Do not run seahorse-daemon as a daemon"
+msgstr "Seahorse-daemon'u servis olarak çalıştır"
+
+#: ../daemon/seahorse-daemon.c:80
+msgid "couldn't fork process"
+msgstr "süreç çatallanamadı"
+
+#: ../daemon/seahorse-daemon.c:86
+msgid "couldn't create new process group"
+msgstr "yeni süreç grubu oluşturulamadı"
+
+#: ../daemon/seahorse-daemon.c:234
+msgid "Encryption Daemon (Seahorse)"
+msgstr "Şifreleme Servisi (Seahorse)"
+
+#: ../daemon/seahorse-notification.c:584 ../daemon/seahorse-notification.c:612
+msgid "Key Imported"
+msgid_plural "Keys Imported"
+msgstr[0] "Anahtar içe aktarıldı"
+
+#: ../daemon/seahorse-notification.c:588 ../daemon/seahorse-notification.c:611
+#, c-format
+msgid "Imported %i key"
+msgid_plural "Imported %i keys"
+msgstr[0] "%d anahtar içe aktarıldı"
+
+#: ../daemon/seahorse-notification.c:590
+#, c-format
+msgid "Imported a key for"
+msgid_plural "Imported keys for"
+msgstr[0] "İçe aktarılmış anahtar"
+
+#: ../daemon/seahorse-gpgme.c:70
+msgid "Decryption failed. You probably do not have the decryption key."
+msgstr ""
+"Şifre çözme başarısız oldu. Muhtemelen şifre çözme anahtarına sahip "
+"değilsiniz."
+
+#: ../daemon/seahorse-gpgme-generate.c:59
+msgid "RSA"
+msgstr "RSA"
+
+#: ../daemon/seahorse-gpgme-generate.c:60
+msgid "DSA Elgamal"
+msgstr "DSA Elgamal"
+
+#: ../daemon/seahorse-gpgme-generate.c:61
+msgid "DSA (sign only)"
+msgstr "DSA ( sadece imzalama)"
+
+#: ../daemon/seahorse-gpgme-generate.c:62
+msgid "RSA (sign only)"
+msgstr "RSA (sadece imzalama)"
+
+#: ../daemon/seahorse-gpgme-generate.c:78
+msgid "Couldn’t generate PGP key"
+msgstr "PGP Anahtarı oluşturulamadı"
+
+#: ../daemon/seahorse-gpgme-generate.c:138
+msgid "Passphrase for New PGP Key"
+msgstr "Yeni PGP Anahtarı için Parola Metni"
+
+#: ../daemon/seahorse-gpgme-generate.c:139
+msgid "Enter the passphrase for your new key twice."
+msgstr "Yeni anahtarınız için paro metnini iki kez girin."
+
+#: ../daemon/seahorse-gpgme-generate.c:148
+msgid "Couldn’t generate key"
+msgstr "Anahtar oluşturulamadı"
+
+#: ../daemon/seahorse-gpgme-generate.c:150
+msgid "Generating key"
+msgstr "Anahtar oluşturuluyor"
+
+#: ../daemon/seahorse-gpgme-source.c:95
+#, c-format
+msgid "Wrong passphrase."
+msgstr "Yanlış parola metni."
+
+#: ../daemon/seahorse-gpgme-source.c:99
+#, c-format
+msgid "Enter new passphrase for “%s”"
+msgstr "“%s” için yeni parola metni girin"
+
+#: ../daemon/seahorse-gpgme-source.c:101
+#, c-format
+msgid "Enter passphrase for “%s”"
+msgstr "“%s” için parola metni girin"
+
+#: ../daemon/seahorse-gpgme-source.c:104
+msgid "Enter new passphrase"
+msgstr "Yeni parola metni gir"
+
+#: ../daemon/seahorse-gpgme-source.c:106
+msgid "Enter passphrase"
+msgstr "Parola metnini girin"
+
+#. TODO: We can use the GPGME progress to make this more accurate
+#: ../daemon/seahorse-gpgme-source.c:709
+#, c-format
+msgid "Loaded %d key"
+msgid_plural "Loaded %d keys"
+msgstr[0] "%d anahtar yüklendi"
+
+#: ../daemon/seahorse-gpgme-source.c:762
+msgid "Loading Keys…"
+msgstr "Anahtarlar Yükleniyor..."
+
+#: ../daemon/seahorse-gpgme-source.c:805
+msgid ""
+"Invalid key data (missing UIDs). This may be due to a computer with a date "
+"set in the future or a missing self-signature."
+msgstr ""
+"Geçersiz anahtar verisi (UID eksik). İlerideki bir tarihe ayarlanmış "
+"bilgisayar veya eksik bir öz-imza neden olmuş olabilir."
+
+#: ../daemon/seahorse-gpgme-source.c:895
+msgid "Importing Keys"
+msgstr "Anahtarlar İçe Aktarılıyor"
+
+#: ../daemon/seahorse-gpgme-source.c:928
+msgid "Exporting Keys"
+msgstr "Anahtar Aktarılıyor"
+
+#: ../daemon/seahorse-gpgme-subkey.c:194 ../daemon/seahorse-validity.c:37
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: ../daemon/seahorse-gpgme-subkey.c:196
+msgid "ElGamal"
+msgstr "ElGamal"
+
+#: ../daemon/seahorse-notify.xml.h:1
+msgid "Notification Messages"
+msgstr "Uyarı Mesajları"
+
+#: ../daemon/seahorse-object.c:315
+msgid "Symmetric Key"
+msgstr "Simetrik Anahtar"
+
+#: ../daemon/seahorse-object.c:318
+msgid "Public Key"
+msgstr "Genel Anahtar"
+
+#: ../daemon/seahorse-object.c:321
+msgid "Private Key"
+msgstr "Özel Anahtar"
+
+#: ../daemon/seahorse-object.c:324
+msgid "Credentials"
+msgstr "Kimlik Bilgileri"
+
+#.
+#. * Translators: "This object is a means of storing items such as
+#. * name, email address, etc. that make up one's digital identity.
+#.
+#: ../daemon/seahorse-object.c:331
+msgid "Identity"
+msgstr "Kimlik"
+
+#: ../daemon/seahorse-passphrase.c:193
+msgid "Passphrase"
+msgstr "Parola Metni"
+
+#: ../daemon/seahorse-passphrase.c:196
+msgid "Password:"
+msgstr "Parola:"
+
+#. The second and main entry
+#: ../daemon/seahorse-passphrase.c:260
+msgid "Confirm:"
+msgstr "Onayla:"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:1
+msgid "Algorithms here"
+msgstr "Algoritmalar"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:2
+msgid "New PGP Key"
+msgstr "Yeni PGP Anahtarı"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:3
+msgid "A PGP key allows you to encrypt email or files to other people."
+msgstr ""
+"PGP anahtarı, e-posta veya dosyaları başkalarına şifrelemenize olanak sağlar."
+
+#: ../daemon/seahorse-pgp-generate.xml.h:4
+msgid "Full _Name:"
+msgstr "Tam İ_sim:"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:5
+msgid "_Email Address:"
+msgstr "_E-posta Adresi:"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:6
+msgid "_Comment:"
+msgstr "_Açıklama:"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:7
+msgid "Ne_ver Expires"
+msgstr "_Kullanım Süresi Bitmez"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:8
+msgid "Encryption _Type:"
+msgstr "Şifreleme _Türü:"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:9
+msgid "Key _Strength (bits):"
+msgstr "Anahtar _Uzunluğu (bit):"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:10
+msgid "E_xpiration Date:"
+msgstr "_Son Kullanım Tarihi:"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:11
+msgid "<b>_Advanced key options</b>"
+msgstr "<b>_Gelişmiş anahtar seçenekleri</b>"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:12
+msgid "Generate a new key"
+msgstr "Yeni bir anahtar oluştur"
+
+#: ../daemon/seahorse-pgp-generate.xml.h:13
+msgid "C_reate"
+msgstr "Oluştu_r"
+
+#: ../daemon/seahorse-pgp-key.c:176
+msgid "Private PGP Key"
+msgstr "PGP Gizli Anahtarı"
+
+#: ../daemon/seahorse-pgp-key.c:179
+msgid "Public PGP Key"
+msgstr "PGP Genel Anahtarı"
+
+#: ../daemon/seahorse-pgp-key.c:524
+msgid "Expired"
+msgstr "Süresi Dolmuş"
+
+#: ../daemon/seahorse-pgp-subkey.c:363
+msgid "Key"
+msgstr "Anahtar"
+
+#: ../daemon/seahorse-pgp-subkey.c:368
+#, c-format
+msgid "Subkey %d of %s"
+msgstr "Alt anahtar %d / %s"
+
+#: ../daemon/seahorse-progress.xml.h:1
+msgid "Progress Title"
+msgstr "İlerleme Başklığı"
+
+#: ../daemon/seahorse-service.c:158 ../daemon/seahorse-service.c:264
+#, c-format
+msgid "Invalid or unrecognized key type: %s"
+msgstr "Geçersiz veya tanınmayan anahtar türü: %s"
+
+#: ../daemon/seahorse-service.c:226
+#, c-format
+msgid "This keytype is not supported: %s"
+msgstr "Bu anahtar türü desteklenmiyor: %s"
+
+#: ../daemon/seahorse-service.c:328 ../daemon/seahorse-service-keyset.c:177
+#: ../daemon/seahorse-service-keyset.c:220
+#, c-format
+msgid "Invalid or unrecognized key: %s"
+msgstr "Geçersiz veya tanınmayan anahtar: %s"
+
+#. TRANSLATORS: <key id='xxx'> is a custom markup tag, do not translate.
+#: ../daemon/seahorse-service-crypto.c:201
+#, c-format
+msgid "Signed by <i><key id='%s'/> <b>expired</b></i> on %s."
+msgstr ""
+"<key id='%s'/> tarafından imzalanmış, %s tarihinde <i><b>süresi dolmuş</b></"
+"i>."
+
+#: ../daemon/seahorse-service-crypto.c:202
+msgid "Invalid Signature"
+msgstr "Geçersiz İmza"
+
+#. TRANSLATORS: <key id='xxx'> is a custom markup tag, do not translate.
+#: ../daemon/seahorse-service-crypto.c:208
+#, c-format
+msgid "Signed by <i><key id='%s'/></i> on %s <b>Expired</b>."
+msgstr ""
+"<i><key id='%s'/></i> tarafından imzalanmış, %s tarihinde <b>Süresi Dolmuş</"
+"b>."
+
+#: ../daemon/seahorse-service-crypto.c:209
+msgid "Expired Signature"
+msgstr "Süresi Dolmuş İmza"
+
+#. TRANSLATORS: <key id='xxx'> is a custom markup tag, do not translate.
+#: ../daemon/seahorse-service-crypto.c:215
+#, c-format
+msgid "Signed by <i><key id='%s'/> <b>Revoked</b></i> on %s."
+msgstr ""
+"<key id='%s'/> tarafından imzalanmış, %s tarihinde <i><b>Feshedilmiş</b></i>."
+
+#: ../daemon/seahorse-service-crypto.c:216
+msgid "Revoked Signature"
+msgstr "Feshedilmiş İmza"
+
+#. TRANSLATORS: <key id='xxx'> is a custom markup tag, do not translate.
+#: ../daemon/seahorse-service-crypto.c:222
+#, c-format
+msgid "Signed by <i><key id='%s'/></i> on %s."
+msgstr "<i><key id='%s'/></i> tarafından %s tarihinde imzalanmış."
+
+#: ../daemon/seahorse-service-crypto.c:223
+msgid "Good Signature"
+msgstr "İyi İmza"
+
+#: ../daemon/seahorse-service-crypto.c:228
+msgid "Signing key not in keyring."
+msgstr "İmzalayan anahtar anahtarlıkta değil."
+
+#: ../daemon/seahorse-service-crypto.c:229
+msgid "Unknown Signature"
+msgstr "Bilinmeyen İmza"
+
+#: ../daemon/seahorse-service-crypto.c:233
+msgid "Bad or forged signature. The signed data was modified."
+msgstr "Kötü veya hileli imza. İmzalanan veri değiştirilmiş."
+
+#: ../daemon/seahorse-service-crypto.c:234
+msgid "Bad Signature"
+msgstr "Kötü İmza"
+
+#: ../daemon/seahorse-service-crypto.c:242
+msgid "Couldn’t verify signature."
+msgstr "İmza doğrulanamadı."
+
+#: ../daemon/seahorse-service-crypto.c:314
+#, c-format
+msgid "Recipients specified for symmetric encryption"
+msgstr "Simetrik şifreleme için belirtilen alıcılar"
+
+#: ../daemon/seahorse-service-crypto.c:323
+#: ../daemon/seahorse-service-crypto.c:670
+#, c-format
+msgid "Invalid or unrecognized signer: %s"
+msgstr "Geçersiz veya tanınmayan imzalayan: %s"
+
+#: ../daemon/seahorse-service-crypto.c:330
+#: ../daemon/seahorse-service-crypto.c:677
+#, c-format
+msgid "Key is not valid for signing: %s"
+msgstr "Anahtar imzalama için geçersiz: %s"
+
+#: ../daemon/seahorse-service-crypto.c:343
+#, c-format
+msgid "Invalid or unrecognized recipient: %s"
+msgstr "Geçersiz veya tanınmayan alıcı: %s"
+
+#: ../daemon/seahorse-service-crypto.c:351
+#, c-format
+msgid "Key is not a valid recipient for encryption: %s"
+msgstr "Anahtar şifreleme için geçerli bir alıcı değil: %s"
+
+#: ../daemon/seahorse-service-crypto.c:360
+#, c-format
+msgid "No recipients specified"
+msgstr "Alıcı belirtilmemiş"
+
+#: ../daemon/seahorse-service-crypto.c:457
+#, c-format
+msgid "Invalid key type for decryption: %s"
+msgstr "Şifre çözme için geçersiz anahtar türü: %s"
+
+#: ../daemon/seahorse-service-crypto.c:572
+#: ../daemon/seahorse-service-crypto.c:770
+#, c-format
+msgid "Please set clearuri"
+msgstr "Lütfen clearuri'i ayarlayın"
+
+#: ../daemon/seahorse-service-crypto.c:578
+#: ../daemon/seahorse-service-crypto.c:776
+#, c-format
+msgid "Please set crypturi"
+msgstr "Lütfen crypturi'i ayarlayın"
+
+#: ../daemon/seahorse-service-crypto.c:588
+#, c-format
+msgid "Error opening clearuri"
+msgstr "Clearuri açılırken hata"
+
+#: ../daemon/seahorse-service-crypto.c:665
+#, c-format
+msgid "No signer specified"
+msgstr "İmzalayan belirtilmemiş"
+
+#: ../daemon/seahorse-service-crypto.c:854
+#, c-format
+msgid "Invalid key type for verifying: %s"
+msgstr "Doğrulama için geçersiz anahtar türü: %s"
+
+#: ../daemon/seahorse-service-keyset.c:270
+#, c-format
+msgid "Invalid key id: %s"
+msgstr "Geçersiz anahtar ID'si: %s"
+
+#: ../daemon/seahorse-unknown.c:55
+msgid "Unavailable"
+msgstr "Erişilemez"
+
+#: ../daemon/seahorse-util.c:228
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d"
+
+#: ../daemon/seahorse-util.c:507
+msgid "Key Data"
+msgstr "Anahtar Verisi"
+
+#: ../daemon/seahorse-util.c:509
+msgid "Multiple Keys"
+msgstr "Birden Çok Anahtar"
+
+#: ../daemon/seahorse-util.c:765
+msgid "Couldn’t run file-roller"
+msgstr "Arşiv Yöneticisi başlatılamadı"
+
+#: ../daemon/seahorse-util.c:771
+msgid "Couldn’t package files"
+msgstr "Dosyalar paketlenemedi"
+
+#: ../daemon/seahorse-util.c:772
+msgid "The file-roller process did not complete successfully"
+msgstr "file-roller süreci başarıyla sonlanamadı"
+
+#. Filter for PGP keys. We also include *.asc, as in many
+#. cases that extension is associated with text/plain
+#: ../daemon/seahorse-util.c:941
+msgid "All key files"
+msgstr "Tüm anahtar dosyaları"
+
+#: ../daemon/seahorse-util.c:948 ../daemon/seahorse-util.c:996
+msgid "All files"
+msgstr "Tüm dosyalar"
+
+#: ../daemon/seahorse-util.c:989
+msgid "Archive files"
+msgstr "Arşiv dosyaları"
+
+#: ../daemon/seahorse-util.c:1059
+msgid ""
+"<b>A file already exists with this name.</b>\n"
+"\n"
+"Do you want to replace it with a new file?"
+msgstr ""
+"<b>Bu isimle bir dosya zaten var.</b>\n"
+"\n"
+"Yeni dosyayı onun yerine koymak ister misiniz?"
+
+#: ../daemon/seahorse-util.c:1062
+msgid "_Replace"
+msgstr "Ye_rine koy"
+
+#: ../daemon/seahorse-validity.c:39
+msgctxt "Validity"
+msgid "Never"
+msgstr "Asla"
+
+#: ../daemon/seahorse-validity.c:41
+msgid "Marginal"
+msgstr "Değişken"
+
+#: ../daemon/seahorse-validity.c:43
+msgid "Full"
+msgstr "Tam"
+
+#: ../daemon/seahorse-validity.c:45
+msgid "Ultimate"
+msgstr "Sınırsız"
+
+#: ../daemon/seahorse-validity.c:47
+msgid "Disabled"
+msgstr "Kapalı"
+
+#: ../daemon/seahorse-validity.c:49
+msgid "Revoked"
+msgstr "Feshedilmiş"
+
+#: ../daemon/seahorse-widget.c:430
+#, c-format
+msgid "Could not display help: %s"
+msgstr "Yardım görüntülenemedi: %s"
+
+#: ../libcryptui/cryptui.c:305
+msgid ""
+"No encryption keys were found with which to perform the operation you "
+"requested.  The program <b>Passwords and Encryption Keys</b> will now be "
+"started so that you may either create a key or import one."
+msgstr ""
+"İstediğinizin işlemi gerçekleştirmek için hiçbir şifreleme anahtarı "
+"bulunamadı.  <b>Parolalar ve Şifreleme Anahtarları</b> programı şimdi bir "
+"anahtar oluşturmanız ya da içe aktarmanız için başlatılacak."
+
+#: ../libcryptui/cryptui.c:331
+msgid ""
+"No encryption keys were found. In order to perform public key encryption, "
+"the <b>Passwords and Encryption Keys</b> program can be started to create or "
+"import a public key. It is also possible to use a shared passphrase instead."
+msgstr ""
+"Şifreleme anahtarı bulunamadı. Genel anahtar şifrelemesi gerçekleştirmek "
+"için, <b>Parolalar ve Şifreleme Anahtarları</b> programı bir genel anahtar "
+"oluşturmak ya da içe aktarmak üzere başlatılabilir. Bunun yerine, önceden "
+"paylaşılan bir parolanın kullanılması da mümkündür."
+
+#: ../libcryptui/cryptui.c:334
+msgid "Use a shared passphrase"
+msgstr "Paylaşılan parolayı kullan"
+
+#: ../libcryptui/cryptui.c:335
+msgid "Create or import a key"
+msgstr "Bir anahtar oluştur veya içe aktar"
+
+#: ../libcryptui/cryptui-key-chooser.c:175
+msgid "All Keys"
+msgstr "Tüm Anahtarlar"
+
+#: ../libcryptui/cryptui-key-chooser.c:176
+msgid "Selected Recipients"
+msgstr "Seçilen Alıcılar"
+
+#: ../libcryptui/cryptui-key-chooser.c:177
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#. Filter Label
+#: ../libcryptui/cryptui-key-chooser.c:187
+msgid "Search _for:"
+msgstr "_Ara:"
+
+#. first of the group
+#: ../libcryptui/cryptui-key-chooser.c:233
+msgid "Use passphrase only"
+msgstr "Sadece parolayı kullan"
+
+#: ../libcryptui/cryptui-key-chooser.c:242
+msgid "Choose a set of recipients:"
+msgstr "Bir alıcı grubu seçin:"
+
+#: ../libcryptui/cryptui-key-chooser.c:288
+msgid "None (Don’t Sign)"
+msgstr "Hiçbiri (İmzalama)"
+
+#: ../libcryptui/cryptui-key-chooser.c:301
+#, c-format
+msgid "Sign this message as %s"
+msgstr "Bu mesajı %s olarak imzala"
+
+#. Sign Label
+#: ../libcryptui/cryptui-key-chooser.c:328
+msgid "_Sign message as:"
+msgstr "Mesajı şu anahtarla im_zala:"
+
+#. TODO: Icons
+#. The name column
+#: ../libcryptui/cryptui-key-list.c:138
+msgid "Name"
+msgstr "İsim"
+
+#. The keyid column
+#: ../libcryptui/cryptui-key-list.c:143
+msgid "Key ID"
+msgstr "Anahtar ID"
+
+#: ../libegg/egg-datetime.c:315
+msgid "Display flags"
+msgstr "İşaretleri göster"
+
+#: ../libegg/egg-datetime.c:316
+msgid "Displayed date and/or time properties"
+msgstr "Gösterilen tarih ve/veya zaman özellikleri"
+
+#: ../libegg/egg-datetime.c:321
+msgid "Lazy mode"
+msgstr "Tembel kip"
+
+#: ../libegg/egg-datetime.c:322
+msgid "Lazy mode doesn’t normalize entered date and time values"
+msgstr "Tembel kip girilen tarihi ve zaman değerlerini normalleştirmez"
+
+#: ../libegg/egg-datetime.c:327
+msgid "Year"
+msgstr "Yıl"
+
+#: ../libegg/egg-datetime.c:328
+msgid "Displayed year"
+msgstr "Gösterilen yıl"
+
+#: ../libegg/egg-datetime.c:333
+msgid "Month"
+msgstr "Ay"
+
+#: ../libegg/egg-datetime.c:334
+msgid "Displayed month"
+msgstr "Gösterilen ay"
+
+#: ../libegg/egg-datetime.c:339
+msgid "Day"
+msgstr "Gün"
+
+#: ../libegg/egg-datetime.c:340
+msgid "Displayed day of month"
+msgstr "Gösterilen ayın günü"
+
+#: ../libegg/egg-datetime.c:345
+msgid "Hour"
+msgstr "Saat"
+
+#: ../libegg/egg-datetime.c:346
+msgid "Displayed hour"
+msgstr "Gösterilen saat"
+
+#: ../libegg/egg-datetime.c:351
+msgid "Minute"
+msgstr "Dakika"
+
+#: ../libegg/egg-datetime.c:352
+msgid "Displayed minute"
+msgstr "Gösterilen dakika"
+
+#: ../libegg/egg-datetime.c:357
+msgid "Second"
+msgstr "Saniye"
+
+#: ../libegg/egg-datetime.c:358
+msgid "Displayed second"
+msgstr "Gösterilen saniye"
+
+#: ../libegg/egg-datetime.c:363
+msgid "Lower limit year"
+msgstr "Alt sınır yılı"
+
+#: ../libegg/egg-datetime.c:364
+msgid "Year part of the lower date limit"
+msgstr "Alt tarih sınırının yıl bölümü"
+
+#: ../libegg/egg-datetime.c:369
+msgid "Upper limit year"
+msgstr "Üst sınır yılı"
+
+#: ../libegg/egg-datetime.c:370
+msgid "Year part of the upper date limit"
+msgstr "Üst tarih sınırının yıl bölümü"
+
+#: ../libegg/egg-datetime.c:375
+msgid "Lower limit month"
+msgstr "Alt sınır ayı"
+
+#: ../libegg/egg-datetime.c:376
+msgid "Month part of the lower date limit"
+msgstr "Alt tarih sınırının ay bölümü"
+
+#: ../libegg/egg-datetime.c:381
+msgid "Upper limit month"
+msgstr "Üst sınır ayı"
+
+#: ../libegg/egg-datetime.c:382
+msgid "Month part of the upper date limit"
+msgstr "Üst tarih sınırının ay bölümü"
+
+#: ../libegg/egg-datetime.c:387
+msgid "Lower limit day"
+msgstr "Alt sınır günü"
+
+#: ../libegg/egg-datetime.c:388
+msgid "Day of month part of the lower date limit"
+msgstr "Alt tarih sınırının ayın günü bölümü"
+
+#: ../libegg/egg-datetime.c:393
+msgid "Upper limit day"
+msgstr "Üst sınır günü"
+
+#: ../libegg/egg-datetime.c:394
+msgid "Day of month part of the upper date limit"
+msgstr "Üst tarih sınırının ayın günü bölümü"
+
+#: ../libegg/egg-datetime.c:399
+msgid "Lower limit hour"
+msgstr "Alt sınır saati"
+
+#: ../libegg/egg-datetime.c:400
+msgid "Hour part of the lower time limit"
+msgstr "Alt zaman sınırının saat bölümü"
+
+#: ../libegg/egg-datetime.c:405
+msgid "Upper limit hour"
+msgstr "Üst sınır saati"
+
+#: ../libegg/egg-datetime.c:406
+msgid "Hour part of the upper time limit"
+msgstr "Üst zaman sınırının saat bölümü"
+
+#: ../libegg/egg-datetime.c:411
+msgid "Lower limit minute"
+msgstr "Alt sınır dakikası"
+
+#: ../libegg/egg-datetime.c:412
+msgid "Minute part of the lower time limit"
+msgstr "Alt zaman sınırının dakika bölümü"
+
+#: ../libegg/egg-datetime.c:417
+msgid "Upper limit minute"
+msgstr "Üst sınır dakikası"
+
+#: ../libegg/egg-datetime.c:418
+msgid "Minute part of the upper time limit"
+msgstr "Üst zaman sınırının dakika bölümü"
+
+#: ../libegg/egg-datetime.c:423
+msgid "Lower limit second"
+msgstr "Alt sınır saniyesi"
+
+#: ../libegg/egg-datetime.c:424
+msgid "Second part of the lower time limit"
+msgstr "Alt zaman sınırının ikinci bölümü"
+
+#: ../libegg/egg-datetime.c:429
+msgid "Upper limit second"
+msgstr "Üst sınır saniyesi"
+
+#: ../libegg/egg-datetime.c:430
+msgid "Second part of the upper time limit"
+msgstr "Üst zaman sınırının ikinci bölümü"
+
+#. Translate to calendar:week_start:1 if you want Monday to be the
+#. * first day of the week; otherwise translate to calendar:week_start:0.
+#. * Do *not* translate it to anything else, if it isn't calendar:week_start:1
+#. * or calendar:week_start:0 it will not work.
+#.
+#: ../libegg/egg-datetime.c:472
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+#: ../libegg/egg-datetime.c:494
+msgid "Date"
+msgstr "Tarih"
+
+#: ../libegg/egg-datetime.c:494
+msgid "Enter the date directly"
+msgstr "Tarihi doğrudan girin"
+
+#: ../libegg/egg-datetime.c:501
+msgid "Select Date"
+msgstr "Tarihi Seçin"
+
+#: ../libegg/egg-datetime.c:501
+msgid "Select the date from a calendar"
+msgstr "Tarihi takvimden seçin"
+
+#: ../libegg/egg-datetime.c:519 ../libegg/egg-datetime.c:2194
+msgid "Time"
+msgstr "Zaman"
+
+#: ../libegg/egg-datetime.c:519
+msgid "Enter the time directly"
+msgstr "Zamanı doğrudan girin"
+
+#: ../libegg/egg-datetime.c:526
+msgid "Select Time"
+msgstr "Saati Seçin"
+
+#: ../libegg/egg-datetime.c:526
+msgid "Select the time from a list"
+msgstr "Listeden saati seçin"
+
+#. Translators: set this to anything else if you want to use a
+#. * 24 hour clock.
+#.
+#: ../libegg/egg-datetime.c:791
+msgid "24hr: no"
+msgstr "yes"
+
+#: ../libegg/egg-datetime.c:795 ../libegg/egg-datetime.c:1255
+#: ../libegg/egg-datetime.c:1259
+msgid "AM"
+msgstr "ÖÖ"
+
+#: ../libegg/egg-datetime.c:797 ../libegg/egg-datetime.c:1256
+#: ../libegg/egg-datetime.c:1263
+msgid "PM"
+msgstr "ÖS"
+
+#. Translators: This is hh:mm:ss AM/PM.
+#: ../libegg/egg-datetime.c:805
+#, c-format
+msgid "%02d:%02d:%02d %s"
+msgstr "%02d:%02d:%02d %s"
+
+#. Translators: This is hh:mm AM/PM.
+#: ../libegg/egg-datetime.c:808
+#, c-format
+msgid "%02d:%02d %s"
+msgstr "%02d:%02d %s"
+
+#. Translators: This is hh:mm:ss.
+#: ../libegg/egg-datetime.c:812
+#, c-format
+msgid "%02d:%02d:%02d"
+msgstr "%02d:%02d:%02d"
+
+#. Translators: This is hh:mm.
+#: ../libegg/egg-datetime.c:815
+#, c-format
+msgid "%02d:%02d"
+msgstr "%02d:%02d"
+
+#. TODO: should handle other display modes as well...
+#. Translators: This is YYYY-MM-DD
+#: ../libegg/egg-datetime.c:1171
+#, c-format
+msgid "%04d-%02d-%02d"
+msgstr "%04d-%02d-%02d"
+
+#. Translators: This is hh:mm:ss.
+#: ../libegg/egg-datetime.c:1236
+#, c-format
+msgid "%u:%u:%u"
+msgstr "%u:%u:%u"
+
+#: ../libegg/eggdesktopfile.c:164
+#, c-format
+msgid "File is not a valid .desktop file"
+msgstr "Dosya geçerli .desktop dosyası değil"
+
+#: ../libegg/eggdesktopfile.c:187
+#, c-format
+msgid "Unrecognized desktop file Version “%s”"
+msgstr "Tanınmayan masaüstü dosyası Sürüm “%s”"
+
+#: ../libegg/eggdesktopfile.c:967
+#, c-format
+msgid "Starting %s"
+msgstr "%s Başlatılıyor"
+
+#: ../libegg/eggdesktopfile.c:1109
+#, c-format
+msgid "Application does not accept documents on command line"
+msgstr "Uygulama komut satırından belgeleri kabul etmez"
+
+#: ../libegg/eggdesktopfile.c:1177
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr "Tanınmayan başlatma seçeneği: %d"
+
+#: ../libegg/eggdesktopfile.c:1382
+#, c-format
+msgid "Can’t pass document URIs to a “Type=Link” desktop entry"
+msgstr "Bir “Type=Link” masaüstü girişi belge adreslerine geçilemiyor"
+
+#: ../libegg/eggdesktopfile.c:1403
+#, c-format
+msgid "Not a launchable item"
+msgstr "Başlatılabilir bir öğe değil"
+
+#: ../libegg/eggsmclient.c:223
+msgid "Disable connection to session manager"
+msgstr "Oturum yöneticisine bağlantıyı devre dışı bırak"
+
+#: ../libegg/eggsmclient.c:226
+msgid "Specify file containing saved configuration"
+msgstr "Kaydedilen yapılandırmayı içeren dosyayı belirtin"
+
+#: ../libegg/eggsmclient.c:226
+msgid "FILE"
+msgstr "DOSYA"
+
+#: ../libegg/eggsmclient.c:229
+msgid "Specify session management ID"
+msgstr "Oturum yöneticisi ID'sini belirtin"
+
+#: ../libegg/eggsmclient.c:229
+msgid "ID"
+msgstr "ID"
+
+#: ../libegg/eggsmclient.c:250
+msgid "Session management options:"
+msgstr "Oturum yönetimi seçenekleri:"
+
+#: ../libegg/eggsmclient.c:251
+msgid "Show session management options"
+msgstr "Oturum yönetimi seçeneklerini göster"

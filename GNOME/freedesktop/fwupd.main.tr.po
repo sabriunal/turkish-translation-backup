@@ -1,0 +1,4410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fwupd package.
+#
+# Translators:
+# Emin Tufan Çetin <etcetin@gmail.com>, 2020
+# Muhammet Kara <muhammetk@gmail.com>, 2016
+# Sabri Ünal <libreajans@gmail.com>, 2019-2020,2022
+# Sabri Ünal <yakushabb@gmail.com>, 2020
+# Serdar Sağlam <teknomobil@msn.com>, 2020
+# yunus kaba <yunuskaba@gmail.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: fwupd\n"
+"Report-Msgid-Bugs-To: https://github.com/hughsie/fwupd/issues\n"
+"POT-Creation-Date: 2023-01-03 15:25+0000\n"
+"Language-Team: Turkish (http://www.transifex.com/freedesktop/fwupd/language/"
+"tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: data/remotes.d/lvfs.metainfo.xml:6
+msgid "Linux Vendor Firmware Service (stable firmware)"
+msgstr "Linux Tedarikçi Donanım Yazılımı Hizmeti (kararlı donanım yazılımı)"
+
+#. TRANSLATORS: do not translate the variables marked using $
+#: data/remotes.d/lvfs.metainfo.xml:12
+#: data/remotes.d/lvfs-testing.metainfo.xml:12
+msgid ""
+"The LVFS is a free service that operates as an independent legal entity and "
+"has no connection with $OS_RELEASE:NAME$. Your distributor may not have "
+"verified any of the firmware updates for compatibility with your system or "
+"connected devices. All firmware is provided only by the original equipment "
+"manufacturer."
+msgstr ""
+
+#: data/remotes.d/lvfs.metainfo.xml:19
+#: data/remotes.d/lvfs-testing.metainfo.xml:25
+msgid ""
+"Enabling this functionality is done at your own risk, which means you have "
+"to contact your original equipment manufacturer regarding any problems "
+"caused by these updates. Only problems with the update process itself should "
+"be filed at $OS_RELEASE:BUG_REPORT_URL$."
+msgstr ""
+"Bu işlevselliğin etkinleştirilmesi kendi sorumluluğunuzdadır, bu "
+"güncellemelerin neden olduğu sorunlar için orijinal ekipman üreticinize "
+"başvurmanız gerektiği anlamına gelir. Yalnızca güncelleme işleminin "
+"kendisiyle ilgili sorunlar şu adresten yapılmalıdır $OS_RELEASE:"
+"BUG_REPORT_URL$."
+
+#: data/remotes.d/lvfs-testing.metainfo.xml:6
+msgid "Linux Vendor Firmware Service (testing firmware)"
+msgstr "Linux Tedarikçi Donanım Yazılımı Hizmeti (test donanım yazılımı)"
+
+#: data/remotes.d/lvfs-testing.metainfo.xml:19
+msgid ""
+"This remote contains firmware which is not embargoed, but is still being "
+"tested by the hardware vendor. You should ensure you have a way to manually "
+"downgrade the firmware if the firmware update fails."
+msgstr ""
+"Bu yazılım ambargo edilmemiş, ancak donanım satıcısı tarafından test "
+"edilmekte olan bir donanım yazılımı içerir. Donanım yazılımı güncellemesi "
+"başarısız olursa, donanım yazılımını elle düşürmenin bir yoluna sahip "
+"olmanız gerekir."
+
+#. TRANSLATORS: description of a BIOS setting
+#: libfwupdplugin/fu-bios-settings.c:392
+msgid "Settings will apply after system reboots"
+msgstr ""
+
+#. TRANSLATORS: description of a BIOS setting
+#: libfwupdplugin/fu-bios-settings.c:396
+msgid "BIOS updates delivered via LVFS or Windows Update"
+msgstr ""
+
+#: libfwupdplugin/fu-bios-settings.c:406
+#, fuzzy
+#| msgid "Enabled"
+msgid "Enable"
+msgstr "Etkinleştirildi"
+
+#. TRANSLATORS: Suffix: the HSI result
+#. TRANSLATORS: Plugin is active and in use
+#. TRANSLATORS: if the remote is enabled
+#: libfwupdplugin/fu-bios-settings.c:409 src/fu-security-attr-common.c:575
+#: src/fu-util-common.c:1695 src/fu-util-common.c:2162
+msgid "Enabled"
+msgstr "Etkinleştirildi"
+
+#: policy/org.freedesktop.fwupd.policy.in:17
+msgid "Install signed system firmware"
+msgstr "İmzalı sistem donanım yazılımını yükle"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:19
+#: policy/org.freedesktop.fwupd.policy.in:30
+msgid "Authentication is required to update the firmware on this machine"
+msgstr ""
+"Bu makine üzerindeki donanım yazılımını güncellemek için kimlik doğrulama "
+"gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:28
+msgid "Install unsigned system firmware"
+msgstr "İmzasız sistem donanım yazılımını yükle"
+
+#: policy/org.freedesktop.fwupd.policy.in:40
+#, fuzzy
+#| msgid "Install unsigned system firmware"
+msgid "Install old version of signed system firmware"
+msgstr "İmzasız sistem donanım yazılımını yükle"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:42
+#: policy/org.freedesktop.fwupd.policy.in:54
+msgid "Authentication is required to downgrade the firmware on this machine"
+msgstr ""
+"Bu makine üzerindeki donanım yazılımının sürümünü düşürmek için kimlik "
+"doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:52
+#, fuzzy
+#| msgid "Install unsigned system firmware"
+msgid "Install old version of unsigned system firmware"
+msgstr "İmzasız sistem donanım yazılımını yükle"
+
+#: policy/org.freedesktop.fwupd.policy.in:64
+#: policy/org.freedesktop.fwupd.policy.in:87
+msgid "Install signed device firmware"
+msgstr "İmzalı aygıt donanım yazılımını yükle"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:66
+#: policy/org.freedesktop.fwupd.policy.in:77
+msgid "Authentication is required to update the firmware on a removable device"
+msgstr ""
+"Çıkarılabilir aygıt üzerindeki donanım yazılımını güncellemek için kimlik "
+"doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:75
+#: policy/org.freedesktop.fwupd.policy.in:98
+msgid "Install unsigned device firmware"
+msgstr "İmzasız aygıt donanım yazılımını yükle"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:89
+#: policy/org.freedesktop.fwupd.policy.in:100
+msgid ""
+"Authentication is required to downgrade the firmware on a removable device"
+msgstr ""
+"Çıkarılabilir aygıt üzerindeki donanım yazılımının sürümünü düşürmek için "
+"kimlik doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:110
+msgid "Unlock the device to allow access"
+msgstr "Erişime izin vermek için aygıtın kilidini açın"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:112
+msgid "Authentication is required to unlock a device"
+msgstr "Bir aygıtın kilidini açmak için kimlik doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:121
+msgid "Modify daemon configuration"
+msgstr "Artalan süreci yapılandırmasını değiştir"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:123
+msgid "Authentication is required to modify daemon configuration"
+msgstr ""
+"Artalan süreci yapılandırmasını değiştirmek için kimlik doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:133
+msgid "Activate the new firmware on the device"
+msgstr "Aygıttaki yeni donanım yazılımını etkinleştir"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:135
+msgid "Authentication is required to switch to the new firmware version"
+msgstr ""
+"Bu makine üzerindeki donanım yazılımını güncellemek için kimlik doğrulama "
+"gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:144
+msgid "Update the stored device verification information"
+msgstr "Saklanan aygıt doğrulama bilgilerini güncelle"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:146
+msgid ""
+"Authentication is required to update the stored checksums for the device"
+msgstr ""
+"Aygıtın saklanan sağlama toplamlarını güncellemek için kimlik doğrulama "
+"gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:155
+msgid "Modify a configured remote"
+msgstr "Uzak yapılandırmayı değiştir"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:157
+msgid ""
+"Authentication is required to modify a configured remote used for firmware "
+"updates"
+msgstr ""
+"Donanım yazılımı güncellemeleri için kullanılan uzak yapılandırmayı "
+"değiştirmek için kimlik doğrulama gerekir"
+
+#. TRANSLATORS: firmware approved by the admin
+#: policy/org.freedesktop.fwupd.policy.in:166 src/fu-util.c:4384
+msgid "Sets the list of approved firmware"
+msgstr "Onaylı donanım yazılımı listesini ayarlar"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:168
+msgid "Authentication is required to set the list of approved firmware"
+msgstr ""
+"Onaylı donanım yazılımı listesini ayarlamak için kimlik doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:177
+msgid "Sign data using the client certificate"
+msgstr "İstemci sertifikasını kullanarak veri imzala"
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:179
+msgid "Authentication is required to sign data using the client certificate"
+msgstr ""
+"İstemci sertifikasını kullanarak veri imzası için kimlik doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:188
+msgid "Get BIOS settings"
+msgstr ""
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:190
+#, fuzzy
+#| msgid "Authentication is required to unlock a device"
+msgid "Authentication is required to read BIOS settings"
+msgstr "Bir aygıtın kilidini açmak için kimlik doğrulama gerekir"
+
+#: policy/org.freedesktop.fwupd.policy.in:199
+msgid "Set one or more BIOS settings"
+msgstr ""
+
+#. TRANSLATORS: this is the PolicyKit modal dialog
+#: policy/org.freedesktop.fwupd.policy.in:201
+#, fuzzy
+#| msgid "Authentication is required to modify daemon configuration"
+msgid "Authentication is required to modify BIOS settings"
+msgstr ""
+"Artalan süreci yapılandırmasını değiştirmek için kimlik doğrulama gerekir"
+
+#. TRANSLATORS: this is a command alias, e.g. 'get-devices'
+#: plugins/dfu/fu-dfu-tool.c:99 src/fu-util-common.c:608
+#, c-format
+msgid "Alias to %s"
+msgstr "Takma ad %s"
+
+#. TRANSLATORS: error message
+#: plugins/dfu/fu-dfu-tool.c:163 src/fu-util-common.c:644
+msgid "Command not found"
+msgstr "Komut bulunamadı"
+
+#: plugins/dfu/fu-dfu-tool.c:728
+msgid "Print the version number"
+msgstr "Sürüm numarasını yazdır"
+
+#: plugins/dfu/fu-dfu-tool.c:734
+msgid "Print verbose debug statements"
+msgstr "Ayrıntılı hata ayıklama ifadelerini yazdır"
+
+#: plugins/dfu/fu-dfu-tool.c:741
+msgid "Specify Vendor/Product ID(s) of DFU device"
+msgstr "DFU aygıtının Satıcısını/Ürün Kimliğini Belirle"
+
+#: plugins/dfu/fu-dfu-tool.c:742
+msgid "VID:PID"
+msgstr "VID:PID"
+
+#: plugins/dfu/fu-dfu-tool.c:748
+msgid "Specify the number of bytes per USB transfer"
+msgstr "USB aktarımı başına bayt sayısını belirt"
+
+#: plugins/dfu/fu-dfu-tool.c:749
+msgid "BYTES"
+msgstr "BYTES"
+
+#: plugins/dfu/fu-dfu-tool.c:755
+msgid "Force the action ignoring all warnings"
+msgstr "Eylemi tüm uyarıları görmezden gelmeye zorla"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#. TRANSLATORS: filename argument with path
+#: plugins/dfu/fu-dfu-tool.c:770 plugins/uefi-dbx/fu-dbxtool.c:144
+#: src/fu-tool.c:3657
+msgid "FILENAME"
+msgstr "FILENAME"
+
+#. TRANSLATORS: command description
+#: plugins/dfu/fu-dfu-tool.c:772
+msgid "Read firmware from device into a file"
+msgstr "Donanım yazılımını aygıttan dosyaya oku"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: plugins/dfu/fu-dfu-tool.c:777
+msgid "FILENAME DEVICE-ALT-NAME|DEVICE-ALT-ID"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: plugins/dfu/fu-dfu-tool.c:779
+msgid "Read firmware from one partition into a file"
+msgstr "Donanım yazılımını bölümden dosyaya oku"
+
+#. TRANSLATORS: command description
+#: plugins/dfu/fu-dfu-tool.c:785
+msgid "Write firmware from file into device"
+msgstr "Donanım yazılımını dosyadan aygıta yaz"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: plugins/dfu/fu-dfu-tool.c:790
+msgid "FILENAME DEVICE-ALT-NAME|DEVICE-ALT-ID [IMAGE-ALT-NAME|IMAGE-ALT-ID]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: plugins/dfu/fu-dfu-tool.c:792
+msgid "Write firmware from file into one partition"
+msgstr "Donanım yazılımını dosyadan bölüme yaz"
+
+#. TRANSLATORS: command description
+#: plugins/dfu/fu-dfu-tool.c:798
+msgid "Replace data in an existing firmware file"
+msgstr "Varolan bir üretici yazılımı dosyasındaki verileri değiştir"
+
+#. TRANSLATORS: quirks are device-specific workarounds
+#: plugins/dfu/fu-dfu-tool.c:805
+msgid "Failed to load quirks"
+msgstr "Tuhaflıklar yüklenemedi"
+
+#. TRANSLATORS: DFU stands for device firmware update
+#: plugins/dfu/fu-dfu-tool.c:824
+msgid "DFU Utility"
+msgstr "DFU Yardımcı Programı"
+
+#. TRANSLATORS: the user didn't read the man page
+#: plugins/dfu/fu-dfu-tool.c:829 plugins/tpm/fu-tpm-eventlog.c:137
+#: plugins/uefi-capsule/fu-uefi-tool.c:242 plugins/uefi-dbx/fu-dbxtool.c:182
+#: src/fu-tool.c:4049 src/fu-util.c:4513
+msgid "Failed to parse arguments"
+msgstr "Bağımsız değişkenler ayrıştırılamadı"
+
+#. TRANSLATORS: command line option
+#: plugins/tpm/fu-tpm-eventlog.c:104 plugins/uefi-capsule/fu-uefi-tool.c:114
+#: plugins/uefi-dbx/fu-dbxtool.c:110 src/fu-util.c:4019
+msgid "Show extra debugging information"
+msgstr "Ek hata ayıklama bilgilerini göster"
+
+#. TRANSLATORS: command line option
+#: plugins/tpm/fu-tpm-eventlog.c:112
+msgid "Only show single PCR value"
+msgstr "Yalnızca tek PCR değerini göster"
+
+#. TRANSLATORS: we're poking around as a power user
+#: plugins/tpm/fu-tpm-eventlog.c:125 plugins/uefi-capsule/fu-uefi-tool.c:226
+#: plugins/uefi-dbx/fu-dbxtool.c:254
+msgid "This program may only work correctly as root"
+msgstr "Bu program yalnızca kök erişimi ile düzgün çalışabilir"
+
+#. TRANSLATORS: program name
+#: plugins/tpm/fu-tpm-eventlog.c:129
+msgid "fwupd TPM event log utility"
+msgstr "fwupd TPM olay günlüğü yardımcı aracı"
+
+#. TRANSLATORS: CLI description
+#: plugins/tpm/fu-tpm-eventlog.c:133
+msgid ""
+"This tool will read and parse the TPM event log from the system firmware."
+msgstr ""
+
+#. TRANSLATORS: failed to read measurements file
+#: plugins/tpm/fu-tpm-eventlog.c:151
+msgid "Failed to parse file"
+msgstr "Dosya ayrıştırılamadı"
+
+#. TRANSLATORS: this is shown when updating the firmware after the reboot
+#: plugins/uefi-capsule/fu-uefi-capsule-plugin.c:423
+msgid "Installing firmware update…"
+msgstr "Donanım yazılımını güncellemesi kuruluyor…"
+
+#. TRANSLATORS: the user isn't reading the question
+#: plugins/uefi-capsule/fu-uefi-tool.c:66 src/fu-util-common.c:141
+#, c-format
+msgid "Please enter a number from 0 to %u: "
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:122
+msgid "Display version"
+msgstr "Ekran sürümü"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:130
+msgid "Show the debug log from the last attempted update"
+msgstr "Son denenen güncellemedeki hata ayıklama günlüğünü göster"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:138
+msgid "List supported firmware updates"
+msgstr "Desteklenen donanım yazılımı güncellemelerini listele"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:146
+msgid "Query for firmware update support"
+msgstr "Yazılım güncelleme desteği için sorgu"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:154
+msgid "Show the information of firmware update status"
+msgstr "Donanım yazılımı güncelleme durumu bilgilerini göster"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:162
+msgid "Enable firmware update support on supported systems"
+msgstr ""
+"Desteklenen sistemlerde donanım yazılımı güncelleme desteğini etkinleştir"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:170 plugins/uefi-dbx/fu-dbxtool.c:151
+msgid "Override the default ESP path"
+msgstr "Öntanımlı ESP yolunu geçersiz kıl"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: plugins/uefi-capsule/fu-uefi-tool.c:172 plugins/uefi-dbx/fu-dbxtool.c:153
+msgid "PATH"
+msgstr "YOL"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:179
+msgid "Set the debugging flag during update"
+msgstr "Güncelleme sırasında hata ayıklama bayrağını ayarla"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:187
+msgid "Unset the debugging flag during update"
+msgstr "Güncelleme sırasında hata ayıklama bayrağını ayarlama"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:195
+msgid "Apply firmware updates"
+msgstr "Donanım yazılımı güncellemelerini uygula"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: plugins/uefi-capsule/fu-uefi-tool.c:197
+msgctxt "A single GUID"
+msgid "GUID"
+msgstr "GUID"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:204
+msgid "Device update method"
+msgstr "Aygıt güncelleme yöntemi"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-capsule/fu-uefi-tool.c:212
+msgid "Use quirk flags when installing firmware"
+msgstr "Donanım yazılımı kurulurken quirk bayraklarını kullan"
+
+#. TRANSLATORS: CLI description
+#: plugins/uefi-capsule/fu-uefi-tool.c:234
+msgid "This tool allows an administrator to debug UpdateCapsule operation."
+msgstr ""
+
+#. TRANSLATORS: program name
+#: plugins/uefi-capsule/fu-uefi-tool.c:237
+msgid "UEFI Firmware Utility"
+msgstr "UEFI Donanım Yazılımı Yardımcı Programı"
+
+#. TRANSLATORS: user did not tell the tool what to do
+#: plugins/uefi-capsule/fu-uefi-tool.c:258 plugins/uefi-dbx/fu-dbxtool.c:348
+msgid "No action specified!"
+msgstr "Eylem belirtilmedi!"
+
+#. TRANSLATORS: ESP is EFI System Partition
+#: plugins/uefi-capsule/fu-uefi-tool.c:272 plugins/uefi-dbx/fu-dbxtool.c:199
+msgid "ESP specified was not valid"
+msgstr "Belirtilen ESP geçerli değil"
+
+#. TRANSLATORS: get interactive prompt
+#: plugins/uefi-capsule/fu-uefi-tool.c:288
+msgid "Choose the ESP:"
+msgstr ""
+
+#. TRANSLATORS: this is to abort the interactive prompt
+#: plugins/uefi-capsule/fu-uefi-tool.c:290 src/fu-tool.c:552 src/fu-tool.c:2220
+#: src/fu-tool.c:3112 src/fu-tool.c:3242 src/fu-util.c:236 src/fu-util.c:1841
+#: src/fu-util.c:2814
+msgid "Cancel"
+msgstr "İptal"
+
+#. TRANSLATORS: we asked the user to choose an option and they declined
+#: plugins/uefi-capsule/fu-uefi-tool.c:299
+msgid "Request canceled"
+msgstr ""
+
+#: plugins/uefi-capsule/fu-uefi-tool.c:374
+msgid "Firmware updates are supported on this machine."
+msgstr "Donanım yazılımı güncellemeleri bu makinede destekleniyor."
+
+#: plugins/uefi-capsule/fu-uefi-tool.c:376
+msgid "Firmware updates are not supported on this machine."
+msgstr "Donanım yazılımı güncellemeleri bu makinede desteklenmiyor."
+
+#: plugins/uefi-capsule/fu-uefi-tool.c:438
+#, fuzzy
+#| msgid "Disabled fwupdate debugging"
+msgid "Enabled fwupdate debugging"
+msgstr "fwupdate hata ayıklama devre dışı bırakıldı"
+
+#: plugins/uefi-capsule/fu-uefi-tool.c:448
+msgid "Disabled fwupdate debugging"
+msgstr "fwupdate hata ayıklama devre dışı bırakıldı"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-dbx/fu-dbxtool.c:118
+msgid "Show the calculated version of the dbx"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-dbx/fu-dbxtool.c:126
+msgid "List entries in dbx"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-dbx/fu-dbxtool.c:134
+msgid "Apply update files"
+msgstr "Güncelleme dosyalarını uygula"
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-dbx/fu-dbxtool.c:142
+msgid "Specify the dbx database file"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: plugins/uefi-dbx/fu-dbxtool.c:160
+msgid "Apply update even when not advised"
+msgstr ""
+
+#. TRANSLATORS: description of dbxtool
+#: plugins/uefi-dbx/fu-dbxtool.c:175
+msgid "This tool allows an administrator to apply UEFI dbx updates."
+msgstr ""
+
+#. TRANSLATORS: program name
+#: plugins/uefi-dbx/fu-dbxtool.c:178
+msgid "UEFI dbx Utility"
+msgstr "UEFI dbx Utility"
+
+#. TRANSLATORS: could not read existing system data
+#. TRANSLATORS: could not read file
+#: plugins/uefi-dbx/fu-dbxtool.c:215 plugins/uefi-dbx/fu-dbxtool.c:284
+#, fuzzy
+#| msgid "Failed to lock"
+msgid "Failed to load local dbx"
+msgstr "Kilitleme başarısız."
+
+#. TRANSLATORS: could not read existing system data
+#: plugins/uefi-dbx/fu-dbxtool.c:224 plugins/uefi-dbx/fu-dbxtool.c:275
+#, fuzzy
+#| msgid "Failed to load quirks"
+msgid "Failed to load system dbx"
+msgstr "Tuhaflıklar yüklenemedi"
+
+#. TRANSLATORS: the detected version number of the dbx
+#: plugins/uefi-dbx/fu-dbxtool.c:231
+msgid "Version"
+msgstr "Sürüm"
+
+#. TRANSLATORS: user did not include a filename parameter
+#: plugins/uefi-dbx/fu-dbxtool.c:266
+#, fuzzy
+#| msgid "Filename Signature"
+msgid "Filename required"
+msgstr "Dosya Adı İmzası"
+
+#. TRANSLATORS: reading existing dbx from the system
+#: plugins/uefi-dbx/fu-dbxtool.c:271
+msgid "Parsing system dbx…"
+msgstr ""
+
+#. TRANSLATORS: reading new dbx from the update
+#: plugins/uefi-dbx/fu-dbxtool.c:280
+#, fuzzy
+#| msgid "Installing firmware update…"
+msgid "Parsing dbx update…"
+msgstr "Donanım yazılımını güncellemesi kuruluyor…"
+
+#. TRANSLATORS: could not parse file
+#: plugins/uefi-dbx/fu-dbxtool.c:289
+#, fuzzy
+#| msgid "Failed to parse file"
+msgid "Failed to parse local dbx"
+msgstr "Dosya ayrıştırılamadı"
+
+#. TRANSLATORS: same or newer update already applied
+#: plugins/uefi-dbx/fu-dbxtool.c:297
+msgid "Cannot apply as dbx update has already been applied."
+msgstr ""
+
+#. TRANSLATORS: the user is using a LiveCD or LiveUSB install disk
+#: plugins/uefi-dbx/fu-dbxtool.c:304
+msgid "Cannot apply updates on live media"
+msgstr ""
+
+#. TRANSLATORS: ESP refers to the EFI System Partition
+#: plugins/uefi-dbx/fu-dbxtool.c:311
+msgid "Validating ESP contents…"
+msgstr ""
+
+#. TRANSLATORS: something with a blocked hash exists
+#. * in the users ESP -- which would be bad!
+#: plugins/uefi-dbx/fu-dbxtool.c:318
+#, fuzzy
+#| msgid "Failed to parse arguments"
+msgid "Failed to validate ESP contents"
+msgstr "Bağımsız değişkenler ayrıştırılamadı"
+
+#. TRANSLATORS: actually sending the update to the hardware
+#: plugins/uefi-dbx/fu-dbxtool.c:325
+#, fuzzy
+#| msgid "Apply update files"
+msgid "Applying update…"
+msgstr "Güncelleme dosyalarını uygula"
+
+#. TRANSLATORS: dbx file failed to be applied as an update
+#: plugins/uefi-dbx/fu-dbxtool.c:336
+#, fuzzy
+#| msgid "Failed to install firmware update"
+msgid "Failed to apply update"
+msgstr "Donanım yazılımı güncellemesi yüklenemedi"
+
+#. TRANSLATORS: success
+#. success
+#: plugins/uefi-dbx/fu-dbxtool.c:341 src/fu-offline.c:283
+msgid "Done!"
+msgstr "Tamamlandı!"
+
+#. TRANSLATORS: turn on all debugging
+#: src/fu-debug.c:206
+msgid "Show debugging information for all domains"
+msgstr "Tüm alan adları için hata ayıklama bilgilerini göster"
+
+#. TRANSLATORS: turn on all debugging
+#: src/fu-debug.c:214
+msgid "Do not include timestamp prefix"
+msgstr "Zaman damgası öneki eklemeyin"
+
+#. TRANSLATORS: turn on all debugging
+#: src/fu-debug.c:222
+msgid "Do not include log domain prefix"
+msgstr "Günlük etki alanı öneki eklemeyin"
+
+#. TRANSLATORS: this is for plugin development
+#: src/fu-debug.c:230
+msgid "Show plugin verbose information"
+msgstr "Eklenti ayrıntılı bilgilerini göster"
+
+#. TRANSLATORS: this is for daemon development
+#: src/fu-debug.c:238
+msgid "Show daemon verbose information for a particular domain"
+msgstr "Belirli bir alan için artalan süreci ayrıntılı bilgilerini göster"
+
+#. TRANSLATORS: for the --verbose arg
+#: src/fu-debug.c:329
+msgid "Debugging Options"
+msgstr "Hata Ayıklama Seçenekleri"
+
+#. TRANSLATORS: for the --verbose arg
+#: src/fu-debug.c:331
+msgid "Show debugging options"
+msgstr "Hata ayıklama seçeneklerini göster"
+
+#. TRANSLATORS: this is shown in the MOTD
+#: src/fu-engine-helper.c:115
+#, c-format
+msgid "%u device is not the best known configuration."
+msgid_plural "%u devices are not the best known configuration."
+msgstr[0] ""
+msgstr[1] ""
+
+#. TRANSLATORS: this is shown in the MOTD
+#: src/fu-engine-helper.c:122
+msgid "Run `fwupdmgr sync-bkc` to complete this action."
+msgstr ""
+
+#. TRANSLATORS: this is shown in the MOTD
+#: src/fu-engine-helper.c:127
+#, c-format
+msgid "%u device has a firmware upgrade available."
+msgid_plural "%u devices have a firmware upgrade available."
+msgstr[0] ""
+msgstr[1] ""
+
+#. TRANSLATORS: this is shown in the MOTD
+#: src/fu-engine-helper.c:134
+#, fuzzy
+#| msgid "See %s for more information."
+msgid "Run `fwupdmgr get-upgrades` for more information."
+msgstr "Daha fazlası için tıklayınız. %s "
+
+#. TRANSLATORS: exit after we've started up, used for user profiling
+#: src/fu-main.c:109
+msgid "Exit after a small delay"
+msgstr "Küçük bir gecikme sonrası çık"
+
+#. TRANSLATORS: exit straight away, used for automatic profiling
+#: src/fu-main.c:117
+msgid "Exit after the engine has loaded"
+msgstr ""
+
+#. TRANSLATORS: program name
+#: src/fu-main.c:137
+msgid "Firmware Update Daemon"
+msgstr "Donanım Yazılımı Güncelleme Artalan Süreci"
+
+#. TRANSLATORS: program summary
+#: src/fu-main.c:142
+msgid "Firmware Update D-Bus Service"
+msgstr "Donanım Yazılımı Güncelleme D-Bus Hizmeti"
+
+#. TRANSLATORS: console message when not using plymouth
+#: src/fu-offline.c:42
+msgid "Percentage complete"
+msgstr "Yüzde tamamlandı"
+
+#. TRANSLATORS: console message when no Plymouth is installed
+#: src/fu-offline.c:63
+msgid "Installing Firmware…"
+msgstr "Donanım Yazılımı Kuruluyor…"
+
+#. TRANSLATORS: console message when not using plymouth
+#: src/fu-offline.c:92
+msgid "Rebooting…"
+msgstr "Yeniden Başlatılıyor…"
+
+#. TRANSLATORS: the user needs to stop playing with stuff
+#: src/fu-offline.c:173
+msgid "This tool can only be used by the root user"
+msgstr "Bu araç yalnızca kök kullanıcı tarafından kullanılabilir"
+
+#. TRANSLATORS: we could not get the devices to update offline
+#: src/fu-offline.c:190
+msgid "Failed to get pending devices"
+msgstr "Bekleyen aygıtlar alınamadı"
+
+#. TRANSLATORS: we could not talk to the fwupd daemon
+#: src/fu-offline.c:202
+msgid "Failed to connect to daemon"
+msgstr "Artalan sürecine bağlanamadı"
+
+#. TRANSLATORS: we could not talk to plymouth
+#: src/fu-offline.c:209
+msgid "Failed to set splash mode"
+msgstr "Sıçrama kipi ayarlanamadı"
+
+#. TRANSLATORS: the first replacement is a display name
+#. * e.g. "ColorHugALS" and the second is a version number
+#. * e.g. "1.2.3"
+#: src/fu-offline.c:230
+#, c-format
+msgid "Reinstalling %s with %s... "
+msgstr ""
+
+#. TRANSLATORS: the first replacement is a display name
+#. * e.g. "ColorHugALS" and the second and third are
+#. * version numbers e.g. "1.2.3"
+#: src/fu-offline.c:237
+#, c-format
+msgid "Downgrading %s from %s to %s... "
+msgstr " %s, %s sürümünden %s sürümüne düşürülüyor... "
+
+#. TRANSLATORS: the first replacement is a display name
+#. * e.g. "ColorHugALS" and the second and third are
+#. * version numbers e.g. "1.2.3"
+#: src/fu-offline.c:245
+#, fuzzy, c-format
+#| msgid "Downgrading %s from %s to %s... "
+msgid "Updating %s from %s to %s... "
+msgstr " %s, %s sürümünden %s sürümüne düşürülüyor... "
+
+#. TRANSLATORS: we could not install for some reason
+#: src/fu-offline.c:260
+msgid "Failed to install firmware update"
+msgstr "Donanım yazılımı güncellemesi yüklenemedi"
+
+#. TRANSLATORS: nothing was updated offline
+#: src/fu-offline.c:270
+msgid "No updates were applied"
+msgstr "Güncelleme uygulanmadı"
+
+#. TRANSLATORS: we could not reboot for some reason
+#: src/fu-offline.c:278
+msgid "Failed to reboot"
+msgstr "Yeniden başlatılamadı"
+
+#. TRANSLATORS: daemon is inactive
+#: src/fu-progressbar.c:42
+msgid "Idle…"
+msgstr "Boşta…"
+
+#. TRANSLATORS: decompressing the firmware file
+#: src/fu-progressbar.c:46
+msgid "Decompressing…"
+msgstr "Açılıyor…"
+
+#. TRANSLATORS: parsing the firmware information
+#: src/fu-progressbar.c:50
+msgid "Loading…"
+msgstr "Yükleniyor…"
+
+#. TRANSLATORS: restarting the device to pick up new F/W
+#: src/fu-progressbar.c:54
+msgid "Restarting device…"
+msgstr "Aygıt yeniden başlatılıyor…"
+
+#. TRANSLATORS: reading from the flash chips
+#: src/fu-progressbar.c:58
+msgid "Reading…"
+msgstr "Okunuyor…"
+
+#. TRANSLATORS: writing to the flash chips
+#: src/fu-progressbar.c:62
+msgid "Writing…"
+msgstr "Yazılıyor…"
+
+#. TRANSLATORS: erasing contents of the flash chips
+#: src/fu-progressbar.c:66
+msgid "Erasing…"
+msgstr "Siliniyor…"
+
+#. TRANSLATORS: verifying we wrote the firmware correctly
+#: src/fu-progressbar.c:70
+msgid "Verifying…"
+msgstr "Doğrulanıyor…"
+
+#. TRANSLATORS: scheduling an update to be done on the next boot
+#: src/fu-progressbar.c:74
+msgid "Scheduling…"
+msgstr "Zamanlanıyor…"
+
+#. TRANSLATORS: downloading from a remote server
+#: src/fu-progressbar.c:78
+msgid "Downloading…"
+msgstr "İndiriliyor…"
+
+#. TRANSLATORS: waiting for user to authenticate
+#: src/fu-progressbar.c:82
+msgid "Authenticating…"
+msgstr "Kimlik doğrulanıyor…"
+
+#. TRANSLATORS: waiting for device to do something
+#: src/fu-progressbar.c:86
+msgid "Waiting…"
+msgstr "Bekliyor…"
+
+#. TRANSLATORS: current daemon status is unknown
+#. TRANSLATORS: we don't know the license of the update
+#. TRANSLATORS: unknown release urgency
+#: src/fu-progressbar.c:93 src/fu-util-common.c:1830 src/fu-util-common.c:1860
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#. TRANSLATORS: time remaining for completing firmware flash
+#: src/fu-progressbar.c:155
+msgid "Less than one minute remaining"
+msgstr "Bir dakikadan daha az kaldı"
+
+#. TRANSLATORS: more than a minute
+#: src/fu-progressbar.c:160
+#, c-format
+msgid "%.0f minute remaining"
+msgid_plural "%.0f minutes remaining"
+msgstr[0] "%.0f dakika kaldı"
+msgstr[1] "%.0f dakika kaldı"
+
+#. TRANSLATORS: show the user a warning
+#: src/fu-remote-list.c:139
+msgid ""
+"Your distributor may not have verified any of the firmware updates for "
+"compatibility with your system or connected devices."
+msgstr ""
+"Hizmet sağlayıcınız, sisteminizle veya bağlı aygıtlarla uyumluluk için "
+"herhangi bir donanım yazılımı güncellemesini doğrulamamış olabilir."
+
+#. TRANSLATORS: show the user a warning
+#: src/fu-remote-list.c:145
+msgid "Enabling this remote is done at your own risk."
+msgstr "Bu uzaktan kumandayı etkinleştirmek kendi sorumluluğunuzdadır."
+
+#. TRANSLATORS: Title: SPI refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:23
+msgid "SPI write"
+msgstr ""
+
+#. TRANSLATORS: Title: SPI refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:27
+msgid "SPI lock"
+msgstr "SPI kilidi"
+
+#. TRANSLATORS: Title: SPI refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:31
+msgid "SPI BIOS region"
+msgstr ""
+
+#. TRANSLATORS: Title: SPI refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:35
+#, fuzzy
+#| msgid "Description"
+msgid "SPI BIOS Descriptor"
+msgstr "Açıklama"
+
+#. TRANSLATORS: Title: DMA as in https://en.wikipedia.org/wiki/DMA_attack
+#: src/fu-security-attr-common.c:39
+msgid "Pre-boot DMA protection"
+msgstr ""
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel
+#: src/fu-security-attr-common.c:43 src/fu-security-attr-common.c:244
+msgid "Intel BootGuard"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * verified boot refers to the way the boot process is verified
+#: src/fu-security-attr-common.c:48
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard verified boot"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * ACM means to verify the integrity of Initial Boot Block
+#: src/fu-security-attr-common.c:53
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard ACM protected"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * error policy is what to do on failure
+#: src/fu-security-attr-common.c:58
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard error policy"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * OTP = one time programmable
+#: src/fu-security-attr-common.c:63
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard OTP fuse"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: CET = Control-flow Enforcement Technology,
+#. * enabled means supported by the processor
+#: src/fu-security-attr-common.c:68
+msgid "Intel CET Enabled"
+msgstr ""
+
+#. TRANSLATORS: Title: CET = Control-flow Enforcement Technology,
+#. * active means being used by the OS
+#: src/fu-security-attr-common.c:73
+msgid "Intel CET Active"
+msgstr ""
+
+#. TRANSLATORS: Title: SMAP = Supervisor Mode Access Prevention
+#: src/fu-security-attr-common.c:77 src/fu-security-attr-common.c:272
+msgid "Intel SMAP"
+msgstr "Intel SMAP"
+
+#. TRANSLATORS: Title: Memory contents are encrypted, e.g. Intel TME
+#: src/fu-security-attr-common.c:81 src/fu-security-attr-common.c:276
+#, fuzzy
+#| msgid "Encrypted"
+msgid "Encrypted RAM"
+msgstr "Şifrelenmiş"
+
+#. TRANSLATORS: Title:
+#. * https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit
+#: src/fu-security-attr-common.c:86
+msgid "IOMMU"
+msgstr "IOMMU"
+
+#. TRANSLATORS: Title: lockdown is a security mode of the kernel
+#: src/fu-security-attr-common.c:90
+msgid "Linux kernel lockdown"
+msgstr "Linux kernel lockdown"
+
+#. TRANSLATORS: Title: if it's tainted or not
+#: src/fu-security-attr-common.c:94
+msgid "Linux kernel"
+msgstr "Linux kernel"
+
+#. TRANSLATORS: Title: swap space or swap partition
+#: src/fu-security-attr-common.c:98
+msgid "Linux swap"
+msgstr "Linux swap"
+
+#. TRANSLATORS: Title: sleep state
+#: src/fu-security-attr-common.c:102
+msgid "Suspend-to-ram"
+msgstr "Suspend-to-ram"
+
+#. TRANSLATORS: Title: a better sleep state
+#: src/fu-security-attr-common.c:106
+msgid "Suspend-to-idle"
+msgstr "Suspend-to-idle"
+
+#. TRANSLATORS: Title: PK is the 'platform key' for the machine
+#: src/fu-security-attr-common.c:110
+msgid "UEFI platform key"
+msgstr "UEFI platform key"
+
+#. TRANSLATORS: Title: SB is a way of locking down UEFI
+#: src/fu-security-attr-common.c:114
+msgid "UEFI secure boot"
+msgstr "UEFI secure boot"
+
+#. TRANSLATORS: Title: PCRs (Platform Configuration Registers) shouldn't be empty
+#: src/fu-security-attr-common.c:118
+msgid "TPM empty PCRs"
+msgstr ""
+
+#. TRANSLATORS: Title: the PCR is rebuilt from the TPM event log
+#: src/fu-security-attr-common.c:122
+msgid "TPM PCR0 reconstruction"
+msgstr "TPM PCR0 reconstruction"
+
+#. TRANSLATORS: Title: TPM = Trusted Platform Module
+#: src/fu-security-attr-common.c:126 src/fu-security-attr-common.c:321
+msgid "TPM v2.0"
+msgstr "TPM v2.0"
+
+#. TRANSLATORS: Title: %s is ME kind, e.g. CSME/TXT
+#: src/fu-security-attr-common.c:132
+#, c-format
+msgid "%s manufacturing mode"
+msgstr ""
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine
+#: src/fu-security-attr-common.c:135
+msgid "MEI manufacturing mode"
+msgstr ""
+
+#. TRANSLATORS: Title: %s is ME kind, e.g. CSME/TXT
+#: src/fu-security-attr-common.c:141
+#, c-format
+msgid "%s override"
+msgstr ""
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine, and the
+#. * "override" is the physical PIN that can be driven to
+#. * logic high -- luckily it is probably not accessible to
+#. * end users on consumer boards
+#: src/fu-security-attr-common.c:147
+#, fuzzy
+#| msgid "MEI version"
+msgid "MEI override"
+msgstr "MEI sürümü"
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine, and key refer
+#. * to the private/public key used to secure loading of firmware
+#: src/fu-security-attr-common.c:152
+msgid "MEI key manifest"
+msgstr ""
+
+#. TRANSLATORS: Title: %1 is ME kind, e.g. CSME/TXT, %2 is a version number
+#.
+#: src/fu-security-attr-common.c:161
+#, c-format
+msgid "%s v%s"
+msgstr "%s v%s"
+
+#. TRANSLATORS: Title: %s is ME kind, e.g. CSME/TXT
+#: src/fu-security-attr-common.c:165
+#, c-format
+msgid "%s version"
+msgstr "%s sürümü"
+
+#: src/fu-security-attr-common.c:167
+msgid "MEI version"
+msgstr "MEI sürümü"
+
+#. TRANSLATORS: Title: if firmware updates are available
+#: src/fu-security-attr-common.c:171
+#, fuzzy
+#| msgid "Apply firmware updates"
+msgid "Firmware updates"
+msgstr "Donanım yazılımı güncellemelerini uygula"
+
+#. TRANSLATORS: Title: if we can verify the firmware checksums
+#: src/fu-security-attr-common.c:175
+#, fuzzy
+#| msgid "Firmware Update Daemon"
+msgid "Firmware attestation"
+msgstr "Donanım Yazılımı Güncelleme Artalan Süreci"
+
+#. TRANSLATORS: Title: if the fwupd plugins are all present and correct
+#: src/fu-security-attr-common.c:179
+msgid "fwupd plugins"
+msgstr ""
+
+#. TRANSLATORS: Title: Allows debugging of parts using proprietary hardware
+#: src/fu-security-attr-common.c:184
+msgid "Platform debugging"
+msgstr ""
+
+#. TRANSLATORS: Title: if fwupd supports HSI on this chip
+#: src/fu-security-attr-common.c:188
+#, fuzzy
+#| msgid "Supported"
+msgid "Supported CPU"
+msgstr "Destekleniyor"
+
+#. TRANSLATORS: Title: if firmware enforces rollback protection
+#: src/fu-security-attr-common.c:192
+msgid "Processor rollback protection"
+msgstr ""
+
+#. TRANSLATORS: Title: if hardware enforces control of SPI replays
+#: src/fu-security-attr-common.c:196
+msgid "SPI replay protection"
+msgstr ""
+
+#. TRANSLATORS: Title: if hardware enforces control of SPI writes
+#: src/fu-security-attr-common.c:200
+msgid "SPI write protection"
+msgstr ""
+
+#. TRANSLATORS: Title: if the part has been fused
+#: src/fu-security-attr-common.c:204
+#, fuzzy
+#| msgid "UEFI platform key"
+msgid "Fused platform"
+msgstr "UEFI platform key"
+
+#. TRANSLATORS: Title: if we are emulating a different host
+#: src/fu-security-attr-common.c:208
+msgid "Emulated host"
+msgstr ""
+
+#. TRANSLATORS: Title: if firmware enforces rollback protection
+#: src/fu-security-attr-common.c:212
+msgid "BIOS rollback protection"
+msgstr ""
+
+#. TRANSLATORS: Title: firmware refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:224
+#, fuzzy
+#| msgid "Firmware Update Daemon"
+msgid "Firmware Write Protection"
+msgstr "Donanım Yazılımı Güncelleme Artalan Süreci"
+
+#. TRANSLATORS: Title: firmware refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:228
+msgid "Firmware Write Protection Lock"
+msgstr ""
+
+#. TRANSLATORS: Title: SPI refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:232
+#, fuzzy
+#| msgid "Firmware Base URI"
+msgid "Firmware BIOS Region"
+msgstr "Donanım Yazılımı Temel URI"
+
+#. TRANSLATORS: Title: firmware refers to the flash chip in the computer
+#: src/fu-security-attr-common.c:236
+msgid "Firmware BIOS Descriptor"
+msgstr ""
+
+#. TRANSLATORS: Title: DMA as in https://en.wikipedia.org/wiki/DMA_attack
+#: src/fu-security-attr-common.c:240
+msgid "Pre-boot DMA Protection"
+msgstr ""
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * verified boot refers to the way the boot process is verified
+#: src/fu-security-attr-common.c:249
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard Verified Boot"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * ACM means to verify the integrity of Initial Boot Block
+#: src/fu-security-attr-common.c:254
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard ACM Protected"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel,
+#. * error policy is what to do on failure
+#: src/fu-security-attr-common.c:259
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard Error Policy"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: BootGuard is a trademark from Intel
+#: src/fu-security-attr-common.c:263
+#, fuzzy
+#| msgid "Intel BootGuard"
+msgid "Intel BootGuard Fuse"
+msgstr "Intel BootGuard"
+
+#. TRANSLATORS: Title: CET = Control-flow Enforcement Technology
+#: src/fu-security-attr-common.c:268
+#, fuzzy
+#| msgid "Intel SMAP"
+msgid "Intel CET"
+msgstr "Intel SMAP"
+
+#. TRANSLATORS: Title:
+#. * https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit
+#: src/fu-security-attr-common.c:281
+msgid "IOMMU Protection"
+msgstr ""
+
+#. TRANSLATORS: Title: lockdown is a security mode of the kernel
+#: src/fu-security-attr-common.c:285
+#, fuzzy
+#| msgid "Linux kernel lockdown"
+msgid "Linux Kernel Lockdown"
+msgstr "Linux kernel lockdown"
+
+#. TRANSLATORS: Title: if it's tainted or not
+#: src/fu-security-attr-common.c:289
+#, fuzzy
+#| msgid "Linux kernel lockdown"
+msgid "Linux Kernel Verification"
+msgstr "Linux kernel lockdown"
+
+#. TRANSLATORS: Title: swap space or swap partition
+#: src/fu-security-attr-common.c:293
+#, fuzzy
+#| msgid "Linux swap"
+msgid "Linux Swap"
+msgstr "Linux swap"
+
+#. TRANSLATORS: Title: sleep state
+#: src/fu-security-attr-common.c:297
+msgid "Suspend To RAM"
+msgstr ""
+
+#. TRANSLATORS: Title: a better sleep state
+#: src/fu-security-attr-common.c:301
+#, fuzzy
+#| msgid "Suspend-to-idle"
+msgid "Suspend To Idle"
+msgstr "Suspend-to-idle"
+
+#. TRANSLATORS: Title: PK is the 'platform key' for the machine
+#: src/fu-security-attr-common.c:305
+#, fuzzy
+#| msgid "UEFI platform key"
+msgid "UEFI Platform Key"
+msgstr "UEFI platform key"
+
+#. TRANSLATORS: Title: SB is a way of locking down UEFI
+#: src/fu-security-attr-common.c:309
+#, fuzzy
+#| msgid "UEFI secure boot"
+msgid "UEFI Secure Boot"
+msgstr "UEFI secure boot"
+
+#. TRANSLATORS: Title: PCRs (Platform Configuration Registers) shouldn't be empty
+#: src/fu-security-attr-common.c:313
+#, fuzzy
+#| msgid "Modify daemon configuration"
+msgid "TPM Platform Configuration"
+msgstr "Artalan süreci yapılandırmasını değiştir"
+
+#. TRANSLATORS: Title: the PCR is rebuilt from the TPM event log
+#: src/fu-security-attr-common.c:317
+#, fuzzy
+#| msgid "TPM PCR0 reconstruction"
+msgid "TPM Reconstruction"
+msgstr "TPM PCR0 reconstruction"
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine
+#: src/fu-security-attr-common.c:325
+msgid "Intel Management Engine Manufacturing Mode"
+msgstr ""
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine, and the "override" is enabled
+#. * with a jumper -- luckily it is probably not accessible to end users on consumer
+#. * boards
+#: src/fu-security-attr-common.c:331
+msgid "Intel Management Engine Override"
+msgstr ""
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine, and key refers
+#. * to the private/public key used to secure loading of firmware
+#: src/fu-security-attr-common.c:336
+msgid "MEI Key Manifest"
+msgstr ""
+
+#. TRANSLATORS: Title: MEI = Intel Management Engine
+#: src/fu-security-attr-common.c:340
+msgid "Intel Management Engine Version"
+msgstr ""
+
+#. TRANSLATORS: Title: if firmware updates are available
+#: src/fu-security-attr-common.c:344
+#, fuzzy
+#| msgid "Firmware Update Daemon"
+msgid "Firmware Updates"
+msgstr "Donanım Yazılımı Güncelleme Artalan Süreci"
+
+#. TRANSLATORS: Title: if we can verify the firmware checksums
+#: src/fu-security-attr-common.c:348
+#, fuzzy
+#| msgid "Firmware Update Daemon"
+msgid "Firmware Attestation"
+msgstr "Donanım Yazılımı Güncelleme Artalan Süreci"
+
+#. TRANSLATORS: Title: if the fwupd plugins are all present and correct
+#: src/fu-security-attr-common.c:352
+#, fuzzy
+#| msgid "Firmware Update Daemon"
+msgid "Firmware Updater Verification"
+msgstr "Donanım Yazılımı Güncelleme Artalan Süreci"
+
+#. TRANSLATORS: Title: Allows debugging of parts using proprietary hardware
+#: src/fu-security-attr-common.c:357
+msgid "Platform Debugging"
+msgstr ""
+
+#. TRANSLATORS: Title: if fwupd supports HSI on this chip
+#: src/fu-security-attr-common.c:361
+msgid "Processor Security Checks"
+msgstr ""
+
+#. TRANSLATORS: Title: if firmware enforces rollback protection
+#: src/fu-security-attr-common.c:365
+msgid "AMD Secure Processor Rollback Protection"
+msgstr ""
+
+#. TRANSLATORS: Title: if hardware enforces control of SPI replays
+#: src/fu-security-attr-common.c:369
+msgid "AMD Firmware Replay Protection"
+msgstr ""
+
+#. TRANSLATORS: Title: if hardware enforces control of SPI writes
+#: src/fu-security-attr-common.c:373
+msgid "AMD Firmware Write Protection"
+msgstr ""
+
+#. TRANSLATORS: Title: if the part has been fused
+#: src/fu-security-attr-common.c:377
+msgid "Fused Platform"
+msgstr ""
+
+#. TRANSLATORS: Title: if firmware enforces rollback protection
+#: src/fu-security-attr-common.c:381
+msgid "BIOS Rollback Protection"
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:395
+msgid ""
+"Firmware Write Protection protects device firmware memory from being "
+"tampered with."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:400
+msgid ""
+"Firmware BIOS Region protects device firmware memory from being tampered "
+"with."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:405
+msgid ""
+"Firmware BIOS Descriptor protects device firmware memory from being tampered "
+"with."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:410
+msgid ""
+"Pre-boot DMA protection prevents devices from accessing system memory after "
+"being connected to the computer."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:418
+msgid ""
+"Intel BootGuard prevents unauthorized device software from operating when "
+"the device is started."
+msgstr ""
+
+#: src/fu-security-attr-common.c:424
+msgid ""
+"Intel BootGuard Error Policy ensures the device does not continue to start "
+"if its device software has been tampered with."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:430
+msgid ""
+"Intel Control-Flow Enforcement Technology detects and prevents certain "
+"methods for running malicious software on the device."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:435
+msgid ""
+"Intel Supervisor Mode Access Prevention ensures critical parts of device "
+"memory are not accessed by less secure programs."
+msgstr ""
+
+#: src/fu-security-attr-common.c:441
+msgid ""
+"Encrypted RAM makes it impossible for information that is stored in device "
+"memory to be read if the memory chip is removed and accessed."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:446
+msgid ""
+"IOMMU Protection prevents connected devices from accessing unauthorized "
+"parts of system memory."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:451
+msgid ""
+"Linux Kernel Lockdown mode prevents administrator (root) accounts from "
+"accessing and changing critical parts of system software."
+msgstr ""
+
+#: src/fu-security-attr-common.c:457
+msgid ""
+"Linux Kernel Verification makes sure that critical system software has not "
+"been tampered with. Using device drivers which are not provided with the "
+"system can prevent this security feature from working correctly."
+msgstr ""
+
+#: src/fu-security-attr-common.c:464
+msgid ""
+"Linux Kernel Swap temporarily saves information to disk as you work. If the "
+"information is not protected, it could be accessed by someone if they "
+"obtained the disk."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:470
+msgid ""
+"Suspend to RAM allows the device to quickly go to sleep in order to save "
+"power. While the device has been suspended, its memory could be physically "
+"removed and its information accessed."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:476
+msgid ""
+"Suspend to Idle allows the device to quickly go to sleep in order to save "
+"power. While the device has been suspended, its memory could be physically "
+"removed and its information accessed."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:482
+msgid ""
+"The UEFI Platform Key is used to determine if device software comes from a "
+"trusted source."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:487
+msgid ""
+"UEFI Secure Boot prevents malicious software from being loaded when the "
+"device starts."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:492
+msgid ""
+"The TPM (Trusted Platform Module) Platform Configuration is used to check "
+"whether the device start process has been modified."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:497
+msgid ""
+"The TPM (Trusted Platform Module) Reconstruction is used to check whether "
+"the device start process has been modified."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:502
+msgid ""
+"TPM (Trusted Platform Module) is a computer chip that detects when hardware "
+"components have been tampered with."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:508
+msgid ""
+"Manufacturing Mode is used when the device is manufactured and security "
+"features are not yet enabled."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:513
+msgid ""
+"Intel Management Engine Override disables checks for device software "
+"tampering."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:518
+msgid ""
+"The Intel Management Engine Key Manifest must be valid so that the device "
+"firmware can be trusted by the CPU."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:523
+msgid ""
+"The Intel Management Engine controls device components and needs to have a "
+"recent version to avoid security issues."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:528
+#, fuzzy
+#| msgid "Firmware updates are supported on this machine."
+msgid "Device software updates are provided for this device."
+msgstr "Donanım yazılımı güncellemeleri bu makinede destekleniyor."
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:532
+msgid ""
+"Firmware Attestation checks device software using a reference copy, to make "
+"sure that it has not been changed."
+msgstr ""
+
+#: src/fu-security-attr-common.c:538
+msgid ""
+"Firmware Updater Verification checks that software used for updating has not "
+"been tampered with."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:544
+msgid ""
+"Platform Debugging allows device security features to be disabled. This "
+"should only be used by hardware manufacturers."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:549
+msgid "Each system should have tests to ensure firmware security."
+msgstr ""
+
+#. TRANSLATORS: longer description
+#: src/fu-security-attr-common.c:555
+msgid ""
+"Rollback Protection prevents device software from being downgraded to an "
+"older version that has security problems."
+msgstr ""
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:567
+msgid "Valid"
+msgstr "Geçerli"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:571
+msgid "Invalid"
+msgstr "Geçersiz"
+
+#. TRANSLATORS: Suffix: the HSI result
+#. TRANSLATORS: Plugin is inactive and not used
+#: src/fu-security-attr-common.c:579 src/fu-util-common.c:1699
+msgid "Disabled"
+msgstr "Devredışı"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:583
+msgid "Locked"
+msgstr "Kilitli"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:587
+msgid "Unlocked"
+msgstr "Serbest"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:591
+msgid "Encrypted"
+msgstr "Şifrelenmiş"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:595
+msgid "Unencrypted"
+msgstr "Şifrelenmemiş"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:599
+msgid "Tainted"
+msgstr ""
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:603
+msgid "Untainted"
+msgstr ""
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:607
+msgid "Found"
+msgstr "Bulundu"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:611
+msgid "Not found"
+msgstr "Bulunamadı"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:615
+msgid "Supported"
+msgstr "Destekleniyor"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:619
+msgid "Not supported"
+msgstr "Desteklenmiyor"
+
+#. TRANSLATORS: Suffix: the HSI result
+#: src/fu-security-attr-common.c:637
+msgid "OK"
+msgstr "Tamam"
+
+#. TRANSLATORS: Suffix: the fallback HSI result
+#. TRANSLATORS: the update state of the specific device
+#: src/fu-security-attr-common.c:641 src/fu-util-common.c:1338
+msgid "Failed"
+msgstr "Başarısız"
+
+#. TRANSLATORS: this is a prefix on the console
+#: src/fu-tool.c:137 src/fu-tool.c:4058 src/fu-util.c:3871 src/fu-util.c:4521
+#: src/fu-util.c:4536 src/fu-util.c:4628 src/fu-util-common.c:2912
+msgid "WARNING:"
+msgstr "UYARI:"
+
+#. TRANSLATORS: %s is a link to a website
+#: src/fu-tool.c:144 src/fu-util.c:3878
+#, c-format
+msgid "See %s for more information."
+msgstr "Daha fazlası için tıklayınız. %s "
+
+#. TRANSLATORS: another fwupdtool instance is already running
+#: src/fu-tool.c:220
+msgid "Failed to lock"
+msgstr "Kilitleme başarısız."
+
+#. TRANSLATORS: this is when a device ctrl+c's a watch
+#: src/fu-tool.c:273
+msgid "Cancelled"
+msgstr "İptal Edildi"
+
+#. TRANSLATORS: the user needs to do something, e.g. remove the device
+#: src/fu-tool.c:369 src/fu-util.c:111
+msgid "Action Required:"
+msgstr ""
+
+#. TRANSLATORS: nothing found
+#: src/fu-tool.c:474 src/fu-util.c:633
+msgid "No plugins found"
+msgstr "Eklenti bulunamadı"
+
+#. TRANSLATORS: device has been chosen by the daemon for the user
+#: src/fu-tool.c:535 src/fu-util.c:219
+msgid "Selected device"
+msgstr "Seçili aygıt"
+
+#. TRANSLATORS: get interactive prompt
+#: src/fu-tool.c:550 src/fu-util.c:234
+msgid "Choose a device:"
+msgstr "Bir aygıt seç:"
+
+#. TRANSLATORS: message letting the user know no device upgrade
+#. * available due to missing on LVFS
+#. TRANSLATORS: message letting the user know no device
+#. * upgrade available due to missing on LVFS
+#. TRANSLATORS: message letting the user know no device upgrade
+#. * available due to missing on LVFS
+#. TRANSLATORS: message letting the user know no device
+#. * upgrade available due to missing on LVFS
+#: src/fu-tool.c:671 src/fu-tool.c:1513 src/fu-util.c:2064 src/fu-util.c:2430
+msgid "Devices with no available firmware updates: "
+msgstr "Cihaz için güncelleme yok."
+
+#. TRANSLATORS: message letting the user know no device upgrade available
+#. TRANSLATORS: message letting the user know no device upgrade
+#. * available
+#. TRANSLATORS: message letting the user know no device upgrade available
+#. TRANSLATORS: message letting the user know no device upgrade
+#. * available
+#: src/fu-tool.c:679 src/fu-tool.c:1529 src/fu-util.c:2072 src/fu-util.c:2462
+msgid "Devices with the latest available firmware version:"
+msgstr "Bu cihaz için en son güncelleme:"
+
+#: src/fu-tool.c:691
+msgid "No updates available for remaining devices"
+msgstr "Bu cihaz için yüklenecek güncelleme yok."
+
+#. TRANSLATORS: nothing attached that can be upgraded
+#: src/fu-tool.c:821 src/fu-util.c:582
+msgid "No hardware detected with firmware update capability"
+msgstr "Donanım yazılımı güncelleme yeteneğine sahip donanım saptanamadı"
+
+#. TRANSLATORS: %1 is a device name
+#: src/fu-tool.c:860 src/fu-util.c:156
+#, c-format
+msgid "Updating %s…"
+msgstr "Güncelleniyor %s…"
+
+#. TRANSLATORS: %1 is a device name
+#: src/fu-tool.c:864 src/fu-util.c:164
+#, c-format
+msgid "Installing on %s…"
+msgstr "Kuruluyor %s…"
+
+#. TRANSLATORS: %1 is a device name
+#: src/fu-tool.c:868
+#, c-format
+msgid "Reading from %s…"
+msgstr "Şuradan okunuyor %s…"
+
+#. TRANSLATORS: shown when shutting down to switch to the new version
+#: src/fu-tool.c:1952
+msgid "Activating firmware update"
+msgstr "Donanım yazılımı güncellemesini etkinleştir"
+
+#. TRANSLATORS: this is when a device is hotplugged
+#: src/fu-tool.c:2124
+msgid "Device added:"
+msgstr "Aygıt eklendi:"
+
+#. TRANSLATORS: this is when a device is hotplugged
+#: src/fu-tool.c:2133
+msgid "Device removed:"
+msgstr "Aygıt çıkarıldı:"
+
+#. TRANSLATORS: this is when a device has been updated
+#: src/fu-tool.c:2142
+msgid "Device changed:"
+msgstr "Aygıt değişti:"
+
+#. TRANSLATORS: this is when the daemon state changes
+#: src/fu-tool.c:2149
+msgid "Changed"
+msgstr "Değişti"
+
+#. TRANSLATORS: nothing found
+#: src/fu-tool.c:2203
+msgid "No firmware IDs found"
+msgstr "Donanım yazılımı kimlik bilgisi bulunamadı"
+
+#. TRANSLATORS: get interactive prompt
+#: src/fu-tool.c:2218
+msgid "Choose a firmware type:"
+msgstr "Bir donanım yazılımı türü seç:"
+
+#. TRANSLATORS: decompressing images from a container firmware
+#: src/fu-tool.c:2447
+msgid "Writing file:"
+msgstr "Dosyaya yazılıyor:"
+
+#. TRANSLATORS: error message for unsupported feature
+#: src/fu-tool.c:3010 src/fu-util.c:3457
+#, c-format
+msgid "Host Security ID (HSI) is not supported"
+msgstr ""
+
+#. TRANSLATORS: error message to tell someone they can't use this feature
+#: src/fu-tool.c:3040 src/fu-util.c:3477
+msgid "Not enough data was provided to make an HSI calculation."
+msgstr ""
+
+#. TRANSLATORS: message to tell someone how to ignore error
+#: src/fu-tool.c:3043 src/fu-util.c:3480
+msgid "To ignore this warning, use --force"
+msgstr ""
+
+#. TRANSLATORS: this is a string like 'HSI:2-U'
+#: src/fu-tool.c:3059 src/fu-util.c:3514
+msgid "Host Security ID:"
+msgstr "Host Güvenlik Kimliği:"
+
+#. TRANSLATORS: Volume has been chosen by the user
+#: src/fu-tool.c:3105
+msgid "Selected volume"
+msgstr "Bölüm seçildi"
+
+#. TRANSLATORS: get interactive prompt
+#: src/fu-tool.c:3110
+msgid "Choose a volume:"
+msgstr "Bölüm seçiniz:"
+
+#. TRANSLATORS: get interactive prompt, where branch is the
+#. * supplier of the firmware, e.g. "non-free" or "free"
+#: src/fu-tool.c:3240 src/fu-util.c:2812
+msgid "Choose a branch:"
+msgstr "Dal seçiniz:"
+
+#. TRANSLATORS: Configured a BIOS setting to a value
+#: src/fu-tool.c:3339 src/fu-util.c:3906
+#, c-format
+msgid "Set BIOS setting '%s' using '%s'."
+msgstr ""
+
+#. TRANSLATORS: error message
+#: src/fu-tool.c:3388 src/fu-util.c:3947
+#, fuzzy
+#| msgid "List supported firmware updates"
+msgid "This system doesn't support firmware settings"
+msgstr "Desteklenen donanım yazılımı güncellemelerini listele"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3502 src/fu-util.c:4027
+msgid "Show client and daemon versions"
+msgstr "İstemci ve artalan süreci sürümlerini göster"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3510 src/fu-util.c:4043
+msgid "Allow reinstalling existing firmware versions"
+msgstr "Varolan donanım yazılımı sürümlerinin yeniden kurulumuna izin ver"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3518 src/fu-util.c:4051
+msgid "Allow downgrading firmware versions"
+msgstr "Donanım yazılımı sürümünün düşürülmesine izin ver"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3526 src/fu-util.c:4059
+msgid "Allow switching firmware branch"
+msgstr "Diğer kollara geçiş için izin verin"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3534 src/fu-util.c:4067
+#, fuzzy
+#| msgid "Force the action ignoring all warnings"
+msgid "Force the action by relaxing some runtime checks"
+msgstr "Eylemi tüm uyarıları görmezden gelmeye zorla"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3542
+msgid "Ignore firmware checksum failures"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3550
+msgid "Ignore firmware hardware mismatch failures"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3558 src/fu-util.c:4115
+#, fuzzy
+#| msgid "Do not check for old metadata"
+msgid "Do not check or prompt for reboot after update"
+msgstr "Eski üst verileri kontrol etme"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3566
+msgid "Do not search the firmware when parsing"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3574 src/fu-util.c:4123
+msgid "Do not perform device safety checks"
+msgstr "Cihaz güvenlik kontrolleri yapma"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3582 src/fu-util.c:4131
+#, fuzzy
+#| msgid "Do not perform device safety checks"
+msgid "Do not prompt for devices"
+msgstr "Cihaz güvenlik kontrolleri yapma"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3590 src/fu-util.c:4147
+msgid "Show all results"
+msgstr "Sonuçları göster"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3598 src/fu-util.c:4155
+msgid "Show devices that are not updatable"
+msgstr "Güncellenemeyen aygıtları göster"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3606 src/fu-tool.c:3614
+msgid "Manually enable specific plugins"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3622
+msgid "Run the plugin composite prepare routine when using install-blob"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3630
+msgid "Run the plugin composite cleanup routine when using install-blob"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3638 src/fu-util.c:4163
+msgid "Ignore SSL strict checks when downloading files"
+msgstr "Dosyaları indirirken katı SSL kontrollerini yoksay"
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3646 src/fu-util.c:4179
+msgid ""
+"Filter with a set of device flags using a ~ prefix to exclude, e.g. "
+"'internal,~needs-reboot'"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3655
+msgid "Specify a filename to use to save backend events"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-tool.c:3664 src/fu-util.c:4188
+msgid "Output in JSON format"
+msgstr "JSON formatında dışarı aktar"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3715 src/fu-tool.c:3728 src/fu-util.c:4264
+msgid "FILE"
+msgstr "FILE"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3717
+msgid "Dump SMBIOS data from a file"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3723 src/fu-util.c:4443
+msgid "Get all enabled plugins registered with the system"
+msgstr "Etkinleştirilmiş tüm eklentileri sisteme kaydettir"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3730 src/fu-util.c:4266
+msgid "Gets details about a firmware file"
+msgstr "Donanım yazılımı dosyasıyla ilgili ayrıntıları al"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3736 src/fu-util.c:4238
+msgid "Show history of firmware updates"
+msgstr "Donanım yazılımı güncellemelerinin geçmişini göster"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3741 src/fu-tool.c:3808 src/fu-tool.c:3822 src/fu-tool.c:3849
+#: src/fu-tool.c:3864 src/fu-util.c:4271 src/fu-util.c:4278 src/fu-util.c:4286
+#: src/fu-util.c:4314 src/fu-util.c:4327 src/fu-util.c:4341 src/fu-util.c:4369
+#: src/fu-util.c:4396
+msgid "[DEVICE-ID|GUID]"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3743 src/fu-util.c:4273
+msgid "Gets the list of updates for connected hardware"
+msgstr "Bağlı donanım için güncelleme listesini al"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3749 src/fu-util.c:4232
+#, fuzzy
+#| msgid "List supported firmware updates"
+msgid "Get all devices that support firmware updates"
+msgstr "Desteklenen donanım yazılımı güncellemelerini listele"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3755
+msgid "Get all device flags supported by fwupd"
+msgstr "fwupd tarafından desteklenen tüm aygıt bayraklarını getir"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3761
+msgid "Watch for hardware changes"
+msgstr "Donanım değişikliklerini izle"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3766
+#, fuzzy
+#| msgid "FILENAME"
+msgid "FILENAME DEVICE-ID"
+msgstr "FILENAME"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3768
+#, fuzzy
+#| msgid "Downgrades the firmware on a device"
+msgid "Install a firmware blob on a device"
+msgstr "Bir aygıttaki üretici yazılımı sürümünü düşürür"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3773 src/fu-util.c:4257
+#, fuzzy
+#| msgid "[DEVICE-ID|GUID]"
+msgid "FILE [DEVICE-ID|GUID]"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3775 src/fu-util.c:4251
+msgid ""
+"Install a specific firmware on a device, all possible devices will also be "
+"installed once the CAB matches"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3781 src/fu-tool.c:3788 src/fu-tool.c:3801 src/fu-util.c:4293
+#: src/fu-util.c:4300 src/fu-util.c:4307
+#, fuzzy
+#| msgid "[DEVICE-ID|GUID]"
+msgid "DEVICE-ID|GUID"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3783
+#, fuzzy
+#| msgid "Downgrades the firmware on a device"
+msgid "Reinstall firmware on a device"
+msgstr "Bir aygıttaki üretici yazılımı sürümünü düşürür"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3790
+#, fuzzy
+#| msgid "Activating firmware update"
+msgid "Attach to firmware mode"
+msgstr "Donanım yazılımı güncellemesini etkinleştir"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3796
+msgid "Get device report metadata"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3803
+msgid "Detach to bootloader mode"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3810
+msgid "Unbind current driver"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3815
+#, fuzzy
+#| msgid "[DEVICE-ID|GUID]"
+msgid "SUBSYSTEM DRIVER [DEVICE-ID|GUID]"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3817
+msgid "Bind new kernel driver"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3824
+#, fuzzy
+#| msgid "Activate devices"
+msgid "Activate pending devices"
+msgstr "Etkin aygıtlar"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3829
+msgid "[SMBIOS-FILE|HWIDS-FILE]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3831
+msgid "Return all the hardware IDs for the machine"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3836
+msgid "HWIDS-FILE"
+msgstr "HWIDS-FILE"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3838
+msgid "Save a file that allows generation of hardware IDs"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3844
+msgid "Monitor the daemon for events"
+msgstr "Olaylar için artalan sürecini gözetle"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3851 src/fu-util.c:4280
+msgid ""
+"Updates all specified devices to latest firmware version, or all devices if "
+"unspecified"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3857
+msgid "TEXT"
+msgstr "METİN"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3859
+msgctxt "command-description"
+msgid "Sign data using the client certificate"
+msgstr "İstemci sertifikasını kullanarak veri imzala"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3866
+msgid "Update the stored metadata with current contents"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3871
+msgid "FILENAME CERTIFICATE PRIVATE-KEY"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3873
+msgid "Sign a firmware with a new key"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3878 src/fu-tool.c:3885
+#, fuzzy
+#| msgid "[DEVICE-ID|GUID]"
+msgid "FILENAME [DEVICE-ID|GUID]"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3880
+#, fuzzy
+#| msgid "Read firmware from device into a file"
+msgid "Read a firmware blob from a device"
+msgstr "Donanım yazılımını aygıttan dosyaya oku"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3887
+#, fuzzy
+#| msgid "Read firmware from device into a file"
+msgid "Read a firmware from a device"
+msgstr "Donanım yazılımını aygıttan dosyaya oku"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3892
+msgid "FILENAME OFFSET DATA [FIRMWARE-TYPE]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3894
+msgid "Patch a firmware blob at a known offset"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3900
+msgid "FILENAME-SRC FILENAME-DST [FIRMWARE-TYPE-SRC] [FIRMWARE-TYPE-DST]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3902
+#, fuzzy
+#| msgid "Choose a firmware type:"
+msgid "Convert a firmware file"
+msgstr "Bir donanım yazılımı türü seç:"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3907
+msgid "BUILDER-XML FILENAME-DST"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3909
+#, fuzzy
+#| msgid "Gets details about a firmware file"
+msgid "Build a firmware file"
+msgstr "Donanım yazılımı dosyasıyla ilgili ayrıntıları al"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3914 src/fu-tool.c:3921 src/fu-tool.c:3928
+msgid "FILENAME [FIRMWARE-TYPE]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3916
+msgid "Parse and show details about a firmware file"
+msgstr "Donanım yazılımı dosyası hakkındaki ayrıntıları ayrıştır ve göster"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3923
+msgid "Export a firmware file structure to XML"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3930
+msgid "Extract a firmware blob to images"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3936
+msgid "List the available firmware types"
+msgstr "Kullanılabilir donanım yazılımı türlerini listele"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3942 src/fu-util.c:4322
+#, fuzzy
+#| msgid "Modify a configured remote"
+msgid "Gets the configured remotes"
+msgstr "Uzak yapılandırmayı değiştir"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3948 src/fu-util.c:4336
+msgid "Refresh metadata from remote server"
+msgstr "Üst veriyi uzak sunucudan yenile"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3954 src/fu-util.c:4411
+msgid "Gets the host security attributes"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3960
+msgid "Mounts the ESP"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3966
+msgid "Unmounts the ESP"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3972
+msgid "Lists files on the ESP"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3977 src/fu-util.c:4403
+#, fuzzy
+#| msgid "[DEVICE-ID|GUID]"
+msgid "[DEVICE-ID|GUID] [BRANCH]"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3979 src/fu-util.c:4405
+#, fuzzy
+#| msgid "Activate the new firmware on the device"
+msgid "Switch the firmware branch on the device"
+msgstr "Aygıttaki yeni donanım yazılımını etkinleştir"
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3985
+msgid "Erase all firmware update history"
+msgstr "Tüm donanım yazılımı güncelleme geçmişini sil"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3991
+msgid "[SETTING1] [ SETTING2]..."
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:3993 src/fu-util.c:4465
+msgid ""
+"Retrieve BIOS settings.  If no arguments are passed all settings are returned"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-tool.c:3998
+msgid "SETTING VALUE"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-tool.c:4000
+msgid "Set a BIOS setting"
+msgstr ""
+
+#. TRANSLATORS: CLI description
+#: src/fu-tool.c:4039
+msgid ""
+"This tool allows an administrator to use the fwupd plugins without being "
+"installed on the host system."
+msgstr ""
+
+#. TRANSLATORS: program name
+#: src/fu-tool.c:4043 src/fu-util.c:4508
+msgid "Firmware Utility"
+msgstr "Donanım Yazılımı Yardımcı Programı"
+
+#. TRANSLATORS: try to help
+#: src/fu-tool.c:4062 src/fu-util.c:4525
+msgid ""
+"Ignoring SSL strict checks, to do this automatically in the future export "
+"DISABLE_SSL_STRICT in your environment"
+msgstr ""
+
+#. TRANSLATORS: the user didn't read the man page
+#: src/fu-tool.c:4076 src/fu-util.c:4552
+#, fuzzy
+#| msgid "Failed to parse file"
+msgid "Failed to parse flags for --filter"
+msgstr "Dosya ayrıştırılamadı"
+
+#. TRANSLATORS: error message explaining command on how to get help
+#: src/fu-tool.c:4147
+msgid "Use fwupdtool --help for help"
+msgstr ""
+
+#. TRANSLATORS: we're poking around as a power user
+#: src/fu-tool.c:4156
+#, fuzzy
+#| msgid "This program may only work correctly as root"
+msgid "NOTE: This program may only work correctly as root"
+msgstr "Bu program yalnızca kök erişimi ile düzgün çalışabilir"
+
+#. TRANSLATORS: %1 is a device name
+#: src/fu-util.c:160
+#, c-format
+msgid "Downgrading %s…"
+msgstr "%s sürümü düşürülüyor…"
+
+#. TRANSLATORS: a list of failed updates
+#: src/fu-util.c:363
+#, fuzzy
+#| msgid "Show devices that are not updatable"
+msgid "Devices that were not updated correctly:"
+msgstr "Güncellenemeyen aygıtları göster"
+
+#. TRANSLATORS: a list of successful updates
+#: src/fu-util.c:377
+msgid "Devices that have been updated successfully:"
+msgstr ""
+
+#. TRANSLATORS: explain why we want to upload
+#: src/fu-util.c:391
+msgid ""
+"Uploading firmware reports helps hardware vendors to quickly identify "
+"failing and successful updates on real devices."
+msgstr ""
+
+#. TRANSLATORS: ask the user to upload
+#: src/fu-util.c:395
+msgid "Upload report now?"
+msgstr "Rapor şimdi karşıya yüklensin mi?"
+
+#. TRANSLATORS: metadata is downloaded from the Internet
+#: src/fu-util.c:397 src/fu-util.c:1936 src/fu-util.c:2563
+msgid "Requires internet connection"
+msgstr "İnternet bağlantısı gerektirir"
+
+#. TRANSLATORS: offer to disable this nag
+#: src/fu-util.c:401
+msgid "Do you want to disable this feature for future updates?"
+msgstr ""
+
+#. TRANSLATORS: offer to stop asking the question
+#: src/fu-util.c:433
+msgid "Do you want to upload reports automatically for future updates?"
+msgstr ""
+
+#. TRANSLATORS: a remote here is like a 'repo' or software source
+#: src/fu-util.c:472
+#, fuzzy
+#| msgid "Enable this remote?"
+msgid "Enable new remote?"
+msgstr "Bu uzaktan kumanda etkinleştirilsin mi?"
+
+#. TRANSLATORS: should the remote still be enabled
+#: src/fu-util.c:477
+#, fuzzy
+#| msgid "Enable this remote?"
+msgid "Agree and enable the remote?"
+msgstr "Bu uzaktan kumanda etkinleştirilsin mi?"
+
+#. TRANSLATORS: success message
+#: src/fu-util.c:676
+msgid "Successfully installed firmware"
+msgstr "Donanım yazılımı başarıyla kuruldu"
+
+#. TRANSLATORS: this is for the device tests
+#: src/fu-util.c:759
+msgid "Did not find any devices with matching GUIDs"
+msgstr ""
+
+#. TRANSLATORS: this is for the device tests, %1 is the device
+#. * version, %2 is what we expected
+#: src/fu-util.c:785
+#, c-format
+msgid "The device version did not match: got %s, expected %s"
+msgstr ""
+
+#. TRANSLATORS: this is for the device tests
+#: src/fu-util.c:801
+#, fuzzy
+#| msgid "OK"
+msgid "OK!"
+msgstr "Tamam"
+
+#: src/fu-util.c:1221 src/fu-util.c:3206
+msgid "Target"
+msgstr "Hedef"
+
+#: src/fu-util.c:1222 src/fu-util.c:3207
+msgid "Payload"
+msgstr ""
+
+#: src/fu-util.c:1224 src/fu-util.c:3209
+msgid "Signature"
+msgstr "İmza"
+
+#: src/fu-util.c:1225 src/fu-util.c:3210
+msgid "Proceed with upload?"
+msgstr ""
+
+#. TRANSLATORS: the server sent the user a small message
+#: src/fu-util.c:1248
+msgid "Update failure is a known issue, visit this URL for more information:"
+msgstr ""
+"Güncelleme hatası bilinen bir sorundur, daha fazla bilgi için bu URL'yi "
+"ziyaret edin:"
+
+#. TRANSLATORS: success message -- where the user has uploaded
+#. * success and/or failure reports to the remote server
+#: src/fu-util.c:1359
+#, fuzzy, c-format
+#| msgid "Successfully downloaded new metadata: "
+msgid "Successfully uploaded %u report"
+msgid_plural "Successfully uploaded %u reports"
+msgstr[0] "Yeni üst veri başarıyla indirildi:"
+msgstr[1] "Yeni üst veri başarıyla indirildi:"
+
+#. TRANSLATORS: success message when user refreshes device checksums
+#: src/fu-util.c:1558
+msgid "Successfully updated device checksums"
+msgstr "Aygıt sağlama toplamları başarıyla güncellendi"
+
+#. TRANSLATORS: explain why no metadata available
+#: src/fu-util.c:1574
+msgid "No remotes are currently enabled so no metadata is available."
+msgstr "Şu anda uzaktan kumanda etkin değil, bu nedenle üst veri yok."
+
+#. TRANSLATORS: explain why no metadata available
+#: src/fu-util.c:1576
+msgid "Metadata can be obtained from the Linux Vendor Firmware Service."
+msgstr "Üst veri Linux Tedarikçi Donanım Yazılımı Hizmetinden edinilebilir"
+
+#. TRANSLATORS: Turn on the remote
+#: src/fu-util.c:1578
+msgid "Enable this remote?"
+msgstr "Bu uzaktan kumanda etkinleştirilsin mi?"
+
+#. TRANSLATORS: error message for a user who ran fwupdmgr
+#. refresh recently %1 is an already translated timestamp such
+#. as 6 hours or 15 seconds
+#: src/fu-util.c:1650
+#, c-format
+msgid "Firmware metadata last refresh: %s ago. Use --force to refresh again."
+msgstr ""
+
+#: src/fu-util.c:1667
+#, fuzzy
+#| msgid "Updating %s…"
+msgid "Updating"
+msgstr "Güncelleniyor %s…"
+
+#. TRANSLATORS: success message -- where 'metadata' is information
+#. * about available firmware on the remote server
+#: src/fu-util.c:1698
+msgid "Successfully downloaded new metadata: "
+msgstr "Yeni üst veri başarıyla indirildi:"
+
+#. TRANSLATORS: how many local devices can expect updates now
+#: src/fu-util.c:1702
+#, c-format
+msgid "%u local device supported"
+msgid_plural "%u local devices supported"
+msgstr[0] "%u yerel cihaz destekleniyor"
+msgstr[1] "%u yerel cihaz destekleniyor"
+
+#. TRANSLATORS: success message -- the user can do this by-hand too
+#: src/fu-util.c:1733
+msgid "Successfully refreshed metadata manually"
+msgstr "Üst veri başarıyla yenilendi"
+
+#. TRANSLATORS: no repositories to download from
+#: src/fu-util.c:1796
+msgid "No releases available"
+msgstr "Sürüm bulunamadı"
+
+#. TRANSLATORS: get interactive prompt
+#: src/fu-util.c:1839
+msgid "Choose a release:"
+msgstr "Sürüm seç:"
+
+#. TRANSLATORS: success message when user verified device checksums
+#: src/fu-util.c:1876
+msgid "Successfully verified device checksums"
+msgstr "Aygıt sağlaması toplamı başarıyla doğrulandı"
+
+#. TRANSLATORS: the metadata is very out of date; %u is a number > 1
+#: src/fu-util.c:1925
+#, c-format
+msgid ""
+"Firmware metadata has not been updated for %u day and may not be up to date."
+msgid_plural ""
+"Firmware metadata has not been updated for %u days and may not be up to date."
+msgstr[0] ""
+msgstr[1] ""
+
+#. TRANSLATORS: ask the user if we can update the metadata
+#: src/fu-util.c:1934
+msgid "Update now?"
+msgstr "Şimdi güncellensin mi?"
+
+#. TRANSLATORS: this is an error string
+#: src/fu-util.c:2089
+#, fuzzy
+#| msgid "No updates available for remaining devices"
+msgid "No updatable devices"
+msgstr "Bu cihaz için yüklenecek güncelleme yok."
+
+#. TRANSLATORS: this is an error string
+#: src/fu-util.c:2098
+#, fuzzy
+#| msgid "No remotes available"
+msgid "No updates available"
+msgstr "Uzaktan kumanda bulunamadı"
+
+#. TRANSLATORS: no repositories to download from
+#: src/fu-util.c:2140
+msgid "No remotes available"
+msgstr "Uzaktan kumanda bulunamadı"
+
+#. TRANSLATORS: BKC is the industry name for the best known configuration and is a set
+#. * of firmware that works together
+#: src/fu-util.c:2212
+#, c-format
+msgid "Your system is set up to the BKC of %s."
+msgstr ""
+
+#. TRANSLATORS: %1 is the current device version number, and %2 is the
+#. command name, e.g. `fwupdmgr sync-bkc`
+#: src/fu-util.c:2218
+#, c-format
+msgid ""
+"This device will be reverted back to %s when the %s command is performed."
+msgstr ""
+
+#. TRANSLATORS: the best known configuration is a set of software that we know works well
+#. * together. In the OEM and ODM industries it is often called a BKC
+#: src/fu-util.c:2224
+msgid "Deviate from the best known configuration?"
+msgstr ""
+
+#. TRANSLATORS: prompt to apply the update
+#: src/fu-util.c:2229 src/fu-util.c:3425 src/fu-util-common.c:515
+#: src/fu-util-common.c:2892
+msgid "Perform operation?"
+msgstr ""
+
+#. TRANSLATORS: the device has a reason it can't update, e.g. laptop lid closed
+#: src/fu-util.c:2318
+#, fuzzy, c-format
+#| msgid "Show devices that are not updatable"
+msgid "%s is not currently updatable"
+msgstr "Güncellenemeyen aygıtları göster"
+
+#. TRANSLATORS: success message for a per-remote setting change
+#: src/fu-util.c:2524
+#, fuzzy
+#| msgid "Successfully modified configuration value"
+msgid "Successfully modified remote"
+msgstr "Yapılandırma değeri başarıyla değiştirildi"
+
+#. TRANSLATORS: success message
+#: src/fu-util.c:2555 src/fu-util.c:2566
+#, fuzzy
+#| msgid "Successfully installed firmware"
+msgid "Successfully enabled remote"
+msgstr "Donanım yazılımı başarıyla kuruldu"
+
+#. TRANSLATORS: ask the user if we can update the metadata
+#: src/fu-util.c:2561
+msgid "Do you want to refresh this remote now?"
+msgstr ""
+
+#. TRANSLATORS: success message
+#: src/fu-util.c:2574
+#, fuzzy
+#| msgid "Successfully installed firmware"
+msgid "Successfully enabled and refreshed remote"
+msgstr "Donanım yazılımı başarıyla kuruldu"
+
+#. TRANSLATORS: success message
+#: src/fu-util.c:2604
+#, fuzzy
+#| msgid "Successfully installed firmware"
+msgid "Successfully disabled remote"
+msgstr "Donanım yazılımı başarıyla kuruldu"
+
+#. TRANSLATORS: message letting the user know no device downgrade available
+#. * %1 is the device name
+#: src/fu-util.c:2637
+#, c-format
+msgid "No downgrades for %s"
+msgstr ""
+
+#. TRANSLATORS: shown when shutting down to switch to the new version
+#: src/fu-util.c:2938
+#, fuzzy
+#| msgid "Activating firmware update"
+msgid "Activating firmware update for"
+msgstr "Donanım yazılımı güncellemesini etkinleştir"
+
+#. TRANSLATORS: success message -- where activation is making the new
+#. * firmware take effect, usually after updating offline
+#: src/fu-util.c:2949
+msgid "Successfully activated all devices"
+msgstr "Tüm aygıtlar başarıyla etkinleştirildi"
+
+#. TRANSLATORS: approved firmware has been checked by
+#. * the domain administrator
+#: src/fu-util.c:3021
+msgid "There is no approved firmware."
+msgstr "Onaylı donanım yazılımı yok."
+
+#. TRANSLATORS: approved firmware has been checked by
+#. * the domain administrator
+#: src/fu-util.c:3027
+msgid "Approved firmware:"
+msgid_plural "Approved firmware:"
+msgstr[0] "Onaylı ürün yazılımı:"
+msgstr[1] "Onaylı donanım yazılımı:"
+
+#. TRANSLATORS: configuration changes only take effect on restart
+#: src/fu-util.c:3054
+msgid "Restart the daemon to make the change effective?"
+msgstr ""
+"Değişikliklerin etkili olması için artalan süreci yeniden başlatılsın mı?"
+
+#. TRANSLATORS: success message -- a per-system setting value
+#: src/fu-util.c:3063
+msgid "Successfully modified configuration value"
+msgstr "Yapılandırma değeri başarıyla değiştirildi"
+
+#. TRANSLATORS: stop nagging the user
+#: src/fu-util.c:3127
+msgid "Ask again next time?"
+msgstr ""
+
+#. TRANSLATORS: can we JFDI?
+#: src/fu-util.c:3238
+msgid "Automatically upload every time?"
+msgstr ""
+
+#. TRANSLATORS: title prefix for the BIOS settings dialog
+#: src/fu-util.c:3400
+msgid "Configuration Change Suggested"
+msgstr ""
+
+#. TRANSLATORS: the %1 is a BIOS setting name.  %2 and %3 are the
+#. values, e.g. "True" or "Windows10"
+#: src/fu-util.c:3408
+#, c-format
+msgid ""
+"This tool can change the BIOS setting '%s' from '%s' to '%s' automatically, "
+"but it will only be active after restarting the computer."
+msgstr ""
+
+#. TRANSLATORS: the user has to manually recover; we can't do it
+#: src/fu-util.c:3417
+msgid ""
+"You should ensure you are comfortable restoring the setting from the system "
+"firmware setup, as this change may cause the system to not boot into Linux "
+"or cause other system instability."
+msgstr ""
+
+#. TRANSLATORS: error message
+#: src/fu-util.c:3632
+#, fuzzy
+#| msgid "Failed to connect to daemon"
+msgid "Unable to connect to service"
+msgstr "Artalan sürecine bağlanamadı"
+
+#. TRANSLATORS: error message
+#: src/fu-util.c:3641
+#, c-format
+msgid "Unsupported daemon version %s, client version is %s"
+msgstr "Desteklenmeyen artalan süreci sürümü %s, istemci sürümü %s"
+
+#. TRANSLATORS: user selected something not possible
+#: src/fu-util.c:3732
+msgid "Firmware is already blocked"
+msgstr ""
+
+#. TRANSLATORS: we will not offer this firmware to the user
+#: src/fu-util.c:3737
+#, fuzzy
+#| msgid "Allow switching firmware branch"
+msgid "Blocking firmware:"
+msgstr "Diğer kollara geçiş için izin verin"
+
+#. TRANSLATORS: nothing to show
+#: src/fu-util.c:3768 src/fu-util.c:3818
+#, fuzzy
+#| msgid "There is no approved firmware."
+msgid "There are no blocked firmware files"
+msgstr "Onaylı donanım yazılımı yok."
+
+#. TRANSLATORS: user selected something not possible
+#: src/fu-util.c:3787
+msgid "Firmware is not already blocked"
+msgstr ""
+
+#. TRANSLATORS: we will now offer this firmware to the user
+#: src/fu-util.c:3792
+#, fuzzy
+#| msgid "Installing Firmware…"
+msgid "Unblocking firmware:"
+msgstr "Donanım Yazılımı Kuruluyor…"
+
+#. TRANSLATORS: there follows a list of hashes
+#: src/fu-util.c:3823
+#, fuzzy
+#| msgid "Approved firmware:"
+#| msgid_plural "Approved firmware:"
+msgid "Blocked firmware files:"
+msgstr "Onaylı ürün yazılımı:"
+
+#. TRANSLATORS: error message
+#: src/fu-util.c:3955
+msgid "Unable to find attribute"
+msgstr ""
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4035
+msgid "Schedule installation for next reboot when possible"
+msgstr "Mümkün olduğunda sonraki yeniden başlatma için kurulumu zamanla"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4075
+msgid "Answer yes to all questions"
+msgstr "Tüm sorulara evet yanıtı ver"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4083
+msgid "Sign the uploaded data with the client certificate"
+msgstr "Yüklenen verileri istemci sertifikasıyla imzala"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4091
+msgid "Do not check for unreported history"
+msgstr "Bildirilmeyen geçmişi kontrol etme"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4099
+msgid "Do not check for old metadata"
+msgstr "Eski üst verileri kontrol etme"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4107
+#, fuzzy
+#| msgid "Do not check for old metadata"
+msgid "Do not check if download remotes should be enabled"
+msgstr "Eski üst verileri kontrol etme"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4139
+msgid "Do not write to the history database"
+msgstr "Geçmişi veritabanına yazma"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4171
+#, fuzzy
+#| msgid "Ignore SSL strict checks when downloading files"
+msgid "Only use IPFS when downloading files"
+msgstr "Dosyaları indirirken katı SSL kontrollerini yoksay"
+
+#. TRANSLATORS: command line option
+#: src/fu-util.c:4196
+msgid "Don't prompt for authentication (less details may be shown)"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4244
+msgid "Share firmware history with the developers"
+msgstr "Donanım yazılım geçmişini geliştiricilerle paylaş"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4249
+#, fuzzy
+#| msgid "[DEVICE-ID|GUID]"
+msgid "[DEVICE-ID|GUID] [VERSION]"
+msgstr "[DEVICE-ID|GUID]"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4259
+msgid "Install a firmware file on this hardware"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4288
+msgid "Checks cryptographic hash matches firmware"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4295
+msgid "Unlocks the device for firmware access"
+msgstr "Aygıt yazılımı erişimi için aygıt kilidini açar"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4302
+msgid "Clears the results from the last update"
+msgstr "Son güncellemenin sonuçlarını temizler"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4309
+msgid "Gets the results from the last update"
+msgstr "Son güncellemeden sonuçları alır"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4316
+msgid "Gets the releases for a device"
+msgstr "Bir aygıt için sürümleri alır"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4329
+msgid "Downgrades the firmware on a device"
+msgstr "Bir aygıttaki üretici yazılımı sürümünü düşürür"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4334
+msgid "[FILE FILE_SIG REMOTE-ID]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4343
+msgid "Update the stored cryptographic hash with current ROM contents"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4348
+#, fuzzy
+#| msgid "REMOTE-ID"
+msgid "REMOTE-ID KEY VALUE"
+msgstr "REMOTE-ID"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4350
+#, fuzzy
+#| msgid "Modify a configured remote"
+msgid "Modifies a given remote"
+msgstr "Uzak yapılandırmayı değiştir"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4355 src/fu-util.c:4362
+msgid "REMOTE-ID"
+msgstr "REMOTE-ID"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4357
+#, fuzzy
+#| msgid "Enable this remote?"
+msgid "Enables a given remote"
+msgstr "Bu uzaktan kumanda etkinleştirilsin mi?"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4364
+#, fuzzy
+#| msgid "Enable this remote?"
+msgid "Disables a given remote"
+msgstr "Bu uzaktan kumanda etkinleştirilsin mi?"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4371
+msgid "Activate devices"
+msgstr "Etkin aygıtlar"
+
+#. TRANSLATORS: firmware approved by the admin
+#: src/fu-util.c:4377
+#, fuzzy
+#| msgid "Sets the list of approved firmware"
+msgid "Gets the list of approved firmware"
+msgstr "Onaylı donanım yazılımı listesini ayarlar"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4382
+msgid "FILENAME|CHECKSUM1[,CHECKSUM2][,CHECKSUM3]"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4389
+msgid "KEY,VALUE"
+msgstr "ANAHTAR,DEĞER"
+
+#. TRANSLATORS: sets something in daemon.conf
+#: src/fu-util.c:4391
+#, fuzzy
+#| msgid "Modify daemon configuration"
+msgid "Modifies a daemon configuration value"
+msgstr "Artalan süreci yapılandırmasını değiştir"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4398
+#, fuzzy
+#| msgid "Activate the new firmware on the device"
+msgid "Reinstall current firmware on the device"
+msgstr "Aygıttaki yeni donanım yazılımını etkinleştir"
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4417
+msgid "Sync firmware versions to the host best known configuration"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4422 src/fu-util.c:4429
+msgid "[CHECKSUM]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4424
+msgid "Blocks a specific firmware from being installed"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4431
+msgid "Unblocks a specific firmware from being installed"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4437
+#, fuzzy
+#| msgid "Sets the list of approved firmware"
+msgid "Gets the list of blocked firmware"
+msgstr "Onaylı donanım yazılımı listesini ayarlar"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4448
+msgid "LOCATION"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4450
+#, fuzzy
+#| msgid "Downloading…"
+msgid "Download a file"
+msgstr "İndiriliyor…"
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4455
+msgid "[FILENAME1] [FILENAME2]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4457
+msgid "Test a device using a JSON manifest"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4463
+msgid "[SETTING1] [SETTING2] [--no-authenticate]"
+msgstr ""
+
+#. TRANSLATORS: command argument: uppercase, spaces->dashes
+#: src/fu-util.c:4470
+msgid "SETTING1 VALUE1 [SETTING2] [VALUE2]"
+msgstr ""
+
+#. TRANSLATORS: command description
+#: src/fu-util.c:4472
+msgid "Sets one or more BIOS settings"
+msgstr ""
+
+#. TRANSLATORS: CLI description
+#: src/fu-util.c:4503
+msgid ""
+"This tool allows an administrator to query and control the fwupd daemon, "
+"allowing them to perform actions such as installing or downgrading firmware."
+msgstr ""
+
+#. TRANSLATORS: try to help
+#: src/fu-util.c:4540
+msgid ""
+"The system clock has not been set correctly and downloading files may fail."
+msgstr ""
+
+#. TRANSLATORS: error message for Windows
+#: src/fu-util.c:4618
+msgid "Failed to connect to Windows service, please ensure it's running."
+msgstr ""
+
+#. TRANSLATORS: the user is SOL for support...
+#: src/fu-util.c:4632
+msgid ""
+"The daemon has loaded 3rd party code and is no longer supported by the "
+"upstream developers!"
+msgstr ""
+
+#. TRANSLATORS: error message explaining command on how to get help
+#: src/fu-util.c:4711
+msgid "Use fwupdmgr --help for help"
+msgstr ""
+
+#. TRANSLATORS: The BIOS setting can only be changed to fixed values
+#: src/fu-util-bios-setting.c:33
+#, fuzzy
+#| msgid "Duration"
+msgid "Enumeration"
+msgstr "Süre"
+
+#. TRANSLATORS: The BIOS setting only accepts integers in a fixed range
+#: src/fu-util-bios-setting.c:37
+msgid "Integer"
+msgstr ""
+
+#. TRANSLATORS: The BIOS setting accepts strings
+#: src/fu-util-bios-setting.c:41
+#, fuzzy
+#| msgid "Keyring"
+msgid "String"
+msgstr "Anahtarlık"
+
+#. TRANSLATORS: type of BIOS setting
+#: src/fu-util-bios-setting.c:107
+msgid "Setting type"
+msgstr ""
+
+#. TRANSLATORS: tell a user how to get information
+#: src/fu-util-bios-setting.c:115
+#, c-format
+msgid "Run without '%s' to see"
+msgstr ""
+
+#. TRANSLATORS: current value of a BIOS setting
+#: src/fu-util-bios-setting.c:118
+#, fuzzy
+#| msgid "Current version"
+msgid "Current Value"
+msgstr "Var olan sürüm"
+
+#. TRANSLATORS: description of BIOS setting
+#. TRANSLATORS: multiline description of device
+#: src/fu-util-bios-setting.c:124 src/fu-util-common.c:1459
+#: src/fu-util-common.c:2106
+msgid "Description"
+msgstr "Açıklama"
+
+#. TRANSLATORS: item is TRUE
+#: src/fu-util-bios-setting.c:129
+msgid "True"
+msgstr ""
+
+#. TRANSLATORS: item is FALSE
+#: src/fu-util-bios-setting.c:132
+msgid "False"
+msgstr ""
+
+#. TRANSLATORS: BIOS setting is read only
+#: src/fu-util-bios-setting.c:135
+msgid "Read Only"
+msgstr ""
+
+#. TRANSLATORS: Lowest valid integer for BIOS setting
+#: src/fu-util-bios-setting.c:150
+#, fuzzy
+#| msgid "Minimum Version"
+msgid "Minimum value"
+msgstr "Asgari Sürüm"
+
+#. TRANSLATORS: Highest valid integer for BIOS setting
+#: src/fu-util-bios-setting.c:154
+msgid "Maximum value"
+msgstr ""
+
+#. TRANSLATORS: Scalar increment for integer BIOS setting
+#: src/fu-util-bios-setting.c:158
+msgid "Scalar Increment"
+msgstr ""
+
+#. TRANSLATORS: Shortest valid string for BIOS setting
+#: src/fu-util-bios-setting.c:163
+#, fuzzy
+#| msgid "Minimum Version"
+msgid "Minimum length"
+msgstr "Asgari Sürüm"
+
+#. TRANSLATORS: Longest valid string for BIOS setting
+#: src/fu-util-bios-setting.c:167
+msgid "Maximum length"
+msgstr ""
+
+#. TRANSLATORS: Possible values for a bios setting
+#: src/fu-util-bios-setting.c:174
+msgid "Possible Values"
+msgstr ""
+
+#. TRANSLATORS: error message
+#: src/fu-util-bios-setting.c:205
+#, fuzzy
+#| msgid "Failed to parse arguments"
+msgid "Invalid arguments"
+msgstr "Bağımsız değişkenler ayrıştırılamadı"
+
+#. TRANSLATORS: error message
+#: src/fu-util-common.c:89
+#, c-format
+msgid "Mismatched daemon and client, use %s instead"
+msgstr "Artalan süreci ile istemci uyuşmadı, bunun yerine %s kullanın"
+
+#. TRANSLATORS: the vendor did not upload this
+#: src/fu-util-common.c:402
+msgid ""
+"This firmware is provided by LVFS community members and is not provided (or "
+"supported) by the original hardware vendor."
+msgstr ""
+
+#. TRANSLATORS: if it breaks, you get to keep both pieces
+#: src/fu-util-common.c:408
+msgid "Installing this update may also void any device warranty."
+msgstr ""
+
+#. TRANSLATORS: naughty vendor
+#: src/fu-util-common.c:416
+msgid "The vendor did not supply any release notes."
+msgstr ""
+
+#. TRANSLATORS: message letting the user know an downgrade is available
+#. * %1 is the device name and %2 and %3 are version strings
+#: src/fu-util-common.c:443
+#, fuzzy, c-format
+#| msgid "Downgrading %s from %s to %s... "
+msgid "Downgrade %s from %s to %s?"
+msgstr " %s, %s sürümünden %s sürümüne düşürülüyor... "
+
+#. TRANSLATORS: message letting the user know an upgrade is available
+#. * %1 is the device name and %2 and %3 are version strings
+#: src/fu-util-common.c:452
+#, fuzzy, c-format
+#| msgid "Downgrading %s from %s to %s... "
+msgid "Upgrade %s from %s to %s?"
+msgstr " %s, %s sürümünden %s sürümüne düşürülüyor... "
+
+#. TRANSLATORS: message letting the user know an upgrade is available
+#. * %1 is the device name and %2 is a version string
+#: src/fu-util-common.c:461
+#, fuzzy, c-format
+#| msgid "Alias to %s"
+msgid "Reinstall %s to %s?"
+msgstr "Takma ad %s"
+
+#. TRANSLATORS: warn the user before updating, %1 is a device name
+#: src/fu-util-common.c:483
+#, c-format
+msgid "%s and all connected devices may not be usable while updating."
+msgstr ""
+
+#. TRANSLATORS: warn the user before
+#. * updating, %1 is a device name
+#.
+#: src/fu-util-common.c:495
+#, fuzzy, c-format
+#| msgid ""
+#| "%s must remain plugged into a power source for the duration of the update "
+#| "to avoid damage."
+msgid ""
+"%s must remain connected for the duration of the update to avoid damage."
+msgstr ""
+"%s, hasar oluşmaması için güncelleme süresince güç kaynağına bağlı "
+"kalmalıdır."
+
+#. TRANSLATORS: warn the user before updating, %1 is a machine
+#. * name
+#.
+#: src/fu-util-common.c:504
+#, c-format
+msgid ""
+"%s must remain plugged into a power source for the duration of the update to "
+"avoid damage."
+msgstr ""
+"%s, hasar oluşmaması için güncelleme süresince güç kaynağına bağlı "
+"kalmalıdır."
+
+#. TRANSLATORS: explain why we want to shutdown
+#: src/fu-util-common.c:535
+msgid "An update requires the system to shutdown to complete."
+msgstr "Güncelleme işlemi için sistemin kapanması gerekir."
+
+#. TRANSLATORS: shutdown to apply the update
+#: src/fu-util-common.c:537
+msgid "Shutdown now?"
+msgstr "Kapatılsın mı?"
+
+#. TRANSLATORS: explain why we want to reboot
+#: src/fu-util-common.c:547
+msgid "An update requires a reboot to complete."
+msgstr "Güncelleme işlemi için yeniden başlatma gerekir."
+
+#. TRANSLATORS: reboot to apply the update
+#: src/fu-util-common.c:549
+msgid "Restart now?"
+msgstr "Yeniden başlatılsın mı?"
+
+#. TRANSLATORS: this is the default branch name when unset
+#: src/fu-util-common.c:693
+msgid "default"
+msgstr ""
+
+#. TRANSLATORS: a specific part of hardware,
+#. * the first %s is the device name, e.g. 'Unifying Receiver`
+#: src/fu-util-common.c:709
+#, c-format
+msgid "%s Device Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: a specific part of hardware,
+#. * the first %s is the device name, e.g. 'Secure Boot`
+#: src/fu-util-common.c:714
+#, fuzzy, c-format
+#| msgid "%s Controller Update"
+msgid "%s Configuration Update"
+msgstr "%s Denetleyici Güncellemesi"
+
+#. TRANSLATORS: the entire system, e.g. all internal devices,
+#. * the first %s is the device name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:719
+#, c-format
+msgid "%s System Update"
+msgstr "%s Sistem Güncellemesi"
+
+#. TRANSLATORS: the EC is typically the keyboard controller chip,
+#. * the first %s is the device name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:724
+#, c-format
+msgid "%s Embedded Controller Update"
+msgstr "%s Gömülü Denetleyici Güncellemesi"
+
+#. TRANSLATORS: ME stands for Management Engine, the Intel AMT thing,
+#. * the first %s is the device name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:729
+#, c-format
+msgid "%s ME Update"
+msgstr "%s ME Güncellemesi"
+
+#. TRANSLATORS: ME stands for Management Engine (with Intel AMT),
+#. * where the first %s is the device name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:734
+#, c-format
+msgid "%s Corporate ME Update"
+msgstr "%s Kurumsal ME Güncellemesi"
+
+#. TRANSLATORS: ME stands for Management Engine, where
+#. * the first %s is the device name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:739
+#, c-format
+msgid "%s Consumer ME Update"
+msgstr "%s Tüketici ME Güncellemesi"
+
+#. TRANSLATORS: the controller is a device that has other devices
+#. * plugged into it, for example ThunderBolt, FireWire or USB,
+#. * the first %s is the device name, e.g. 'Intel ThunderBolt`
+#: src/fu-util-common.c:745
+#, c-format
+msgid "%s Controller Update"
+msgstr "%s Denetleyici Güncellemesi"
+
+#. TRANSLATORS: the Thunderbolt controller is a device that
+#. * has other high speed Thunderbolt devices plugged into it;
+#. * the first %s is the system name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:751
+#, c-format
+msgid "%s Thunderbolt Controller Update"
+msgstr "%s Thunderbolt Denetleyici Güncellemesi"
+
+#. TRANSLATORS: the CPU microcode is firmware loaded onto the CPU
+#. * at system bootup
+#: src/fu-util-common.c:756
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s CPU Microcode Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: battery refers to the system power source
+#: src/fu-util-common.c:760
+#, fuzzy, c-format
+#| msgid "%s System Update"
+msgid "%s Battery Update"
+msgstr "%s Sistem Güncellemesi"
+
+#. TRANSLATORS: camera can refer to the laptop internal
+#. * camera in the bezel or external USB webcam
+#: src/fu-util-common.c:765
+#, fuzzy, c-format
+#| msgid "%s Consumer ME Update"
+msgid "%s Camera Update"
+msgstr "%s Tüketici ME Güncellemesi"
+
+#. TRANSLATORS: TPM refers to a Trusted Platform Module
+#: src/fu-util-common.c:769
+#, fuzzy, c-format
+#| msgid "%s ME Update"
+msgid "%s TPM Update"
+msgstr "%s ME Güncellemesi"
+
+#. TRANSLATORS: TouchPad refers to a flat input device
+#: src/fu-util-common.c:773
+#, fuzzy, c-format
+#| msgid "%s ME Update"
+msgid "%s Touchpad Update"
+msgstr "%s ME Güncellemesi"
+
+#. TRANSLATORS: Mouse refers to a handheld input device
+#: src/fu-util-common.c:777
+#, fuzzy, c-format
+#| msgid "%s ME Update"
+msgid "%s Mouse Update"
+msgstr "%s ME Güncellemesi"
+
+#. TRANSLATORS: Keyboard refers to an input device for typing
+#: src/fu-util-common.c:781
+#, fuzzy, c-format
+#| msgid "%s ME Update"
+msgid "%s Keyboard Update"
+msgstr "%s ME Güncellemesi"
+
+#. TRANSLATORS: Storage Controller is typically a RAID or SAS adapter
+#: src/fu-util-common.c:785
+#, fuzzy, c-format
+#| msgid "%s Controller Update"
+msgid "%s Storage Controller Update"
+msgstr "%s Denetleyici Güncellemesi"
+
+#. TRANSLATORS: Network Interface refers to the physical
+#. * PCI card, not the logical wired connection
+#: src/fu-util-common.c:790
+#, fuzzy, c-format
+#| msgid "%s Controller Update"
+msgid "%s Network Interface Update"
+msgstr "%s Denetleyici Güncellemesi"
+
+#. TRANSLATORS: Video Display refers to the laptop internal display or
+#. * external monitor
+#: src/fu-util-common.c:795
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s Display Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: BMC refers to baseboard management controller which
+#. * is the device that updates all the other firmware on the system
+#: src/fu-util-common.c:800
+#, fuzzy, c-format
+#| msgid "%s ME Update"
+msgid "%s BMC Update"
+msgstr "%s ME Güncellemesi"
+
+#. TRANSLATORS: Receiver refers to a radio device, e.g. a tiny Bluetooth
+#. * device that stays in the USB port so the wireless peripheral works
+#: src/fu-util-common.c:805
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s USB Receiver Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: drive refers to a storage device, e.g. SATA disk
+#: src/fu-util-common.c:809
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s Drive Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: flash refers to solid state storage, e.g. UFS or eMMC
+#: src/fu-util-common.c:813
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s Flash Drive Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: SSD refers to a Solid State Drive, e.g. non-rotating
+#. * SATA or NVMe disk
+#: src/fu-util-common.c:818
+#, fuzzy, c-format
+#| msgid "%s Update"
+msgid "%s SSD Update"
+msgstr "%s Güncellemesi"
+
+#. TRANSLATORS: GPU refers to a Graphics Processing Unit, e.g.
+#. * the "video card"
+#: src/fu-util-common.c:823
+#, fuzzy, c-format
+#| msgid "%s Update"
+msgid "%s GPU Update"
+msgstr "%s Güncellemesi"
+
+#. TRANSLATORS: Dock refers to the port replicator hardware laptops are
+#. * cradled in, or lowered onto
+#: src/fu-util-common.c:828
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s Dock Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: Dock refers to the port replicator device connected
+#. * by plugging in a USB cable -- which may or may not also provide power
+#: src/fu-util-common.c:833
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s USB Dock Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: a device that can read your fingerprint pattern
+#: src/fu-util-common.c:837
+#, fuzzy, c-format
+#| msgid "%s Corporate ME Update"
+msgid "%s Fingerprint Reader Update"
+msgstr "%s Kurumsal ME Güncellemesi"
+
+#. TRANSLATORS: a large pressure-sensitive drawing area typically used
+#. * by artists and digital artists
+#: src/fu-util-common.c:842
+#, fuzzy, c-format
+#| msgid "%s Device Update"
+msgid "%s Graphics Tablet Update"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: this is the fallback where we don't know if the release
+#. * is updating the system, the device, or a device class, or something else --
+#. * the first %s is the device name, e.g. 'ThinkPad P50`
+#: src/fu-util-common.c:849
+#, c-format
+msgid "%s Update"
+msgstr "%s Güncellemesi"
+
+#. TRANSLATORS: duration in seconds
+#: src/fu-util-common.c:1138
+#, c-format
+msgid "%u second"
+msgid_plural "%u seconds"
+msgstr[0] "%u saniye"
+msgstr[1] "%u saniye"
+
+#. TRANSLATORS: duration in minutes
+#: src/fu-util-common.c:1145
+#, c-format
+msgid "%u minute"
+msgid_plural "%u minutes"
+msgstr[0] "%u dakika"
+msgstr[1] "%u dakika"
+
+#. TRANSLATORS: duration in minutes
+#: src/fu-util-common.c:1152
+#, c-format
+msgid "%u hour"
+msgid_plural "%u hours"
+msgstr[0] "%u saat"
+msgstr[1] "%u saat"
+
+#. TRANSLATORS: duration in days!
+#: src/fu-util-common.c:1158
+#, c-format
+msgid "%u day"
+msgid_plural "%u days"
+msgstr[0] "%u gün"
+msgstr[1] "%u gün"
+
+#. TRANSLATORS: Device cannot be removed easily
+#: src/fu-util-common.c:1169
+msgid "Internal device"
+msgstr "Dahili aygıt"
+
+#. TRANSLATORS: Device is updatable in this or any other mode
+#: src/fu-util-common.c:1174
+msgid "Updatable"
+msgstr "Güncellenebilir"
+
+#. TRANSLATORS: Update can only be done from offline mode
+#: src/fu-util-common.c:1178
+msgid "Update requires a reboot"
+msgstr "Güncelleme için yeniden başlatma gerekli"
+
+#. TRANSLATORS: Must be plugged into an outlet
+#: src/fu-util-common.c:1182
+msgid "System requires external power source"
+msgstr ""
+
+#. TRANSLATORS: Is locked and can be unlocked
+#: src/fu-util-common.c:1186
+msgid "Device is locked"
+msgstr "Aygıt kilitli"
+
+#. TRANSLATORS: Is found in current metadata
+#: src/fu-util-common.c:1190
+msgid "Supported on remote server"
+msgstr "Uzak sunucuda desteklenir"
+
+#. TRANSLATORS: Requires a bootloader mode to be manually enabled by the user
+#: src/fu-util-common.c:1194
+#, fuzzy
+#| msgid "Update requires a reboot"
+msgid "Requires a bootloader"
+msgstr "Güncelleme için yeniden başlatma gerekli"
+
+#. TRANSLATORS: Requires a reboot to apply firmware or to reload hardware
+#: src/fu-util-common.c:1198
+msgid "Needs a reboot after installation"
+msgstr ""
+
+#. TRANSLATORS: Requires system shutdown to apply firmware
+#: src/fu-util-common.c:1202
+msgid "Needs shutdown after installation"
+msgstr ""
+
+#. TRANSLATORS: Has been reported to a metadata server
+#: src/fu-util-common.c:1206
+msgid "Reported to remote server"
+msgstr "Uzak sunucuya bildirildi"
+
+#. TRANSLATORS: User has been notified
+#: src/fu-util-common.c:1210
+msgid "User has been notified"
+msgstr "Kullanıcı bilgilendirildi"
+
+#. TRANSLATORS: Install composite firmware on the parent before the child
+#: src/fu-util-common.c:1218
+#, fuzzy
+#| msgid "Install signed device firmware"
+msgid "Install to parent device first"
+msgstr "İmzalı aygıt donanım yazılımını yükle"
+
+#. TRANSLATORS: Is currently in bootloader mode
+#: src/fu-util-common.c:1222
+msgid "Is in bootloader mode"
+msgstr ""
+
+#. TRANSLATORS: the hardware is waiting to be replugged
+#: src/fu-util-common.c:1226
+msgid "Hardware is waiting to be replugged"
+msgstr "Donanım yeniden takılmayı bekliyor"
+
+#. TRANSLATORS: Ignore validation safety checks when flashing this device
+#: src/fu-util-common.c:1230
+#, fuzzy
+#| msgid "Do not perform device safety checks"
+msgid "Ignore validation safety checks"
+msgstr "Cihaz güvenlik kontrolleri yapma"
+
+#. TRANSLATORS: Device update needs to be separately activated
+#: src/fu-util-common.c:1238
+#, fuzzy
+#| msgid "Device update method"
+msgid "Device update needs activation"
+msgstr "Aygıt güncelleme yöntemi"
+
+#. TRANSLATORS: Device will not return after update completes
+#: src/fu-util-common.c:1246
+msgid "Device will not re-appear after update completes"
+msgstr ""
+
+#. TRANSLATORS: Device supports some form of checksum verification
+#: src/fu-util-common.c:1250
+msgid "Cryptographic hash verification is available"
+msgstr ""
+
+#. TRANSLATORS: Device supports a safety mechanism for flashing
+#: src/fu-util-common.c:1258
+#, fuzzy
+#| msgid "%s Device Update"
+msgid "Device stages updates"
+msgstr "%s Aygıt Güncellemesi"
+
+#. TRANSLATORS: Device supports a safety mechanism for flashing
+#: src/fu-util-common.c:1262
+msgid "Device can recover flash failures"
+msgstr ""
+
+#. TRANSLATORS: Device remains usable during update
+#: src/fu-util-common.c:1266
+msgid "Device is usable for the duration of the update"
+msgstr ""
+
+#. TRANSLATORS: a version check is required for all firmware
+#: src/fu-util-common.c:1270
+msgid "Device firmware is required to have a version check"
+msgstr ""
+
+#. TRANSLATORS: the device cannot update from A->C and has to go A->B->C
+#: src/fu-util-common.c:1274
+msgid "Device is required to install all provided releases"
+msgstr ""
+
+#. TRANSLATORS: there is more than one supplier of the firmware
+#: src/fu-util-common.c:1278
+msgid "Device supports switching to a different branch of firmware"
+msgstr ""
+
+#. TRANSLATORS: save the old firmware to disk before installing the new one
+#: src/fu-util-common.c:1282
+msgid "Device will backup firmware before installing"
+msgstr ""
+
+#. TRANSLATORS: on some systems certain devices have to have matching versions,
+#. * e.g. the EFI driver for a given network card cannot be different
+#: src/fu-util-common.c:1287
+msgid "All devices of the same type will be updated at the same time"
+msgstr ""
+
+#. TRANSLATORS: some devices can only be updated to a new semver and cannot
+#. * be downgraded or reinstalled with the existing version
+#: src/fu-util-common.c:1292
+msgid "Only version upgrades are allowed"
+msgstr ""
+
+#. TRANSLATORS: currently unreachable, perhaps because it is in a lower power state
+#. * or is out of wireless range
+#: src/fu-util-common.c:1297
+#, fuzzy
+#| msgid "Device is locked"
+msgid "Device is unreachable"
+msgstr "Aygıt kilitli"
+
+#. TRANSLATORS: we might ask the user the recovery key when next booting Windows
+#: src/fu-util-common.c:1301
+msgid "Full disk encryption secrets may be invalidated when updating"
+msgstr ""
+
+#. TRANSLATORS: the vendor is no longer supporting the device
+#: src/fu-util-common.c:1305
+msgid "End of life"
+msgstr ""
+
+#. TRANSLATORS: firmware is verified on-device the payload using strong crypto
+#: src/fu-util-common.c:1309
+msgid "Signed Payload"
+msgstr ""
+
+#. TRANSLATORS: firmware payload is unsigned and it is possible to modify it
+#: src/fu-util-common.c:1313
+msgid "Unsigned Payload"
+msgstr ""
+
+#. TRANSLATORS: the update state of the specific device
+#: src/fu-util-common.c:1330
+msgid "Pending"
+msgstr ""
+
+#. TRANSLATORS: the update state of the specific device
+#: src/fu-util-common.c:1334
+msgid "Success"
+msgstr ""
+
+#. TRANSLATORS: the update state of the specific device
+#: src/fu-util-common.c:1342
+msgid "Transient failure"
+msgstr ""
+
+#. TRANSLATORS: the update state of the specific device
+#: src/fu-util-common.c:1346
+#, fuzzy
+#| msgid "Failed to reboot"
+msgid "Needs reboot"
+msgstr "Yeniden başlatılamadı"
+
+#. TRANSLATORS: as in laptop battery power
+#: src/fu-util-common.c:1362
+msgid "System power is too low to perform the update"
+msgstr ""
+
+#. TRANSLATORS: as in laptop battery power
+#: src/fu-util-common.c:1366
+#, c-format
+msgid "System power is too low to perform the update (%u%%, requires %u%%)"
+msgstr ""
+
+#. TRANSLATORS: for example, a Bluetooth mouse that is in powersave mode
+#: src/fu-util-common.c:1372
+msgid "Device is unreachable, or out of wireless range"
+msgstr ""
+
+#. TRANSLATORS: for example the batteries *inside* the Bluetooth mouse
+#: src/fu-util-common.c:1378
+msgid "Device battery power is too low"
+msgstr ""
+
+#. TRANSLATORS: for example the batteries *inside* the Bluetooth mouse
+#: src/fu-util-common.c:1381
+#, c-format
+msgid "Device battery power is too low (%u%%, requires %u%%)"
+msgstr ""
+
+#. TRANSLATORS: usually this is when we're waiting for a reboot
+#: src/fu-util-common.c:1387
+msgid "Device is waiting for the update to be applied"
+msgstr ""
+
+#. TRANSLATORS: as in, wired mains power for a laptop
+#: src/fu-util-common.c:1391
+msgid "Device requires AC power to be connected"
+msgstr ""
+
+#. TRANSLATORS: lid means "laptop top cover"
+#: src/fu-util-common.c:1395
+msgid "Device cannot be used while the lid is closed"
+msgstr ""
+
+#. TRANSLATORS: emulated means we are pretending to be a different model
+#: src/fu-util-common.c:1399
+#, fuzzy
+#| msgid "Device is locked"
+msgid "Device is emulated"
+msgstr "Aygıt kilitli"
+
+#. TRANSLATORS: The device cannot be updated due to missing vendor's license."
+#: src/fu-util-common.c:1403
+msgid "Device requires a software license to update"
+msgstr ""
+
+#. TRANSLATORS: Name of hardware
+#: src/fu-util-common.c:1434
+msgid "Unknown Device"
+msgstr "Bilinmeyen Aygıt"
+
+#. TRANSLATORS: ID for hardware, typically a SHA1 sum
+#: src/fu-util-common.c:1441
+msgid "Device ID"
+msgstr "Aygıt Kimliği"
+
+#. TRANSLATORS: one line summary of device
+#: src/fu-util-common.c:1448 src/fu-util-common.c:2002
+msgid "Summary"
+msgstr "Özet"
+
+#. TRANSLATORS: version number of previous firmware
+#: src/fu-util-common.c:1476
+msgid "Previous version"
+msgstr "Önceki sürüm"
+
+#. TRANSLATORS: version number of current firmware
+#: src/fu-util-common.c:1480
+msgid "Current version"
+msgstr "Var olan sürüm"
+
+#. TRANSLATORS: smallest version number installable on device
+#: src/fu-util-common.c:1486
+msgid "Minimum Version"
+msgstr "Asgari Sürüm"
+
+#. TRANSLATORS: firmware version of bootloader
+#: src/fu-util-common.c:1491
+msgid "Bootloader Version"
+msgstr "Önyükleyici Sürümü"
+
+#. TRANSLATORS: manufacturer of hardware
+#: src/fu-util-common.c:1500 src/fu-util-common.c:1503
+#: src/fu-util-common.c:1507 src/fu-util-common.c:2061
+msgid "Vendor"
+msgstr "Üretici"
+
+#. TRANSLATORS: the stream of firmware, e.g. nonfree or open-source
+#: src/fu-util-common.c:1516
+msgid "Release Branch"
+msgstr ""
+
+#. TRANSLATORS: length of time the update takes to apply
+#: src/fu-util-common.c:1525
+msgid "Install Duration"
+msgstr "Kurulum Süresi"
+
+#. TRANSLATORS: serial number of hardware
+#: src/fu-util-common.c:1532
+msgid "Serial Number"
+msgstr "Seri Numarası"
+
+#. TRANSLATORS: hardware state, e.g. "pending"
+#: src/fu-util-common.c:1541
+msgid "Update State"
+msgstr "Güncelleme Durumu"
+
+#. TRANSLATORS: helpful messages from last update
+#. TRANSLATORS: helpful messages for the update
+#: src/fu-util-common.c:1553 src/fu-util-common.c:2074
+msgid "Update Message"
+msgstr "Güncelleme İletisi"
+
+#. TRANSLATORS: first percentage is current value, 2nd percentage is the
+#. * lowest limit the firmware update is allowed for the update to happen
+#: src/fu-util-common.c:1566
+#, c-format
+msgid "%u%% (threshold %u%%)"
+msgstr ""
+
+#. TRANSLATORS: refers to the battery inside the peripheral device
+#: src/fu-util-common.c:1570 src/fu-util-common.c:1575
+msgid "Battery"
+msgstr ""
+
+#. TRANSLATORS: error message from last update attempt
+#: src/fu-util-common.c:1585
+msgid "Update Error"
+msgstr "Güncelleme Hatası"
+
+#. TRANSLATORS: reasons the device is not updatable
+#: src/fu-util-common.c:1589
+msgid "Problems"
+msgstr ""
+
+#. TRANSLATORS: the original time/date the device was modified
+#: src/fu-util-common.c:1615
+msgid "Last modified"
+msgstr "Son değiştirilme"
+
+#. TRANSLATORS: global ID common to all similar hardware
+#: src/fu-util-common.c:1641
+msgid "GUID"
+msgid_plural "GUIDs"
+msgstr[0] "GUID"
+msgstr[1] "GUIDs"
+
+#. TRANSLATORS: description of device ability
+#: src/fu-util-common.c:1649
+msgid "Device Flags"
+msgstr "Aygıt Bayrakları"
+
+#. TRANSLATORS: issue fixed with the release, e.g. CVE
+#: src/fu-util-common.c:1673 src/fu-util-common.c:2114
+msgid "Issue"
+msgid_plural "Issues"
+msgstr[0] "Sorunlar"
+msgstr[1] "Sorunlar"
+
+#. TRANSLATORS: Plugin is active only if hardware is found
+#: src/fu-util-common.c:1691
+#, fuzzy
+#| msgid "Watch for hardware changes"
+msgid "Enabled if hardware matches"
+msgstr "Donanım değişikliklerini izle"
+
+#. TRANSLATORS: not required for this system
+#: src/fu-util-common.c:1703
+msgid "Required hardware was not found"
+msgstr ""
+
+#. TRANSLATORS: system is not booted in UEFI mode
+#: src/fu-util-common.c:1707
+msgid "UEFI firmware can not be updated in legacy BIOS mode"
+msgstr ""
+
+#. TRANSLATORS: capsule updates are an optional BIOS feature
+#: src/fu-util-common.c:1711
+msgid "UEFI capsule updates not available or enabled in firmware setup"
+msgstr ""
+
+#. TRANSLATORS: user needs to run a command
+#: src/fu-util-common.c:1715
+msgid "Firmware updates disabled; run 'fwupdmgr unlock' to enable"
+msgstr ""
+
+#. TRANSLATORS: user needs to run a command
+#: src/fu-util-common.c:1719
+#, fuzzy
+#| msgid "Authentication is required to unlock a device"
+msgid "Authentication details are required"
+msgstr "Bir aygıtın kilidini açmak için kimlik doğrulama gerekir"
+
+#. TRANSLATORS: no peeking
+#: src/fu-util-common.c:1723
+msgid "Configuration is only readable by the system administrator"
+msgstr ""
+
+#. TRANSLATORS: the plugin was created from a .so object, and was not built-in
+#: src/fu-util-common.c:1727
+msgid "Loaded from an external module"
+msgstr ""
+
+#. TRANSLATORS: check various UEFI and ACPI tables are unchanged after the update
+#: src/fu-util-common.c:1731
+msgid "Will measure elements of system integrity around an update"
+msgstr ""
+
+#. TRANSLATORS: the user is using Gentoo/Arch and has screwed something up
+#: src/fu-util-common.c:1735
+msgid "Required efivarfs filesystem was not found"
+msgstr ""
+
+#. TRANSLATORS: partition refers to something on disk, again, hey Arch users
+#: src/fu-util-common.c:1739
+msgid "UEFI ESP partition not detected or configured"
+msgstr ""
+
+#. TRANSLATORS: Failed to open plugin, hey Arch users
+#: src/fu-util-common.c:1743
+msgid "Plugin dependencies missing"
+msgstr ""
+
+#. TRANSLATORS: The kernel does not support this plugin
+#: src/fu-util-common.c:1747
+msgid "Running kernel is too old"
+msgstr ""
+
+#. TRANSLATORS: description of plugin state, e.g. disabled
+#: src/fu-util-common.c:1800
+msgid "Flags"
+msgstr "Bayraklar"
+
+#. TRANSLATORS: a non-free software license
+#: src/fu-util-common.c:1835
+msgid "Proprietary"
+msgstr "Sahipli"
+
+#. TRANSLATORS: the release urgency
+#: src/fu-util-common.c:1845
+msgid "Low"
+msgstr "Düşük"
+
+#. TRANSLATORS: the release urgency
+#: src/fu-util-common.c:1849
+msgid "Medium"
+msgstr "Orta"
+
+#. TRANSLATORS: the release urgency
+#: src/fu-util-common.c:1853
+msgid "High"
+msgstr "Yüksek"
+
+#. TRANSLATORS: the release urgency
+#: src/fu-util-common.c:1857
+msgid "Critical"
+msgstr "Kritik"
+
+#. TRANSLATORS: We verified the payload against the server
+#: src/fu-util-common.c:1870
+msgid "Trusted payload"
+msgstr ""
+
+#. TRANSLATORS: We verified the metadata against the server
+#: src/fu-util-common.c:1874
+msgid "Trusted metadata"
+msgstr ""
+
+#. TRANSLATORS: version is newer
+#: src/fu-util-common.c:1878
+msgid "Is upgrade"
+msgstr ""
+
+#. TRANSLATORS: version is older
+#: src/fu-util-common.c:1882
+msgid "Is downgrade"
+msgstr ""
+
+#. TRANSLATORS: version cannot be installed due to policy
+#: src/fu-util-common.c:1886
+#, fuzzy
+#| msgid "New version"
+msgid "Blocked version"
+msgstr "Yeni sürüm"
+
+#. TRANSLATORS: version cannot be installed due to policy
+#: src/fu-util-common.c:1890
+#, fuzzy
+#| msgid "Not supported"
+msgid "Not approved"
+msgstr "Desteklenmiyor"
+
+#. TRANSLATORS: is not the main firmware stream
+#: src/fu-util-common.c:1894
+msgid "Alternate branch"
+msgstr ""
+
+#. TRANSLATORS: is not supported by the vendor
+#: src/fu-util-common.c:1898
+#, fuzzy
+#| msgid "Not supported"
+msgid "Community supported"
+msgstr "Desteklenmiyor"
+
+#. TRANSLATORS: the %s is a vendor name, e.g. Lenovo
+#: src/fu-util-common.c:1912
+#, c-format
+msgid "Tested by %s"
+msgstr ""
+
+#. TRANSLATORS: when the release was tested
+#: src/fu-util-common.c:1919
+msgid "Tested"
+msgstr ""
+
+#. TRANSLATORS: the OS the release was tested on
+#: src/fu-util-common.c:1932
+#, fuzzy
+#| msgid "Description"
+msgid "Distribution"
+msgstr "Açıklama"
+
+#. TRANSLATORS: the firmware old version
+#: src/fu-util-common.c:1938
+#, fuzzy
+#| msgid "%s version"
+msgid "Old version"
+msgstr "%s sürümü"
+
+#. TRANSLATORS: the fwupd version the release was tested on
+#: src/fu-util-common.c:1944
+#, fuzzy
+#| msgid "Version"
+msgid "Version[fwupd]"
+msgstr "Sürüm"
+
+#. TRANSLATORS: version number of new firmware
+#: src/fu-util-common.c:1974
+msgid "New version"
+msgstr "Yeni sürüm"
+
+#. TRANSLATORS: the server the file is coming from
+#. TRANSLATORS: remote identifier, e.g. lvfs-testing
+#: src/fu-util-common.c:1980 src/fu-util-common.c:2146
+msgid "Remote ID"
+msgstr "Uzak Kimlik"
+
+#. TRANSLATORS: the exact component on the server
+#: src/fu-util-common.c:1987
+#, fuzzy
+#| msgid "Remote ID"
+msgid "Release ID"
+msgstr "Uzak Kimlik"
+
+#. TRANSLATORS: the stream of firmware, e.g. nonfree or open-source
+#: src/fu-util-common.c:1995
+msgid "Branch"
+msgstr ""
+
+#. TRANSLATORS: one line variant of release (e.g. 'Prerelease' or 'China')
+#: src/fu-util-common.c:2010
+msgid "Variant"
+msgstr "Türev"
+
+#. TRANSLATORS: e.g. GPLv2+, Proprietary etc
+#: src/fu-util-common.c:2016
+msgid "License"
+msgstr "Lisans"
+
+#. TRANSLATORS: file size of the download
+#: src/fu-util-common.c:2022
+msgid "Size"
+msgstr "Boyut"
+
+#. TRANSLATORS: when the update was built
+#: src/fu-util-common.c:2029
+msgid "Created"
+msgstr ""
+
+#. TRANSLATORS: how important the release is
+#: src/fu-util-common.c:2036
+msgid "Urgency"
+msgstr ""
+
+#. TRANSLATORS: more details about the update link
+#: src/fu-util-common.c:2047
+msgid "Details"
+msgstr "Ayrıntılar"
+
+#. TRANSLATORS: source (as in code) link
+#: src/fu-util-common.c:2054
+msgid "Source"
+msgstr "Kaynak"
+
+#. TRANSLATORS: length of time the update takes to apply
+#: src/fu-util-common.c:2068
+msgid "Duration"
+msgstr "Süre"
+
+#. TRANSLATORS: helpful image for the update
+#: src/fu-util-common.c:2081
+#, fuzzy
+#| msgid "Update Message"
+msgid "Update Image"
+msgstr "Güncelleme İletisi"
+
+#. TRANSLATORS: release attributes
+#: src/fu-util-common.c:2086
+#, fuzzy
+#| msgid "Device Flags"
+msgid "Release Flags"
+msgstr "Aygıt Bayrakları"
+
+#. TRANSLATORS: release tag set for release, e.g. lenovo-2021q3
+#: src/fu-util-common.c:2125
+#, fuzzy
+#| msgid "Target"
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] "Hedef"
+msgstr[1] "Hedef"
+
+#. TRANSLATORS: remote type, e.g. remote or local
+#: src/fu-util-common.c:2149
+msgid "Type"
+msgstr "Tür"
+
+#. TRANSLATORS: keyring type, e.g. GPG or PKCS7
+#: src/fu-util-common.c:2155
+msgid "Keyring"
+msgstr "Anahtarlık"
+
+#. TRANSLATORS: remote checksum
+#: src/fu-util-common.c:2168
+msgid "Checksum"
+msgstr "Sağlama Toplamı"
+
+#. TRANSLATORS: the age of the metadata
+#: src/fu-util-common.c:2195
+msgid "Age"
+msgstr "Yaş"
+
+#. TRANSLATORS: the numeric priority
+#: src/fu-util-common.c:2202
+msgid "Priority"
+msgstr "Öncelik"
+
+#. TRANSLATORS: remote filename base
+#: src/fu-util-common.c:2207
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#. TRANSLATORS: remote filename base
+#: src/fu-util-common.c:2213
+msgid "Password"
+msgstr "Parola"
+
+#. TRANSLATORS: filename of the local file
+#: src/fu-util-common.c:2218
+msgid "Filename"
+msgstr "Dosya adı"
+
+#. TRANSLATORS: filename of the local file
+#: src/fu-util-common.c:2223
+msgid "Filename Signature"
+msgstr "Dosya Adı İmzası"
+
+#. TRANSLATORS: full path of the remote.conf file
+#: src/fu-util-common.c:2228
+#, fuzzy
+#| msgid "Filename Signature"
+msgid "Filename Source"
+msgstr "Dosya Adı İmzası"
+
+#. TRANSLATORS: remote URI
+#: src/fu-util-common.c:2233
+msgid "Metadata URI"
+msgstr "Üst veri URI"
+
+#. TRANSLATORS: remote URI
+#: src/fu-util-common.c:2238
+msgid "Metadata Signature"
+msgstr "Üst Veri İmzası"
+
+#. TRANSLATORS: remote URI
+#: src/fu-util-common.c:2243
+msgid "Firmware Base URI"
+msgstr "Donanım Yazılımı Temel URI"
+
+#. TRANSLATORS: URI to send success/failure reports
+#: src/fu-util-common.c:2248
+msgid "Report URI"
+msgstr "Rapor URI"
+
+#. TRANSLATORS: Boolean value to automatically send reports
+#: src/fu-util-common.c:2252
+msgid "Automatic Reporting"
+msgstr "Otomatik Raporla"
+
+#. TRANSLATORS: warning message shown after update has been scheduled
+#: src/fu-util-common.c:2265
+msgid ""
+"The update will continue when the device USB cable has been unplugged and "
+"then re-inserted."
+msgstr ""
+
+#. TRANSLATORS: warning message shown after update has been scheduled
+#: src/fu-util-common.c:2270
+msgid "The update will continue when the device USB cable has been unplugged."
+msgstr ""
+
+#. TRANSLATORS: warning message shown after update has been scheduled
+#: src/fu-util-common.c:2275
+msgid ""
+"The update will continue when the device USB cable has been re-inserted."
+msgstr ""
+
+#. TRANSLATORS: warning message
+#: src/fu-util-common.c:2280
+msgid "Press unlock on the device to continue the update process."
+msgstr ""
+
+#. TRANSLATORS: warning message shown after update has been scheduled
+#: src/fu-util-common.c:2284
+msgid ""
+"Do not turn off your computer or remove the AC adaptor while the update is "
+"in progress."
+msgstr ""
+
+#. TRANSLATORS: this is shown as a suffix for obsoleted tests
+#: src/fu-util-common.c:2335
+msgid "(obsoleted)"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2353
+msgid "IOMMU device protection enabled"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2358
+msgid "IOMMU device protection disabled"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2377
+msgid "Kernel is no longer tainted"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2382
+msgid "Kernel is tainted"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2388
+#, fuzzy
+#| msgid "Linux kernel lockdown"
+msgid "Kernel lockdown disabled"
+msgstr "Linux kernel lockdown"
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2393
+#, fuzzy
+#| msgid "Linux kernel lockdown"
+msgid "Kernel lockdown enabled"
+msgstr "Linux kernel lockdown"
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2399
+msgid "Pre-boot DMA protection is disabled"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2404
+msgid "Pre-boot DMA protection is enabled"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2410
+msgid "Secure Boot disabled"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2415
+msgid "Secure Boot enabled"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2421
+msgid "All TPM PCRs are valid"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2426
+msgid "A TPM PCR is now an invalid value"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2431
+msgid "All TPM PCRs are now valid"
+msgstr ""
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2437
+#, fuzzy
+#| msgid "TPM PCR0 reconstruction"
+msgid "TPM PCR0 reconstruction is invalid"
+msgstr "TPM PCR0 reconstruction"
+
+#. TRANSLATORS: HSI event title
+#: src/fu-util-common.c:2442
+#, fuzzy
+#| msgid "TPM PCR0 reconstruction"
+msgid "TPM PCR0 reconstruction is now valid"
+msgstr "TPM PCR0 reconstruction"
+
+#. TRANSLATORS: %1 refers to some kind of security test, e.g. "SPI BIOS region".
+#. %2 refers to a result value, e.g. "Invalid"
+#: src/fu-util-common.c:2467
+#, c-format
+msgid "%s disappeared: %s"
+msgstr ""
+
+#. TRANSLATORS: %1 refers to some kind of security test, e.g. "Encrypted RAM".
+#. %2 refers to a result value, e.g. "Invalid"
+#: src/fu-util-common.c:2479
+#, c-format
+msgid "%s appeared: %s"
+msgstr ""
+
+#. TRANSLATORS: %1 refers to some kind of security test, e.g. "UEFI platform key".
+#. * %2 and %3 refer to results value, e.g. "Valid" and "Invalid"
+#: src/fu-util-common.c:2489
+#, c-format
+msgid "%s changed: %s → %s"
+msgstr ""
+
+#. TRANSLATORS: title for host security events
+#: src/fu-util-common.c:2534
+#, fuzzy
+#| msgid "Host Security ID:"
+msgid "Host Security Events"
+msgstr "Host Güvenlik Kimliği:"
+
+#. TRANSLATORS: now list devices with unfixed high-priority issues
+#: src/fu-util-common.c:2562
+msgid "There are devices with issues:"
+msgstr ""
+
+#. TRANSLATORS:  this is the HSI suffix
+#: src/fu-util-common.c:2628
+msgid "Runtime Suffix"
+msgstr ""
+
+#. TRANSLATORS: this is instructions on how to improve the HSI security level
+#: src/fu-util-common.c:2650
+msgid "This system has a low HSI security level."
+msgstr ""
+
+#. TRANSLATORS: this is instructions on how to improve the HSI suffix
+#: src/fu-util-common.c:2658
+msgid "This system has HSI runtime issues."
+msgstr ""
+
+#. TRANSLATORS: this is more background on a security measurement problem
+#: src/fu-util-common.c:2667
+#, fuzzy
+#| msgid "TPM PCR0 reconstruction"
+msgid "The TPM PCR0 differs from reconstruction."
+msgstr "TPM PCR0 reconstruction"
+
+#. TRANSLATORS: %1 is the firmware vendor, %2 is the device vendor name
+#: src/fu-util-common.c:2818
+#, c-format
+msgid "The firmware from %s is not supplied by %s, the hardware vendor."
+msgstr ""
+
+#. TRANSLATORS: %1 is the device vendor name
+#: src/fu-util-common.c:2825
+#, c-format
+msgid ""
+"Your hardware may be damaged using this firmware, and installing this "
+"release may void any warranty with %s."
+msgstr ""
+
+#. TRANSLATORS: show and ask user to confirm --
+#. * %1 is the old branch name, %2 is the new branch name
+#: src/fu-util-common.c:2843
+#, fuzzy, c-format
+#| msgid "Downgrading %s from %s to %s... "
+msgid "Switch branch from %s to %s?"
+msgstr " %s, %s sürümünden %s sürümüne düşürülüyor... "
+
+#. TRANSLATORS: should the branch be changed
+#: src/fu-util-common.c:2851
+msgid "Do you understand the consequences of changing the firmware branch?"
+msgstr ""
+
+#. TRANSLATORS: the platform secret is stored in the PCRx registers on the TPM
+#: src/fu-util-common.c:2875
+msgid ""
+"Some of the platform secrets may be invalidated when updating this firmware."
+msgstr ""
+
+#. TRANSLATORS: 'recovery key' here refers to a code, rather than a physical
+#. metal thing
+#: src/fu-util-common.c:2880
+msgid "Please ensure you have the volume recovery key before continuing."
+msgstr ""
+
+#. TRANSLATORS: the %1 is a URL to a wiki page
+#: src/fu-util-common.c:2884
+#, fuzzy, c-format
+#| msgid "See %s for more information."
+msgid "See %s for more details."
+msgstr "Daha fazlası için tıklayınız. %s "
+
+#. TRANSLATORS: title text, shown as a warning
+#: src/fu-util-common.c:2887
+msgid "Full Disk Encryption Detected"
+msgstr ""
+
+#. TRANSLATORS: unsupported build of the package
+#: src/fu-util-common.c:2916
+msgid "This package has not been validated, it may not work properly."
+msgstr ""
