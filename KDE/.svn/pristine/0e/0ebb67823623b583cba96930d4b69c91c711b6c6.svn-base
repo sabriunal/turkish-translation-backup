@@ -1,0 +1,105 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kbibtex.appdata\n"
+"POT-Creation-Date: 2021-12-12 00:44+0000\n"
+"PO-Revision-Date: 2022-11-01 12:49+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.2\n"
+"X-POOTLE-MTIME: 1497610250.000000\n"
+
+#. (itstool) path: component/name
+#: org.kde.kbibtex.appdata.xml:14
+msgid "KBibTeX"
+msgstr "KBibTeX"
+
+#. (itstool) path: component/summary
+#: org.kde.kbibtex.appdata.xml:15
+msgid "BibTeX editor by KDE to edit bibliographies used with LaTeX"
+msgstr ""
+"Kaynakça dosyalarını LaTeX kullanarak düzenlemek için KDE BibTeX "
+"düzenleyicisi"
+
+#. (itstool) path: description/p
+#: org.kde.kbibtex.appdata.xml:17
+msgid ""
+"KBibTeX is a reference management application which can be used to collect "
+"TeX/LaTeX bibliographies and export them in various formats."
+msgstr ""
+"KBibTex, TeX/LaTeX kaynakçalarını toplamak ve çeşitli biçimlerde dışa "
+"aktarmak için kullanılabilecek bir başvuru yönetim uygulamasıdır."
+
+#. (itstool) path: description/p
+#: org.kde.kbibtex.appdata.xml:20
+msgid "KBibTeX can do the following things:"
+msgstr "KBibTex aşağıdakileri yapabilir:"
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:22
+msgid ""
+"Preview bibliography entries in various formats (Source (BibTeX), Source "
+"(RIS), Wikipedia, standard (XML/XSLT), fancy (XML/XSLT), and abstract-only "
+"(XML/XSLT)). Additional preview styles become available when bibtex2html is "
+"installed."
+msgstr ""
+"Kaynakça girdilerini çeşitli biçimlerde önizleyin Kaynak (BibTeX), Kaynak "
+"(RIS), Wikipedia, standart (XML/XSLT), süslü (XML/XSLT) ve salt özet (XML/"
+"XSLT). Bibtex2html kurulduğunda ek önizleme biçemleri kullanılabilir hale "
+"gelir."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:23
+msgid ""
+"Import data in various bibliography file formats such as BibTeX, RIS and ISI "
+"(requires bibutils) and export data to PDF (requires pdflatex), PostScript "
+"(requires latex), RTF (requires latex2rtf), and HTML."
+msgstr ""
+"BibTeX, RIS ve ISI (bibutils gerektirir) gibi çeşitli kaynakça dosya "
+"biçimlerine verileri içe aktarın ve PDF  (pdflatex gerektirir), PostScript "
+"(lateks gerektirir), RTF (latex2rtf gerektirir) ve HTML'e verileri dışa "
+"aktarın."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:24
+msgid ""
+"Search for the bibliography entries data in online databases (e.g. Google "
+"Scholar, ACM, IEEE, arXiv, etc.)"
+msgstr ""
+"Çevrimiçi veritabanlarında kaynakça girdi verilerini arayın (Ör. Google "
+"Scholar, ACM, IEEE, arXiv, vb.)"
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:25
+msgid ""
+"Preview local or remote (online) resources, e.g. PDF files, linked in the "
+"BibTEX entry."
+msgstr ""
+"Yerel veya uzak (çevrimiçi) kaynakları önizleyin, ör. BibTEX girdisinde "
+"bağlantı verilen PDF dosyaları."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:26
+msgid "Find and merge duplicate entries in bibliography."
+msgstr "Kaynakçadaki yinelenen girişleri bulun ve birleştirin."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:27
+msgid "Integrate your bibliographies with LaTeX editors such as Kile and LyX."
+msgstr ""
+"Kaynakçalarınızı Kile ve LyX gibi LaTeX düzenleyicileri ile bütünleştirin."
+
+#. (itstool) path: ul/li
+#: org.kde.kbibtex.appdata.xml:28
+msgid "Import your Zotero library."
+msgstr "Zotero kitaplığınızı içe aktarın."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kbibtex.appdata.xml:36
+msgid "KBibTeX main window"
+msgstr "KBibTeX ana penceresi"

@@ -1,0 +1,362 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-krita-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-01 01:05+0000\n"
+"PO-Revision-Date: 2023-01-08 21:38+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.0\n"
+
+#: config.yaml:0
+msgid "Krita"
+msgstr "Krita"
+
+#: config.yaml:0
+msgid ""
+"Krita is a professional FREE and open source painting program. It is made by "
+"artists that want to see affordable art tools for everyone."
+msgstr ""
+"Krita, çizerler ve grafik tasarımcılar için yapılmış, ÜCRETSİZ ve açık "
+"kaynaklı profesyonel bir boyama programdır. Herkes için ulaşılabilir sanat "
+"araçları sağlamak isteyen sanatçılar tarafından yapılmıştır."
+
+#: config.yaml:0
+msgid "Learn"
+msgstr "Öğren"
+
+#~ msgid "Features"
+#~ msgstr "Özellikler"
+
+#~ msgid "Download"
+#~ msgstr "İndir"
+
+#~ msgid "Get Involved"
+#~ msgstr "Katıl"
+
+#~ msgid "Shop"
+#~ msgstr "Alışveriş Yap"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Son Gönderiler"
+
+#~ msgid "Donate"
+#~ msgstr "Bağış Yap"
+
+#~ msgid "Software"
+#~ msgstr "Yazılım"
+
+#~ msgid "Education"
+#~ msgstr "Eğitim"
+
+#~ msgid "Foundation"
+#~ msgstr "Vakıf"
+
+#~ msgid "Language"
+#~ msgstr "Dil"
+
+#~ msgid "Report a bug"
+#~ msgstr "Hata Bildir"
+
+#~ msgid "Roadmap"
+#~ msgstr "Yol Haritası"
+
+#~ msgid "Release History"
+#~ msgstr "Sürüm Geçmişi"
+
+#~ msgid "Documentation"
+#~ msgstr "Belgelendirme"
+
+#~ msgid "Source Code"
+#~ msgstr "Kaynak Kodu"
+
+#~ msgid "FAQ"
+#~ msgstr "SSS"
+
+#~ msgid "Privacy Statement"
+#~ msgstr "Gizlilik Bildirisi"
+
+#~ msgid "Tutorials"
+#~ msgstr "Eğitmenler"
+
+#~ msgid "About"
+#~ msgstr "Hakkında"
+
+#~ msgid "Donations"
+#~ msgstr "Bağışlar"
+
+#~ msgid "What is KDE"
+#~ msgstr "KDE Nedir"
+
+#~ msgid "Website license"
+#~ msgstr "Web Sitesi Lisansı"
+
+#~ msgid "Contact"
+#~ msgstr "İletişim"
+
+#~ msgid "Sitemap"
+#~ msgstr "Site Haritası"
+
+#~ msgid "Previous Post"
+#~ msgstr "Önceki Gönderi"
+
+#~ msgid "Next Post"
+#~ msgstr "Sonraki Gönderi"
+
+#~ msgid "Powered by"
+#~ msgstr "Temelinde:"
+
+#~ msgid "Art by"
+#~ msgstr "Çizer:"
+
+#~ msgid "News"
+#~ msgstr "Haberler"
+
+#~ msgid "No News"
+#~ msgstr "Haber Yok"
+
+#~ msgid "See All"
+#~ msgstr "Tümünü Gör"
+
+#~ msgid "Tools You Need To Grow as an Artist"
+#~ msgstr "Bir Sanatçı Olarak Gelişmeniz için Gereken Araçlar"
+
+#~ msgid "All the features you need"
+#~ msgstr "Gereksiniminiz olan tüm özellikler"
+
+#~ msgid "See features"
+#~ msgstr "Özellikleri gör"
+
+#~ msgid "FREE education and resources"
+#~ msgstr "ÜCRETSİZ eğitim ve özkaynaklar"
+
+#~ msgid "See education"
+#~ msgstr "Eğitim konularına bak"
+
+#~ msgid "A supportive community"
+#~ msgstr "Destekleyen bir topluluk"
+
+#~ msgid "Visit artist community"
+#~ msgstr "Sanatçı topluluğuna git"
+
+#~ msgid "Artist Interviews"
+#~ msgstr "Sanatçı Röportajları"
+
+#~ msgid "Free and Open Source"
+#~ msgstr "Ücretsiz ve Açık Kaynaklı"
+
+#~ msgid ""
+#~ "Krita is a public project licensed as GNU GPL, owned by its contributors. "
+#~ "For that reason Krita is Free and Open Source software, forever."
+#~ msgstr ""
+#~ "Krita; GNU GPL ile lisanslanmış, mülkü katkıcılarına ait halka açık bir "
+#~ "projedir. Bu nedenden dolayı, Krita, sonsuza dek ücretsiz ve açık "
+#~ "kaynaklı olarak kalacaktır."
+
+#~ msgid "See details about license usage"
+#~ msgstr "Lisans kullanımı ile ilgili ayrıntıları gör"
+
+#~ msgid "Give back"
+#~ msgstr "Geri ver"
+
+#~ msgid ""
+#~ "Krita is made by people from all around the world - many of which are "
+#~ "volunteers. If you find Krita valuable and you want to see it improve, "
+#~ "consider becoming part of the development fund. A little money goes a "
+#~ "long way."
+#~ msgstr ""
+#~ "Krita; bir çoğu gönüllüler olan, dünyanın her yanından kişiler tarafından "
+#~ "yapılmıştır. Krita'yı değerli olarak görüyorsanız ve gelişmesini "
+#~ "istiyorsanız geliştirme fonunun bir parçası olun. Bağışta bulunacağınız "
+#~ "her bir kuruşun büyük yararı olacaktır."
+
+#~ msgid "Contribute to the development fund"
+#~ msgstr "Geliştirme fonuna katkıda bulun"
+
+#~ msgid "No trials."
+#~ msgstr "Deneme süresi yok."
+
+#~ msgid "No subscriptions."
+#~ msgstr "Abonelik yok."
+
+#~ msgid "No limit to your creativity."
+#~ msgstr "Yaratıcılığınıza sınır yok."
+
+#~ msgid "Clean and Flexible Interface"
+#~ msgstr "Düzgün ve Esnek Arayüz"
+
+#~ msgid ""
+#~ "An intuitive user interface that stays out of your way. The dockers and "
+#~ "panels can be moved and customized for your specific workflow. Once you "
+#~ "have your setup, you can save it as your own workspace. You can also "
+#~ "create your own shortcuts for commonly used tools."
+#~ msgstr ""
+#~ "Size engel olmayan, sezgisel bir kullanıcı arayüzü. Rıhtımlayıcılar ve "
+#~ "paneller, iş akışınıza göre taşınabilir ve özelleştirilebilir. "
+#~ "Yerleşiminizi ayarladıktan sonra, onu kendi iş alanınız olarak "
+#~ "kaydedebilirsiniz. Sık kullanılan araçlar için özel kısayollar oluşturmak "
+#~ "da olanaklı."
+
+#~ msgid "Customizable Layout"
+#~ msgstr "Özelleştirilebilir Yerleşim"
+
+#~ msgid "Over 30 dockers for additional functionality"
+#~ msgstr "Ek işlevsellik için, 30'dan fazla rıhtımlayıcı"
+
+#~ msgid "Dark and light color themes"
+#~ msgstr "Koyu ve açık renk temaları"
+
+#~ msgid "Learn the interface"
+#~ msgstr "Arayüzü öğren"
+
+#~ msgid "All the tools you need"
+#~ msgstr "Gereksiniminiz olan tüm araçlar"
+
+#~ msgid ""
+#~ "Over 100 professionally made brushes that come preloaded. These brushes "
+#~ "give a good range of effects so you can see the variety of brushes that "
+#~ "Krita has to offer."
+#~ msgstr ""
+#~ "100'den fazla profesyonelce oluşturulmuş fırça, Krita ile birlikte "
+#~ "önyüklü olarak gelir. Bu fırçalar, geniş bir efekt aralığı sunarlar."
+
+#~ msgid "Beautiful Brushes"
+#~ msgstr "Alımlı Fırçalar"
+
+#~ msgid "Learn more"
+#~ msgstr "Daha fazla öğren"
+
+#~ msgid "Brush Stabilizers"
+#~ msgstr "Fırça Dengeleyiciler"
+
+#~ msgid ""
+#~ "Have a shaky hand? Add a stabilizer to your brush to smoothen it out. "
+#~ "Krita includes 3 different ways to smooth and stabilize your brush "
+#~ "strokes. There is even a dedicated Dynamic Brush tool where you can add "
+#~ "drag and mass."
+#~ msgstr ""
+#~ "Eliniz mi titriyor? Fırçayı sabit tutmak için ona bir dengeleyici "
+#~ "ekleyin. Krita, fırça vuruşlarınızı yumuşatmak ve dengelemek için üç "
+#~ "farklı yol sunar. Hatta, özel olarak direnç ve kütle eklemenize izin "
+#~ "veren özel bir Devingen Fırça bile vardır."
+
+#~ msgid "Vector & Text"
+#~ msgstr "Vektör ve Metin"
+
+#~ msgid ""
+#~ "Built-in vector tools help you create comic panels. Select a word bubble "
+#~ "template from the vector library and drag it on your canvas. Change the "
+#~ "anchor points to create your own shapes and libraries. Add text to your "
+#~ "artwork as well with the text tool. Krita uses SVG to manage its vector "
+#~ "format."
+#~ msgstr ""
+#~ "Birlikte gelen vektör araçları, çizgi roman panelleri oluşturmanıza "
+#~ "yardımcı olur. Vektör kitaplığından bir sözcük balonu seçin ve onu "
+#~ "tuvalinize sürükleyip bırakın. Kendi şekillerinizi ve kitaplıklarınızı "
+#~ "oluşturmak için sabitleyici noktaları değiştirin. Standart metin aracının "
+#~ "yanında, metin sanatı ekleyin. Krita, vektör biçiminde SVG kullanır."
+
+#~ msgid "Brush Engines"
+#~ msgstr "Fırça İşletkeleri"
+
+#~ msgid ""
+#~ "Customize your brushes with over 9 unique brush engines. Each engine has "
+#~ "a large amount of settings to customize your brush. Each brush engine is "
+#~ "made to satisfy a specific need such as the Color Smudge engine, Shape "
+#~ "engine, Particle engine, and even a filter engine. Once you are done "
+#~ "creating your brushes, you can save them and organize them with Krita's "
+#~ "unique tagging system."
+#~ msgstr ""
+#~ "Fırçalarınızı, 9 benzersiz fırça işletkesiyle özelleştirin. Her bir "
+#~ "işletkede, fırçanızı özelleştirmek için çok sayıda ayar bulunur. Her bir "
+#~ "fırça işletkesi, özel bir gereksinimi karşılamak üzere tasarlanmıştır; "
+#~ "örneğin, Renk Lekeleme işletkesi, Şekil işletkesi, Parçacık işletkesi ve "
+#~ "hatta bir süzgeç işletkesi. Fırçalarınızı yapmayı tamamladığınızda, "
+#~ "onları kaydedebilir ve Krita'nın benzersiz etiketleme sistemiyle "
+#~ "düzenleyebilirsiniz."
+
+#~ msgid "Wrap-around mode"
+#~ msgstr "Sarma kipi"
+
+#~ msgid ""
+#~ "It is easy to create seamless textures and patterns now. The image will "
+#~ "make references of itself along the x and y axis. Continue painting and "
+#~ "watch all of the references update instantly. No more clunky offsetting "
+#~ "to see how your image repeats itself."
+#~ msgstr ""
+#~ "Artık pürüzsüz dokular ve desenler oluşturmak olanaklı. Görsel, kendisi "
+#~ "için x ve y eksenlerinde başvurular oluşturur. Boyamayı sürdürün ve "
+#~ "başvuruların kendiliğinden nice güncellendiğini görün. Görselinizin "
+#~ "kendisini nasıl yinelediğini görmek için hantal ofsetlemeyle uğraşmanıza "
+#~ "gerek yok."
+
+#~ msgid "Resource Manager"
+#~ msgstr "Özkaynak Yöneticisi"
+
+#~ msgid ""
+#~ "Import brush and texture packs from other artists to expand your tool "
+#~ "set. If you create some brushes that you love, share them with the world "
+#~ "by creating your own bundles. Check out the brush packs that are "
+#~ "available in the Resources area."
+#~ msgstr ""
+#~ "Araç kümenizi genişletmek için diğer sanatçılardan fırça ve doku "
+#~ "paketleri içe aktarın. Kullanmayı sevdiğiniz bir fırça yarattıysanız onu, "
+#~ "kendi paketinizi oluşturarak dünyayla paylaşın. Özkaynaklar alanındaki "
+#~ "kullanılabilir fırça paketlerine bir göz atın."
+
+#~ msgid "Download Krita"
+#~ msgstr "Krita'yı İndir"
+
+#~ msgid "Released on"
+#~ msgstr "Yayım tarihi:"
+
+#~ msgid "Release Notes"
+#~ msgstr "Sürüm Notları"
+
+#~ msgid "Windows Installer"
+#~ msgstr "Windows"
+
+#~ msgid "Windows Portable"
+#~ msgstr "Windows için Taşınabilir"
+
+#~ msgid "macOS Installer"
+#~ msgstr "macOS"
+
+#~ msgid "Linux 64-bit App Image"
+#~ msgstr "Linux 64 bit AppImage"
+
+#~ msgid "Flatpak"
+#~ msgstr "Flatpak"
+
+#~ msgid "Gentoo"
+#~ msgstr "Gentoo"
+
+#~ msgid "Hosted on flathub."
+#~ msgstr "Flathub üzerinde barındırılır."
+
+#~ msgid "Maintained by the community."
+#~ msgstr "Topluluk tarafından geliştirilir."
+
+#~ msgid "Run"
+#~ msgstr "Çalıştır"
+
+#~ msgid "Apple iPads and iPhones are not supported"
+#~ msgstr "Apple iPad ve iPhone desteği bulunmamaktadır"
+
+#~ msgid "Google Play Store"
+#~ msgstr "Google Play Store"
+
+#~ msgid "See individual Android APK builds"
+#~ msgstr "Bireysel Android APK yapılarına bakın"
+
+#~ msgid "System Requirements"
+#~ msgstr "Sistem Gereksinimleri"

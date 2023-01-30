@@ -1,0 +1,559 @@
+#
+# Translators:
+# Engin Cagatay <engincagatay@yahoo.com>, 2006.
+# Engin Çağatay <engincagatay@yahoo.com>, 2004-2006.
+# Engin ÇAĞATAY <engincagatay@yahoo.com>, 2004.
+# Görkem Çetin <gorkem@kde.org>, 2003-2004.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
+# İsmail Şimşek <simsek@kde.org.tr>, 2005.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2010.
+# obsoleteman <tulliana@gmail.com>, 2007-2009,2012.
+# Server Acim <sacim@kde.org.tr>, 2008.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-multimedia-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-06-06 00:53+0000\n"
+"PO-Revision-Date: 2022-05-02 14:22+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: data/amarok.notifyrc:4
+msgctxt "Comment"
+msgid "Amarok"
+msgstr "Amarok"
+
+#: data/amarok.notifyrc:59
+msgctxt "Name"
+msgid "Track Change"
+msgstr "Parça Değişimi"
+
+#: data/amarok.notifyrc:109
+msgctxt "Comment"
+msgid "Amarok changed to a new track"
+msgstr "Amarok yeni bir parçaya geçti"
+
+#: data/amarok.notifyrc:162
+msgctxt "Name"
+msgid "Message"
+msgstr "İleti"
+
+#: data/amarok.notifyrc:209
+msgctxt "Comment"
+msgid "Amarok issued an uncategorized text message"
+msgstr "Amarok kategorilenmemiş bir metin iletisi oluşturdu"
+
+#: playground/src/context/applets/coverbling/amarok-context-applet-coverbling.desktop:2
+msgctxt "Name"
+msgid "CoverBling"
+msgstr "CoverBling"
+
+#: playground/src/context/applets/covergrid/amarok-context-applet-covergrid.desktop:3
+msgctxt "Name"
+msgid "CoverGrid"
+msgstr "CoverGrid"
+
+#: src/amarok_addaspodcast.desktop:7
+msgctxt "Name"
+msgid "Add as Podcast to Amarok"
+msgstr "Amarok'a Podcast olarak Ekle"
+
+#: src/amarok_append.desktop:5
+msgctxt "X-KDE-Submenu"
+msgid "Amarok"
+msgstr "Amarok"
+
+#: src/amarok_append.desktop:72
+msgctxt "Name"
+msgid "Append to Playlist"
+msgstr "Parça Listesine Ekle"
+
+#: src/amarok_append.desktop:135
+msgctxt "Name"
+msgid "Append & Play"
+msgstr "Parça Listesine Ekle ve Çal"
+
+#: src/amarok_append.desktop:198
+msgctxt "Name"
+msgid "Queue Track"
+msgstr "Parçayı Kuyruğa Ekle"
+
+#: src/amarok-contextapplet.desktop:4 src/amarok-plugin.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Amarok"
+msgstr "Amarok için eklenti"
+
+#: src/amarok-play-audiocd.desktop:8
+msgctxt "Name"
+msgid "Play Audio CD with Amarok"
+msgstr "Ses CD'sini Amarok ile Çal"
+
+#: src/context/applets/albums/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Albums"
+msgstr "Albümler"
+
+#: src/context/applets/albums/package/metadata.desktop:70
+msgctxt "Comment"
+msgid "Album cover manager for Amarok"
+msgstr "Amarok için albüm kapak görseli yöneticisi"
+
+#: src/context/applets/analyzer/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Analyzer"
+msgstr "Çözümleyici"
+
+#: src/context/applets/analyzer/package/metadata.desktop:46
+msgctxt "Comment"
+msgid "Analyzer applet for Amarok"
+msgstr "Amarok için çözümleyici uygulamacığı"
+
+#: src/context/applets/currenttrack/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Current Track"
+msgstr "Mevcut Parça"
+
+#: src/context/applets/currenttrack/package/metadata.desktop:60
+msgctxt "Comment"
+msgid "Current track applet for Amarok"
+msgstr "Amarok için şimdi çalan parça uygulamacığı"
+
+#: src/context/applets/info/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Info"
+msgstr "Bilgiler"
+
+#: src/context/applets/labels/amarok-context-applet-labels.desktop:2
+msgctxt "Name"
+msgid "Labels"
+msgstr "Etiketler"
+
+#: src/context/applets/lyrics/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Lyrics"
+msgstr "Şarkı Sözleri"
+
+#: src/context/applets/lyrics/package/metadata.desktop:63
+msgctxt "Comment"
+msgid "Lyrics applet for Amarok"
+msgstr "Amarok için şarkı sözü uygulamacığı"
+
+#: src/context/applets/photos/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Photos"
+msgstr "Fotoğraflar"
+
+#: src/context/applets/photos/package/metadata.desktop:63
+msgctxt "Comment"
+msgid "Photos applet for Amarok"
+msgstr "Amarok için fotoğraflar uygulamacığı"
+
+#: src/context/applets/playlistinfo/amarok-context-applet-playlistinfo.desktop:2
+msgctxt "Name"
+msgid "Playlist Information"
+msgstr "Çalma Listesi Bilgisi"
+
+#: src/context/applets/similarartists/amarok-context-applet-similarArtists.desktop:2
+msgctxt "Name"
+msgid "Similar Artists"
+msgstr "Benzer Sanatçılar"
+
+#: src/context/applets/songkick/amarok-context-applet-songkick.desktop:2
+msgctxt "Name"
+msgid "Songkick"
+msgstr "Songkick"
+
+#: src/context/applets/tabs/amarok-context-applet-tabs.desktop:2
+msgctxt "Name"
+msgid "Tabs"
+msgstr "Akorlar"
+
+#: src/context/applets/upcomingevents/amarok-context-applet-upcomingEvents.desktop:2
+msgctxt "Name"
+msgid "Upcoming Events"
+msgstr "Gelecek Etkinlikler"
+
+#: src/context/applets/wikipedia/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+#: src/context/applets/wikipedia/package/metadata.desktop:63
+msgctxt "Comment"
+msgid "Wikipedia applet for Amarok"
+msgstr "Amarok için Wikipedia uygulamacığı"
+
+#: src/context/context_qml_package/metadata.desktop:2
+msgctxt "Name"
+msgid "Amarok-Context-QML-Package"
+msgstr "Amarok-Context-QML-Package"
+
+#: src/context/context_qml_package/metadata.desktop:33
+msgctxt "Comment"
+msgid "QML base package for amarok context area"
+msgstr "Amarok bağlam alanı için QML temel paketi"
+
+#: src/context/engines/labels/amarok-data-engine-labels.desktop:2
+msgctxt "Name"
+msgid "Labels Data Engine"
+msgstr "Etiket Veri Motoru"
+
+#: src/context/engines/similarartists/amarok-data-engine-similarArtists.desktop:2
+#: src/context/engines/upcomingevents/amarok-data-engine-upcomingEvents.desktop:2
+msgctxt "Name"
+msgid "Upcoming Events Data Engine"
+msgstr "Gelecek Etkinlikler Veri Motoru"
+
+#: src/context/engines/songkick/amarok-data-engine-songkick.desktop:2
+msgctxt "Name"
+msgid "Songkick Data Engine"
+msgstr "Songkick Veri Motoru"
+
+#: src/context/engines/tabs/amarok-data-engine-tabs.desktop:2
+msgctxt "Name"
+msgid "Tabs Data Engine"
+msgstr "Akor Veri Motoru"
+
+#: src/context/servicetypes/amarok_containment.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet container and background painter"
+msgstr "Plasma uygulamacık taşıyıcısı ve arka plan boyacısı"
+
+#: src/context/servicetypes/amarok_context_applet.desktop:5
+msgctxt "Comment"
+msgid "Amarok Context applet"
+msgstr "Amarok Bağlam Uygulamacığı"
+
+#: src/core-impl/collections/audiocd/amarok_collection-audiocdcollection.desktop:4
+msgctxt "Name"
+msgid "AudioCd Collection"
+msgstr "AudioCd Koleksiyonu"
+
+#: src/core-impl/collections/audiocd/amarok_collection-audiocdcollection.desktop:56
+msgctxt "Comment"
+msgid "AudioCd collection plugin for Amarok"
+msgstr "Amarok için AudioCd koleksiyon eklentisi"
+
+#: src/core-impl/collections/daap/amarok_collection-daapcollection.desktop:4
+msgctxt "Name"
+msgid "DAAP Collection"
+msgstr "DAAP Koleksiyonu"
+
+#: src/core-impl/collections/daap/amarok_collection-daapcollection.desktop:62
+msgctxt "Comment"
+msgid "DAAP collection plugin for Amarok"
+msgstr "Amarok için DAAP koleksiyon eklentisi"
+
+#: src/core-impl/collections/db/sql/mysqlcollection/amarok_collection-mysqlcollection.desktop:4
+msgctxt "Name"
+msgid "MySQL Collection"
+msgstr "MySQL Koleksiyonu"
+
+#: src/core-impl/collections/db/sql/mysqlcollection/amarok_collection-mysqlcollection.desktop:40
+msgctxt "Comment"
+msgid "Collection plugin for Amarok"
+msgstr "Amarok için Koleksiyon eklentisi"
+
+#: src/core-impl/collections/ipodcollection/amarok_collection-ipodcollection.desktop:4
+msgctxt "Name"
+msgid "iPod, iPad & iPhone Collection"
+msgstr "iPod, iPad & iPhone Koleksiyonu"
+
+#: src/core-impl/collections/ipodcollection/amarok_collection-ipodcollection.desktop:48
+msgctxt "Comment"
+msgid "Plugin to use iPod-like devices as collections in Amarok"
+msgstr ""
+"Amarok için iPod benzeri aygıtları koleksiyon olarak kullanma eklentisi"
+
+#: src/core-impl/collections/mediadevicecollection/amarok_collection-mediadevicecollection.desktop:4
+msgctxt "Name"
+msgid "Media Device Collection"
+msgstr "Ortam Aygıtı Koleksiyonu"
+
+#: src/core-impl/collections/mediadevicecollection/amarok_collection-mediadevicecollection.desktop:60
+msgctxt "Comment"
+msgid "Media Device collection plugin for Amarok"
+msgstr "Amarok için Ortam Aygıtı koleksiyon eklentisi"
+
+#: src/core-impl/collections/mtpcollection/amarok_collection-mtpcollection.desktop:4
+msgctxt "Name"
+msgid "MTP Collection"
+msgstr "MTP Koleksiyonu"
+
+#: src/core-impl/collections/mtpcollection/amarok_collection-mtpcollection.desktop:60
+msgctxt "Comment"
+msgid "MTP collection plugin for Amarok"
+msgstr "Amarok için MTP koleksiyon eklentisi"
+
+#: src/core-impl/collections/playdarcollection/amarok_collection-playdarcollection.desktop:4
+msgctxt "Name"
+msgid "Playdar Collection"
+msgstr "Playdar Koleksiyonu"
+
+#: src/core-impl/collections/playdarcollection/amarok_collection-playdarcollection.desktop:50
+msgctxt "Comment"
+msgid "Music that Playdar can find"
+msgstr "Playdar'ın bulabileceği müzik"
+
+#: src/core-impl/collections/umscollection/amarok_collection-umscollection.desktop:4
+msgctxt "Name"
+msgid "Universal Mass Storage Collection"
+msgstr "Evrensel Yığın Depolama Koleksiyonu"
+
+#: src/core-impl/storage/sql/mysqlestorage/amarok_storage-mysqlestorage.desktop:4
+msgctxt "Name"
+msgid "MySQLe Storage"
+msgstr "MySQLe Depolaması"
+
+#: src/core-impl/storage/sql/mysqlestorage/amarok_storage-mysqlestorage.desktop:40
+#: src/core-impl/storage/sql/mysqlserverstorage/amarok_storage-mysqlserverstorage.desktop:40
+msgctxt "Comment"
+msgid "Storage plugin for Amarok"
+msgstr "Amarok için depolama eklentisi"
+
+#: src/core-impl/storage/sql/mysqlserverstorage/amarok_storage-mysqlserverstorage.desktop:4
+msgctxt "Name"
+msgid "MySQLServer Storage"
+msgstr "MySQL Sunucu Depolaması"
+
+#: src/importers/amarok/amarok_importer-amarok.desktop:4
+msgctxt "Name"
+msgid "Amarok 2.x Importer"
+msgstr "Amarok 2.x İçe Aktarıcı"
+
+#: src/importers/amarok/amarok_importer-amarok.desktop:42
+msgctxt "Comment"
+msgid "Import statistics from Amarok 2.x database"
+msgstr "İstatistikleri Amarok 2.x veritabanından al"
+
+#: src/importers/banshee/amarok_importer-banshee.desktop:4
+msgctxt "Name"
+msgid "Banshee Importer"
+msgstr "Banshee İçe Aktarıcı"
+
+#: src/importers/banshee/amarok_importer-banshee.desktop:42
+msgctxt "Comment"
+msgid "Import statistics from Banshee database"
+msgstr "İstatistikleri Banshee veritabanından al"
+
+#: src/importers/clementine/amarok_importer-clementine.desktop:4
+msgctxt "Name"
+msgid "Clementine Importer"
+msgstr "Clementine İçe Aktarıcı"
+
+#: src/importers/clementine/amarok_importer-clementine.desktop:42
+msgctxt "Comment"
+msgid "Import statistics from Clementine database"
+msgstr "İstatistikleri Clementine veritabanından al"
+
+#: src/importers/fastforward/amarok_importer-fastforward.desktop:4
+msgctxt "Name"
+msgid "Amarok 1.4 (FastForward) Importer"
+msgstr "Amarok 1.4 (FastForward) İçe Aktarıcı"
+
+#: src/importers/fastforward/amarok_importer-fastforward.desktop:42
+msgctxt "Comment"
+msgid "Import statistics from Amarok 1.4 database"
+msgstr "İstatistikleri Amarok 1.4 veritabanından al"
+
+#: src/importers/itunes/amarok_importer-itunes.desktop:4
+msgctxt "Name"
+msgid "Apple iTunes Importer"
+msgstr "Apple iTunes İçe Aktarıcı"
+
+#: src/importers/itunes/amarok_importer-itunes.desktop:42
+msgctxt "Comment"
+msgid "Import statistics from Apple iTunes database"
+msgstr "İstatistikleri Apple iTunes veritabanından al"
+
+#: src/importers/rhythmbox/amarok_importer-rhythmbox.desktop:4
+msgctxt "Name"
+msgid "Rhythmbox Importer"
+msgstr "Rhythmbox İçe Aktarıcı"
+
+#: src/importers/rhythmbox/amarok_importer-rhythmbox.desktop:42
+msgctxt "Comment"
+msgid "Import statistics from Rhythmbox database"
+msgstr "İstatistikleri Rhythmbox veritabanından al"
+
+#: src/org.kde.amarok_containers.desktop:4 src/org.kde.amarok.desktop:4
+msgctxt "Name"
+msgid "Amarok"
+msgstr "Amarok"
+
+#: src/org.kde.amarok_containers.desktop:68 src/org.kde.amarok.desktop:68
+msgctxt "GenericName"
+msgid "Audio Player"
+msgstr "Müzik Çalar"
+
+#: src/org.kde.amarok_containers.desktop:132 src/org.kde.amarok.desktop:133
+msgctxt "Comment"
+msgid "Amarok - Rediscover Your Music!"
+msgstr "Amarok - Müziğinizi yeniden keşfedin!"
+
+#: src/org.kde.amarok_containers.desktop:196 src/org.kde.amarok.desktop:199
+msgctxt "X-KDE-Keywords"
+msgid "music,podcast"
+msgstr "müzik,podcast"
+
+#: src/scripting/scripts/librivox_service/script.desktop:6
+msgctxt "Name"
+msgid "Librivox.org"
+msgstr "Librivox.org"
+
+#: src/scripting/scripts/librivox_service/script.desktop:44
+msgctxt "Comment"
+msgid ""
+"A scripted service that lets you search, stream and download free, public "
+"domain, audio books from Librivox.org"
+msgstr ""
+"Librivox.org sitesinden ücretsiz, kamuya açık alan adından, ses kitapları "
+"aramanızı, göndermenizi veya indirmenizi sağlayan bir betik hizmeti."
+
+#: src/scripting/scripts/radio_station_service/script.desktop:6
+msgctxt "Name"
+msgid "Cool Streams"
+msgstr "Güzel Akışlar"
+
+#: src/scripting/scripts/radio_station_service/script.desktop:43
+msgctxt "Comment"
+msgid "A script that sets up a service with a few cool internet radio stations"
+msgstr "Birkaç güzel internet radyo istasyonu ile hizmet kuran bir betik"
+
+#: src/scripting/scripts/script_console/script.desktop:6
+msgctxt "Name"
+msgid "Amarok Script Console"
+msgstr "Amarok Betik Konsolu"
+
+#: src/scripting/scripts/script_console/script.desktop:43
+msgctxt "Comment"
+msgid "Amarok Script Console"
+msgstr "Amarok Betik Konsolu"
+
+#: src/services/ampache/amarok_service_ampache_config.desktop:10
+msgctxt "Name"
+msgid "Ampache Service Config"
+msgstr "Ampache Hizmet Yapılandırması"
+
+#: src/services/ampache/amarok_service_ampache_config.desktop:64
+msgctxt "Comment"
+msgid "Sets up the ampache server(s) to connect to"
+msgstr "Bağlanılacak ampache sunucularını ayarlar"
+
+#: src/services/ampache/amarok_service_ampache.desktop:4
+msgctxt "Name"
+msgid "Ampache"
+msgstr "Ampache"
+
+#: src/services/ampache/amarok_service_ampache.desktop:58
+msgctxt "Comment"
+msgid "Listen to music from an Ampache server"
+msgstr "Bir Ampache sunucudan müzik dinle"
+
+#: src/services/gpodder/amarok_service_gpodder_config.desktop:11
+msgctxt "Name"
+msgid "gpodder.net Service Config"
+msgstr "gpodder.net Hizmet Yapılandırması"
+
+#: src/services/gpodder/amarok_service_gpodder_config.desktop:55
+msgctxt "Comment"
+msgid "Configure gpodder.net Credentials"
+msgstr "gpodder.net üyelik ayarlarını yapılandır"
+
+#: src/services/gpodder/amarok_service_gpodder.desktop:4
+msgctxt "Name"
+msgid "gpodder.net"
+msgstr "gpodder.net"
+
+#: src/services/gpodder/amarok_service_gpodder.desktop:52
+msgctxt "Comment"
+msgid "Podcast Service"
+msgstr "Podcast Servisi"
+
+#: src/services/jamendo/amarok_service_jamendo.desktop:4
+msgctxt "Name"
+msgid "Jamendo"
+msgstr "Jamendo"
+
+#: src/services/jamendo/amarok_service_jamendo.desktop:61
+msgctxt "Comment"
+msgid "Listen to and download music uploaded by independent artists"
+msgstr "Bağımsız sanatçılar tarafından yüklenmiş müzikleri dinleyin ve indirin"
+
+#: src/services/lastfm/amarok_service_lastfm_config.desktop:11
+msgctxt "Name"
+msgid "Last.fm Service Config"
+msgstr "Last.fm Hizmet Yapılandırması"
+
+#: src/services/lastfm/amarok_service_lastfm_config.desktop:68
+msgctxt "Comment"
+msgid "Set up Last.fm username and password"
+msgstr "Last.fm kullanıcı adı ve parolasını ayarlar"
+
+#: src/services/lastfm/amarok_service_lastfm.desktop:4
+msgctxt "Name"
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: src/services/lastfm/amarok_service_lastfm.desktop:60
+msgctxt "Comment"
+msgid "A service that integrates Last.fm functionality into Amarok"
+msgstr "Last.fm işlevlerini Amarok ile bütünleştiren bir hizmet"
+
+#: src/services/magnatune/amarok_service_magnatunestore_config.desktop:11
+msgctxt "Name"
+msgid "MagnatuneStore Service Config"
+msgstr "Magnatune Mağazası Hizmet Yapılandırması"
+
+#: src/services/magnatune/amarok_service_magnatunestore_config.desktop:66
+msgctxt "Comment"
+msgid "Configure Magnatune store settings and memberships credentials"
+msgstr "Magnatune mağaza ve üyelik ayarlarını yapılandır"
+
+#: src/services/magnatune/amarok_service_magnatunestore.desktop:4
+msgctxt "Name"
+msgid "Magnatune Store"
+msgstr "Magnatune Mağazası"
+
+#: src/services/magnatune/amarok_service_magnatunestore.desktop:63
+msgctxt "Comment"
+msgid "Preview and buy music from the non-evil Magnatune record label"
+msgstr "\"Non-evil\" Magnatune kayıt etiketinden müzik önizleyin ve satın alın"
+
+#: src/services/mp3tunes/amarok_service_mp3tunes_config.desktop:11
+msgctxt "Name"
+msgid "MP3tunes Service Config"
+msgstr "Mp3tunes Hizmet Yapılandırması"
+
+#: src/services/mp3tunes/amarok_service_mp3tunes_config.desktop:60
+msgctxt "Comment"
+msgid "Configure mp3tunes credentials"
+msgstr "mp3tunes üyelik ayarlarını yapılandır"
+
+#: src/services/mp3tunes/amarok_service_mp3tunes.desktop:4
+msgctxt "Name"
+msgid "MP3tunes"
+msgstr "MP3tunes"
+
+#: src/services/mp3tunes/amarok_service_mp3tunes.desktop:53
+msgctxt "Comment"
+msgid "Browse and listen to the music stored in your MP3tunes account"
+msgstr "MP3tunes hesabınızdaki müzikleri inceleyin ve dinleyin"
+
+#: src/services/opmldirectory/amarok_service_opmldirectory.desktop:4
+msgctxt "Name"
+msgid "Podcast Directory"
+msgstr "Podcast Dizini"
+
+#: src/services/opmldirectory/amarok_service_opmldirectory.desktop:56
+msgctxt "Comment"
+msgid "Browse and subscribe to a huge list of podcasts"
+msgstr "Geniş bir podcast listesine göz at ve üye ol"

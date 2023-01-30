@@ -1,0 +1,45 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-21 00:56+0000\n"
+"PO-Revision-Date: 2021-02-15 14:08+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.08.2\n"
+
+#: modules/time/clockconfig_actions.actions:2
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "Tarih ve Zaman Kontrol Modülü"
+
+#: modules/time/clockconfig_actions.actions:45
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "Tarih/zaman ayarlarını kaydet"
+
+#: modules/time/clockconfig_actions.actions:86
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr "Sistem politikaları, tarih/saat ayarlarını kaydetmenizi engeller."
+
+#: org.kde.mobile.plasmasettings.desktop:2
+msgctxt "Name"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: org.kde.mobile.plasmasettings.desktop:43
+msgctxt "GenericName"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: org.kde.mobile.plasmasettings.desktop:84
+msgctxt "Comment"
+msgid "Settings for Plasma"
+msgstr "Plasma Ayarları"

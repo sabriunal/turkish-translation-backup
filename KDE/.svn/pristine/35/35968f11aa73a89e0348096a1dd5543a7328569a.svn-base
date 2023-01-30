@@ -1,0 +1,2075 @@
+#
+# Translators:
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-06 00:51+0000\n"
+"PO-Revision-Date: 2023-01-24 22:10+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: content/announcements/_index.md:0
+msgid "Announcements"
+msgstr "Duyurular"
+
+#: content/community/donations/_index.md:0
+msgid "Donate and support KDE"
+msgstr "KDE'ye bağış yaparak destek olun"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"Help us create software that gives you full freedom, protects your privacy "
+"and be a part of a great community"
+msgstr ""
+"Size tam özgürlük veren, gizliliğinizi koruyan ve harika bir topluluğun "
+"parçası olan bir yazılım oluşturmamıza yardımcı olun"
+
+#: content/community/donations/_index.md:0
+msgid "Where does the money go?"
+msgstr "Para nereye gidiyor?"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"Your generous donation helps to pay salaries for employees and contractors "
+"who participate amongst the wider KDE Community to create, document, and "
+"promote KDE software. It also helps to pay for the cost of hosting "
+"conferences and development sprints, server infrastructure, and legal fees "
+"incurred defending free software."
+msgstr ""
+"Cömert bağışınız, KDE yazılımlarını oluşturmak, belgelemek ve tanıtmak için "
+"daha geniş KDE Topluluğuna katılan çalışanlar ve yüklenicilerin maaşlarının "
+"ödenmesine yardımcı olur. Ayrıca konferanslara ve geliştirme hız koşularına, "
+"sunucu altyapısına ve yasal ücretlere ev sahipliği yapma maliyetini ödemeye "
+"ve aynı zamanda özgür yazılımı savunma ülküsünü savunmaya yardımcı oluyor."
+
+#: content/community/donations/_index.md:0
+msgid "2019 report"
+msgstr "2019 raporu"
+
+#: content/community/donations/_index.md:0
+msgid "2020 report"
+msgstr "2020 raporu"
+
+#: content/community/donations/_index.md:0
+msgid "2021 report"
+msgstr "2021 raporu"
+
+#: content/community/donations/_index.md:0
+msgid "Support An Engaged Community"
+msgstr "Birbirine Bağlı Bir Topluluğu Destekleyin"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"Our community has developed a wide variety of applications for "
+"communication, work, education and entertainment. We have a strong focus on "
+"finding innovative solutions to old and new problems, creating a vibrant, "
+"open atmosphere for experimentation."
+msgstr ""
+"Topluluğumuz iletişim, çalışma, eğitim ve eğlence için çok çeşitli "
+"uygulamalar geliştirmiştir. Eski ve yeni sorunlara yenilikçi çözümler "
+"bulmaya, deneyler için canlı, açık bir atmosfer yaratmaya güçlü bir şekilde "
+"odaklanıyoruz."
+
+#: content/community/donations/_index.md:0
+msgid "Donate regularly"
+msgstr "Düzenli olarak bağış yapın"
+
+#: content/community/donations/_index.md:0
+msgid "PayPal statistics"
+msgstr "PayPal istatistikleri"
+
+#: content/community/donations/_index.md:0
+msgid "About KDE e.V."
+msgstr "KDE e.V. Hakkında"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"KDE e.V. is the non-profit organization behind the KDE community. It is "
+"based in Germany and thus donations are tax deductible in Germany. If you "
+"live in another EU country your donation might also be tax deductible. "
+"Please consult your tax advisor for details."
+msgstr ""
+"KDE e.V. KDE topluluğunun arkasındaki kâr amacı gütmeyen kuruluştur. Almanya "
+"merkezlidir ve bu nedenle bağışlar Almanya'da vergiden düşülebilir. Başka "
+"bir AB ülkesinde yaşıyorsanız bağışınız da vergiden düşülebilir. Ayrıntılar "
+"için lütfen vergi danışmanınıza danışın."
+
+#: content/community/donations/_index.md:0
+msgid "Hardware and Services"
+msgstr "Donanım ve Hizmetler"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"You can also donate goods and services to KDE. We maintain a <a href=\"/"
+"thanks\">list</a> of the organizations who made a significant contribution."
+msgstr ""
+"Ayrıca KDE'ye mal ve hizmet bağışlayabilirsiniz. Önemli katkı sağlayan "
+"kuruluşların bir <a href=\"/thanks\">listesini</a> tutuyoruz."
+
+#: content/community/donations/_index.md:0
+msgid "Supporting Member Programme for individuals"
+msgstr "Bireyler için Destekleyici Üye Programı"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"Show your love for KDE by donating 100€/year! Get Invited to attend the "
+"annual general assembly of KDE e.V. and get regular first hand reports about "
+"KDE's activities"
+msgstr ""
+"Yılda 100 € bağış yaparak KDE'ye olan sevginizi gösterin! KDE e.V.'nin "
+"yıllık genel kuruluna davet alın ve KDE'nin faaliyetleri hakkında düzenli "
+"ilk elden raporlar alın"
+
+#: content/community/donations/_index.md:0
+msgid "Supporting Member Programme for corporations"
+msgstr "Şirketler için Destekleyici Üye Programı"
+
+#: content/community/donations/_index.md:0
+msgid ""
+"Are you part of a business or a corporation interested in sponsoring KDE "
+"development? In addition to making great software possible, supporting "
+"members also have their logos added to the KDE website and many printed "
+"promotional materials."
+msgstr ""
+"KDE'yi geliştirmeye sponsor olmakla ilgilenen bir işletmenin veya şirketin "
+"parçası mısınız? Harika bir yazılımı olanaklı kılmanın yanı sıra, "
+"destekleyici üyelerin KDE web sitesine ve birçok basılı promosyon "
+"malzemesine logoları da eklenmiştir."
+
+#: content/community/donations/_index.md:0
+msgid "Donate"
+msgstr "Bağış Yap"
+
+#: content/distributions.md:0
+msgid "Distributions with Plasma and KDE Applications"
+msgstr "Plasma ve KDE uygulamaları ile gelen dağıtımlar"
+
+#: content/distributions.md:0
+msgid "Choose a Linux distribution and start using KDE applications and Plasma"
+msgstr ""
+"Bir Linux dağıtımı seçin ve KDE uygulamalarını ve Plasma'yı kullanmaya "
+"başlayın"
+
+#: content/distributions.md:0
+msgid "Kubuntu"
+msgstr "Kubuntu"
+
+#: content/distributions.md:0
+msgid ""
+"Kubuntu is the Ubuntu version with KDE software by default. Developers "
+"strive to provide usability for\n"
+"beginners. The default installation includes many popular programs and a "
+"utility for managing drivers.\n"
+"\n"
+"Canonical, the developer of Ubuntu and Kubuntu, is a KDE Patron.\n"
+msgstr ""
+"Kubuntu, önyüklü olarak KDE yazılımları içeren Ubuntu sürümüdür.\n"
+"Bu dağıtımın geliştiricileri, yeni başlayanlar için kullanılabilir bir ortam "
+"sağlamaya\n"
+"çalışır. Varsayılan kurulum, birçok popüler programı ve sürücüleri yönetmek\n"
+"için bir yardımcı program içerir.\n"
+"Ubuntu ve Kubuntu'nun geliştiricisi olan Canonical, bir KDE bağışçısıdır.\n"
+
+#: content/distributions.md:0
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: content/distributions.md:0
+msgid ""
+"openSUSE comes in two versions. **Leap**, a stable distribution with regular "
+"releases, comes with LTS versions of Linux, Qt and Plasma. **Tumbleweed**, a "
+"rolling distribution with the latest versions of all packages\n"
+"\n"
+"SUSE is a KDE Patron.\n"
+msgstr ""
+"openSUSE, iki sürümde sunulur. **Leap**, Linux'un uzun dönem desteklenen "
+"sürümünde Qt ve Plasma ile gelen kararlı bir dağıtımdır. **Tumbleweed** ise "
+"tüm paketlerin en son sürümlerini hemen sunan periyodik bir dağıtımdır.\n"
+"\n"
+"SUSE, bir KDE bağışçısıdır.\n"
+
+#: content/distributions.md:0
+msgid "KDE Neon"
+msgstr "KDE Neon"
+
+#: content/distributions.md:0
+msgid ""
+"KDE neon takes the latest Plasma desktop and KDE apps and builds them fresh "
+"each day for your\n"
+"pleasure, using the stable Ubuntu LTS base.\n"
+"\n"
+"Most people will want our User edition built from released software, but we "
+"also have Testing\n"
+"and Unstable editions built directly from unreleased Git for helping develop "
+"our software.\n"
+"It is installable as your Linux distro or from Docker images.\n"
+msgstr ""
+"KDE neon, kararlı Ubuntu uzun dönem destek dağıtımı üzerine güncel Plasma\n"
+"masaüstü ve KDE uygulamalarını alır ve taze taze kullanımınıza sunar.\n"
+"\n"
+"Çoğu kullanıcılar, yayımlanmış yazılımları kullanan Kullanıcı sürümünü\n"
+"yüklemelidir; ancak yayımlanmamış yazılımların güncel kodlarını kullanan\n"
+"Sınama ve Kararsız sürümleri, yazılımlarımızı geliştirmeye ve sınamaya\n"
+"yardımcı olur.\n"
+"Linux dağıtımı veya Docker yansısı olarak kurulabilir.\n"
+
+#: content/distributions.md:0
+msgid "Alt Workstation K"
+msgstr "Alt Workstation K"
+
+#: content/distributions.md:0
+msgid ""
+"Alt Workstation K is a Russian distribution for organizing end-user "
+"workstations and is suitable for use in an office environment as well as at "
+"home. This product comes with commercial support."
+msgstr ""
+"Alt Workstation K, hem evde hem işte yararlanabileceğiniz son kullanıcı iş "
+"istasyonlarını organize etmek için kullanabilir bir Rus Linux dağıtımıdır. "
+"Bu ürün, kurumsal destek sunar."
+
+#: content/distributions.md:0
+msgid "Fedora KDE"
+msgstr "Fedora KDE"
+
+#: content/distributions.md:0
+msgid ""
+"Fedora is a stable distribution sponsored by Red Hat. A new version of "
+"Fedora is released every 6 months."
+msgstr ""
+"Fedora, Red Hat tarafından desteklenen kararlı bir dağıtımdır. Her 6 ayda "
+"bir Fedora'nın yeni bir sürümü yayınlanır."
+
+#: content/distributions.md:0
+msgid "Manjaro KDE"
+msgstr "Manjaro KDE"
+
+#: content/distributions.md:0
+msgid ""
+"Manjaro is a distribution based on Arch Linux, aimed at simplifying its "
+"installation and configuration. The Manjaro KDE version, in particular, is "
+"configured to use KDE Plasma and KDE core applications."
+msgstr ""
+"Manjaro, kurulumunu ve yapılandırmasını basitleştirmeyi amaçlayan Arch Linux "
+"tabanlı bir dağıtımdır. Özellikle Manjaro KDE sürümü, KDE Plasma ve KDE "
+"çekirdek uygulamalarını kullanacak şekilde yapılandırılmıştır."
+
+#: content/distributions.md:0
+msgid "ROSA"
+msgstr "ROSA"
+
+#: content/distributions.md:0
+msgid ""
+"ROSA Desktop is a Russian Linux distribution featuring a customised KDE "
+"desktop and the working environment. This product comes with commercial "
+"support."
+msgstr ""
+"ROSA Desktop, özelleştirilmiş bir KDE masaüstü ve çalışma ortamı sunan bir "
+"Rus Linux dağıtımıdır. Bu ürün kurumsal destek sunar."
+
+#: content/distributions.md:0
+msgid ""
+"This page lists some of the most popular Linux distributions with pre-"
+"installed KDE software.  We recommend that you familiarize yourself with the "
+"descriptions on the project sites in order to get a more complete picture."
+msgstr ""
+"Bu sayfada, önceden yüklenmiş KDE yazılımlarına sahip en popüler Linux "
+"dağıtımlarından bazıları listelenmektedir. Daha eksiksiz bir resim elde "
+"etmek için proje sitelerindeki açıklamalara bakabilirsiniz."
+
+#: content/distributions.md:64
+msgid "Install using ROSA Image Writer for:"
+msgstr "ROSA Kalıp Yazıcı kullanarak kur:"
+
+#: content/distributions.md:66
+msgid ""
+"[Windows](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-win."
+"zip)"
+msgstr ""
+"[Windows](http://wiki.rosalab.ru/ru/images/6/62/RosaImageWriter-2.6.2-win."
+"zip)"
+
+#: content/distributions.md:67
+msgid ""
+"[Linux 32-bit](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
+"lin-i686.tar.xz)"
+msgstr ""
+"[Linux 32-bit](http://wiki.rosalab.ru/ru/images/4/45/RosaImageWriter-2.6.2-"
+"lin-i686.tar.xz)"
+
+#: content/distributions.md:68
+msgid ""
+"[Linux 64-bit](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
+"lin-x86_64.tar.xz)"
+msgstr ""
+"[Linux 64-bit](http://wiki.rosalab.ru/ru/images/7/7f/RosaImageWriter-2.6.2-"
+"lin-x86_64.tar.xz)"
+
+#: content/distributions.md:69
+msgid ""
+"[Mac OS X](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-osx."
+"dmg)"
+msgstr ""
+"[macOS](http://wiki.rosalab.ru/ru/images/3/33/RosaImageWriter-2.6.2-osx.dmg)"
+
+#: content/distributions.md:71
+msgid ""
+"The distribution should also contain installation instructions and a quick-"
+"start guide."
+msgstr ""
+"Dağıtım ayrıca kurulum yönergeleri ve bir hızlı başlangıç kılavuzu "
+"içermelidir."
+
+#: content/distributions.md:73
+msgid ""
+"You can install KDE applications and Plasma in other Linux distributions and "
+"other operating systems. A list of those is available on the [KDE Community "
+"wiki](https://community.kde.org/Distributions). You can also [buy devices "
+"with Plasma](/hardware)."
+msgstr ""
+"KDE uygulamalarını ve Plasma'yı başka Linux dağıtımlarına veya diğer işletim "
+"sistemlerine kurabilirsiniz. Kurulabilecek ortamların listesi [KDE Topluluğu "
+"vikisinde](https://community.kde.org/Distributions) mevcuttur. Ayrıca, "
+"[Plasma kullanan aygıtlar satın alabilirsiniz](/hardware)."
+
+#: content/for/creators.md:0
+msgid "KDE for Creators"
+msgstr "Yaratıcılar için KDE"
+
+#: content/for/creators.md:0
+msgid "For Artists Using KDE Applications."
+msgstr "Sanatçılar için yaratıcılığı ortaya çıkaran KDE uygulamaları."
+
+#: content/for/creators.md:0
+msgid "Summer portrait by RodMartin"
+msgstr "Yaz portresi, RodMartin tarafından"
+
+#: content/for/creators.md:0
+msgid "Page of Coins by Sylvia Ritter"
+msgstr "Bozuk Paralar Sayfası, Sylvia Ritter tarafından"
+
+#: content/for/creators.md:0
+msgid "Artwork by RoseRedTiger"
+msgstr "RoseRedTiger çizimi"
+
+#: content/for/creators.md:0
+msgid "Cordelia by MPetrelli"
+msgstr "Kordeyla, MPetrelli tarafından"
+
+#: content/for/creators.md:0
+msgid "Artwork by Sonny"
+msgstr "Sonny çizimi"
+
+#: content/for/creators.md:0
+msgid "Flying cats by emilm"
+msgstr "Uçan kediler, emilm tarafından"
+
+#: content/for/creators.md:0
+msgid "Future? by Mato"
+msgstr "Gelecek?, Mato tarafından"
+
+#: content/for/creators.md:0
+msgid "Blender"
+msgstr "Blender"
+
+#: content/for/creators.md:0
+msgid "3D creation"
+msgstr "3B yaratma"
+
+#: content/for/creators.md:0
+msgid "/for/resources/blender_icon_512x512.png"
+msgstr "/for/resources/blender_icon_512x512.png"
+
+#: content/for/creators.md:0
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#: content/for/creators.md:0
+msgid "Vector graphics"
+msgstr "Vektör grafikler"
+
+#: content/for/creators.md:0
+msgid "/for/resources/inkscape-logo.svg"
+msgstr "/for/resources/inkscape-logo.svg"
+
+#: content/for/creators.md:0
+msgid "Scribus"
+msgstr "Scribus"
+
+#: content/for/creators.md:0
+msgid "Publishing"
+msgstr "Yayımcılık"
+
+#: content/for/creators.md:0
+msgid "/for/resources/Scribus_logo.svg"
+msgstr "/for/resources/Scribus_logo.svg"
+
+#: content/for/creators.md:0
+msgid "Ossia score"
+msgstr "Ossia score"
+
+#: content/for/creators.md:0
+msgid "Media art"
+msgstr "Ortam sanatı"
+
+#: content/for/creators.md:0
+msgid "/for/resources/score-logo.png"
+msgstr "/for/resources/score-logo.png"
+
+#: content/for/creators.md:0
+msgid "LMMS"
+msgstr "LMMS"
+
+#: content/for/creators.md:0
+msgid "Music creation"
+msgstr "Müzik yaratma"
+
+#: content/for/creators.md:0
+msgid "/for/resources/lmms-logo.svg"
+msgstr "/for/resources/lmms-logo.svg"
+
+#: content/for/creators.md:0
+msgid "Glaxnimate"
+msgstr "Glaxnimate"
+
+#: content/for/creators.md:0
+msgid "2D vector animation"
+msgstr "2B vektör canlandırma"
+
+#: content/for/creators.md:0
+msgid "/for/resources/glaxnimate.svg"
+msgstr "/for/resources/glaxnimate.svg"
+
+#: content/for/creators.md:0
+msgid "OpenToonz"
+msgstr "OpenToonz"
+
+#: content/for/creators.md:0
+msgid "2D animation"
+msgstr "2B animasyon"
+
+#: content/for/creators.md:0
+msgid "/for/resources/opentoonz-logo.svg"
+msgstr "/for/resources/opentoonz-logo.svg"
+
+#: content/for/creators.md:0
+msgid "Natron"
+msgstr "Natron"
+
+#: content/for/creators.md:0
+msgid "VFX and Motion Graphics"
+msgstr "Özel efektler ve hareketli grafikler"
+
+#: content/for/creators.md:0
+msgid "/for/resources/natron.svg"
+msgstr "/for/resources/natron.svg"
+
+#: content/for/creators.md:0
+msgid "Krita - Digital Painting for Human Beings"
+msgstr "Krita - İnsanlar için Sayısal Boyama"
+
+#: content/for/creators.md:0
+msgid ""
+"No trials.<br>No subscriptions.<br>No paywalled colors.<br>No limit to your "
+"creativity.<br>"
+msgstr ""
+"Deneme süresi yok.<br>Abonelik yok.<br>Ödeme duvarı ardına saklanan renkler "
+"yok.<br>Yaratıcılığınıza bir sınır yok.<br>"
+
+#: content/for/creators.md:0
+msgid "Analyze color and exposure of images using histograms"
+msgstr ""
+"Histogramlar kullanarak, görsellerin renklerini ve açıklığını çözümleyin"
+
+#: content/for/creators.md:0
+msgid "Quickly find your best images using labels"
+msgstr "Etiketler kullanarak en iyi görsellerinizi tez bulun"
+
+#: content/for/creators.md:0
+msgid "Color picker applet"
+msgstr "Renk seçici uygulamacığı"
+
+#: content/for/creators.md:0
+msgid "Capture color from your screen and keep track of them"
+msgstr "Ekranınızdan renkler yakalayın ve onların hesabını tutun"
+
+#: content/for/creators.md:0
+msgid "Neutral color support"
+msgstr "Nötr renk desteği"
+
+#: content/for/creators.md:0
+msgid "Plasma allows you to use a desaturated dark theme."
+msgstr "Plasma, doymamış renkler içeren bir koyu tema kullanmanıza izin verir."
+
+#: content/for/creators.md:0
+msgid "Preview support for all your images"
+msgstr "Tüm görselleriniz için önizleme desteği"
+
+#: content/for/creators.md:0
+msgid ""
+"Preview your artworks Krita files directly from the file manager and image "
+"viewer"
+msgstr ""
+"Krita proje dosyalarınızı doğrudan dosya yöneticisinden ve görsel "
+"görüntüleyiciden önizleyin"
+
+#: content/for/creators.md:92
+msgid ""
+"Krita is a professional free and open source program for painters and "
+"graphic designers. It is made by artists who work to provide open, "
+"affordable and privacy-respecting art tools for everyone. With Krita, you "
+"can develop concept art, use texture and matte painting tools, and create "
+"high quality illustrations and comics."
+msgstr ""
+"Krita, çizerler ve grafik tasarımcılar için yapılmış, ücretsiz ve açık "
+"kaynaklı profesyonel bir programdır. Herkes için ücretsiz, gizliliğinize "
+"saygı duyan ve açık sanat araçları sağlamak isteyen sanatçılar tarafından "
+"yapılmıştır. Krita ile konsept sanatlar geliştirebilir, desen ve mat boyama "
+"araçları kullanabilir ve yüksek kaliteli illüstrasyonlar ve çizgi romanlar "
+"yaratabilirsiniz."
+
+#: content/for/creators.md:94
+msgid "![Krita tools](/for/resources/pepperandcarrot.png)"
+msgstr "![Krita araçları](/for/resources/pepperandcarrot.png)"
+
+#: content/for/creators.md:96
+msgid "Join the community"
+msgstr "Topluluğa katılın"
+
+#: content/for/creators.md:98
+msgid ""
+"Join the [krita-artists.org](https://krita-artists.org) community to share "
+"your art with other artists."
+msgstr ""
+"Sanatınızı diğer sanatçılarla paylaşmak için [krita-artists.org](https://"
+"krita-artists.org) topluluğuna katılın."
+
+#: content/for/creators.md:106
+msgid "Kdenlive"
+msgstr "Kdenlive"
+
+#: content/for/creators.md:108
+msgid ""
+"Kdenlive allows you to use and arrange several audio and video tracks, each "
+"one can be locked or muted to your convenience."
+msgstr ""
+"Kdenlive, birden çok ses ve video izini kullanmanıza ve düzenlemenize izin "
+"verir; her biri isteğe göre kilitlenebilir veya sesi kapatılabilir."
+
+#: content/for/creators.md:118
+msgid "Use any audio / video format"
+msgstr "Herhangi bir ses/video biçimini kullanın"
+
+#: content/for/creators.md:120
+msgid ""
+"Being based on the powerful FFmpeg libraries, Kdenlive can use almost any "
+"audio and video formats directly without the need to convert or re-encode "
+"your clips."
+msgstr ""
+"Güçlü FFmpeg kitaplıklarını temel aldığından, Kdenlive neredeyse her tür ses "
+"ve video biçimini, onları başka biçimlere dönüştürmeye gerek kalmadan veya "
+"yeniden kodlamadan kullanabilir."
+
+#: content/for/creators.md:122
+msgid "Configurable interface and shortcuts"
+msgstr "Yapılandırılabilir arayüz ve kısayollar"
+
+#: content/for/creators.md:124
+msgid ""
+"You can arrange and save your custom interface layouts to fit your workflow. "
+"Keyboard shortcuts can also be configured to match your preferences."
+msgstr ""
+"Çalışma düzeninize uygun olarak, kendinize özel bir arayüzü isteğinize göre "
+"ayarlayabilir ve kaydedebilirsiniz. Klavye kısayolları da tercihlerinize "
+"göre yapılandırılabilir."
+
+#: content/for/creators.md:131
+msgid "Digikam"
+msgstr "Digikam"
+
+#: content/for/creators.md:133
+msgid "Professional Photo Management with the Power of Open Source"
+msgstr "Açık kaynağın gücüyle profesyonel fotoğraf yönetimi"
+
+#: content/for/creators.md:137
+msgid "Digikam support of raw files"
+msgstr "Digikam RAW dosya desteği"
+
+#: content/for/creators.md:145
+msgid "KDE Plasma Desktop for Artists"
+msgstr "Sanatçılar için KDE Plasma Masaüstü"
+
+#: content/for/creators.md:147
+msgid ""
+"[KDE Plasma](/plasma-desktop) is the ideal operating system for you with "
+"native support for drawing tablets and many small features tailored for "
+"artists."
+msgstr ""
+"[KDE Plasma](/plasma-desktop), çizim tabletleri için gömülü destek ve "
+"sanatçılara yönelik birçok ufak özellikle, sizin için en uygun işletim "
+"sistemidir."
+
+#: content/for/creators.md:153
+msgid ""
+"It is mainly about more options for the tablet settings, options to setup a "
+"neutral colored theme, thumbnails for your artwork source files and easier "
+"file type association and 'open with' menu, better support for multi monitor "
+"workflow and perfect desktop integration with my core application: Krita and "
+"Kdenlive."
+msgstr ""
+"Bu daha çok; tablet ayarları için daha fazla seçenek, nötr renkli bir tema "
+"ayarlama seçenekleri, sanat eseri kaynak dosyaları için küçük görseller ve "
+"daha kolay dosya türü ilişkilendirmesi, 'Birlikte Aç' menüsü, çoklu monitör "
+"iş akışı için daha iyi destek ve ana yaratıcı uygulamalarım olan Krita ve "
+"Kdenlive ile mükemmel masaüstü tümleştirmesi ile ilgili."
+
+#: content/for/creators.md:155
+msgid ""
+"[David Revoy, Fedora 36 KDE Spin for a digital painting workstation](https://"
+"www.davidrevoy.com/article913/fedora-36-kde-spin-for-a-digital-painting-"
+"workstation-reasons-and-post-install-guide)"
+msgstr ""
+"[David Revoy, bir sayısal boyama iş istasyonu için Fedora 36 KDE denemesi]"
+"(https://www.davidrevoy.com/article913/fedora-36-kde-spin-for-a-digital-"
+"painting-workstation-reasons-and-post-install-guide)"
+
+#: content/for/creators.md:162
+msgid "Kontrast"
+msgstr "Kontrast"
+
+#: content/for/creators.md:164
+msgid ""
+"Make your design accessible, by making sure that the contrast is WCAG "
+"compliant."
+msgstr ""
+"Tasarımınızı, karşıtlığın WCAG uyumlu olduğundan emin olarak herkes için "
+"erişilebilir yapın."
+
+#: content/for/creators.md:168
+msgid ""
+"![Screenshot of Kontrast with a blue background and white foregreound](/for/"
+"resources/kontrast.png)"
+msgstr ""
+"![Kontrast'ın, mavi arka plan ve beyaz ön planlı bir ekran görüntüsü](/for/"
+"resources/kontrast.png)"
+
+#: content/for/creators.md:174
+msgid "Other open source applications for you"
+msgstr "Sizin için başka açık kaynaklı uygulamalar"
+
+#: content/for/creators.md:176
+msgid ""
+"Here are some other applications from other open source organizations to "
+"complement your workflow. You should also checkout our other [graphic "
+"related applications](https://apps.kde.org/categories/graphics)."
+msgstr ""
+"İş akışınıza katkıda bulunabilecek başka açık kaynaklı organizasyonların "
+"uygulamalarından bir seçkiyi aşağıda bulabilirsiniz. KDE'nin diğer [grafik "
+"konulu uygulamalarına](https://apps.kde.org/categories/graphics) da bir göz "
+"atın."
+
+#: content/for/kids.md:0
+msgid "KDE for Kids"
+msgstr "Çocuklar için KDE"
+
+#: content/for/kids.md:0
+msgid ""
+"KDE provides a wide array of applications for children covering both "
+"educational applications and games."
+msgstr ""
+"KDE, çocuklar için hem eğitici uygulamaları hem de oyunları kapsayan geniş "
+"bir uygulama yelpazesi sunar."
+
+#: content/for/kids.md:0
+msgid "Download"
+msgstr "İndir"
+
+#: content/for/kids.md:0
+msgid ""
+"KTuberling a simple construction game suitable for children and adults "
+"alike. The idea is simple and compelling: stick the features onto the potato "
+"and build your own character!"
+msgstr ""
+"KTuberling, hem çocuklar hem de yetişkinler için uygun basit bir inşaat "
+"oyunu. Fikir basit ve ikna edici: özellikleri patatese yapıştırın ve kendi "
+"karakterinizi oluşturun!"
+
+#: content/for/kids.md:0
+msgid ""
+"An educational software suite used by teachers and parents worldwide. "
+"GCompris includes a large number of activities for children aged 2 to 10, "
+"covering everything from basic numeracy and alphabetization activities, to "
+"math and logic gates used in electronics."
+msgstr ""
+"Dünya çapında öğretmenler ve ebeveynler tarafından kullanılan bir eğitim "
+"yazılımı paketi. GCompris, 2 ila 10 yaş arası çocuklar için temel sayısal ve "
+"alfabetikleştirme etkinliklerinden elektronikte kullanılan matematik ve "
+"mantık kapılarına kadar her şeyi kapsayan çok sayıda etkinlik içerir."
+
+#: content/for/kids.md:0
+msgid ""
+"KLettres helps you learn an alphabet in a new language and then read simple "
+"syllables. Appropriate for young children aged from two and up, and for "
+"adults wanting to learn the basics of a foreign language."
+msgstr ""
+"KLettres, yeni bir dilde bir alfabe öğrenmenize ve ardından basit heceleri "
+"okumanıza yardımcı olur. İki yaş ve üstü küçük çocuklar ve bir yabancı dilin "
+"temellerini öğrenmek isteyen yetişkinler için uygundur."
+
+#: content/for/kids.md:0
+msgid "Unleash your creativity with this easy to master paint program."
+msgstr ""
+"Bu ustalaşması kolay boyama programıyla yaratıcılığınızı ortaya çıkarın."
+
+#: content/for/kids.md:0
+msgid "A collection of games for kids from 6 to 99 years old!"
+msgstr "6-99 yaş arası çocuklar için bir oyun koleksiyonu!"
+
+#: content/for/kids.md:0
+msgid "Games"
+msgstr "Oyunlar"
+
+#: content/hardware.md:0
+msgid "Buy devices with Plasma and KDE Applications"
+msgstr "Plasma ve KDE Uygulamaları ile gelen aygıtlar satın alın"
+
+#: content/hardware.md:0
+msgid ""
+"Here you can find a list of devices with KDE Plasma pre-installed that you "
+"can buy right now:"
+msgstr ""
+"Burada; hemen satın alabileceğiniz, önceden KDE Plasma yüklenmiş "
+"donanımların bir listesini bulabilirsiniz:"
+
+#: content/hardware.md:0
+msgid "Steam Deck"
+msgstr "Steam Deck"
+
+#: content/hardware.md:0
+msgid "A portable console that runs AAA games"
+msgstr "AAA düzey oyunları çalıştırabilen taşınabilir bir konsol"
+
+#: content/hardware.md:0
+msgid ""
+"Play your entire gaming library with this portable console that has the "
+"flexibility of a PC.\n"
+"The Steam Deck runs KDE Plasma optimized to play the latest AAA games and "
+"your\n"
+"favorite emulators. You can even connect a screen, keyboard, and mouse for a "
+"full\n"
+"Plasma-based desktop PC experience.\n"
+msgstr ""
+"Bir kişisel bilgisayarın tüm esnekliğine sahip bu taşınabilir konsol ile tüm "
+"oyun kitaplığınızı oynayın.\n"
+"Steam Deck, KDE Plasma üzerinde çalışır ve en son çıkan tüm AAA düzey "
+"oyunlar ve favori öykünücüleriniz için eniyilenmiştir.\n"
+"Hatta tam bir Plasma tabanlı bir kişisel bilgisayar deneyimi için bir ekran, "
+"klavye ve fare bile bağlayabilirsiniz.\n"
+
+#: content/hardware.md:0
+msgid "Specifications"
+msgstr "Teknik Özellikler"
+
+#: content/hardware.md:0
+msgid "Operating system pre-installed:"
+msgstr "Önyüklü işletim sistemi:"
+
+#: content/hardware.md:0
+msgid "SteamOS 3.0 (Arch Linux based)"
+msgstr "SteamOS 3.0 (Arch Linux tabanlı)"
+
+#: content/hardware.md:0
+msgid "CPU:"
+msgstr "CPU:"
+
+#: content/hardware.md:0
+msgid "Custom AMD Ryzen quad-core 3.5GHz CPU"
+msgstr "Özel AMD Ryzen dört çekirdekli 3,5 GHz CPU"
+
+#: content/hardware.md:0
+msgid "GPU:"
+msgstr "GPU:"
+
+#: content/hardware.md:0
+msgid "Custom 1.6GHz GPU with 8 RDNA 2 Compute Units"
+msgstr "Özel 1,66GHz GPU, 8 RDNA 2 işlem birimi ile"
+
+#: content/hardware.md:0
+msgid "Memory:"
+msgstr "Bellek:"
+
+#: content/hardware.md:0
+msgid "16 GB RAM (LPDDR5)"
+msgstr "16 GB RAM (LPDDR5)"
+
+#: content/hardware.md:0
+msgid "Display:"
+msgstr "Ekran:"
+
+#: content/hardware.md:0
+msgid "1200 x 800 7” IPS LCD"
+msgstr "1200 x 800 7 inç IPS LCD"
+
+#: content/hardware.md:0
+msgid "Storage:"
+msgstr "Depolama:"
+
+#: content/hardware.md:0
+msgid "Up to 512 GB SSD"
+msgstr "512 GB'a kadar SSD depolama"
+
+#: content/hardware.md:0
+msgid "Price:"
+msgstr "Fiyat:"
+
+#: content/hardware.md:0
+msgid "starting at US$399"
+msgstr "$399'dan başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "PinePhone KDE Community Edition"
+msgstr "PinePhone KDE Topluluk Sürümü"
+
+#: content/hardware.md:0
+msgid "Experience the future of KDE’s open mobile platform"
+msgstr "KDE’nin açık taşınabilir platformunun geleceğini deneyimleyin"
+
+#: content/hardware.md:0
+msgid ""
+"Plasma Mobile and PinePhone provide you with the excitement of experimenting "
+"with\n"
+"the future of Free and Open Source mobile phones right now.\n"
+"\n"
+"The Pinephone is a tinkerer's dream, letting you boot new operating systems "
+"with\n"
+"ease and tweak, expand, and update the hardware. Plasma Mobile provides you "
+"with\n"
+"a feature-rich environment with an already well-populated app ecosystem "
+"ready for\n"
+"convergence. Experiment with software that improves on a daily basis, use "
+"calendars,\n"
+"sync up with your desktop and other devices using KDE Connect, browse the "
+"web,\n"
+"read documents, play games, send Instant Messages, and so much more.\n"
+msgstr ""
+"Plasma Mobile ve PinePhone, Özgür ve Açık Kaynaklı cep telefonlarının\n"
+"geleceğini şimdiden deneyimleme heyecanını sunar.\n"
+"\n"
+"Pinephone, aletleri kurcalamayı seven birisinin düşlerindeki telefondur;\n"
+"kolaylıkla yeni işletim sistemleri yüklemenize ve donanımı kurcalamanıza,\n"
+"genişletmenize ve güncellemenize izin verir. Plasma Mobile, size tam\n"
+"özellikli ve şimdiden yakınsama destekli geniş bir uygulama ekosistemi "
+"sunar.\n"
+"Gün geçtikçe daha da gelişen yazılımları deneyin, KDE Connect kullanarak\n"
+"takvim kullanın ve masaüstünüz ve diğer aygıtlarla eşzamanlı kalın, Web'de\n"
+"gezinin, belgeler oluşturun, oyunlar oynayın, anlık iletiler gönderin, ve\n"
+"daha bir sürü şey yapın.\n"
+
+#: content/hardware.md:0
+msgid ""
+"As a regular user, get this phone if you want to experience first hand what "
+"the\n"
+"future of FLOSS mobile phones will be like. Test it, give us feedback and "
+"help\n"
+"us push Plasma Mobile to maturity!\n"
+"\n"
+"As a developer, get this phone if you want to contribute to Plasma Mobile, "
+"one\n"
+"of the most active, community-driven projects for mobile phones. It will "
+"also\n"
+"give you a headstart in creating apps for a budding system that is on the "
+"verge\n"
+"of taking the mobile arena by storm.\n"
+msgstr ""
+"Sıradan bir kullanıcı olarak, özgür yazılımlı mobil telefonların geleceğini\n"
+"şimdiden deneyimlemek istiyorsanız kesinlikle bu telefonu edinin. Sınayın,\n"
+"bize geri bildirimde bulunun ve Plasma Mobile'i olgunlaştırın!\n"
+"\n"
+"Bir geliştirici olarak, mobil ortamdaki en etkin, en topluluk odaklı\n"
+"projelerden biri olan Plasma Mobile'i geliştirmek istiyorsanız bu telefonu\n"
+"edinin. Bunu yaparak mobil ortamı gelecekte kasıp kavuracak bir sistem için\n"
+"uygulama oluşturmada size bir ön avantaj sağlayacaktır.\n"
+
+#: content/hardware.md:0
+msgid "Learn more about the PinePhone"
+msgstr "PinePhone hakkında daha fazla bilgi edinin"
+
+#: content/hardware.md:0
+msgid "Picture of the PinePhone with Plasma Mobile"
+msgstr "Plasma Mobile özellikli PinePhone'un resmi"
+
+#: content/hardware.md:0
+msgid "KDE Slimbook"
+msgstr "KDE Slimbook"
+
+#: content/hardware.md:0
+msgid "Powerful Hardware, Sleek Software"
+msgstr "Güçlü Donanım, Şık Yazılım"
+
+#: content/hardware.md:0
+msgid ""
+"The Linux ultrabook with a Ryzen 5700U processor and KDE's full-featured "
+"Plasma\n"
+"desktop running on KDE Neon and with access to hundreds of Open Source "
+"programs and utilities.\n"
+msgstr ""
+"Ryzen 5700U işlemciye ve KDE'nin tam özellikli Plasma masaüstüne sahip Linux "
+"ultrabook,\n"
+"KDE Neon üzerinde çalışır ve yüzlerce Açık Kaynak program ve yardımcı "
+"programa erişim sağlar.\n"
+
+#: content/hardware.md:0
+msgid "Picture of the two slimbook models"
+msgstr "İki slimbook modelinin resmi"
+
+#: content/hardware.md:0
+msgid "Choose your size"
+msgstr "Boyut seçin"
+
+#: content/hardware.md:0
+msgid "KDE Slimbook 14”"
+msgstr "KDE Slimbook 14”"
+
+#: content/hardware.md:0
+msgid "AMD Ryzen 7 5700 U"
+msgstr "AMD Ryzen 7 5700 U"
+
+#: content/hardware.md:0
+msgid "14-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+msgstr "60 Hz'de 1920x1080 çözünürlüklü 14 inç IPS LED ekran"
+
+#: content/hardware.md:0
+msgid "Up to 2TB storage SSD"
+msgstr "2 TB'a kadar SSD depolama"
+
+#: content/hardware.md:0
+msgid "Up to 64GB memory"
+msgstr "64 GB'a kadar bellek"
+
+#: content/hardware.md:0
+msgid "47‑watt‑hour battery"
+msgstr "47 watt'lık pil"
+
+#: content/hardware.md:0
+msgid "1 kg"
+msgstr "1 kg"
+
+#: content/hardware.md:0
+msgid "KDE Slimbook 15.6”"
+msgstr "KDE Slimbook 15.6”"
+
+#: content/hardware.md:0
+msgid "15.6-inch IPS LED display with 1920 by 1080 resolution at 60Hz"
+msgstr "60 Hz'de 1920x1080 çözünürlüğe sahip 15,6 inç IPS LED ekran"
+
+#: content/hardware.md:0
+msgid "92‑watt‑hour battery"
+msgstr "92 watt'lık pil"
+
+#: content/hardware.md:0
+msgid "1.5 kg"
+msgstr "1,5 kg"
+
+#: content/hardware.md:0
+msgid "Configure"
+msgstr "Yapılandır"
+
+#: content/hardware.md:0
+msgid "See the full comparison"
+msgstr "Tam karşılaştırmaya bakın"
+
+#: content/hardware.md:0
+msgid "Kubuntu Focus Systems"
+msgstr "Kubuntu Focus Sistemleri"
+
+#: content/hardware.md:0
+msgid "The KDE Linux Systems You've Always Wanted"
+msgstr "Her Zaman İstediğiniz KDE Linux Sistemler"
+
+#: content/hardware.md:0
+msgid ""
+"Officially branded Kubuntu systems\n"
+"designed to work out-of-the-box, featuring the beautiful and\n"
+"intuitive KDE desktop with industry-standard Ubuntu® 22.04 LTS.\n"
+msgstr ""
+"Resmi Kubuntu sistemleri, Ubuntu® 22.04 LTS\n"
+"ile güzel ve kullanımı kolay KDE Masaüstü ortam\n"
+"ile doğrudan çalışacak biçimde tasarlanmıştır.\n"
+
+#: content/hardware.md:0
+msgid "https://kfocus.org/img/hosted/kfocus-systems-med-80p.jpg"
+msgstr "https://kfocus.org/img/hosted/kfocus-systems-med-80p.jpg"
+
+#: content/hardware.md:0
+msgid "Focus XE"
+msgstr "Focus XE"
+
+#: content/hardware.md:0
+msgid ""
+"A high-performance, ultra-mobile 14.0\" laptop. Perfect for coding,\n"
+"content creation, and devops wherever you go.\n"
+msgstr ""
+"Yüksek başarımlı, ultra-taşınabilir bir 14 inçlik dizüstü. Kodlama,\n"
+"içerik üretimi ve geliştirici işlemleri için nereye giderseniz gidin "
+"mükemmel.\n"
+
+#: content/hardware.md:0
+msgid "From $845"
+msgstr "$845'ten başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "Focus M2"
+msgstr "Focus M2"
+
+#: content/hardware.md:0
+msgid ""
+"The ultimate trim-and-light 15.6\" workstation. Perfect for deep\n"
+"learning, rendering, simulations, development, and AAA games.\n"
+msgstr ""
+"En ince ve hafif 15,6 inçlik çalışma istasyonu. Derin öğrenme, sunum,\n"
+"benzetimler, geliştirme ve AAA oyunlar için mükemmel.\n"
+
+#: content/hardware.md:0
+msgid "From $1895"
+msgstr "$1895'ten başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "Focus NX"
+msgstr "Focus NX"
+
+#: content/hardware.md:0
+msgid ""
+"Big capability in an amazingly compact 4.5\" package. Perfect for\n"
+"coding, content creation, and devops from your desk, couch, or a nook.\n"
+msgstr ""
+"4,5 inçlik bir pakette inanılmaz yetenekler. Masanızdan, kanepenizden veya\n"
+"herhangi bir köşeden kodlama, içerik üretimi ve geliştirme işlemleri için "
+"çok uygun.\n"
+
+#: content/hardware.md:0
+msgid "From $695"
+msgstr "$695'ten başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "Learn More"
+msgstr "Daha Fazla Öğren"
+
+#: content/hardware.md:0
+msgid "https://kfocus.org/"
+msgstr "https://kfocus.org/"
+
+#: content/hardware.md:0
+msgid "Pinebook Pro"
+msgstr "Pinebook Pro"
+
+#: content/hardware.md:0
+msgid ""
+"The Pinebook Pro is meant to deliver solid day-to-day Linux or\n"
+"*BSD experience and to be a compelling alternative to mid-ranged\n"
+"Chromebooks that people convert into Linux laptops. In contrast to\n"
+"most mid-ranged Chromebooks however, the Pinebook Pro comes with\n"
+"an IPS 1080p 14″ LCD panel, a premium magnesium alloy shell,\n"
+"64/128GB of eMMC storage, a 10,000 mAh capacity battery and the\n"
+"modularity / hackability that only an open source project can\n"
+"deliver – such as the unpopulated PCIe m.2 NVMe slot. The USB-C\n"
+"port on the Pinebook Pro, apart from being able to transmit data\n"
+"and charge the unit, is also capable of digital video output\n"
+"up-to 4K at 60hz.\n"
+msgstr ""
+"Pinebook Pro, sağlam bir günlük Linux veya *BSD deneyimi sunmayı\n"
+"ve insanların Linux dizüstü bilgisayarlarına dönüştürdüğü orta\n"
+"sınıf Chromebook'lara çekici bir alternatif olmayı amaçlıyor.\n"
+"Bununla birlikte, çoğu orta sınıf Chromebook'un aksine, Pinebook\n"
+"Pro IPS 1080p 14 inç LCD panel, birinci sınıf magnezyum alaşımlı\n"
+"kabuk, 64/128 GB eMMC depolama, 10.000 mAh kapasiteli pil ve\n"
+"yalnızca açık kaynaklı bir projenin sunabileceği modülerlik/\n"
+"deşilebilirlik ile birlikte gelir – örneğin doldurulmamış\n"
+"PCIe m.2 NVMe yuvası gibi. Pinebook Pro'daki USB-C bağlantı\n"
+"noktası, veri iletebilme ve üniteyi şarj edebilmenin yanı sıra,\n"
+"60hz'de 4K'ya kadar sayısal video çıkışı da yapabilir.\n"
+
+#: content/hardware.md:0
+msgid "Pinebook pro picture"
+msgstr "Pinebook pro resmi"
+
+#: content/hardware.md:0
+msgid "1080p IPS Panel"
+msgstr "1080p IPS Panel"
+
+#: content/hardware.md:0
+msgid "64GB of eMMC (Upgradable)"
+msgstr "64GB eMMC (Yükseltilebilir)"
+
+#: content/hardware.md:0
+msgid "starting at US$199"
+msgstr "$199'dan başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "TUXEDO Computers"
+msgstr "TUXEDO Computers"
+
+#: content/hardware.md:0
+msgid "TUXEDO Computers builds tailor-made hardware decked out with Linux."
+msgstr ""
+"TUXEDO Computers, üzerinde Linux kurulu gelen, özel olarak hazırlanmış "
+"donanımlar yapar."
+
+#: content/hardware.md:0
+msgid ""
+"TUXEDO Computers are individually built notebook and desktop machines which "
+"are fully Linux compatible. All you need to do is unpack, connect, and "
+"switch on your TUXEDO and your Linux computer is ready to go.\n"
+msgstr ""
+"TUXEDO Computers, tümüyle Linux uyumlu ve bireysel olarak üretilmiş dizüstü "
+"ve masaüstü bilgisayarlar yapar. Tek yapmanız gereken, paketi açmak, fişe "
+"takmak ve TUXEDO bilgisayarınızı açıp Linux'un tadını çıkarmaktır.\n"
+
+#: content/hardware.md:0
+msgid ""
+"TUXEDO OS is the default operating system installed on all TUXEDO machines. "
+"Based on Ubuntu and powered by Plasma, it offers you the best experience and "
+"performance for your new laptop or desktop computer.\n"
+msgstr ""
+"TUXEDO OS, tüm TUXEDO makinelerde kurulu gelen öntanımlı işletim sistemidir. "
+"Ubuntu temelli olan ve gücünü Plasma'dan alan bu sistem, yeni dizüstü veya "
+"masaüstü bilgisayarınız için en iyi deneyimi ve başarımı sağlar.\n"
+
+#: content/hardware.md:0
+msgid ""
+"All TUXEDO's computers are assembled and installed in-house, come with self-"
+"programmed driver packages for optimum hardware compatibility, and provided "
+"with support from TUXEDO's highly qualified technical staff, guaranteeing a "
+"smooth transition to your new Linux machine.\n"
+msgstr ""
+"Tüm TUXEDO bilgisayarları taşeron olmadan montajlanır, en iyi donanım "
+"uyumluluğu için kendinden programlı sürücü paketleriyle gelir ve TUXEDO'nun "
+"yüksek düzeyde kalifiye teknik personeli tarafından desteklenir. Böylece, "
+"Linux'a sıkıntısız geçişiniz garantilenmiş olur.\n"
+
+#: content/hardware.md:0
+msgid "/content/hardware/tuxedo-laptop.png"
+msgstr "/content/hardware/tuxedo-laptop.png"
+
+#: content/hardware.md:0
+msgid "Infinity book S 17"
+msgstr "Infinity book S 17"
+
+#: content/hardware.md:0
+msgid ""
+"The ultra-slim big-screen workstation. Perfect for 3D rendering, software\n"
+"development, deep learning, and AAA gaming.\n"
+msgstr ""
+"Ultra-ince büyük ekranlı iş istasyonu. 3B sunum, yazılım geliştirme, derin "
+"öğrenme ve AAA oyunlar için kusursuzdur.\n"
+
+#: content/hardware.md:0
+msgid "From €1214"
+msgstr "1214 avrodan başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "Infinity Book pro"
+msgstr "Infinity Book pro"
+
+#: content/hardware.md:0
+msgid ""
+"A high-performance ultra-mobile 14\" laptop with up to 16 hours of battery "
+"life.\n"
+"With its 3K High Resolution display it's perfect for coding and content "
+"creation.\n"
+msgstr ""
+"16 saate kadar çıkan pil ömrüyle; yüksek başarımlı, ultra-taşınabilir bir 14 "
+"inç dizüstü.\n"
+"3K Yüksek Çözünürlük ekranıyla, kod yazımı ve içerik üretimi için "
+"mükemmeldir.\n"
+
+#: content/hardware.md:0
+msgid "From €1634"
+msgstr "1634 avrodan başlayan fiyatlarla"
+
+#: content/hardware.md:0
+msgid "https://www.tuxedocomputers.com/en"
+msgstr "https://www.tuxedocomputers.com/en"
+
+#: content/hardware.md:0
+msgid "Hardware sellers and services with KDE Plasma as an option"
+msgstr "KDE Plasma'yı seçenek olarak sunan donanım satıcıları ve hizmetler"
+
+#: content/hardware.md:0
+msgid ""
+"You can find here a list of hardware sellers and services offering Plasma as "
+"an option:"
+msgstr ""
+"Burada, dizüstü bilgisayarı satın alırken Plasma'yı bir seçenek olarak sunan "
+"donanım satıcılarının bir listesini bulabilirsiniz:"
+
+#: content/hardware.md:156
+msgid "Shells"
+msgstr "Shells"
+
+#: content/hardware.md:158
+msgid ""
+"Sign up for KDE Neon on Shells and access all the power and security of "
+"KDE's Plasma desktop from anywhere."
+msgstr ""
+"Shells üzerinde KDE Neon'a üye olun ve KDE Plasma masaüstünün tüm gücüne ve "
+"güvenliğine her yerden erişin."
+
+#: content/hardware.md:160
+msgid ""
+"Shells lets you transform any device into a powerful, secure Plasma machine, "
+"allowing you to work, code, or play on your laptop, smart TV or phone. "
+"Unlock the full potential of KDE's full range of software on any device with "
+"Shells virtual desktop in the cloud."
+msgstr ""
+"Shells, herhangi bir aygıtı güçlü, güvenli bir Plasma makinesine "
+"dönüştürerek dizüstü bilgisayarınızda, akıllı TV'nizde veya telefonunuzda "
+"çalışmanıza, kod yazmanıza veya oynamanıza olanak tanır. Shells sanal "
+"masaüstü ile herhangi bir aygıtta KDE'nin eksiksiz yazılım yelpazesinin tüm "
+"potansiyelini bulutta ortaya çıkarın."
+
+#: content/hardware.md:162
+msgid ""
+"<a href=\"https://www.shells.com/pricing?"
+"special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
+"hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
+msgstr ""
+"<a href=\"https://www.shells.com/pricing?"
+"special=kde&_a=kdeorg&utm_source=web&utm_medium=lp&utm_campaign=kde-org-"
+"hardware\"><img src=\"/content/hardware/shells.png\" /></a>"
+
+#: content/hardware.md:164
+msgid "<small>Shell makes a donation to KDE when you use this link.</small>"
+msgstr ""
+"<small>Bu bağlantıyı kullandığınızda, Shell KDE'ye bağışta bulunur.</small>"
+
+#: content/hardware.md:168
+msgid "Slimbook"
+msgstr "Slimbook"
+
+#: content/hardware.md:170
+msgid ""
+"SLIMBOOK was born in 2015 with the idea of being the best brand in the "
+"computer market with GNU / Linux (although it is also verified the absolute "
+"compatibility with Microsoft Windows). They assemble computers searching for "
+"excellent quality and warranty service, at a reasonable price. So much so, "
+"that in 2018 they were awarded Best Open Source Service / Solution Provider "
+"at the OpenExpo Europe 2018."
+msgstr ""
+"SLIMBOOK, GNU/Linux ile bilgisayar pazarında en iyi marka olma fikriyle 2015 "
+"yılında doğdu (her ne kadar Microsoft Windows ile mutlak uyumluluğu da "
+"doğrulanmış olsa da). Mükemmel kalite ve garanti hizmeti arayan "
+"bilgisayarları makul bir fiyata bir araya getiriyorlar. Öyle ki 2018'de "
+"OpenExpo Europe 2018'de En İyi Açık Kaynak Hizmeti/Çözüm Sağlayıcı ödülüne "
+"layık görüldüler."
+
+#: content/hardware.md:178
+msgid "Star Labs"
+msgstr "Star Labs"
+
+#: content/hardware.md:180
+msgid ""
+"Star Labs offers a range of laptops designed and built specifically for "
+"Linux. Two version of their laptop are offered: the Star Lite Mk III 11-inch "
+"and the Star LabTop Mk IV 13-inch."
+msgstr ""
+"Star Labs, Linux için özel olarak tasarlanmış ve oluşturulmuş bir dizi "
+"dizüstü bilgisayar sunuyor. Dizüstü bilgisayarlarının iki sürümü "
+"sunulmaktadır: Star Lite Mk III 11 inç ve Star LabTop Mk IV 13 inç."
+
+#: content/plasma-desktop.md:0 content/products.md:0
+msgid "Plasma"
+msgstr "Plasma"
+
+#: content/plasma-desktop.md:0
+msgid "Plasma is a Desktop"
+msgstr "Plasma = Masaüstü"
+
+#: content/plasma-desktop.md:0
+msgid "Plasma logo"
+msgstr "Plasma logo"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Plasma is KDE's desktop environment. Simple by default, powerful when needed."
+msgstr "Plasma, KDE'nin masaüstü ortamıdır. Özünde sade, gerektiğinde güçlü."
+
+#: content/plasma-desktop.md:0
+msgid "Get Plasma for your device"
+msgstr "Aygıtınız için Plasma'yı alın"
+
+#: content/plasma-desktop.md:0
+msgid "Buy a device with Plasma"
+msgstr "Plasma içeren bir aygıt satın alın"
+
+#: content/plasma-desktop.md:0
+msgid "See Announcements"
+msgstr "Duyuruları Gör"
+
+#: content/plasma-desktop.md:0
+msgid "Simple by default"
+msgstr "Varsayılan olarak basit"
+
+#: content/plasma-desktop.md:0
+msgid "Plasma is designed to be easy to use."
+msgstr "Plasma, kolayca kullanılabilsin diye tasarlanmıştır."
+
+#: content/plasma-desktop.md:0
+msgid "Launcher"
+msgstr "Başlatıcı"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"The Plasma Launcher lets you quickly and easily launch applications, but it "
+"can do much more -- convenient tasks like bookmarking applications, "
+"searching for documents as you type, or navigating to common places help you "
+"getting straight to the point. With a history of recently started programs "
+"and opened files, you can return to where you left off. It even remembers "
+"previously entered search terms so you don't have to."
+msgstr ""
+"Plasma Başlatıcı, uygulamaları hızlı ve kolay bir şekilde başlatmanıza izin "
+"verir; ancak çok daha fazlasını yapabilir-uygulamaları yer imi yapmak, "
+"yazarken belgeleri aramak veya ortak yerlere gitmek gibi kullanışlı görevler "
+"doğrudan konuya girmenize yardımcı olur. Yeni başlatılan programların ve "
+"açılan dosyaların geçmişi ile kaldığınız yere geri dönebilirsiniz. Daha önce "
+"girilen arama terimlerini bile hatırlar, böylece bunu yeniden yapmak zorunda "
+"kalmazsınız."
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot Plasma with the launcher open"
+msgstr "Başlatıcı açıkken Plasma ekran görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid "System Tray"
+msgstr "Sistem Tepsisi"
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot Plasma with the system tray open"
+msgstr "Sistem tepsisi açıkken Plasma ekran görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Connect to your WiFi network; change the volume; switch to the next song or "
+"pause a video; access an external device; change the screen layout. All "
+"these and a lot more--directly from the system tray.\n"
+"To conserve the focus on what you're currently doing, any icon can be hidden "
+"if you like. Inactive icons hide themselves unless you tell them to stay "
+"where they are.\n"
+msgstr ""
+"Wi-Fi ağınıza bağlanın, ses düzeyini değiştirin, bir sonraki şarkıya geçin "
+"veya videoyu duraklatın; harici aygıtlara erişin, ekran düzenini değiştirin. "
+"Tüm bunlar ve daha fazlası doğrudan sistem tepsisinden yapılabilir.\n"
+"O anda yaptığınız şeye odaklanmayı korumak için, isterseniz herhangi bir "
+"simge gizlenebilir. Etkin olmayan simgeler, siz onlara bulundukları yerde "
+"kalmalarını söylemediğiniz sürece kendilerini gizlerler.\n"
+
+#: content/plasma-desktop.md:0
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot Plasma with a notification"
+msgstr "Bir bildirim içeren Plasma ekran görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"See active tasks and recent actions; read new e-mails; quickly reply to "
+"messages; see track changes or low battery notice; check for updates; "
+"interact with recently moved files or screenshots. Or enter \"Do Not Disturb"
+"\" mode to concentrate on your work."
+msgstr ""
+"Etkin görevleri ve son eylemleri görün, yeni e-postaları okuyun, iletileri "
+"hızlıca yanıtlayın, değişiklikleri izleyin veya düşük pil uyarısını görün; "
+"güncellemeleri denetleyin, yakın zamanda taşınan dosyalar veya ekran "
+"görüntüleri ile etkileşimde bulunun. Veya işinize konsantre olmak için "
+"\"Rahatsız Etmeyin\" kipine geçin."
+
+#: content/plasma-desktop.md:0
+msgid "Discover"
+msgstr "Keşfet"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Discover lets you manage the applications installed in your computer. "
+"Updating, removing or installing an application is only one click away. "
+"Supports [Flatpak](https://flatpak.org/), [Snaps](https://snapcraft.io/"
+"store) and the applications available in your Linux distribution."
+msgstr ""
+"Keşfet, sisteminizde yüklü uygulamaları yönetmenize izin verir. Uygulamaları "
+"yalnızca tek bir tıkla güncelleyebilir, kaldırabilir veya yenilerini "
+"kurabilirsiniz. [Flatpak](https://flatpak.org/), [Snaps](https://snapcraft."
+"io/store) ve Linux dağıtımınızdaki uygulamalarla kullanılabilir."
+
+#: content/plasma-desktop.md:0
+msgid "Powerful when needed"
+msgstr "Gerektiğinde güçlü"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Plasma is made to stay out of the way as it helps you get things done. But "
+"under its light and intuitive surface, it's a powerhouse. So you're free to "
+"choose ways of usage right as you need them and when you need them."
+msgstr ""
+"Plasma, işlerinizi halletmenize yardımcı olur ve önünüze çıkmaz. Ancak hafif "
+"ve sezgisel yüzeyinin altında tam bir güç merkezidir. Böylece neyi nasıl ve "
+"ne zaman yapacağınıza özgürce karar vermenize olanak verir."
+
+#: content/plasma-desktop.md:0
+msgid "KRunner"
+msgstr "K Çalıştır"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"KRunner is the launcher built into the Plasma desktop. While its basic "
+"function is to launch programs from a sort of mini-command-line, its "
+"functionality can be extended by \"runners\" to assist the user to "
+"accomplish a lot of tasks. From opening folders and files to calculations "
+"and currency conversions or even controlling your music player application - "
+"there are so many things right at your fingertips."
+msgstr ""
+"K Çalıştır, Plasma masaüstünde yerleşik olarak bulunan başlatıcıdır. Temel "
+"işlevi programları bir tür mini komut satırından başlatmak olsa da, "
+"işlevselliği kullanıcının birçok görevi yerine getirmesine yardımcı olmak "
+"için \"runners\" tarafından genişletilebilir. Klasörleri ve dosyaları "
+"açmaktan hesaplamalara ve para birimi dönüştürmelerine ve hatta müzik çalar "
+"uygulamanızı denetlemeye kadar - parmaklarınızın ucunda pek çok olanak var."
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot Plasma with KRunner"
+msgstr "K Çalıştır ile Plasma ekran Görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Your Plasma desktop is very flexible and can be configured just how you like "
+"it using the System Settings app. Easily manage hardware, software, and "
+"workspaces all in one place: Keyboard, Printer, Languages, Desktop Themes, "
+"Fonts, Networks..."
+msgstr ""
+"Plasma masaüstünüz çok esnektir ve Sistem Ayarları uygulaması kullanılarak "
+"tam istediğiniz gibi yapılandırılabilir. Donanım, yazılım ve çalışma "
+"alanlarını tek bir yerde kolayca yönetin: Klavye, Yazıcı, Diller, Masaüstü "
+"Temaları, Yazıtipleri, Ağlar..."
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot: Plasma system settings"
+msgstr "Ekran görüntüsü: Plasma sistem ayarları"
+
+#: content/plasma-desktop.md:0
+msgid "Professional Applications"
+msgstr "Profesyonel Uygulamalar"
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot of KDenlive in Plasma"
+msgstr "Plasma içinde KDenlive ekran görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"[Krita](https://krita.org) is an application used by many artists that gives "
+"to everyone the opportunity to draw concept art, textures, matte paintings, "
+"illustrations and comics. [Kdenlive](https://kdenlive.org) is a professional "
+"tool that enables everyone to do non-linear video editing. [DigiKam](https://"
+"www.digikam.org) is an advanced open-source digital photo management "
+"application that provides a comprehensive set of tools for importing, "
+"managing, editing, and sharing photos and raw files."
+msgstr ""
+"[Krita](https://krita.org), herkese konsept sanat, dokular, mat tablolar, "
+"illüstrasyonlar ve çizgi romanlar çizme fırsatı veren ve birçok sanatçı "
+"tarafından kullanılan bir uygulamadır. [Kdenlive](https://kdenlive.org), "
+"herkesin doğrusal olmayan video düzenlemesi yapmasını sağlayan profesyonel "
+"bir araçtır. [DigiKam](https://www.digikam.org), fotoğrafları ve ham "
+"dosyaları yönetme, düzenleme, paylaşma ve içe aktarma için kapsamlı bir araç "
+"seti sağlayan gelişmiş bir açık kaynaklı sayısal fotoğraf yönetimi "
+"uygulamasıdır."
+
+#: content/plasma-desktop.md:0
+msgid "Customizable"
+msgstr "Özelleştirilebilir"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"With Plasma the user is king. Not happy with the color scheme? Change it! "
+"Want to have your panel on the left edge of the screen? Move it! Don't like "
+"the font? Use a different one! Download custom widgets in one click and add "
+"them to your desktop or panel."
+msgstr ""
+"Plasma ile kullanıcı kraldır. Renk şemasından memnun değil misiniz? "
+"Değiştir! Panelinizin ekranın sol kenarında olmasını ister misiniz? Oynat! "
+"Yazıtipini beğenmediniz mi? Farklı bir tane kullanın! Özel araç takımlarını "
+"tek bir tıkla indirin ve bunları masaüstünüze veya panelinize ekleyin."
+
+#: content/plasma-desktop.md:0
+msgid "Dark Theme"
+msgstr "Koyu Tema"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Give your eyes some rest by switching Plasma and its applications to a built-"
+"in dark theme."
+msgstr ""
+"Plasma ve uygulamalarını yerleşik bir koyu temaya geçirerek gözlerinizi "
+"biraz dinlendirin."
+
+#: content/plasma-desktop.md:0
+msgid "Plasma and Kontact with dark theme enabled"
+msgstr "Koyu tema etkinleştirilmiş Plasma ve Kontak"
+
+#: content/plasma-desktop.md:0
+msgid "Widgets"
+msgstr "Araç Takımları"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Add widgets to your desktop or panels; move, rotate or resize them; download "
+"custom widgets made by the community in one click."
+msgstr ""
+"Masaüstünüze veya panellerinize araç takımları ekleyin; bunları taşıyın, "
+"döndürün veya yeniden boyutlandırın; topluluk tarafından yapılan özel "
+"araçları tek bir tıkla indirin."
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot of Plasma widgets"
+msgstr "Plasma araçlarının ekran görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid "Panels"
+msgstr "Paneller"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Take complete control over your panels by moving and resizing them, adding "
+"new ones, changing the position of widgets within a panel or even adding new "
+"widgets to them."
+msgstr ""
+"Panellerinizi taşıyarak ve yeniden boyutlandırarak, yenilerini ekleyerek, "
+"bir panel içindeki araçların konumunu değiştirerek ve hatta bunlara yeni "
+"araçlar ekleyerek panelleriniz üzerinde tam denetim sahibi olun."
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot of Plasma panel"
+msgstr "Plasma panelinin ekran görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid "Community Extensions"
+msgstr "Topluluk Uzantıları"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"KDE has a vast community of people who create application themes, color "
+"schemes, widgets, and extensions -- all for free! You can browse their "
+"creations in the [KDE Store](https://store.kde.org) or download them "
+"directly from the relevant page in System Settings."
+msgstr ""
+"KDE, uygulama temaları, renk şemaları, pencere ögeleri ve uzantılar "
+"oluşturan geniş bir insan topluluğuna sahiptir - hepsi ücretsiz! Yaratılara "
+"[KDE Store] (https://store.kde.org) üzerinden göz atabilir veya doğrudan "
+"Sistem Ayarları'ndaki ilgili sayfadan indirebilirsiniz."
+
+#: content/plasma-desktop.md:0
+msgid "Screenshot of Plasma with Latte Dock"
+msgstr "Latte Dock ile Plasma Ekran Görüntüsü"
+
+#: content/plasma-desktop.md:0
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Send your vacation pictures; see what music is currently playing on your "
+"computer; move your mouse cursor during a presentation; poweroff your "
+"computer remotely before going to bed. All these from your Android device."
+msgstr ""
+"Tatil fotoğraflarınızı gönderin; bilgisayarınızda o anda hangi müziğin "
+"çaldığını görün; sunum sırasında fare imlecinizi hareket ettirin; yatmadan "
+"önce bilgisayarınızı uzaktan kapatın. Bunların hepsi Android aygıtınızdan."
+
+#: content/plasma-desktop.md:0
+msgid "Download the android extension"
+msgstr "Android uzantısını indirin"
+
+#: content/plasma-desktop.md:0
+msgid "Get it on F-Droid"
+msgstr "F-Droid üzerinden alın"
+
+#: content/plasma-desktop.md:0
+msgid "Get it on Google Play"
+msgstr "Google Play'den indirin"
+
+#: content/plasma-desktop.md:0
+msgid "Media Sync"
+msgstr "Ortam Eşzamanlaması"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"See what's playing on your computer, be it music, videos or YouTube; Pause, "
+"play or skip to the next track all from your phone."
+msgstr ""
+"Müzik, video veya YouTube gibi bilgisayarınızda nelerin oynatıldığını görün; "
+"telefonunuzdan duraklatın, oynatın veya sonraki parçaya atlayın."
+
+#: content/plasma-desktop.md:0
+msgid "KDE Connect menu"
+msgstr "KDE Connect menüsü"
+
+#: content/plasma-desktop.md:0
+msgid "Plasma desktop showing a music player open"
+msgstr "Bir müzik çaları açık gösteren Plasma masaüstü"
+
+#: content/plasma-desktop.md:0
+msgid "Send Files"
+msgstr "Dosya Gönder"
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Share files from your Android device by simply tapping on the share button "
+"and selecting KDE Connect."
+msgstr ""
+"Yalnızca paylaş düğmesine dokunup KDE Connect'i seçerek Android "
+"aygıtınızdaki dosyaları paylaşın."
+
+#: content/plasma-desktop.md:0
+msgid ""
+"Synchronize notification across your devices and quickly answer to messages "
+"from your computer."
+msgstr ""
+"Bildirimleri aygıtlarınız arasında eşzamanlayın ve iletileri "
+"bilgisayarınızdan hızlıca yanıtlayın."
+
+#: content/plasma-desktop.md:0
+msgid "Plasma with a notification"
+msgstr "Bildirim içeren Plasma"
+
+#: content/plasma-desktop.md:0
+msgid "Google Play and the Google Play logo are trademarks of Google LLC."
+msgstr "Google Play ve Google Play logosu, Google LLC'nin ticari markalarıdır."
+
+#: content/plasma-desktop.md:124
+msgid ""
+"Use Plasma to surf the web; keep in touch with colleagues, friends and "
+"family; manage your files, enjoy music and videos; and get creative and "
+"productive at work. Do it all in a beautiful environment that adapts to your "
+"needs, and with the safety, privacy-protection and peace of mind that the "
+"best Free Open Source Software has to offer."
+msgstr ""
+"Web'de gezinmek için Plasma'yı kullanın; meslektaşlarınız, arkadaşlarınız ve "
+"ailenizle iletişim halinde olun; dosyalarınızı yönetin, müzik ve videoların "
+"keyfini çıkarın; ve işte yaratıcı ve üretken olun. Hepsini "
+"gereksinimlerinize uyarlanan güzel bir ortamda ve en iyi Ücretsiz Açık "
+"Kaynak Yazılımın sunduğu güvenlik, gizlilik koruması ve gönül rahatlığı ile "
+"yapın."
+
+#: content/products.md:0
+msgid "Products"
+msgstr "Ürünler"
+
+#: content/products.md:0
+msgid ""
+"The KDE community develops a lot of different products for personal and "
+"professional use. Learn more about these products here."
+msgstr ""
+"KDE topluluğu kişisel ve profesyonel kullanım için birçok farklı ürün "
+"geliştirmektedir. Bu ürünler hakkında daha fazla bilgiyi buradan "
+"edinebilirsiniz."
+
+#: content/products.md:0
+msgid "KDE Applications"
+msgstr "KDE Uygulamaları"
+
+#: content/products.md:0
+msgid "Applications which empower users with freedom and privacy."
+msgstr "Kullanıcıları özgürlük ve gizlilikle güçlendiren uygulamalar."
+
+#: content/products.md:0
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: content/products.md:0
+msgid ""
+"Experience the freedom and privacy of KDE software on your mobile device."
+msgstr ""
+"Taşınabilir aygıtınızda KDE yazılımlarının özgürlüğünü ve gizliliğini "
+"deneyimleyin."
+
+#: content/products.md:0
+msgid "KDE neon"
+msgstr "KDE neon"
+
+#: content/products.md:0
+msgid ""
+"The latest and greatest of KDE community software packaged on a rock-solid "
+"base."
+msgstr ""
+"Kaya gibi sağlam bir temel üzerine hazırlanmış, en yeni ve en büyük KDE "
+"topluluğu yazılımı."
+
+#: content/products.md:0
+msgid "Development Tools"
+msgstr "Geliştirme Araçları"
+
+#: content/products.md:0
+msgid ""
+"Developers using KDE tools are given strong foundations to build great "
+"software."
+msgstr ""
+"KDE araçlarını kullanan geliştiricilere harika yazılımlar oluşturmaları için "
+"sağlam temeller sağlanır."
+
+#: content/products.md:0
+msgid "Frameworks"
+msgstr "Kod Kitaplıkları"
+
+#: content/products.md:0
+msgid ""
+"Add-ons for Qt. Try, for example, [Kirigami](https://develop.kde.org/"
+"frameworks/kirigami/): the UI for building apps for desktop, mobile, and "
+"everything in between."
+msgstr ""
+"Qt için eklentiler. Örneğin, masaüstü, taşınabilir ve arasındaki her şeyde "
+"uygulama grafik arabirimleri geliştirmek için [Kirigami](https://develop.kde."
+"org/frameworks/kirigami)'yi kullanın."
+
+#: content/products.md:0
+msgid "Learn about Plasma"
+msgstr "Plasma hakkında bilgi edinin"
+
+#: content/products.md:0
+msgid "View Distributions offering Plasma"
+msgstr "Plasma ile gelen dağıtımları görüntüleyin"
+
+#: content/products.md:0
+msgid "Screenshot of Plasma"
+msgstr "Plasma ekran görüntüsü"
+
+#: content/products.md:0
+msgid ""
+"Plasma is KDE's flagship product, offering the most customizable desktop "
+"environment available. The KDE community has the driving goal of making it "
+"simple by default, and powerful when needed."
+msgstr ""
+"Plasma, KDE'nin mevcut en özelleştirilebilir masaüstü ortamını sunan amiral "
+"gemisi ürünüdür. KDE topluluğu, işi özünde yalın ve gerektiğinde güçlü "
+"kılmak gibi bir itici güç amacına sahiptir."
+
+#: content/stuff/_index.md:0
+msgid "Miscellaneous KDE Resources"
+msgstr "Çeşitli KDE Kaynakları"
+
+#: content/stuff/_index.md:0
+msgid "Miscellaneous KDE resources"
+msgstr "Çeşitli KDE kaynakları"
+
+#: content/stuff/_index.md:6
+msgid ""
+"[Books on KDE](https://community.kde.org/Books) You'd like to learn more "
+"about KDE, a specific application, or how to develop an application for this "
+"project? Then this page will lead you to the best books about those topics."
+msgstr ""
+"[KDE Üzerine Kitaplar](https://community.kde.org/Books) KDE, belirli bir "
+"uygulama veya bu proje için bir uygulamanın nasıl geliştirileceği hakkında "
+"daha fazla bilgi edinmek mi istiyorsunuz? O zaman bu sayfa sizi bu konularla "
+"ilgili en iyi kitaplara götürür."
+
+#: content/stuff/_index.md:8
+msgid ""
+"[KDE Clipart](/stuff/clipart) Here you can find an almost complete list of "
+"major artwork used in the KDE project, from the official KDE and Plasma logo "
+"to the KDE mascots."
+msgstr ""
+"[KDE Küçük Resimler](/stuff/clipart) Burada, resmi KDE ve Plasma logosundan "
+"KDE maskotlarına kadar, KDE projesinin kullandığı tüm görsellerin neredeyse "
+"tam bir listesini bulabilirsiniz."
+
+#: content/stuff/_index.md:10
+msgid ""
+"[KDE MetaStore](/stuff/metastore) Here you can find links to various stores "
+"that provide products and merchandising related to the KDE project."
+msgstr ""
+"[KDE MetaStore](/stuff/metastore) Burada, KDE projesi ile ilgili ürünler ve "
+"ıvır zıvırlar satan çeşitli mağazaların bağlantılarını bulabilirsiniz."
+
+#: content/stuff/_index.md:12
+msgid ""
+"[KDE Code of Conduct](/code-of-conduct/) Principles for interacting within "
+"our community."
+msgstr ""
+"[KDE Davranış Kuralları](/code-of-conduct/) Topluluğumuz ile etkileşimde "
+"bulunurken dikkate alınacak ilkeler."
+
+#: content/stuff/_index.md:14
+msgid "[Thank Yous](/thanks) Those who have helped KDE."
+msgstr "[Teşekkürler](/thanks) KDE'ye yardım edenler."
+
+#: content/support/_index.md:0
+msgid "Support & Information"
+msgstr "Destek ve Bilgi"
+
+#: content/support/_index.md:0
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: content/support/_index.md:0
+msgid "Handbook"
+msgstr "El Kitabı"
+
+#: content/support/_index.md:0
+msgid ""
+"[Program documentation](https://docs.kde.org/) for many KDE applications"
+msgstr "Birçok KDE uygulaması için [program belgeleri](https://docs.kde.org/)"
+
+#: content/support/_index.md:0
+msgid "KDE for System Administrators"
+msgstr "Sistem Yöneticileri için KDE"
+
+#: content/support/_index.md:0
+msgid ""
+"The KDE for System Administrators document provides system administrators "
+"who are deploying KDE software in their organisation with all the "
+"information they need concerning KDE software."
+msgstr ""
+"Sistem Yöneticileri için KDE belgesi, organizasyonlarında KDE yazılımlarını "
+"kuran sistem yöneticileri için bu yazılımlar üzerine gerekebilecek her türlü "
+"bilgiyi sunar."
+
+#: content/support/_index.md:0
+msgid "KDE Userbase"
+msgstr "KDE Kullanıcı Tabanı"
+
+#: content/support/_index.md:0
+msgid ""
+"Information on many KDE applications and products. [Userbase](https://"
+"userbase.kde.org) is the home for KDE users and enthusiasts. It provides "
+"information for end users on how to use KDE applications."
+msgstr ""
+"Birçok KDE uygulaması ve ürünü üzerine bilgi. [Kullanıcı Tabanı](https://"
+"userbase.kde.org), KDE kullanıcıları ve ilgililer için toplanma noktasıdır. "
+"KDE uygulamalarını kullanma hakkında, son kullanıcılara gerekli bilgiyi "
+"sağlar."
+
+#: content/support/_index.md:0
+msgid "Community Support"
+msgstr "Topluluk Desteği"
+
+#: content/support/_index.md:0
+msgid ""
+"These <a href=\"https://userbase.kde.org/Asking_Questions\">tips on asking "
+"questions</a> should help you get useful answers."
+msgstr ""
+"Bu <a href=\"https://userbase.kde.org/Asking_Questions\">soru sorma üzerine "
+"ipuçları</a>, yararlı yanıtlar almanıza yardımcı olacaktır."
+
+#: content/support/_index.md:0
+msgid "KDE Forums"
+msgstr "KDE Forumları"
+
+#: content/support/_index.md:0
+msgid "Chat with other KDE users who may be able to help"
+msgstr "Yardımcı olabilecek diğer KDE kullanıcıları ile sohbet edin"
+
+#: content/support/_index.md:0
+msgid "Chat Channels"
+msgstr "Sohbet Kanalları"
+
+#: content/support/_index.md:0
+msgid ""
+"Community support is available in <a href=\"https://webchat.kde.org/#/room/"
+"#kde:kde.org\">the KDE Matrix Room</a>. See the <a href=\"https://community."
+"kde.org/Matrix#Rooms\">List of KDE Matrix Rooms</a> for more specific "
+"channels."
+msgstr ""
+"Topluluk desteği, <a href=\"https://webchat.kde.org/#/room/#kde:kde.org"
+"\">KDE Matrix Odası</a>'nda mevcuttur. Spesifik kanallar için <a href="
+"\"https://community.kde.org/Matrix#Rooms\">KDE Matrix Odaları</a>'na bakın."
+
+#: content/support/_index.md:0
+msgid "Mailing Lists"
+msgstr "Posta Listeleri"
+
+#: content/support/_index.md:0
+msgid "Often a direct way to get in touch with the development community"
+msgstr ""
+"Geliştirici topluluğu ile doğrudan iletişime geçmenin genelde en kolay yolu"
+
+#: content/support/_index.md:0
+msgid "International"
+msgstr "Uluslararası"
+
+#: content/support/_index.md:0
+msgid "International Pages"
+msgstr "Uluslararası Sayfalar"
+
+#: content/support/_index.md:0
+msgid ""
+"If you are interested in viewing the KDE Home page and other attached pages "
+"in a language other than English, you can choose from the list at <a href=\"/"
+"support/international\">KDE International</a>."
+msgstr ""
+"KDE ana sayfasını ve diğer ilişik sayfaları, İngilizce dışında bir dilde "
+"görüntülemek isterseniz <a href=\"/support/international\">KDE Uluslararası</"
+"a>'ndaki listeden seçebilirsiniz."
+
+#: content/support/_index.md:0
+msgid "Security and Bug Reporting"
+msgstr "Güvenlik ve Hata Bildirimi"
+
+#: content/support/_index.md:0
+msgid "Report an Issue or Bug"
+msgstr "Bir Olayı veya Hatayı Bildirin"
+
+#: content/support/_index.md:0
+msgid ""
+"Developers work best fixing bugs if accurate and detailed information is "
+"provided"
+msgstr ""
+"Geliştiricilerin eğer kesin ve ayrıntılı bilgiye erişimleri olursa hataları "
+"en hızlı bir biçimde çözebilirler."
+
+#: content/support/_index.md:0
+msgid "Security Advisories"
+msgstr "Güvenlik Danışmanları"
+
+#: content/support/_index.md:0
+msgid ""
+"Information for users and administrators with important security "
+"information. It is highly advised you keep your software up-to-date."
+msgstr ""
+"Kullanıcılar ve yöneticiler için önemli güvenlik bilgisi. Yazılımlarınızı "
+"güncel tutmanız kesinlikle önerilir."
+
+#: content/support/_index.md:0
+msgid "KDE e.V. Trusted IT Consulting Firms"
+msgstr "KDE e.V. Onaylı Bilgi İşlem Danışmanlık Şirketleri"
+
+#: content/support/_index.md:0
+msgid ""
+"In KDE we take pride in being a free software community and having an open, "
+"free and fair development process.\n"
+"\n"
+"However, we also understand that sometimes companies and institutions main "
+"priority is not learning the processes of our community and they just want "
+"issue solved or a feature implemented.\n"
+"\n"
+"For this reason, we are offering a list of consultants that have expertise "
+"in dealing with the KDE Community and we know will help get your project "
+"landed in KDE as best as possible.\n"
+msgstr ""
+"KDE'de özgür bir yazılım topluluğu olmaktan ve açık, özgür ve adil bir "
+"geliştirme sürecine sahip olmaktan gurur duyuyoruz.\n"
+"\n"
+"Ancak, bazen şirketlerin ve kurumların ana önceliğinin topluluğumuzun "
+"süreçlerini öğrenmek olmadığını ve yalnızca sorunun çözülmesini veya bir "
+"özelliğin uygulanmasını istediklerini de anlıyoruz.\n"
+"\n"
+"Bu nedenle, KDE Topluluğu ile ilişkilerde uzmanlığa sahip danışmanların bir "
+"listesini sunuyoruz ve projenizin KDE'ye mümkün olan en iyi şekilde "
+"ulaşmasına yardımcı olacağını biliyoruz.\n"
+
+#: content/support/_index.md:55
+msgid ""
+"On this page, you can find different ways to find user support for KDE "
+"software provided by the community."
+msgstr ""
+"Bu sayfada, topluluk tarafından sağlanan KDE yazılımları için kullanıcı "
+"desteği bulmanın farklı yollarını bulabilirsiniz."
+
+#~ msgid "Tuxedo"
+#~ msgstr "Tuxedo"
+
+#~ msgid ""
+#~ "All TUXEDO devices are delivered in such a way that you only have to "
+#~ "unpack, connect and switch them on. All the computers and notebooks are "
+#~ "assembled and installed in-house, not outsourced."
+#~ msgstr ""
+#~ "Tüm TUXEDO aygıtları, yalnızca paketini açmanız, bağlamanız ve açmanız "
+#~ "yeterli olacak şekilde teslim edilir. Tüm masaüstü ve dizüstü "
+#~ "bilgisayarlar dışarıdan değil, kurum bünyesinde monte edilir ve kurulur."
+
+#~ msgid ""
+#~ "They provide you with self-programmed driver packages, support, "
+#~ "installation scripts and everything around our hardware, so that every "
+#~ "hardware component really works."
+#~ msgstr ""
+#~ "Her donanım bileşeninin gerçekten çalışması için size kendi kendine "
+#~ "programlanmış sürücü paketleri, destek, kurulum komut dosyaları ve "
+#~ "donanımımızla ilgili her şeyi sağlarlar."
+
+#~ msgid "WikiToLearn"
+#~ msgstr "WikiToLearn"
+
+#~ msgid ""
+#~ "Collaborative textbooks. Learn with the best. Create books. Share "
+#~ "knowledge."
+#~ msgstr ""
+#~ "İşbirlikçi ders kitapları. En iyiyle öğrenin. Kitaplar oluşturun. Bilgiyi "
+#~ "paylaş."
+
+#~ msgid "A powerful laptop for daily use or CPU-intensive work"
+#~ msgstr ""
+#~ "Günlük kullanım veya CPU yoğun çalışma için güçlü bir dizüstü bilgisayar"
+
+#~ msgid ""
+#~ "The Kubuntu Focus laptop is a high-powered, workflow-focused laptop\n"
+#~ "which ships with Kubuntu installed. This is the first officially\n"
+#~ "Kubuntu-branded computer. It is designed for work that requires\n"
+#~ "intense GPU computing, fast NVMe storage and optimal cooling to unleash\n"
+#~ "the CPU's maximum potential.\n"
+#~ msgstr ""
+#~ "Kubuntu Focus dizüstü bilgisayar, Kubuntu yüklü olarak gelen yüksek "
+#~ "güçlü,\n"
+#~ "iş akışı odaklı bir dizüstü bilgisayardır. Bu, resmi olarak Kubuntu "
+#~ "markalı ilk\n"
+#~ "bilgisayardır. Yoğun GPU hesaplama, hızlı NVMe depolama ve CPU'nun\n"
+#~ " maksimum potansiyelini ortaya çıkarmak için optimum soğutma\n"
+#~ "gerektiren işler için tasarlanmıştır.\n"
+
+#~ msgid "Picture of Kubuntu Focus"
+#~ msgstr "Kubuntu Focus'un resmi"
+
+#~ msgid ""
+#~ "10th Generation Intel Core i7-10875H Processor, 8 core / 16 thread. "
+#~ "2.3GHz Base, 5.1GHz Turbo"
+#~ msgstr ""
+#~ "10. Nesil Intel Core i7-10875H işlemci, 8 çekirdekli/16 iş parçacıklı. "
+#~ "2,3GHz Taban, 5,1GHz Turbo"
+
+#~ msgid ""
+#~ "NVIDIA GeForce RTX 2060/2070/2080 GPU PCIe x 16 AND Intel UHD 630 "
+#~ "Graphics with CUDA and cuDNN"
+#~ msgstr ""
+#~ "NVIDIA GeForce RTX 2060/2070/2080 GPU PCIe x 16 VE CUDA ve cuDNN ile "
+#~ "gelen Intel UHD 630 Graphics"
+
+#~ msgid "Up to 64GB Dual Channel DDR4 3200 MHz"
+#~ msgstr "64 GB'a kadar Çift Kanal DDR4 3200 MHz"
+
+#~ msgid "Full HD 16.1” matte 1080p IPS 144Hz"
+#~ msgstr "Tam YB 16.1” mat 1080p IPS 144Hz"
+
+#~ msgid ""
+#~ "2 x M.2 2280 PCIe Gen3x4 interface featuring Samsung 970 Evo Plus at "
+#~ "3,500MB/s and 2,700MB/s seq. read and write"
+#~ msgstr ""
+#~ "2 x M.2 2280 PCIe Gen3x4 arabirimi, 3.500MB/sn ve 2.700MB/sn ardışık "
+#~ "okuma/yazma özellikli Samsung 970 Evo Plus ile gelir"
+
+#~ msgid "starting at US$1,795"
+#~ msgstr "1.795 $'dan başlayan fiyatlarla"
+
+#~ msgid "About Plasma 5.24"
+#~ msgstr "Plasma 5.24 Hakkında"
+
+#~ msgid "Plasma 5.24 improves in looks, ease of use and consistency."
+#~ msgstr "Plasma 5.24, görünümü, kullanımı ve tutarlılığı iyileştirir."
+
+#~ msgid "Latest Release: Plasma 5.24"
+#~ msgstr "Güncel Sürüm: Plasma 5.24"

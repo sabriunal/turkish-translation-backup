@@ -1,0 +1,86 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-06 00:29+0000\n"
+"PO-Revision-Date: 2022-09-14 20:45+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.0\n"
+
+#: src/migration/mdb/src/keximdb/keximigrate_mdb.json
+msgctxt "Name"
+msgid "MS Access"
+msgstr "MS Access"
+
+#: src/migration/mysql/keximigrate_mysql.json
+msgctxt "Name"
+msgid "MySQL"
+msgstr "MySQL"
+
+#: src/migration/postgresql/keximigrate_postgresql.json
+msgctxt "Name"
+msgid "PostgreSQL"
+msgstr "PostgreSQL"
+
+#: src/migration/tsv/keximigrate_tsv.json
+msgctxt "Name"
+msgid "TSV"
+msgstr "TSV"
+
+#: src/plugins/forms/widgets/main/kexiforms_mainwidgetsplugin.json
+msgctxt "Name"
+msgid "Main form widgets"
+msgstr "Ana form araç takımları"
+
+#: src/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.json
+msgctxt "Name"
+msgid "Web browser widget"
+msgstr "Web tarayıcı araç takımı"
+
+#: src/migration/mdb/src/keximdb/keximigrate_mdb.json
+msgctxt "Description"
+msgid "MS Access (MDB) import plugin for KEXI"
+msgstr "KEXI için MS Access (MDB) içe aktarma eklentisi"
+
+#: src/migration/mysql/keximigrate_mysql.json
+msgctxt "Description"
+msgid "MySQL database import plugin for KEXI"
+msgstr "KEXI için MySQL veritabanı içe aktarma eklentisi"
+
+#: src/migration/postgresql/keximigrate_postgresql.json
+msgctxt "Description"
+msgid "PostgreSQL database import plugin for KEXI"
+msgstr "KEXI için PostgreSQL veritabanı içe aktarma eklentisi"
+
+#: src/migration/tsv/keximigrate_tsv.json
+msgctxt "Description"
+msgid "Tab Separated Values (TSV) file import plugin for KEXI"
+msgstr ""
+"KEXI için Sekme ile Ayrılmış Değerler (TSV) dosyası içe aktarma eklentisi"
+
+#: src/plugins/forms/widgets/main/kexiforms_mainwidgetsplugin.json
+msgctxt "Description"
+msgid "KEXI plugin providing database form widgets"
+msgstr "Veritabanı form araç takımları sağlayan KEXI eklentisi"
+
+#: src/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.json
+msgctxt "Description"
+msgid "KEXI plugin providing web browser form widget"
+msgstr "Web tarayıcı araç takımı sağlayan KEXI eklentisi"
+
+#: src/migration/mdb/src/keximdb/keximigrate_mdb.json
+#: src/migration/mysql/keximigrate_mysql.json
+#: src/migration/postgresql/keximigrate_postgresql.json
+#: src/migration/tsv/keximigrate_tsv.json
+#: src/plugins/forms/widgets/main/kexiforms_mainwidgetsplugin.json
+#: src/plugins/forms/widgets/webbrowser/kexiforms_webbrowserwidgetplugin.json
+msgctxt "Authors Name"
+msgid "KEXI Team"
+msgstr "KEXI Takımı"

@@ -1,0 +1,67 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2015, 2021.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-08 02:13+0200\n"
+"PO-Revision-Date: 2022-04-13 12:00+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kmymoney.appdata.xml:6
+msgid "KMyMoney"
+msgstr "KMyMoney"
+
+#. (itstool) path: component/summary
+#: org.kde.kmymoney.appdata.xml:7
+msgid "Personal finance manager based on double-entry bookkeeping"
+msgstr "Çift girişli muhasebeye dayalı kişisel finans yöneticisi"
+
+#. (itstool) path: description/p
+#: org.kde.kmymoney.appdata.xml:9
+msgid ""
+"KMyMoney is a personal finance manager by KDE. It comes with a large set of "
+"features while being easy to use for the non-technical user."
+msgstr ""
+"KMyMoney, KDE tarafından bir kişisel bir finans yöneticisidir. Teknik "
+"olmayan kullanıcılar için kullanımı kolayken, geniş bir özellik kümesi ile "
+"birlikte gelir."
+
+#. (itstool) path: description/p
+#: org.kde.kmymoney.appdata.xml:10
+msgid ""
+"It supports different account types, categorisation of expenses and incomes, "
+"reconciliation of bank accounts and import/export to the “QIF” file format. "
+"Direct download using the OFX and HBCI formats is also possible via plugins. "
+"Online banking support (statement download) is also provided for the OFX and "
+"HBCI protocols."
+msgstr ""
+"Değişik hesap türlerini, gider ve gelirlerin kategorilenmesi, banka "
+"hesaplarının anlaşmaları ve “QIF” dosya biçiminin içe/dışa aktarımını "
+"destekler. Eklentiler vasıtasıyla OFX ve HBCI biçimleri kullanarak doğrudan "
+"indirme de mümkündür. Çevrimiçi bankacılık desteği (rapor indirme) de OFX ve "
+"HBCI protokolleriyle sağlanmıştır."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kmymoney.appdata.xml:18
+msgid "KMyMoney has a welcome page to help new users get off to a good start"
+msgstr ""
+"KMyMoney'in iyi bir başlangıç yapılabilmesi için bir hoş geldiniz sayfası "
+"vardır"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kmymoney.appdata.xml:22
+msgid "The financial summary gives you an overview of your finances"
+msgstr "Finansal özet mali durumunuzun genel görünümünü verir"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kmymoney.appdata.xml:26
+msgid "Manage accounts e.g. by institutions they are held at"
+msgstr "Hesapları yönetin; örn. tutuldukları kurumlar tarafından"

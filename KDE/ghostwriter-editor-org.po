@@ -1,0 +1,1225 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-ghostwriter-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-30 00:51+0000\n"
+"PO-Revision-Date: 2023-01-21 05:20+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: config.yaml:0 content/_index.md:0 i18n/en.yaml:0
+msgid "ghostwriter"
+msgstr "ghostwriter"
+
+#: config.yaml:0 i18n/en.yaml:0
+msgid "No excuses. No distractions. Just write."
+msgstr "Bahane yok. Dikkat dağılması yok. Yalnızca yazı var."
+
+#: content/_index.md:0
+msgid "ghostwriter - No excuses. No distractions. Just write."
+msgstr "ghostwriter - Bahane yok. Dikkat dağılması yok. Yalnızca yazı var."
+
+#: content/contribute.md:0
+msgid "Contribute"
+msgstr "Katkıda Bulun"
+
+#: content/contribute.md:9
+msgid ""
+"Interested in making _ghostwriter_ even better? Please read the sections "
+"below to see how you can contribute."
+msgstr ""
+"_ghostwriter_'ı daha iyi yapmak istiyor musunuz? Nice katkıda "
+"bulunabileceğinizle ilgili aşağıdaki bölümleri okuyun."
+
+#: content/contribute.md:11
+msgid "Bugs Reports"
+msgstr "Hata Raporları"
+
+#: content/contribute.md:13
+msgid ""
+"Found a bug? Please report it on the [KDE issue tracker](https://bugs.kde."
+"org)."
+msgstr ""
+"Bir hata mı buldunuz? Lütfen [KDE hata izleyicisinde](https://bugs.kde.org) "
+"bildirin."
+
+#: content/contribute.md:15
+msgid ""
+"**Warning**: Failing to provide the information required in the bug report "
+"template will result in the bug report being automatically closed."
+msgstr ""
+"**Uyarı: Hata raporu şablonunda belirtilen tüm bilgilerin sağlanmaması "
+"durumunda, rapor kendiliğinden kapatılacaktır."
+
+#: content/contribute.md:17
+msgid "New Features and Bug Fixes"
+msgstr "Yeni Özellikler ve Hata Düzeltmeleri"
+
+#: content/contribute.md:19
+msgid "Do you know how to code? Follow these steps:"
+msgstr "Kodlamayı biliyor musunuz? Şu adımları izleyin:"
+
+#: content/contribute.md:25
+msgid ""
+"Submit an issue for your feature or bug on the [KDE issue tracker]"
+"[KDE_Bugs]. **Note:** This step is necessary to ensure that the new feature "
+"meets the project goals or that the bug isn't really a feature. You will "
+"also want to coordinate what areas of code you will be updating to avoid "
+"merge conflicts in case someone else is working on that same area of code as "
+"well."
+msgstr ""
+"Özellik isteğiniz veya hata kaydınız için [KDE Hata İzleyicisi][KDE_Bugs] "
+"üzerinde bir kayıt açın. **Not:** Bu adım, yeni özeliğin proje hedefleriyle "
+"uyuştuğunu veya hatanın gerçekten bir özellik olup olmadığının anlaşılması "
+"için gereklidir. Aynı zamanda, kodun hangi alanları ile çalışacağınızı, "
+"başkaları da aynı alanda çalışıyorsa birleştirme çakışmalarını önlemek adına "
+"koordine etmeniz gereklidir."
+
+#: content/contribute.md:27
+msgid ""
+"After discussion for your new issue, code your feature or bug fix. Please "
+"follow the [KDE Frameworks coding style guide][KDE_StyleGuide]."
+msgstr ""
+"Yeni kayıt üzerinde konuştuktan sonra özelliği veya hata düzeltmesini "
+"kodlayın. Lütfen [KDE Frameworks kodlama biçemi kılavuzu][KDE_StyleGuide]ne "
+"uyun."
+
+#: content/contribute.md:28
+msgid ""
+"Submit a pull request against the master branch with your code updates. "
+"**Important**: Please squash your commits in git before submitting the pull "
+"request!"
+msgstr ""
+"Kod güncellemelerinizle birlikte ana dala karşı bir çekme isteği gönderin. "
+"**Önemli**: Çekme isteğinizi göndermeden önce işlemelerinizi git ile "
+"tıkıştırın!"
+
+#: content/contribute.md:30
+msgid ""
+"Wait for a brief code review and at least two other volunteers to test your "
+"feature or bug fix."
+msgstr ""
+"Kısaca bir kod gözden geçirmesini ve en az iki diğer gönüllünün özelliğinizi "
+"veya hata düzeltmenizi sınamasını bekleyin."
+
+#: content/contribute.md:31
+msgid "Make updates to your pull request as you receive feedback."
+msgstr "Geri bildirim aldıkça çekme isteğinize güncellemeler yapın."
+
+#: content/contribute.md:32
+msgid ""
+"Once your pull request is approved by at least two other volunteer testers, "
+"your pull request will be merged."
+msgstr ""
+"Çekme isteğiniz en az iki başka gönüllü sınayıcı tarafından onaylandıktan "
+"sonra birleştirilecektir."
+
+#: content/contribute.md:34
+msgid "Code Reviews"
+msgstr "Kod Gözden Geçirmeleri"
+
+#: content/contribute.md:36
+msgid ""
+"Do you know how to code and have an eye for detail? Volunteer to peer review "
+"new merge requests!"
+msgstr ""
+"Kodlamayı biliyor ve ayrıntıları görmede iyi misiniz? Yeni birleştirme "
+"isteklerini gözden geçirme için gönüllü olun!"
+
+#: content/contribute.md:38
+msgid ""
+"Look for a [new merge request](https://invent.kde.org/office/ghostwriter/-/"
+"merge_requests), and add a comment that you are volunteering to code review "
+"it."
+msgstr ""
+"Yeni [birleştirme isteklerini](https://invent.kde.org/office/ghostwriter/-/"
+"merge_requests) izleyin ve gönüllü gözden geçirme yapmak istediklerinize "
+"yorumlar ekleyin."
+
+#: content/contribute.md:39
+msgid "Submit code review comments."
+msgstr "Kod gözden geçirme yorumları gönderin."
+
+#: content/contribute.md:40 content/contribute.md:83
+msgid "Wait for updates to the merge request (if needed)."
+msgstr "(Gerekiyorsa) birleştirme isteğine istenen güncellemeleri bekleyin."
+
+#: content/contribute.md:41
+msgid "Continue providing feedback until you are confident the code is sound."
+msgstr ""
+"Kodun düzgün olduğuna emin oluncaya dek geri bildirim sağlamayı sürdürün."
+
+#: content/contribute.md:42 content/contribute.md:85
+msgid "Leave a comment with your approval of the merge request."
+msgstr "Birleştirme isteğine onayınızı belirten bir yorum girin."
+
+#: content/contribute.md:43
+msgid ""
+"Once at least two volunteer testers submit their approval, the merge request "
+"will be merged."
+msgstr ""
+"En az iki gönüllü sınayıcı onaylarını verdiğinde, birleştirme isteği işleme "
+"alınacaktır."
+
+#: content/contribute.md:45
+msgid "Here are some tips of what to look for in code reviews:"
+msgstr "Kod gözden geçirmelerinde bakmanız gereken şeyler şunlar olabilir:"
+
+#: content/contribute.md:47
+msgid ""
+"Does the submitted code follow the [KDE Frameworks coding style guide]"
+"[KDE_StyleGuide]?"
+msgstr ""
+"Gönderilen kod [KDE Frameworks kodlama biçemine][KDE_StyleGuide] uyuyor mu?"
+
+#: content/contribute.md:48
+msgid "Is the code readable, with comments explaining any non-obvious lines?"
+msgstr ""
+"Kod okunabilir mi? Ne yaptığı zor anlaşılan satırlara yorum eklenmiş mi?"
+
+#: content/contribute.md:49
+msgid ""
+"Is the code \"pessimistic\"? In other words, does it check for invalid "
+"values before using them and handle possible error conditions?"
+msgstr ""
+"Kod \"kötümser\" mi? Bir başka deyişle, kullanmadan önce geçersiz değerleri "
+"denetliyor ve tüm olası hata durumlarını elden geçiriyor mu?"
+
+#: content/contribute.md:50
+msgid ""
+"Are multiple comparisons or statements wrapped in parentheses within `if` "
+"statements to prevent accidents with order of operations? Examples:"
+msgstr ""
+"`if` ifadesindeki çoklu karşılaştırmalar ve ifadeler işlem sırası kazalarını "
+"önlemek için ayraçlarla ayrılmış mı? Örnekler:"
+
+#: content/contribute.md:52 content/contribute.md:60
+msgid "Wrong"
+msgstr "Yanlış"
+
+#: content/contribute.md:55 content/contribute.md:67
+msgid "Correct"
+msgstr "Doğru"
+
+#: content/contribute.md:58
+msgid ""
+"Are literals on the left side of the `==` operator to prevent a typo with "
+"the `=` operator from escaping the compiler's notice? Examples:"
+msgstr "`==` yazmak isterken `=` yazılan durumlar var mı? Örnekler:"
+
+#: content/contribute.md:63
+msgid "Reason: What if there's a typo? The compiler will not catch it!"
+msgstr "Gerekçe: Ya bir yazım yanlışı varsa? Derleyici bunu yakalayamaz!"
+
+#: content/contribute.md:65 content/contribute.md:72
+msgid "Oops!"
+msgstr "Ups!"
+
+#: content/contribute.md:70
+msgid "Reason: This time the compiler will catch the typo."
+msgstr "Gerekçe: Bu kez, derleyici yazım yanlışını yakalayacak."
+
+#: content/contribute.md:75
+msgid "Testing"
+msgstr "Sınama"
+
+#: content/contribute.md:77
+msgid ""
+"Volunteer to review code and test new features and bug fixes! Follow these "
+"steps:"
+msgstr ""
+"Kod gözden geçirmesi, yeni özellikleri ve hata düzeltmelerini sınamak için "
+"gönüllü olun! Şu adımları izleyin:"
+
+#: content/contribute.md:79
+msgid ""
+"Look for a [new merge request][KDE_Merge], and add a comment that you are "
+"volunteering to test it."
+msgstr ""
+"Yeni bir [birleştirme isteği][KDE_Merge] bakın ve sınamak istediğinizi "
+"belirten bir yorum ekleyin."
+
+#: content/contribute.md:80
+msgid "Build the merge request on your platform."
+msgstr "Birleştirme isteğini platformunuzda yapın."
+
+#: content/contribute.md:81
+msgid "Test the feature/bug fix and try to break it!"
+msgstr "Özelliği/Hata düzeltmesini sınayın ve onu bozmaya çalışın!"
+
+#: content/contribute.md:82
+msgid "Provide feedback on test results in the merge request."
+msgstr ""
+"Birleştirme isteğinde, sınama sonuçlarıyla ilgili olarak geri bildirim "
+"sağlayın."
+
+#: content/contribute.md:84
+msgid ""
+"Continue testing and providing feedback until you are confident the code is "
+"working."
+msgstr ""
+"Kodun çalıştığından emin olana değin sınamayı sürdürün ve geri bildirim "
+"sağlayın."
+
+#: content/contribute.md:86
+msgid ""
+"Once at least one other volunteer tester submits their approval, the merge "
+"request will be accepted."
+msgstr ""
+"En azından başka bir gönüllü sınayıcı onayını verdiğinde, birleştirme isteği "
+"kabul edilecektir."
+
+#: content/contribute.md:88
+msgid "Translations"
+msgstr "Çeviriler"
+
+#: content/contribute.md:90
+msgid ""
+"Please consider [joining the KDE translations team](https://community.kde."
+"org/Get_Involved/translation) to translate your favorite applications into "
+"other languages."
+msgstr ""
+"Favori uygulamalarınızı başka dillere (örn. kendi dilinize) çevirmek için "
+"[KDE çevirmenler takımına](https://community.kde.org/Get_Involved/"
+"translation) katılmayı düşünün."
+
+#: content/contribute.md:92
+msgid "Wiki Documentation"
+msgstr "Viki Belgelendirmesi"
+
+#: content/contribute.md:94
+msgid ""
+"Found a workaround for a common issue? Have any useful tips? Please document "
+"your insights on the project's [wiki](https://github.com/KDE/ghostwriter/"
+"wiki)."
+msgstr ""
+"Yaygın bir sorun için kolay bir çözüm mü buldunuz? Yararlı ipuçlarınız mı "
+"var? Düşüncelerinizi, projenin [vikisinde](https://github.com/KDE/"
+"ghostwriter/wiki) belgelendirin."
+
+#: content/contribute.md:96
+msgid "Tech Support"
+msgstr "Teknik Destek"
+
+#: content/contribute.md:98
+msgid ""
+"Knowledgeable about Linux or building for MacOS? Know how to fix that one "
+"issue others keep running into? Your answering user questions and "
+"troubleshooting in the [KDE bug tracker][KDE_Bugs] would be much appreciated!"
+msgstr ""
+"macOS için yapım veya Linux üzerine bilgili misiniz? Başkalarının sürekli "
+"karşılaştığı sorunları çözmeyi biliyor musunuz? [KDE hata izleyicisinde]"
+"[KDE_Bugs] kullanıcı sorularını yanıtlamanız ve sorunları tanılamanız bize "
+"çok yardımcı olacaktır!"
+
+#: content/documentation.md:0
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: content/documentation.md:9
+msgid "Introduction"
+msgstr "Giriş"
+
+#: content/documentation.md:11
+msgid ""
+"Welcome to *ghostwriter*! This quick reference guide gives examples of "
+"writing in Markdown, a plain text markup format created by John Gruber. For "
+"more information, please visit John Gruber's website at <http://www."
+"daringfireball.net>."
+msgstr ""
+"*ghostwriter*'a hoş geldiniz. Bu hızlı başvuru kılavuzu, John Gruber "
+"tarafından yaratılan düz metin biçimlendirme biçimi Markdown ile yazım "
+"örnekleri sunar. Daha fazla bilgi için lütfen John Gruber'in web sayfasını "
+"ziyaret edin: <http://www.daringfireball.net>."
+
+#: content/documentation.md:13
+msgid ""
+"*ghostwriter* has built-in support for the cmark-gfm processor. However, it "
+"also can auto-detect Pandoc, MultiMarkdown, or cmark processors. Simply "
+"install any of these processors and ensure that their installation locations "
+"are added to your system's `PATH` environment variable. *ghostwriter* will "
+"auto-detect their installation on startup, and give you live HTML preview "
+"and export options accordingly."
+msgstr ""
+"*ghostwriter*, cmark-gfm işlemcisi için destek ile birlikte gelir. Bunun "
+"yanında; Pandoc, MultiMarkdown veya cmark işlemcilerini de kendiliğinden "
+"algılayabilir. Bu işlemcilerden herhangi birini kurun ve kurulum "
+"konumlarının sisteminizin 'PATH' çevre değişkenine eklendiğinden emin olun. "
+"*ghostwriter*, onların kurulumunu başlangıçta algılar ve buna göre canlı "
+"HTML önizlemesi ve dışa aktarma seçenekleri sunar."
+
+#: content/documentation.md:15
+msgid "Headings"
+msgstr "Başlıklar"
+
+#: content/documentation.md:29
+msgid "Paragraphs"
+msgstr "Paragraflar"
+
+#: content/documentation.md:36
+msgid "Inline Formatting"
+msgstr "Satır İçi Biçimlendirme"
+
+#: content/documentation.md:38
+msgid ""
+"You can do *italics* or even **bold** in two ways. The first is by "
+"surrounding the text with asterisks (\\*), while the second is with "
+"underscores (\\_)."
+msgstr ""
+"*Yatık* ve **Kalın** metin iki biçimde yapabilirsiniz. İlki, metni "
+"yıldızlarla (\\*), ikincisi de alt çizgilerle (\\_) çevrelemektir."
+
+#: content/documentation.md:46
+msgid "You can also do ***bold italics*** by mixing and matching, like so:"
+msgstr "Aynı zamanda ***kalın yatık*** metin de yapabilirsiniz, şöyle:"
+
+#: content/documentation.md:53
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: content/documentation.md:55
+msgid "You can link to various websites:"
+msgstr "Çeşitli web sayfalarına bağlantılar verebilirsiniz:"
+
+#: content/documentation.md:59
+msgid "You can also use reference links:"
+msgstr "Başvuru bağlantıları da kullanabilirsiniz:"
+
+#: content/documentation.md:65
+msgid "Images"
+msgstr "Görseller"
+
+#: content/documentation.md:67
+msgid "You can embed images like so:"
+msgstr "Görselleri gömmek için bunu kullanın:"
+
+#: content/documentation.md:71
+msgid "You can also use the same syntax as with reference links:"
+msgstr ""
+"Aynı zamanda, başvuru bağlantılarıyla aynı sözdizimini kullanabilirsiniz:"
+
+#: content/documentation.md:77
+msgid "Lists"
+msgstr "Listeler"
+
+#: content/documentation.md:79
+msgid "You can use ordered lists:"
+msgstr "Sıralı listeler:"
+
+#: content/documentation.md:85
+msgid "Or you can use unordered lists:"
+msgstr "Sırasız listeler:"
+
+#: content/documentation.md:91
+msgid "You can mix and match with nested lists:"
+msgstr "İç içe geçmiş listeleri şöyle kullanın:"
+
+#: content/documentation.md:102
+msgid "Code Blocks"
+msgstr "Kod Blokları"
+
+#: content/documentation.md:104
+msgid ""
+"You can indent with four or more spaces or a tab character to create a code "
+"block:"
+msgstr ""
+"Bir kod bloku oluşturmak için dört veya daha fazla boşluk veya bir sekme "
+"karakteri kullanın:"
+
+#: content/documentation.md:114
+msgid ""
+"In some Markdown converters, such as Pandoc or GitHub, you can use GitHub-"
+"Flavored Markdown's backticks to delimit code blocks instead of indenting "
+"the block, like so:"
+msgstr ""
+"Pandoc veya Github gibi bazı Markdown dönüştürücülerde, Github Çeşnili "
+"Markdown'un geri kesmelerini kullanarak kod blokları oluşturabilirsiniz:"
+
+#: content/documentation.md:122
+msgid "The above will likewise be displayed as a preformatted block of code."
+msgstr ""
+"Yukarıdaki, kendiliğinden biçimlendirilmiş bir kod bloku olarak görünecektir."
+
+#: content/documentation.md:124
+msgid "Code Spans"
+msgstr "Kod Aralıkları"
+
+#: content/documentation.md:126
+msgid ""
+"You can use backticks in the middle of a paragraph to delimit code, as with "
+"this `` `<html>` `` tag. You can use literal backticks by using more than "
+"one backtick, such as with this example: ``` `` `escaped backtick` `` ```."
+msgstr ""
+"Kodu sınırlandırmak için bir paragrafın ortasında geri kesme imlerini ve bu "
+"`` `<html>` `` etiketini kullanabilirsiniz. Geri kesme iminin kendisini "
+"göstermek istediğinizde ise birden çok im kullanabilirsiniz; örneğin: ``` `` "
+"`kaçırılmış geri kesme imi` `` ```."
+
+#: content/documentation.md:128
+msgid "Block Quotes"
+msgstr "Blok Tırnaklar"
+
+#: content/documentation.md:130
+msgid ""
+"You can use e-mail-style angle brackets to delimit block quotes, as follows:"
+msgstr ""
+"Blok alıntıları sınırlamak için e-posta türü açı ayraçlarını "
+"kullanabilirsiniz; örneğin:"
+
+#: content/documentation.md:136
+msgid "Horizontal Rules"
+msgstr "Yatay Kurallar"
+
+#: content/documentation.md:138
+msgid ""
+"Use three or more dashes (\\-), underscores (\\_), or asterisks (\\*) for "
+"horizontal rules, like so:"
+msgstr ""
+"Yatay kurallar için üç veya daha çok tire (\\-), alt çizgiler (\\_) veya "
+"yıldızlar (\\*) kullanabilirsiniz; örneğin:"
+
+#: content/documentation.md:145
+msgid "You can even have spaces between each character:"
+msgstr "Her bir karakter arasında boşluklar da koyabilirsiniz:"
+
+#: content/documentation.md:149
+msgid "Markdown Extensions"
+msgstr "Markdown Genişletmeleri"
+
+#: content/documentation.md:151
+msgid ""
+"Some Markdown processors add syntax for tables, footnotes, and so forth to "
+"extend the original John Gruber Markdown specification. Below is a footnote "
+"usage example for Pandoc, MultiMarkdown, and other processors that support "
+"the extension:"
+msgstr ""
+"Bazı Markdown işlemcileri, özgün John Gruber belirtimine ek olarak tablolar, "
+"altbilgiler vb. için de sözdizim ekler. Aşağıda Pandoc, MultiMarkdown ve "
+"destekleyen diğerleri için bir örnek bulunmaktadır:"
+
+#: content/documentation.md:157
+msgid "Below is a sample Pandoc table:"
+msgstr "Aşağıda örnek bir Pandoc tablosunu görebilirsiniz:"
+
+#: content/documentation.md:166
+msgid "Below is a sample cmark-gfm or MultiMarkdown table:"
+msgstr "Bu ise bir cmark-gfm veya MultiMarkdown tablosudur:"
+
+#: content/documentation.md:173
+msgid ""
+"There are even more table syntaxes that these Markdown processors can "
+"support. There are also many more extensions. For more information on these "
+"processors, please visit the following websites:"
+msgstr ""
+"Bu Markdown işlemcilerinin desteklediği daha da tablo sözdizimleri vardır. "
+"Yine ek olarak, sürüyle eklenti bulunmaktadır. Bu işlemciler hakkında daha "
+"fazla bilgi için aşağıdaki web sayfasını ziyaret edin:"
+
+#: content/documentation.md:175
+msgid "Pandoc: <http://johnmacfarlane.net/pandoc/>"
+msgstr "Pandoc: <http://johnmacfarlane.net/pandoc/>"
+
+#: content/documentation.md:176
+msgid "MultiMarkdown: <http://fletcherpenney.net/multimarkdown/>"
+msgstr "MultiMarkdown: <http://fletcherpenney.net/multimarkdown/>"
+
+#: content/documentation.md:177
+msgid "cmark: <http://github.com/jgm/cmark/>"
+msgstr "cmark: <http://github.com/jgm/cmark/>"
+
+#: content/documentation.md:178
+msgid "cmark-gfm: <http://github.com/github/cmark>"
+msgstr "cmark-gfm: <http://github.com/github/cmark>"
+
+#: content/documentation.md:180
+msgid ""
+"The original John Gruber Markdown specification can be found at <http://"
+"daringfireball.net/projects/markdown/>."
+msgstr ""
+"Özgün John Gruber Markdown belirtimi, <http://daringfireball.net/projects/"
+"markdown/> adresinde bulunabilir."
+
+#: content/documentation.md:182
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+#: content/documentation.md:184
+msgid "*ghostwriter* supports the following shortcuts for editing Markdown:"
+msgstr "*ghoswriter*, Markdown düzenleme için aşağıdaki kısayolları destekler:"
+
+#: content/documentation.md:187
+msgid "<kbd>Ctrl</kbd>+<kbd>B</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>B</kbd>"
+
+#: content/documentation.md:188
+msgid "Applies bold (strong) formatting."
+msgstr "Kalın biçimlendirme ekler."
+
+#: content/documentation.md:190
+msgid "<kbd>Ctrl</kbd>+<kbd>I</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>I</kbd>"
+
+#: content/documentation.md:191
+msgid "Applies italic (emphasis) formatting."
+msgstr "Yatık biçimlendirme ekler."
+
+#: content/documentation.md:193
+msgid "<kbd>Ctrl</kbd>+<kbd>K</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>K</kbd>"
+
+#: content/documentation.md:194
+msgid "Applies strikethrough formatting."
+msgstr "Üzeri çizili biçimlendirme ekler."
+
+#: content/documentation.md:196
+msgid "<kbd>Ctrl</kbd>+<kbd>/</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>/</kbd>"
+
+#: content/documentation.md:197
+msgid ""
+"Inserts an HTML comment at the cursor position if no text is selected, or "
+"else will turn selected text into an HTML comment."
+msgstr ""
+"Metin seçili değilse imleç konumuna bir HTML yorumu ekler, seçiliyse seçili "
+"metin bir HTML yorumu içine alınır."
+
+#: content/documentation.md:199
+msgid "<kbd>Tab</kbd>"
+msgstr "<kbd>Sekme</kbd>"
+
+#: content/documentation.md:200
+msgid "Indents the selected lines of text."
+msgstr "Seçili metni girintiler."
+
+#: content/documentation.md:202
+msgid "<kbd>Shift</kbd>+<kbd>Tab</kbd>"
+msgstr "<kbd>Shift</kbd>+<kbd>Tab</kbd>"
+
+#: content/documentation.md:203
+msgid "Unindents the selected lines of text."
+msgstr "Seçili metnin girintisini kaldırır."
+
+#: content/documentation.md:205
+msgid "<kbd>Shift</kbd>+<kbd>Enter</kbd>"
+msgstr "<kbd>Shift</kbd>+<kbd>Enter</kbd>"
+
+#: content/documentation.md:206
+msgid "Inserts a Markdown-style line break."
+msgstr "Markdown biçemli bir satır sonu ekler."
+
+#: content/documentation.md:208
+msgid "<kbd>Ctrl</kbd>+<kbd>Enter</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>Enter</kbd>"
+
+#: content/documentation.md:209
+msgid ""
+"Inserts a line break as usual, except the current indentation will not be "
+"honored. In other words, if you are typing on an indented line and press "
+"`Ctrl+Enter`, no indentation will be added to the new line. Note that the "
+"Ctrl modifier can be combined with the Shift modifier to produce both an "
+"unindented line and a Markdown-style line break."
+msgstr ""
+"Olağan biçimde bir satır sonu ekler; ancak geçerli girintilendirme korunmaz. "
+"Girintili bir satırda yazıyorsanız ve `Ctrl+Enter`'a basarsanız yeni satıra "
+"herhangi bir girintilendirme eklenmez. Hem bir girintilendirilmemiş satır ve "
+"Markdown biçemi bir satır sonu eklemek için Ctrl düğmesi, Shift düğmesi ile "
+"birlikte kullanılabilir.."
+
+#: content/documentation.md:211
+msgid "<kbd>Ctrl</kbd>+<kbd>.</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>.</kbd>"
+
+#: content/documentation.md:212
+msgid "Turns the current line or the selected lines into a block quote."
+msgstr "Geçerli satırı veya seçili satırları blok alıntıya dönüştürür."
+
+#: content/documentation.md:214
+msgid "<kbd>Ctrl</kbd>+<kbd>,</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>,</kbd>"
+
+#: content/documentation.md:215
+msgid ""
+"Removes any block quote formatting from the current line or the selected "
+"lines of text."
+msgstr ""
+"Geçerli satırdan veya seçili satırlardan herhangi bir blok alıntı "
+"biçimlendirmesini kaldırır."
+
+#: content/documentation.md:217
+msgid "<kbd>Ctrl</kbd>+<kbd>8</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>8</kbd>"
+
+#: content/documentation.md:218
+msgid ""
+"Turns the current line or the selected lines into a bullet list with the `*` "
+"marker. For example, if you have selected text within the following lines:"
+msgstr ""
+"Geçerli satırı veya seçili satırları `*` imi ile bir madde imi listesine "
+"dönüştürür. Örneğin, aşağıda satırlardaki metni seçtiyseniz:"
+
+#: content/documentation.md:223 content/documentation.md:234
+#: content/documentation.md:245
+msgid ""
+"Pressing this shortcut key will turn the selected lines into a bullet list "
+"like so:"
+msgstr ""
+"Bu kısayol düğmesine basmak, seçili satırları şunun gibi bir madde imi "
+"listesine döndürür:"
+
+#: content/documentation.md:228
+msgid "<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>"
+
+#: content/documentation.md:229
+msgid ""
+"Turns the current line or the selected lines into a bullet list with the `-` "
+"marker. For example, if you have selected text within the following lines:"
+msgstr ""
+"Geçerli satırı veya seçili satırları `-` imi ile bir madde imi listesine "
+"dönüştürür. Örneğin, aşağıda satırlardaki metni seçtiyseniz:"
+
+#: content/documentation.md:239
+msgid "<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>"
+
+#: content/documentation.md:240
+msgid ""
+"Pressing `Ctrl` and `Shift` with the `=` character turns the current line or "
+"the selected lines into a bullet list with the `+` marker. For example, if "
+"you have selected text within the following lines:"
+msgstr ""
+"Geçerli satırı veya seçili satırları `=` imi ile bir madde imi listesine "
+"dönüştürür. Örneğin, aşağıda satırlardaki metni seçtiyseniz:"
+
+#: content/documentation.md:250
+msgid "<kbd>Ctrl</kbd>+<kbd>1</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>1</kbd>"
+
+#: content/documentation.md:251
+msgid ""
+"Turns the current line or the selected lines into a numbered list with the `."
+"` marker. For example, if you have selected text within the following lines:"
+msgstr ""
+"Geçerli satırı veya seçili satırları `.` imi ile bir numaralandırılmış "
+"listeye dönüştürür. Örneğin, aşağıda satırlardaki metni seçtiyseniz:"
+
+#: content/documentation.md:256 content/documentation.md:267
+msgid ""
+"Pressing this shortcut key will turn the selected lines into a numbered list "
+"like so:"
+msgstr ""
+"Bu kısayol düğmesine basmak, seçili satırları şunun gibi bir "
+"numaralandırılmış listeye döndürür:"
+
+#: content/documentation.md:261
+msgid "<kbd>Ctrl</kbd>+<kbd>0</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>0</kbd>"
+
+#: content/documentation.md:262
+msgid ""
+"Turns the current line or the selected lines into a numbered list with the "
+"`)` marker. For example, if you have selected text within the following "
+"lines:"
+msgstr ""
+"Geçerli satırı veya seçili satırları `)` imi ile bir numaralandırılmış "
+"listeye dönüştürür. Örneğin, aşağıda satırlardaki metni seçtiyseniz:"
+
+#: content/documentation.md:272
+msgid "<kbd>Ctrl</kbd>+<kbd>T</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>T</kbd>"
+
+#: content/documentation.md:273
+msgid ""
+"Turns the current line or the selected lines into a GitHub-Flavored Markdown "
+"task list item. For example, if you have selected text within the following "
+"lines:"
+msgstr ""
+"Geçerli satırı veya seçili satırları Github Çeşnili Markdown görev listesine "
+"dönüştürür. Örneğin, aşağıda satırlardaki metni seçtiyseniz:"
+
+#: content/documentation.md:278
+msgid ""
+"Pressing this shortcut key will turn the selected lines into a task list "
+"like so:"
+msgstr ""
+"Bu kısayol düğmesine basmak, seçili satırları şunun gibi bir görev listesine "
+"döndürür:"
+
+#: content/documentation.md:283
+msgid "<kbd>Ctrl</kbd>+<kbd>D</kbd>"
+msgstr "<kbd>Ctrl</kbd>+<kbd>D</kbd>"
+
+#: content/documentation.md:284
+msgid ""
+"When the current line of text is a GitHub-Flavored Markdown task list item, "
+"pressing this shortcut key will toggle the completion status of the task, "
+"placing an `x` in the checkbox if the task is complete, or removing the `x` "
+"if it is incomplete. For example:"
+msgstr ""
+"Geçerli metin satırı bir Github Çeşnili Markdown ise bu kısayolu kullanmak "
+"görevin bitiş durumunu değiştirecektir. Görev tamamlandıysa bir `x` denetim "
+"kutusuna yerleştirilir, aksi durumda tersi yapılır. Örneğin:"
+
+#: content/documentation.md:289
+msgid "Matched Characters"
+msgstr "Eşleşen Karakterler"
+
+#: content/documentation.md:290
+msgid ""
+"When text within a single line is selected, pressing any of the above "
+"characters will enclose the selected text with that character and its "
+"matching closing character. For example, if you select the word `dog` and "
+"then enter the `(` character, the word `dog` will be enclosed in parentheses "
+"and become `(dog)`. Below is a table showing the typed character and the "
+"matching closing character: <br/>"
+msgstr ""
+"Tek bir satırdaki metin seçildiğinde, yukarıdaki karakterlerden herhangi "
+"birine basmak seçili metni bu karakterle ve onun uygun kapatma karakteriyle "
+"sarar. Örneğin, `kedi` sözcüğünü seçerseniz ve `(` karakterini girerseniz "
+"`kedi` sözcüğü ayraçlar içine alınır ve `(kedi)` olur. Aşağıdaki tabloda "
+"kullanabileceğiniz karakterlerin bir tablosunu bulabilirsiniz: <br/>"
+
+#: content/documentation.md:292
+msgid "Opening"
+msgstr "Açma"
+
+#: content/documentation.md:292
+msgid "Closing"
+msgstr "Kapama"
+
+#: content/documentation.md:294
+msgid "\\\""
+msgstr "\\\""
+
+#: content/documentation.md:295
+msgid "\\'"
+msgstr "\\'"
+
+#: content/documentation.md:296
+msgid "\\("
+msgstr "\\("
+
+#: content/documentation.md:296
+msgid "\\)"
+msgstr "\\)"
+
+#: content/documentation.md:297
+msgid "\\["
+msgstr "\\["
+
+#: content/documentation.md:297
+msgid "\\]"
+msgstr "\\]"
+
+#: content/documentation.md:298
+msgid "\\{"
+msgstr "\\{"
+
+#: content/documentation.md:298
+msgid "\\}"
+msgstr "\\}"
+
+#: content/documentation.md:299
+msgid "\\*"
+msgstr "\\*"
+
+#: content/documentation.md:300
+msgid "\\_"
+msgstr "\\_"
+
+#: content/documentation.md:301
+msgid "\\`"
+msgstr "\\`"
+
+#: content/documentation.md:302
+msgid "\\<"
+msgstr "\\<"
+
+#: content/documentation.md:302
+msgid "\\>"
+msgstr "\\>"
+
+#: content/documentation.md:304
+msgid ""
+"<br/>\n"
+"    To enable auto-matching of characters as you type, check \"Automatically "
+"match characters while typing\" from the Editor tab in the Preferences "
+"dialog, available from the menu bar under the `Settings->Preferences...` "
+"option.  You can also customize which characters are matched by selecting "
+"the \"Customize matched characters...\" button.\n"
+msgstr ""
+"<br/>\n"
+"    Yazarken karakterlerin otomatik eşleştirilmesini etkinleştirmek için, "
+"menü çubuğundan `Ayarlar->Tercihler` penceresinde `Düzenleyici` sekmesine "
+"gidip orada \"Karakterleri kendiliğinden eşleştir\" seçeneğini imleyin. "
+"Hangi karakterlerin eşleştirileceğini özelleştirmek için, \"Eşleştirilen "
+"karakterleri özelleştir...\" düğmesini kullanın.\n"
+
+#: content/documentation.md:307
+msgid "Drag and Drop Image Files"
+msgstr "Görsel Dosyalarını Sürükle ve Bırak"
+
+#: content/documentation.md:308
+msgid ""
+"An alternative to selecting the `Edit->Insert Image...` option from the menu "
+"bar is to drag and drop any image file from your file system into the editor "
+"window. The application will insert inline image text with your image's file "
+"path relative to the currently opened document's location, or the full path "
+"if the document is untitled. For example: <br/></br>"
+msgstr ""
+"Menü çubuğundan `Düzen->Görsel Ekle...` seçimine ek olarak, dosya "
+"sisteminizden herhangi bir görsel dosyasını düzenleyici penceresine "
+"sürükleyip bırakabilirsiniz. Uygulama, geçerli belgenin bulunduğu konuma "
+"göreli olarak satır içi görsel metnini uygun bir biçimde hesaplayıp "
+"ekleyecektir. Belge henüz kaydedilmediyse tam yol kullanılır. Örneğin: <br/"
+"></br>"
+
+#: content/documentation.md:313
+msgid "or if the document is untitled:"
+msgstr "veya belge başlıksızsa:"
+
+#: content/download.md:0
+msgid "Download"
+msgstr "İndir"
+
+#: content/download.md:16
+msgid ""
+"Windows 10 - available only as [portable 64 bit](https://github.com/KDE/"
+"ghostwriter/releases/latest)"
+msgstr ""
+"Windows 10 - yalnızca [seyyar 64 bit](https://github.com/KDE/ghostwriter/"
+"releases/latest) olarak var"
+
+#: content/download.md:17
+msgid "[Linux repos](#linux)"
+msgstr "[Linux depoları](#linux)"
+
+#: content/download.md:18
+msgid "MacOS -[build from source](#macos) (community-supported)"
+msgstr "MacOS - [kaynaktan yapın](#macos) (topluluk destekli)"
+
+#: content/download.md:20
+msgid "[Get the source!](https://invent.kde.org/office/ghostwriter)"
+msgstr "[Kaynağı alın!](https://invent.kde.org/office/ghostwriter)"
+
+#: content/download.md:22
+msgid "Linux"
+msgstr "Linux"
+
+#: content/download.md:24
+msgid "Enter the following commands based on your Linux distribution."
+msgstr "Linux dağıtımınıza bağlı olarak aşağıdaki komutları girin."
+
+#: content/download.md:28
+msgid "MacOS"
+msgstr "macOS"
+
+#: content/download.md:30
+msgid ""
+"MacOS has unofficial support provided by the community. The app mostly works "
+"but for a few quirks. Unfortunately, you will have to compile the source in "
+"order to run it, as there is currently no installer available."
+msgstr ""
+"macOS için, topluluk tarafından sağlanan resmi olmayan destek bulunmaktadır. "
+"Uygulama genelde çalışıyor; ancak birkaç garip davranış beklenebilir. Henüz "
+"bir yayım olmadığından, kullanmak için kendiniz derlemelisiniz."
+
+#: content/download.md:35
+msgid ""
+"Download the source code from the [GitLab repository](https://invent.kde.org/"
+"office/ghostwriter) and see the README.md file for build instructions."
+msgstr ""
+"Kaynak kodunu [GitLab deposundan](https://invent.kde.org/office/ghostwriter) "
+"indirin ve yapı yönergeleri için README.md dosyasına bakın."
+
+#: content/download.md:39
+msgid ""
+"If you would like to contribute to improving MacOS support, please see the "
+"[contributing guidelines](/contribute)."
+msgstr ""
+"macOS desteğini iyileştirmek isterseniz [katkıda bulunma yönergelerine](/"
+"contribute) bakın."
+
+#: i18n/en.yaml:0
+msgid "Est. 2015"
+msgstr "2015'ten bu yana"
+
+#: i18n/en.yaml:0
+msgid "Download for Windows"
+msgstr "Windows için İndir"
+
+#: i18n/en.yaml:0
+msgid "Download for Linux"
+msgstr "Linux için İndir"
+
+#: i18n/en.yaml:0
+msgid "Download for Mac"
+msgstr "macOS için İndir"
+
+#: i18n/en.yaml:0
+msgid "Other Platforms"
+msgstr "Diğer Platformlar"
+
+#: i18n/en.yaml:0
+msgid "Distraction-Free Writing"
+msgstr "Dikkatinizi Dağıtmadan Yazın"
+
+#: i18n/en.yaml:0
+msgid ""
+"Enjoy a distraction-free writing experience, including a full screen mode "
+"and a clean interface. With Markdown, you can write now, and format later."
+msgstr ""
+"Bir tam ekran kipi ve temiz bir arayüz içeren bu dikkat dağıtmayan yazım "
+"deneyiminin keyfini çıkarın. Markdown ile, şimdi yazıp sonra "
+"biçimlendirebilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Light themed screenshot of ghostwriter"
+msgstr "ghostwriter'ın açık temayla ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Themes"
+msgstr "Temalar"
+
+#: i18n/en.yaml:0
+msgid ""
+"The built-in light and dark themes provide an aesthetic writing experience "
+"out of the box. If the these are not enough, you can create your very own!"
+msgstr ""
+"Yüklü gelen açık ve koyu temalar, hiçbir ek ayar yapmadan estetik bir yazım "
+"deneyimi sağlar. Bunlar yeterli değilse kendi temanızı oluşturabilirsiniz!"
+
+#: i18n/en.yaml:0
+msgid "Live Preview"
+msgstr "Canlı Önizleme"
+
+#: i18n/en.yaml:0
+msgid ""
+"Preview your Markdown document in HTML.  With the live preview, you can copy "
+"the HTML to paste into your blog, or export to another format."
+msgstr ""
+"Markdown belgenizi HTML olarak önizleyin. Canlı önizleme ile, doğrudan HTML "
+"olarak kopyalayabilir ve örneğin blog'unuza yapıştırabilir veya başka bir "
+"biçime dışa aktarabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid ""
+"The live preview is optimized for large documents, so you can work carefree "
+"without worrying about the application freezing as you type."
+msgstr ""
+"Canlı önizleme, büyük belgeler için eniyilenmiştir; böylece uygulamanın "
+"donmasını dert etmeden rahatça çalışabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Navigation"
+msgstr "Dolaşım"
+
+#: i18n/en.yaml:0
+msgid ""
+"<em>ghostwriter</em>'s sidebar provides an outline of the document that "
+"allows you to navigate to any section--including within the live preview!--"
+"with a single mouse click. You can display the sidebar's outline tab for a "
+"quick keyboard jump by pressing <kbd>Ctrl</kbd>+<kbd>J</kbd>, selecting the "
+"section name with the arrow keys, and pressing <kbd>ENTER</kbd>."
+msgstr ""
+"<em>ghostwriter</em>'ın kenar çubuğu, canlı önizleme de dahil olmak üzere, "
+"belgenin herhangi bir bölümüne tek tıkla kolaylıkla gitmenizi sağlayan bir "
+"ana hat içerir.  Kenar çubuğunun ana hat sekmesini <kbd>Ctrl</kbd>+<kbd>J</"
+"kbd>'ye basıp ok düğmeleriyle bölüm adına geldikten sonra <kbd>ENTER</kbd>'a "
+"basarak görüntüleyebilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Focus Mode"
+msgstr "Odak Kipi"
+
+#: i18n/en.yaml:0
+msgid ""
+"Clicking on the \"Focus\" button in the lower right corner of the editor "
+"will enable Focus Mode, which highlights only the current text around the "
+"cursor while fading the rest.  You can configure <em>ghostwriter</em> to "
+"highlight the current line, sentence, paragraph, or three lines."
+msgstr ""
+"Düzenleyicinin sağ alt köşesindeki \"Odak\" düğmesine basmak, Odak Kipi'ni "
+"etkinleştirir. Bu kipte, yalnızca imlecin çevresindeki metin vurgulanır ve "
+"diğerleri soldurulur. <em>ghostwriter</em>'ı, geçerli satır, tümce, paragraf "
+"veya üç satırı vurgulayacak biçimde yapılandırabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Document and Session Statistics"
+msgstr "Belge ve Oturum İstatistikleri"
+
+#: i18n/en.yaml:0
+msgid ""
+"In addition to displaying a live word count at the bottom of the window, "
+"<em>ghostwriter</em> displays even more live statistics in its Document "
+"Statistics and Session Statistics sidebar tabs."
+msgstr ""
+"Pencerenin altında canlı sözcük sayımı görüntülemenin yanı sıra, "
+"<em>ghostwriter</em>, İstatistikler ve Oturum İstatistikleri kenar çubuğu "
+"sekmelerinde çok daha fazla canlı istatistik barındırır."
+
+#: i18n/en.yaml:0
+msgid "Export to Multiple Formats"
+msgstr "Birden Çok Biçime Dışa Aktar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Use the built-in processor, cmark-gfm, to export to HTML. Alternatively, "
+"installing any of the following Markdown processors will allow you to use "
+"your favorite Markdown flavor to export to HTML, Word, ODT, PDF, and more:"
+msgstr ""
+"HTML'ye dışa aktarmak için birlikte gelen cmark-gfm işleyicisini kullanın. "
+"Ek olarak; HTML, Word, ODT, PDF ve çok daha fazla biçime dışa aktarmak için "
+"aşağıdaki Markdown işleyicilerinden birini kullanın:"
+
+#: i18n/en.yaml:0
+msgid "Hemingway Mode"
+msgstr "Hemingway Kipi"
+
+#: i18n/en.yaml:0
+msgid ""
+"Avoid editing while you write by clicking on the \"Hemingway\" button in the "
+"lower right corner of the editor to disable your backspace and delete keys, "
+"creating a typewriter experience."
+msgstr ""
+"Yazarken geri gidip düzenlemeyi engellemek için düzenleyicinin sağ alt "
+"köşesindeki Hemingway düğmesine basın. Bu, geri ve silme düğmelerinizi devre "
+"dışı bırakarak daktilo benzeri bir deneyim oluşturur."
+
+#: i18n/en.yaml:0
+msgid "Drag and Drop Images"
+msgstr "Görselleri Sürükle ve Bırak"
+
+#: i18n/en.yaml:0
+msgid ""
+"Easily create image URLs within your Markdown document by dragging and "
+"dropping an image from your file system into <em>ghostwriter</em>'s editor."
+msgstr ""
+"Markdown belgenizde kolaylıkla görsel URL'leri oluşturmak için, dosya "
+"sisteminizden görselleri <em>ghostwriter</em>'ın düzenleyicisine sürükleyip "
+"bırakın."
+
+#: i18n/en.yaml:0
+msgid "Use Pandoc to make beautiful equations in MathJax!"
+msgstr "MathJax'te göz alıcı denklemler oluşturmak için Pandoc kullanın!"
+
+#: i18n/en.yaml:0
+msgid "Autosave"
+msgstr "Otomatik Kaydet"
+
+#: i18n/en.yaml:0
+msgid "Never lose your work with the autosave and file backup options."
+msgstr ""
+"Otomatik kaydetme ve dosya yedekleme seçenekleriyle işinizi hiçbir zaman "
+"kaybetmeyin."
+
+#: i18n/en.yaml:0
+msgid "Built-in Cheat Sheet"
+msgstr "Kopya Kağıdı"
+
+#: i18n/en.yaml:0
+msgid ""
+"Forgot some Markdown syntax? Press <kbd>F1</kbd> to bring up the Cheat Sheet "
+"in the sidebar."
+msgstr ""
+"Kimi Markdown sözdizimini mi unuttunuz? Kenar çubuğunda Kopya Kağıdı'nı "
+"görüntülemek için <kbd>F1</kbd> düğmesine basın."
+
+#: i18n/en.yaml:0
+msgid "Free and Open Source"
+msgstr "Ücretsiz ve Açık Kaynaklı"
+
+#: i18n/en.yaml:0
+msgid ""
+"Over the years, I have greatly benefited from free and open source software. "
+"I want to give something back to the community. As such, I have distributed "
+"this software under the generous <a href=\"https://www.gnu.org/licenses/"
+"gpl-3.0.en.html\">GNU General Public License v3.0</a>. Enjoy!"
+msgstr ""
+"Yıllar boyu, açık kaynaklı yazılımlardan hep yararlandım. Topluluğa bir "
+"şeyler geri verebilmek için, bu yazılımı <a href=\"https://www.gnu.org/"
+"licenses/gpl-3.0.en.html\">GNU Genel Kamu Lisansı Sürüm 3.0</a> ile "
+"yayımlıyorum. Keyfini çıkarın!"
+
+#: i18n/en.yaml:0
+msgid "Distro"
+msgstr "Dağıtım"
+
+#: i18n/en.yaml:0
+msgid "Installation Commands"
+msgstr "Kurulum Komutlar"
+
+#: i18n/en.yaml:0
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: i18n/en.yaml:0
+msgid "Fedora"
+msgstr "Fedora"
+
+#~ msgid ""
+#~ "<table class=\"table align-top\">\n"
+#~ "    <thead>\n"
+#~ "        <th scope=\"col\">Distro</th>\n"
+#~ "        <th scope=\"col\">Installation Commands</th>\n"
+#~ "    </thead>\n"
+#~ "    <tr class=\"align-top\">\n"
+#~ "        <td class=\"align-top\">Ubuntu</td>\n"
+#~ "        <td class=\"align-top\">\n"
+#~ "        <div class=\"terminal\"><pre>$ sudo add-apt-repository ppa:"
+#~ "wereturtle/ppa\n"
+#~ "$ sudo apt update\n"
+#~ "$ sudo apt install ghostwriter</pre></div>\n"
+#~ "        </td>\n"
+#~ "    </tr>\n"
+#~ "    <tr class=\"align-top\">\n"
+#~ "        <td class=\"align-top\">Fedora</td>\n"
+#~ "        <td class=\"align-top\"><div class=\"terminal\"><pre>$ sudo dnf "
+#~ "copr enable wereturtle/stable\n"
+#~ "$ sudo dnf install ghostwriter</code></div></td>\n"
+#~ "    </tr>\n"
+#~ "</table>\n"
+#~ msgstr ""
+#~ "<table class=\"table align-top\">\n"
+#~ "    <thead>\n"
+#~ "        <th scope=\"col\">Dağıtım</th>\n"
+#~ "        <th scope=\"col\">Kurulum Komutları</th>\n"
+#~ "    </thead>\n"
+#~ "    <tr class=\"align-top\">\n"
+#~ "        <td class=\"align-top\">Ubuntu</td>\n"
+#~ "        <td class=\"align-top\">\n"
+#~ "        <div class=\"terminal\"><pre>$ sudo add-apt-repository ppa:"
+#~ "wereturtle/ppa\n"
+#~ "$ sudo apt update\n"
+#~ "$ sudo apt install ghostwriter</pre></div>\n"
+#~ "        </td>\n"
+#~ "    </tr>\n"
+#~ "    <tr class=\"align-top\">\n"
+#~ "        <td class=\"align-top\">Fedora</td>\n"
+#~ "        <td class=\"align-top\"><div class=\"terminal\"><pre>$ sudo dnf "
+#~ "copr enable wereturtle/stable\n"
+#~ "$ sudo dnf install ghostwriter</code></div></td>\n"
+#~ "    </tr>\n"
+#~ "</table>\n"
+
+#~ msgid ""
+#~ "<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd> : Turns the current line or "
+#~ "the selected lines into a bullet list with the `-` marker. For example, "
+#~ "if you have selected text within the following lines:"
+#~ msgstr ""
+#~ "<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd> : Geçerli satırı veya "
+#~ "seçili satırları `-` imi ile bir madde imi listesine dönüştürür. Örneğin, "
+#~ "aşağıda satırlardaki metni seçtiyseniz:"
+
+#~ msgid "Donate"
+#~ msgstr "Bağış Yap"

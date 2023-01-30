@@ -1,0 +1,81 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-graphics-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-02 00:55+0000\n"
+"PO-Revision-Date: 2022-03-11 01:06+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: devices/kcm_kmdevices.desktop:2
+msgctxt "Name"
+msgid "Device settings for Color Management"
+msgstr "Renk Yönetimi için Aygıt Ayarları"
+
+#: devices/kcm_kmdevices.desktop:36
+msgctxt "Comment"
+msgid "Device settings for Color Management"
+msgstr "Renk Yönetimi için Aygıt Ayarları"
+
+#: information/kcm_kminfo.desktop:2
+msgctxt "Name"
+msgid "ICC Profile Information"
+msgstr "ICC Profil Bilgisi"
+
+#: information/kcm_kminfo.desktop:36
+msgctxt "Comment"
+msgid "Display ICC-specific Profile Information"
+msgstr "ICC'ye özel Profil Bilgisini Göster"
+
+#: kolor-server/kolorserver.desktop:7
+msgctxt "Name"
+msgid "Color Management Server"
+msgstr "Renk Yönetimi Sunucusu"
+
+#: kolor-server/kolorserver.desktop:48
+msgctxt "Comment"
+msgid ""
+"Allows applications to communicate with the color management system and "
+"implements the X Color Management specification"
+msgstr ""
+"Uygulamalara renk yönetim sistemiyle iletişim kurmalarına izin verir ve X "
+"Renk Yönetim niteliğini uygular"
+
+#: settings/kcm_kmsettings.desktop:13
+msgctxt "Name"
+msgid "Color Management Settings"
+msgstr "Renk Yönetimi Ayarları"
+
+#: settings/kcm_kmsettings.desktop:47
+msgctxt "Comment"
+msgid "Color Management Settings"
+msgstr "Renk Yönetimi Ayarları"
+
+#: settings/kcm_kmsettings.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid "Color Management Settings"
+msgstr "Renk Yönetimi Ayarları"
+
+#: settings-kolor-management.desktop:8
+msgctxt "Name"
+msgid "Color Management"
+msgstr "Renk Yönetimi"
+
+#~ msgctxt "Name"
+#~ msgid "Devices"
+#~ msgstr "Aygıtlar"
+
+#~ msgctxt "Name"
+#~ msgid "Settings"
+#~ msgstr "Ayarlar"

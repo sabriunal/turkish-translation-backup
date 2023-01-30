@@ -1,0 +1,157 @@
+#
+# Translators:
+# Koray Löker <loker@pardus.org.tr>, 2008.
+# Necmettin Begiter <necmettin.begiter@gmail.com>, 2008.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010, 2011.
+# Serhat Demirkol <serhat_demirkol@yahoo.com>, 2009.
+# H. İbrahim Güngör <h.ibrahim.gungor@gmail.com>, 2009.
+# Gökmen Göksel <gokmen@pardus.org.tr>, 2010.
+# Fatih Aşıcı <fatih@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2021.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeplasma-addons-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-07-11 00:56+0000\n"
+"PO-Revision-Date: 2021-11-26 16:29+0100\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#: applets/comic/comic.knsrc:2
+msgctxt "Name"
+msgid "Comics"
+msgstr "Çizgi Romanlar"
+
+#~ msgctxt "Name"
+#~ msgid "Previews"
+#~ msgstr "Önizlemeler"
+
+#~ msgctxt "Comment"
+#~ msgid "A desktop switcher layout with previews of the desktops"
+#~ msgstr "Masaüstlerinin önizlemeleri ile bir masaüstü değiştirici yerleşimi"
+
+#~ msgctxt "Name"
+#~ msgid "Haenau"
+#~ msgstr "Haenau"
+
+#~ msgctxt "Comment"
+#~ msgid "Haenau wallpaper"
+#~ msgstr "Haenau duvar kağıdı"
+
+#~ msgctxt "Name"
+#~ msgid "Hunyango"
+#~ msgstr "Hunyango"
+
+#~ msgctxt "Comment"
+#~ msgid "Hunyango wallpaper"
+#~ msgstr "Hunyango duvar kağıdı"
+
+#~ msgctxt "Name"
+#~ msgid "Picture of the Day"
+#~ msgstr "Günün Resmi"
+
+#~ msgctxt "Comment"
+#~ msgid "A new picture from the Internet each day"
+#~ msgstr "Her gün İnternet'ten yeni bir resim göster"
+
+#~ msgctxt "Name"
+#~ msgid "Large Icons"
+#~ msgstr "Büyük Simgeler"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using large icons to represent the window"
+#~ msgstr ""
+#~ "Pencereleri gösteren büyük simgeleri kullanan bir pencere değiştirme "
+#~ "yerleşimi"
+
+#~ msgctxt "Name"
+#~ msgid "Compact"
+#~ msgstr "Sıkışık"
+
+#~ msgctxt "Comment"
+#~ msgid "A compact window switcher layout"
+#~ msgstr "Sıkışık bir pencere değiştirme düzeni"
+
+#~ msgctxt "Name"
+#~ msgid "Cover Switch"
+#~ msgstr "Kapak Değiştirici"
+
+#~ msgctxt "Comment"
+#~ msgid "A Window Switcher layout showing thumbnails as a 3D carousel"
+#~ msgstr ""
+#~ "Küçük resimleri 3B atlıkarınca olarak gösteren bir Pencere Değiştirici"
+
+#~ msgctxt "Name"
+#~ msgid "Flip Switch"
+#~ msgstr "Deste Değiştirici"
+
+#~ msgctxt "Comment"
+#~ msgid "A Window Switcher layout showing thumbnails as a 3D card deck"
+#~ msgstr ""
+#~ "Küçük resimleri 3B kart destesi olarak gösteren bir Pencere Değiştirici"
+
+#~ msgctxt "Name"
+#~ msgid "Informative"
+#~ msgstr "Bilgilendirici"
+
+#~ msgctxt "Comment"
+#~ msgid "An informative window switcher layout including desktop name"
+#~ msgstr "Masaüstü adını içeren, bilgilendirici bir pencere değiştirme düzeni"
+
+#~ msgctxt "Name"
+#~ msgid "Grid"
+#~ msgstr "Izgara"
+
+#~ msgctxt "Comment"
+#~ msgid "A Window Switcher layout showing all windows as thumbnails in a grid"
+#~ msgstr ""
+#~ "Tüm pencereleri ızgara içerisinde küçük resimler halinde gösteren bir "
+#~ "pencere değiştirme düzeni"
+
+#~ msgctxt "Name"
+#~ msgid "Small Icons"
+#~ msgstr "Küçük Simgeler"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using small icons to represent the window"
+#~ msgstr ""
+#~ "Pencereleri gösteren küçük simgeleri kullanan bir pencere değiştirme "
+#~ "yerleşimi"
+
+#~ msgctxt "Name"
+#~ msgid "Text Only"
+#~ msgstr "Yalnızca Metin"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout only showing window captions"
+#~ msgstr ""
+#~ "Yalnızca pencere başlıklarını gösteren bir pencere değiştirme düzeni"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnail Grid"
+#~ msgstr "Küçük Resim Izgarası"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using a small grid of thumbnails"
+#~ msgstr ""
+#~ "Küçük bir küçük resim ızgarası kullanan bir pencere değiştirici düzeni"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnails"
+#~ msgstr "Küçük Resimler"
+
+#~ msgctxt "Comment"
+#~ msgid "A window switcher layout using live thumbnails"
+#~ msgstr "Canlı küçük resimleri gösteren bir pencere değiştirme düzeni"

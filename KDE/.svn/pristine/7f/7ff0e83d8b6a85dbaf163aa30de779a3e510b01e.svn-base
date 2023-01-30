@@ -1,0 +1,1686 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-timeline-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-04-25 00:52+0000\n"
+"PO-Revision-Date: 2023-01-13 01:21+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: content/_index.md:0
+msgid "Start"
+msgstr "Başlangıç"
+
+#: content/_index.md:0
+msgid "All"
+msgstr "Tümü"
+
+#: content/_index.md:0
+msgid "FLOSS Events"
+msgstr "FLOSS Etkinlikleri"
+
+#: content/_index.md:0
+msgid "KDE Events"
+msgstr "KDE Etkinlikleri"
+
+#: content/_index.md:0
+msgid "Meetings"
+msgstr "Toplantılar"
+
+#: content/_index.md:0
+msgid "Releases"
+msgstr "Yayımlar"
+
+#: content/_index.md:0
+msgid "UNIX is born"
+msgstr "UNIX doğdu"
+
+#: content/_index.md:0
+msgid "Thompson & Ritchie"
+msgstr "Thompson & Ritchie"
+
+#: content/_index.md:0
+msgid ""
+"In 1969, [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) and "
+"[Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) started "
+"working on [UNIX](http://www.unix.org/what_is_unix/history_timeline.html). "
+"Initially written in assembler, it was soon rewritten in [C](https://en."
+"wikipedia.org/wiki/C_(programming_language)), a language created by Ritchie "
+"and considered high level."
+msgstr ""
+"1969'da, [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) ve "
+"[Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), [UNIX]"
+"(http://www.unix.org/what_is_unix/history_timeline.html) üzerinde çalışmaya "
+"başladılar. İlk olarak Assembler'da, daha sonra da Ritchie tarafından yüksek "
+"düzey bir dil olarak tanımlanan [C](https://en.wikipedia.org/wiki/"
+"C_(programming_language)) ile yeniden yazılmıştır."
+
+#: content/_index.md:0
+msgid "C++ was created"
+msgstr "C++ yaratıldı"
+
+#: content/_index.md:0
+msgid "Bjarne Stroustrup"
+msgstr "Bjarne Stroustrup"
+
+#: content/_index.md:0
+msgid ""
+"In 1979, [Bjarne Stroustrup](http://www.stroustrup.com/bio.html) started "
+"developing \"C with classes\", which would later become the [C++](http://www."
+"softwarepreservation.org/projects/c_plus_plus/). In his opinion, it was the "
+"only language of the time that allowed to write programs that were at the "
+"same time efficient and elegant."
+msgstr ""
+"1979'da, [Bjarne Stroustrup](http://www.stroustrup.com/bio.html); daha sonra "
+"[C++](http://www.softwarepreservation.org/projects/c_plus_plus/)'ya "
+"dönüşecek olan \"Sınıflarla C\"yi geliştirmeye başladı. Kendi düşüncesine "
+"göre, zamanında hem verimli hem de kullanışlı programlar yazmaya izin veren "
+"tek dildi."
+
+#: content/_index.md:0
+msgid "The beginning of Free Software"
+msgstr "Özgür Yazılım'ın başlangıcı"
+
+#: content/_index.md:0
+msgid "Richard Stallman"
+msgstr "Richard Stallman"
+
+#: content/_index.md:0
+msgid ""
+"In 1984, [Richard Stallman](https://stallman.org/biographies.html#serious) "
+"started developing [GNU](https://www.gnu.org/gnu/about-gnu.html) (GNU is Not "
+"Unix), a completely free operating system based on Unix, which was "
+"proprietary."
+msgstr ""
+"1984'te, [Richard Stallman](https://stallman.org/biographies.html#serious); "
+"Unix tabanlı ve tümüyle özgür bir işletim sistemi olan [GNU](https://www.gnu."
+"org/gnu/about-gnu.html)'yu (GNU is Not Unix) geliştirmeye başladı."
+
+#: content/_index.md:0
+msgid "The Linux Kernel"
+msgstr "Linux Çekirdeği"
+
+#: content/_index.md:0
+msgid "Linus Torvalds"
+msgstr "Linus Torvalds"
+
+#: content/_index.md:0
+msgid ""
+"In 1991, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) "
+"created the [Linux kernel](https://en.wikipedia.org/wiki/Linux_kernel) based "
+"on [MINIX](http://www.minix3.org/), a version of Unix written by [Andrew "
+"Tanenbaum](http://www.cs.vu.nl/~ast/home/faq.html). The emergence of Linux "
+"has revolutionized the history of free software and helped to popularize it. "
+"See the [25 Years of Linux Kernel Development infographic](https://web."
+"archive.org/web/20190628003733im_/https://www.linux.com/sites/lcom/files/"
+"styles/rendered_file/public/linux-kernel-development-infographic-2016.jpg?"
+"itok=DqVqiplt)."
+msgstr ""
+"1991'de, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds); "
+"[Andrew Tanenbaum](http://www.cs.vu.nl/~ast/home/faq.html) tarafından "
+"yazılan bir Unix sürümü olan [MINIX](http://www.minix3.org/) tabanlı [Linux "
+"çekirdeğini](https://en.wikipedia.org/wiki/Linux_kernel) yarattı. Linux'un "
+"ortaya çıkışı, özgür yazılımın tarihinde yeni bir çığır açtı ve "
+"popülerleşmesine yardımcı oldu. [Linux Çekirdeği Geliştirmesinin 25 Yılı "
+"İnfografiği](https://web.archive.org/web/20190628003733im_/https://www.linux."
+"com/sites/lcom/files/styles/rendered_file/public/linux-kernel-development-"
+"infographic-2016.jpg?itok=DqVqiplt)'ne bir göz atın."
+
+#: content/_index.md:0
+msgid "The first distros are born"
+msgstr "İlk dağıtımlar ortaya çıktı"
+
+#: content/_index.md:0
+msgid "GNU & Tux"
+msgstr "GNU & Tux"
+
+#: content/_index.md:0
+msgid ""
+"In 1993, the first free distributions begin to emerge, based in [GNU and "
+"Linux](http://www.aboutlinux.info/2005/11/complete-concise-history-of-"
+"gnulinux.html). A [GNU/Linux distribution](http://futurist.se/gldt/) is "
+"usually formed by the Linux kernel, GNU tools and libraries, and more a "
+"collection of applications."
+msgstr ""
+"1993'te, [GNU ve Linux](http://www.aboutlinux.info/2005/11/complete-concise-"
+"history-of-gnulinux.html) tabanlı ilk dağıtımlar ortaya çıkmaya başladı. Bir "
+"[GNU/Linux dağıtımı](http://futurist.se/gldt/), genelde Linux çekirdeği, GNU "
+"araçları ve kitaplıkları ve bir uygulama koleksiyonundan oluşur."
+
+#: content/_index.md:0
+msgid "Qt was created"
+msgstr "Qt yaratıldı"
+
+#: content/_index.md:0
+msgid "Qt logo"
+msgstr "Qt logosu"
+
+#: content/_index.md:0
+msgid ""
+"In 1995, the Norwegian company Troll Tech created the cross-platform "
+"framework [Qt](https://wiki.qt.io/About_Qt), with which KDE would be created "
+"in the following year. Qt became the basis of the main KDE technologies in "
+"these 20 years. Learn more about [Qt History](https://wiki.qt.io/Qt_History)."
+msgstr ""
+"1995'te, Norveçli Troll Tech firması, çapraz platformlu [Qt](https://wiki.qt."
+"io/About_Qt) kod kitaplığını yarattı, bir sonraki yılda da KDE ortaya çıktı. "
+"Qt, 20 yıldan bu yana, KDE teknolojilerinin ana temel yapı taşı olmuştur. "
+"[Qt Geçmişi](https://wiki.qt.io/Qt_History) hakkında daha fazla bilgi alın."
+
+#: content/_index.md:0
+msgid "KDE was announced"
+msgstr "KDE duyuruldu"
+
+#: content/_index.md:0
+msgid "Matthias Ettrich"
+msgstr "Matthias Ettrich"
+
+#: content/_index.md:0
+msgid ""
+"In 1996, [Matthias Ettrich](http://www.linuxjournal.com/article/6834) "
+"announced the creation of Kool Desktop Environment (KDE), a graphical "
+"interface for Unix systems, built with Qt and C ++ and designed for the end "
+"user. The name \"KDE\" was a pun on the graphic environment [CDE](https://en."
+"wikipedia.org/wiki/Common_Desktop_Environment), which was proprietary at the "
+"time. Read [the original announcement](https://www.kde.org/announcements/"
+"announcement.php) of the KDE Project."
+msgstr ""
+"1996'da, [Matthias Ettrich](http://www.linuxjournal.com/article/6834), Qt ve "
+"C++ ile yazılmış ve son kullanıcı için tasarlanmış, Unix sistemler için bir "
+"grafik kullanıcı arayüzü olan Kool Desktop Environment (KDE)'ın ortaya "
+"çıktığını duyurdu.\"KDE\" adı, zamanının ünlü grafik kullanıcı "
+"arabirimlerinden olan kapalı kaynak kodlu [CDE](https://en.wikipedia.org/"
+"wiki/Common_Desktop_Environment)'ye bir gönderme idi. KDE Projesi'nin özgün "
+"[ortaya çıkış duyurusunu](https://www.kde.org/announcements/announcement."
+"php) okuyun."
+
+#: content/_index.md:0
+msgid "KDE One Conference"
+msgstr "KDE One Konferansı"
+
+#: content/_index.md:0
+msgid "Cornelius Schumacher's Archive"
+msgstr "Cornelius Schumacher'in Arşivi"
+
+#: content/_index.md:0
+msgid ""
+"In 1997, about 15 KDE developers met in Arnsberg, Germany, to work on the "
+"project and discuss its future. This event became known as [KDE One](https://"
+"community.kde.org/KDE_Project_History/KDE_One_(Developer_Meeting))."
+msgstr ""
+"1997'de, 15 kadar KDE geliştiricisi, proje üzerinde çalışmak ve geleceğini "
+"tartışmak üzere Arnsberg, Almanya'da buluştu. Bu etkinlik, zamanla [KDE One]"
+"(https://community.kde.org/KDE_Project_History/KDE_One_(Developer_Meeting)) "
+"olarak adlandırıldı."
+
+#: content/_index.md:0
+msgid "KDE Beta 1"
+msgstr "KDE Beta 1"
+
+#: content/_index.md:0
+msgid "KDE Beta 1 Screenshot"
+msgstr "KDE Beta 1 Ekran Görüntüsü"
+
+#: content/_index.md:0
+msgid ""
+"The beta 1 version of KDE was [released](https://www.kde.org/announcements/"
+"beta1announce.php) exactly 12 months after the project announcement. The "
+"release text emphasized that KDE was not a window manager, but an integrated "
+"environment in which the window manager was just another part."
+msgstr ""
+"KDE'nin birinci beta sürümü, projenin duyurulmasından tam on iki ay sonra  "
+"[yayımlandı](https://www.kde.org/announcements/beta1announce.php). Yayım "
+"duyurusuna göre, KDE yalnızca bir pencere yöneticisi değil, pencere "
+"yöneticisinin yalnızca paketin bir parçasını oluşturan tümleşik bir ortam "
+"idi."
+
+#: content/_index.md:0
+msgid "KDE e.V. was founded"
+msgstr "KDE e.V. kuruldu"
+
+#: content/_index.md:0
+msgid "KDE e.V. logo"
+msgstr "KDE e.V. logosu"
+
+#: content/_index.md:0
+msgid ""
+"In 1997, [KDE e.V.](https://ev.kde.org/), the nonprofit that represents the "
+"KDE community financially and legally, was founded in Tübingen, Germany."
+msgstr ""
+"1997'de, KDE topluluğunu finansal ve yasal olarak temsil eden, bir kâr amacı "
+"gütmeyen yapı olan [KDE e.V.](https://ev.kde.org/), Almanya'nın Tübingen "
+"kentinde kuruldu."
+
+#: content/_index.md:0
+msgid "KDE Free Qt Foundation was created"
+msgstr "KDE Özgür Qt Vakfı oluşturuldu"
+
+#: content/_index.md:0
+msgid "Konqi with Qt in its heart"
+msgstr "Kalbinde Qt olan Konqi"
+
+#: content/_index.md:0
+msgid ""
+"The foundation agreement for the [KDE Free Qt Foundation](https://www.kde."
+"org/community/whatiskde/kdefreeqtfoundation.php) is signed by KDE e.V. and "
+"Trolltech, then owner of Qt. The Foundation [ensures the permanent "
+"availability](https://dot.kde.org/2016/01/13/qt-guaranteed-stay-free-and-"
+"open-%E2%80%93-legal-update) of Qt as Free Software."
+msgstr ""
+"The foundation agreement for the [KDE Özgür Qt Vakfı](https://www.kde.org/"
+"community/whatiskde/kdefreeqtfoundation.php) kuruluş antlaşması, KDE e.V. ve "
+"Qt'nin o zamanki sahibi olan Trolltech arasında imzalandı. Vakıf, Qt'nin "
+"Özgür Yazılım olarak [her zaman kullanılabilir olduğundan](https://dot.kde."
+"org/2016/01/13/qt-guaranteed-stay-free-and-open-%E2%80%93-legal-update) emin "
+"olur."
+
+#: content/_index.md:0
+msgid "KDE 1 was released"
+msgstr "KDE 1 yayımlandı"
+
+#: content/_index.md:0
+msgid "KDE 1"
+msgstr "KDE 1"
+
+#: content/_index.md:0
+msgid ""
+"KDE released the [first stable version](https://www.kde.org/announcements/"
+"announce-1.0.php) of its graphical environment in 1998, with highlights as "
+"an application development framework, the KOM/OpenParts, and a preview of "
+"its office suite. See the [KDE 1.x Screenshots](https://czechia.kde.org/"
+"screenshots/kde1shots.php)."
+msgstr ""
+"KDE, grafik kullanıcı arabiriminin [ilk kararlı sürümünü](https://www.kde."
+"org/announcements/announce-1.0.php) 1998'de yayımladı. Bu sürümde öne çıkan "
+"özellikler şunlar oldu: Uygulama geliştirme çatısı, KOM/OPenPArts ve ofis "
+"takımının bir önizlemesi. [KDE 1.x Ekran Görüntüleri](https://czechia.kde."
+"org/screenshots/kde1shots.php)'ne bir bakın."
+
+#: content/_index.md:0
+msgid "Konqi"
+msgstr "Konqi"
+
+#: content/_index.md:0
+msgid ""
+"In April 1999, a dragon is announced as the new animated assistant to the "
+"KDE Help Center. It was so charming that it replaced the previous project "
+"mascot, Kandalf, from version 3.x on. See the [KDE 2 Screenshot](https://"
+"czechia.kde.org/screenshots/images/large/kde2b3_5.png) showing Konqi and "
+"Kandalf."
+msgstr ""
+"Nisan 1999'da, KDE Yardım Merkezi'nin yeni asistanı olarak bir ejderha "
+"duyuruldu. O kadar popülerleşti ki 3.x sürümünden itibaren eski proje "
+"maskotu olan Kandalf'ın yerini aldı. [KDE 2 Ekran Görüntüsü](https://czechia."
+"kde.org/screenshots/images/large/kde2b3_5.png)'nde Konqi ve Kandalf'ı "
+"birlikte görebilirsiniz."
+
+#: content/_index.md:0
+msgid "KDE Two Conference"
+msgstr "KDE Two Konferansı"
+
+#: content/_index.md:0
+msgid "Group Photo (Cornelius Schumacher's Archive)"
+msgstr "Grup Fotoğrafı (Cornelius Schumacher'in arşivinden)"
+
+#: content/_index.md:0
+msgid ""
+"In October 1999, the second meeting of KDE developers took place in "
+"Erlangen, Germany. Read the [report](https://community.kde.org/"
+"KDE_Project_History/KDE_Two_(Developer_Meeting)) on the KDE Two Conference."
+msgstr ""
+"Ekim 1999'da, KDE geliştiricilerinin ikinci toplantısı Almanya, Erlangen'de "
+"gerçekleşti. KDE Two konferansı sonrası yazılan raporu [okuyun](https://"
+"community.kde.org/KDE_Project_History/KDE_Two_(Developer_Meeting))."
+
+#: content/_index.md:0
+msgid "KDE Desktop"
+msgstr "KDE Masaüstü"
+
+#: content/_index.md:0
+msgid "KDE 2 logo"
+msgstr "KDE 2 logosu"
+
+#: content/_index.md:0
+msgid ""
+"From the [beta 1 version of KDE 2](https://www.kde.org/announcements/"
+"announce-1.90.php) it is possible to perceive a project naming change. The "
+"releases that once referred to the project as \"K Desktop Environment\", "
+"began referring to it only as \"KDE Desktop\"."
+msgstr ""
+"[KDE 2](https://www.kde.org/announcements/announce-1.90.php)'nin beta 1 "
+"sürümünden, projenin adının değiştiğini anlamak olanaklıydı. Daha önceden "
+"\"K Masaüstü Ortamı\" olarak adlandırılan projenin adı, artık \"KDE Masaüstü"
+"\" olmuştu."
+
+#: content/_index.md:0
+msgid "KDE Three Beta Conference"
+msgstr "KDE Three Beta Konferansı"
+
+#: content/_index.md:0
+msgid ""
+"In July 2000, the third meeting (beta) of KDE developers occurred in Trysil, "
+"Norway. [Find out](https://community.kde.org/KDE_Project_History/"
+"KDE_Three_Beta_(Developer_Meeting)) what was done during the conference."
+msgstr ""
+"Temmuz 2000'de, KDE geliştiricilerinin üçüncü (beta) toplantısı Norveç, "
+"Trysil'de gerçekleşti. Konferansta nelerin konuşulduğnu [öğrenin](https://"
+"community.kde.org/KDE_Project_History/KDE_Three_Beta_(Developer_Meeting))."
+
+#: content/_index.md:0
+msgid "KDE 2 was released"
+msgstr "KDE 2 yayımlandı"
+
+#: content/_index.md:0
+msgid "KDE 2"
+msgstr "KDE 2"
+
+#: content/_index.md:0
+msgid ""
+"KDE [released](https://kde.org/announcements/1-2-3/2.0/) its second version, "
+"featuring as main news [Konqueror](https://konqueror.org/) web browser and "
+"file manager; and the office suite [KOffice](https://en.wikipedia.org/wiki/"
+"KOffice). KDE had its code almost entirely rewritten for this second "
+"version. See the [KDE 2.0 Screenshots](https://czechia.kde.org/screenshots/"
+"kde2shots.php)."
+msgstr ""
+"KDE, web tarayıcısı ve dosya yöneticisi olan [Konqueror](https://konqueror."
+"org/)'u ve ofis paketi [KOffice](https://en.wikipedia.org/wiki/KOffice)'i "
+"içeren ikinci sürümünü [yayımladı](https://kde.org/"
+"announcements/1-2-3/2.0/). KDE kodu, bu sürüm için tümüyle yeniden yazıldı. "
+"[KDE 2.0 Ekran Görüntüleri](https://czechia.kde.org/screenshots/kde2shots."
+"php)'ne bakın."
+
+#: content/_index.md:0
+msgid "KDE Project"
+msgstr "KDE Projesi"
+
+#: content/_index.md:0
+msgid "KDE 2.1 Splashscreen"
+msgstr "KDE 2.1 Açılış Ekranı"
+
+#: content/_index.md:0
+msgid ""
+"From the [release announcement](https://www.kde.org/announcements/"
+"announce-2.1.2.php) of version 2.1.2 there is also a change of the "
+"nomenclature. The announcements began referring to KDE as \"KDE Project\"."
+msgstr ""
+"2.1.2 [sürüm duyurusunda](https://www.kde.org/announcements/announce-2.1.2."
+"php), projenin adında ufak bir değişiklik oldu. Duyurular, KDE'ye artık "
+"\"KDE Projesi\" olarak yer vermeye başladı."
+
+#: content/_index.md:0
+msgid "KDE Women"
+msgstr "KDE Kadınları"
+
+#: content/_index.md:0
+msgid "Katie, Konqi's girlfriend"
+msgstr "Katie; Konqi'nin kız arkadaşı"
+
+#: content/_index.md:0
+msgid ""
+"In March 2001, the creation of community women's group was announced. The "
+"[KDE Women](https://community.kde.org/KDE_Women) aimed to help increase the "
+"number of women in free software communities, particularly in KDE. Watch the "
+"video [\"Highlights of KDE Women\"](https://www.youtube.com/watch?v=HTwQ-"
+"oGTmGA) of the Akademy 2010."
+msgstr ""
+"Mart 2001'de, topluluk kadınları grubunun yaratılışı duyuruldu. [KDE "
+"Kadınları](https://community.kde.org/KDE_Women), KDE başta olmak üzere, "
+"özgür yazılım topluluklarındaki kadın sayısını artırmayı hedefler. Akademy "
+"2010'dan, [\"KDE Kadınları'nın Öne Çıkanları\"](https://www.youtube.com/"
+"watch?v=HTwQ-oGTmGA) videosunu izleyin."
+
+#: content/_index.md:0
+msgid "KDE Three Meeting"
+msgstr "KDE Three Toplantısı"
+
+#: content/_index.md:0
+msgid "Group Photo of KDE Three"
+msgstr "KDE Three'nin Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In March 2002, about 25 developers gathered for the [third KDE meeting]"
+"(https://community.kde.org/KDE_Project_History/"
+"KDE_Three_(Developer_Meeting)) in Nuremberg, Germany. KDE 3 was about to be "
+"released and the KDE 2 code needed to be migrated to the new library Qt 3."
+msgstr ""
+"Mart 2002'de, [üçüncü KDE toplantısı](https://community.kde.org/"
+"KDE_Project_History/KDE_Three_(Developer_Meeting)) için yaklaşık 25 "
+"geliştirici, Almanya'nın Nürnberg kentinde toplandı. KDE 3 yayımlanmak "
+"üzereydi ve KDE 2 kodunun yeni Qt 3 kitaplığna göç ettirilmesi gerekiyordu."
+
+#: content/_index.md:0
+msgid "KDE 3"
+msgstr "KDE 3"
+
+#: content/_index.md:0
+msgid ""
+"KDE released its [third version](https://kde.org/announcements/1-2-3/3.0/), "
+"showing as important additions a new print framework, KDEPrint; the "
+"translation of the project for 50 languages; and a package of educational "
+"applications, maintained by the KDE Edutainment Project. See the [KDE 3.0 "
+"Screenshots](https://czechia.kde.org/screenshots/kde300shots.php)."
+msgstr ""
+"KDE, [üçüncü sürümünü](https://kde.org/announcements/1-2-3/3.0/) yayımladı "
+"ve birçok iyileştirmeyi duyurdu: KDEPrint, yeni bir yazdırma kod kitaplığı; "
+"projenin 50'den çok dile çevrilmesi ve KDE Edutainment Projesi tarafından "
+"başı çeken bir eğitim uygulamaları paketi. [KDE 3.0 Ekran Görüntüleri]"
+"(https://czechia.kde.org/screenshots/kde300shots.php)'ne bakın."
+
+#: content/_index.md:0
+msgid "KDE e.V. meeting"
+msgstr "KDE e.V. toplantısı"
+
+#: content/_index.md:0
+msgid ""
+"In August 2002, there was a [meeting of board members of the KDE e.V.]"
+"(https://ev.kde.org/reports/2002.php) that was essential to establish how "
+"the organization works. At this meeting it was decided, among other things, "
+"that the brand \"KDE\" would be registered and that new members should be "
+"invited and supported by two active members of e.V.."
+msgstr ""
+"Ağustos 2002'de, organizasyonun nice çalışacağını belirlemek için bir [KDE e."
+"V. yönetim kurulu üyeleri](https://ev.kde.org/reports/2002.php) toplandı. "
+"Toplantı sonrasında, birçok kararın yanısıra \"KDE\" markasının tescil "
+"edilmesi ve yeni üyelerin e.V.'nin iki etkin üyesi tarafından davet edilip "
+"desteklenmesi zorunluluğu getirildi."
+
+#: content/_index.md:0
+msgid "KDE 3.1"
+msgstr "KDE 3.1"
+
+#: content/_index.md:0
+msgid ""
+"In [version 3.1](https://kde.org/announcements/1-2-3/3.1/) the community "
+"presented KDE with a new look, a new theme for widgets, called Keramik, and "
+"Crystal as default theme for the icons. See [KDE 3.1 New Feature Guide]"
+"(https://kde.org/info/3.1/feature_guide_1/)."
+msgstr ""
+"[3.1 sürümünde](https://kde.org/announcements/1-2-3/3.1/), topluluk KDE'ye "
+"yeni bir görünüm, Keramik adında yeni bir araç takımı teması ve simgeler "
+"için Crystal simge paketini kazandırdı. [KDE 3.1 Yeni Özellikler Kılavuzu]"
+"(https://kde.org/info/3.1/feature_guide_1/)'na bakın."
+
+#: content/_index.md:0
+msgid "Kastle"
+msgstr "Kastle"
+
+#: content/_index.md:0
+msgid "Group Photo of Kastle"
+msgstr "Kastle'ın Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In August 2003, about 100 contributors of KDE from various countries "
+"gathered in a castle in the Czech Republic. The event was called [Kastle]"
+"(https://akademy.kde.org/2003) and was the forerunner of Akademy, the event "
+"that would become the international annual meeting of the community."
+msgstr ""
+"Ağustos 2003'te, çeşitli ülkelerden yaklaşık 100 KDE katkıcısı, Çekya'daki "
+"bir kalede buluştu. Etkinliğin adı [Kastle](https://akademy.kde.org/2003) "
+"idi ve topluluğun daha sonra yıllık uluslararası düzenli buluşması olan "
+"Akademy'nin ilk hali olarak düşünülebilirdi."
+
+#: content/_index.md:0
+msgid "Akademy 2004"
+msgstr "Akademy 2005"
+
+#: content/_index.md:0
+msgid "Group Photo of Akademy 2004"
+msgstr "Akademy 2004 Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In August 2004, the [first international meeting of the community](https://"
+"conference2004.kde.org/) took place. The event was held in Ludwigsburg, "
+"Germany, and launched a series of international events called [\"Akademy\"]"
+"(https://akademy.kde.org/) which take place annually since then. The event "
+"got its name because it happened in the \"Filmakademie\" city film school. "
+"See the [group photos](https://devel-home.kde.org/~duffus/akademy/) of all "
+"Akademies."
+msgstr ""
+"Ağustos 2004'te, [topluluğun ilk uluslararası toplantısı](https://"
+"conference2004.kde.org/) gerçekleşti. Etkinlik, Almanya'nın Ludwigsburg "
+"kentinde oldu ve [\"Akademy\"](https://akademy.kde.org/) adındaki bir dizi "
+"uluslararası etkinlik olarak yıllardır sürüyor. Etkinliğin adı, kentteki "
+"\"Filmakademie\" film okulundan geliyor. Akademy etkinliklerinin tüm [grup "
+"fotoğraflarına](https://devel-home.kde.org/~duffus/akademy/) bakın."
+
+#: content/_index.md:0
+msgid "KDE 3.5"
+msgstr "KDE 3.5"
+
+#: content/_index.md:0
+msgid ""
+"[KDE 3.5 was released](https://www.kde.org/announcements/announce-3.5.php). "
+"This version introduced several new features, among them, the SuperKaramba, "
+"a tool that allowed customize your desktop with \"applets\"; the Amarok and "
+"Kaffeine players; and the media burner K3B. See [KDE 3.5: A Visual Guide to "
+"New Features](https://www.kde.org/announcements/visualguide-3.5.php)."
+msgstr ""
+"[KDE 3.5 yayımlandı](https://www.kde.org/announcements/announce-3.5.php). Bu "
+"sürüm, aralarında masaüstünüzü uygulamacıklarla özelleştirmeye izin veren "
+"SuperKaramba, Amarok ve Kaffeine çalarları/oynatıcıları ve ortam yakıcısı "
+"K3B'nin de aralarında olduğu birçok yeni özellikle geldi. Ayrıntılı bilgi "
+"için [KDE 3.5: Yeni Özelliklere Görsel Bir Bakış](https://www.kde.org/"
+"announcements/visualguide-3.5.php)'a bir göz atın."
+
+#: content/_index.md:0
+msgid "First Akademy-Es"
+msgstr "İlk Akademy-Es"
+
+#: content/_index.md:0
+msgid "First Akademy-es photo"
+msgstr "İlk Akademy-Es fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In March 2006, the [first meeting](https://dot.kde.org/2006/02/10/akademy-"
+"es-2006-barcelona) of Spanish KDE contributors took place in Barcelona. "
+"Since then, Akademy-Es has turned into an annual event. Learn more about "
+"[Spanish KDE contributors group](https://www.kde-espana.org/)."
+msgstr ""
+"Mart 2006'da, İspanyol KDE katkıcılarının [ilk toplantısı](https://dot.kde."
+"org/2006/02/10/akademy-es-2006-barcelona) Barselona'da gerçekleşti. O "
+"zamandan bu yana, Akademy-Es her yıl düzenlenen bir etkinliğe dönüştü. "
+"[İspanyol KDE Katkıcıları Grubu](https://www.kde-espana.org/) hakkında daha "
+"fazla bilgi için tıklayın."
+
+#: content/_index.md:0
+msgid "KDE Four Core meeting"
+msgstr "KDE Four Core toplantısı"
+
+#: content/_index.md:0
+msgid ""
+"In July 2006, the developers of the KDE core libraries gathered in Trysill, "
+"Norway, for the [KDE Four Core meeting](https://dot.kde.org/2006/06/26/kde-"
+"libs-hackers-meet-kde-four-core). The event was a kind of successor to the "
+"KDE Beta Three Conference and KDE Three Meeting and in it developers worked "
+"on the development of KDE 4 and stabilization of some core libraries to the "
+"project."
+msgstr ""
+"Haziran 2006'da, KDE çekirdek kitaplıkları geliştiricileri Norveç'in Trysill "
+"kentinde [KDE Four Core toplantısı](https://dot.kde.org/2006/06/26/kde-libs-"
+"hackers-meet-kde-four-core) için buluştu. Bu etkinlik, KDE Beta Three "
+"Konferansı ve KDE Three toplantısının sürek toplantısıydı ve geliştiriciler "
+"KDE 4 geliştirmesi ve proje çekirdek kitaplıklarının kararlılığının "
+"artırılması konusunda görüş alışverişinde bulundular."
+
+#: content/_index.md:0
+msgid "Guademy"
+msgstr "Guademy"
+
+#: content/_index.md:0
+msgid "Group Photo of Guademy"
+msgstr "Guademy Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In March 2007, several contributors of KDE and [Gnome](https://www.gnome."
+"org/) met in A Coruña, Spain, an event which sought to establish a "
+"collaboration between the two projects. The event became known as [Guademy]"
+"(https://dot.kde.org/2007/03/28/guademy-2007-event-report), a mixture of "
+"[Guadec](https://wiki.gnome.org/GUADEC), the name given to the Gnome event "
+"with Akademy, KDE event name."
+msgstr ""
+"Mart 2007'de, birkaç KDE ve [Gnome](https://www.gnome.org/) katkıcısı, "
+"İspanya'nın Coruña kentinde, iki proje arasında işbirliği kurmayı amaçlayan "
+"bir etkinlikte buluştular. Etkinliğin adı, GNOME etkinliğine verilen ad olan "
+"[Guadec](https://wiki.gnome.org/GUADEC) ve KDE etkinliği adı olan "
+"Akademy'nin birleşmesinden oluşan [Guademy](https://dot.kde.org/2007/03/28/"
+"guademy-2007-event-report) oldu."
+
+#: content/_index.md:0
+msgid "KDE 4 Alpha 1"
+msgstr "KDE 4 Alpha 1"
+
+#: content/_index.md:0
+msgid ""
+"In May 2007, [the alpha 1 version of KDE 4](https://www.kde.org/"
+"announcements/announce-4.0-alpha1.php), codenamed \"Knut\", was announced. "
+"This announcement showed a completely new desktop, with a new theme, Oxygen, "
+"new applications like Okular and Dolphin, and a new desktop shell, Plasma. "
+"See [KDE 4.0 Alpha 1: A Visual Guide to New Features](https://www.kde.org/"
+"announcements/visualguide-4.0-alpha1.php)."
+msgstr ""
+"Mayıs 2007'de, \"Knut\" kod adı verilen [KDE 4'ün ilk alfa sürümü](https://"
+"www.kde.org/announcements/announce-4.0-alpha1.php) duyuruldu. Bu duyuruda, "
+"yepyeni bir tema olan Oksijen, Okular ve Dolphin gibi yepyeni uygulamalar ve "
+"yeni bir masaüstü kabuğu olan Plasma, yeni bir kullanıcı arayüzü ile "
+"birlikte duyuruldu. [KDE 4.0 Alpha 1: Yeni Özelliklerin Görsel Bir Kılavuzu]"
+"(https://www.kde.org/announcements/visualguide-4.0-alpha1.php)'na bir göz "
+"atın."
+
+#: content/_index.md:0
+msgid "KDE 4 Development Platform"
+msgstr "KDE 4 Geliştirme Platformu"
+
+#: content/_index.md:0
+msgid "Konqi developer"
+msgstr "Konqi geliştiricisi"
+
+#: content/_index.md:0
+msgid ""
+"In October 2007, KDE announced the [release candidate](https://www.kde.org/"
+"announcements/announce-4.0-platform-rc1.php) of its development platform "
+"consisting of basic libraries and tools to develop KDE applications."
+msgstr ""
+"Ekim 2007'de, KDE uygulamaları geliştirmek için kullanılan temel kitaplıklar "
+"ve araçlardan oluşan geliştirme platformunun [sürüm adayını](https://www.kde."
+"org/announcements/announce-4.0-platform-rc1.php) duyurdu."
+
+#: content/_index.md:0
+msgid "KDE 4"
+msgstr "KDE 4"
+
+#: content/_index.md:0
+msgid "KDE 4.0"
+msgstr "KDE 4.0"
+
+#: content/_index.md:0
+msgid ""
+"In 2008, the community [announced the revolutionary KDE 4](https://kde.org/"
+"announcements/4/4.0/). In addition to the visual impact of the new default "
+"theme, Oxygen, and the new desktop interface, Plasma; KDE 4 also innovated "
+"by presenting the following applications: the PDF reader Okular, the Dolphin "
+"file manager, as well as KWin, supporting graphics effects. See [KDE 4.0 "
+"Visual Guide](https://kde.org/announcements/4/4.0/guide/)."
+msgstr ""
+"2008'de, topluluk, [devrim yaratan KDE 4](https://kde.org/"
+"announcements/4/4.0/)'ü duyurdu. Yeni öntanımlı tema Oksijen ve yeni "
+"masaüstü arayazü Plasma'ya ek olarak KDE 4, aşağıdaki uygulamaları da sundu: "
+"PDF okuyucu Okular, Dolphin dosya yöneticisi ve grafik efektleri destekleyen "
+"KWin. [KDE 4.0 Görsel Kılavuzu](https://kde.org/announcements/4/4.0/"
+"guide/)'na bir bakın."
+
+#: content/_index.md:0
+msgid "KDE Community"
+msgstr "KDE Topluluğu"
+
+#: content/_index.md:0
+msgid "Konqis community"
+msgstr "Konqis topluluğu"
+
+#: content/_index.md:0
+msgid ""
+"From the [announcement of version 4.1](https://www.kde.org/"
+"announcements/4.1/) on there was already a tendency to refer to KDE as a "
+"\"community\" and not just as a \"project\". This change was recognized and "
+"affirmed in the rebranding announcement of the following year."
+msgstr ""
+"[4.1 sürümünün yayımlanmasından beri](https://www.kde.org/"
+"announcements/4.1/), KDE'den bir \"proje\" değil de bir \"topluluk\" olarak "
+"söz etme yönelimi vardı. Bu değişiklik artık tanındı ve bir sonraki yılda "
+"duyurulan yeniden kimliklendirmede de doğrulandı."
+
+#: content/_index.md:0
+msgid "First Camp KDE"
+msgstr "First Camp KDE"
+
+#: content/_index.md:0
+msgid "Group Photo of 2009"
+msgstr "2009 Yılı Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In January 2009, [the first edition of Camp KDE](https://techbase.kde.org/"
+"Events/CampKDE/2009) took place in Negril, Jamaica. It was the first KDE "
+"event in the Americas. After that, there were two more US-based conferences, "
+"[in 2010 in San Diego](https://dot.kde.org/2010/01/17/day-one-camp-"
+"kde-2010), and another [in 2011 in San Francisco](https://dot.kde."
+"org/2011/04/13/re-live-camp-kde-experience)."
+msgstr ""
+"Ocak 2009'da, [Camp KDE](https://techbase.kde.org/Events/CampKDE/2009)'nin "
+"ilk toplanması Jamaika'nın Negril kentinde gerçekleşti. Bu, Amerika "
+"kıtasındaki ilk KDE etkinliğiydi. Bundan sonra iki tane daha ABD'de "
+"gerçekleşen konferans yapıldı; [biri 2010'da San Diego'da](https://dot.kde."
+"org/2010/01/17/day-one-camp-kde-2010) ve diğeri de [2011'de San Francisco'da]"
+"(https://dot.kde.org/2011/04/13/re-live-camp-kde-experience) yapıldı."
+
+#: content/_index.md:0
+msgid "Gran Canaria Desktop Summit"
+msgstr "Kanarya Adaları Masaüstü Zirvesi"
+
+#: content/_index.md:0
+msgid "Group Photo of DS 2009"
+msgstr "DS 2009 Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In July 2009, the first [Desktop Summit](http://www.grancanariadesktopsummit."
+"org/), a joint conference of the KDE and Gnome communities, took place in "
+"Gran Canaria, Spain. The [Akademy 2009](https://dot.kde.org/2009/07/14/"
+"vibrant-community-propels-kde-forward-akademy-2009) was held with this event."
+msgstr ""
+"Temmuz 2009'da, ilk [Masaüstü Zirvesi](http://www.grancanariadesktopsummit."
+"org/), KDE ve Gnome topluluklarının ortak konferansı, İspanya'nın Kanarya "
+"Adaları'nda gerçekleşti. [Akademy 2009](https://dot.kde.org/2009/07/14/"
+"vibrant-community-propels-kde-forward-akademy-2009), bu etkinlikte yapıldı."
+
+#: content/_index.md:0
+msgid "1 million of commits"
+msgstr "1 milyon işleme"
+
+#: content/_index.md:0
+msgid "Active contributors at the time"
+msgstr "Etkin katkıcılar"
+
+#: content/_index.md:0
+msgid ""
+"The community [reached the mark of 1 million of commits](https://dot.kde."
+"org/2009/07/20/kde-reaches-1000000-commits-its-subversion-repository). From "
+"500,000 in January 2006 and 750,000 in December 2007, only 19 months later, "
+"contributions reached the 1 million mark. The increase in these "
+"contributions coincides with the launch of innovative KDE 4."
+msgstr ""
+"Topluluk, [1 milyon işleme](https://dot.kde.org/2009/07/20/kde-"
+"reaches-1000000-commits-its-subversion-repository) dönüm noktasına ulaştı. "
+"Ocak 2006'da 500.000 ve Aralık 2007'de 750.000 işlemenin ardından, yalnızca "
+"19 ay sonra, katkılar 1 milyon düzeyine ulaştı. Bu katkılardaki artış, aynı "
+"zamanda KDE 4'ün çıkışıyla da paralel gitti."
+
+#: content/_index.md:0
+msgid "First Randa Meetings"
+msgstr "İlk Randa Toplantıları"
+
+#: content/_index.md:0
+msgid "Group photo of first RM"
+msgstr "İlk RT'nin grup fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In September 2009, [the first](https://dot.kde.org/2009/09/08/third-plasma-"
+"summit-lifts-kde-desktop-higher-grounds) of a series of events known as "
+"[Randa Meetings](https://community.kde.org/Sprints/Randa) took place in "
+"Randa, in Swiss Alps. The event brought together several sprints of various "
+"community projects. Since then, Randa Meetings take place annually."
+msgstr ""
+"Eylül 2009'da, [Randa Toplantıları](https://community.kde.org/Sprints/Randa) "
+"olarak bilinen etkinlikler dizisinin [ilki](https://dot.kde.org/2009/09/08/"
+"third-plasma-summit-lifts-kde-desktop-higher-grounds), İsviçre Alplerinde "
+"bulunan Randa'da gerçekleşti. Bu etkinlik, çeşitli topluluk projelerinin "
+"birkaç hız koşusunu bir araya getirdi. O zamandan bu yana, Randa "
+"Toplantıları yıllık olarak gerçekleşir."
+
+#: content/_index.md:0
+msgid "Rebranding"
+msgstr "Marka Yüzü Yenileme"
+
+#: content/_index.md:0
+msgid "Brand graph"
+msgstr "Marka grafiği"
+
+#: content/_index.md:0
+msgid ""
+"In November 2009, the community [announced](https://dot.kde.org/2009/11/24/"
+"repositioning-kde-brand) changes to its brand. The name \"K Desktop "
+"Environment\" had become ambiguous and obsolete and is replaced by \"KDE\". "
+"The name \"KDE\" is no longer just referring to a desktop environment, but "
+"now represents both the community and the project umbrella supported by this "
+"community."
+msgstr ""
+"Kasım 2009'da, topluluk, markasını değiştirdiğini [duyurdu](https://dot.kde."
+"org/2009/11/24/repositioning-kde-brand). \"K Masaüstü Ortamı\" yerine \"KDE"
+"\" kullanılacağı açıklandı. \"KDE\" adı, artık yalnızca masaüstü ortamına "
+"değil, diğer tüm topluluk ve bu topluluk tarafından desteklenen tüm "
+"projeleri kapsıyordu."
+
+#: content/_index.md:0
+msgid "KDE Software Compilation"
+msgstr "KDE Yazılım Derlemesi"
+
+#: content/_index.md:0
+msgid "Brand Map"
+msgstr "Marka Haritası"
+
+#: content/_index.md:0
+msgid ""
+"From [version 4.3.4](https://www.kde.org/announcements/announce-4.3.4.php) "
+"on, KDE announcements began to refer to the whole suite of products as 'KDE "
+"Software Compilation' (KDE SC). Currently, this trend is abandoned."
+msgstr ""
+"[Sürüm 4.3.4](https://www.kde.org/announcements/announce-4.3.4.php)'ten "
+"itibaren, KDE duyuruları tüm projeden 'KDE Yazılım Derlemesi' (KDE SC) "
+"olarak söz etmeye başladı. Bu eğilim, şu anda sürdürülmemektedir."
+
+#: content/_index.md:0
+msgid "Akademy-Br"
+msgstr "Akademy-Br"
+
+#: content/_index.md:0
+msgid "Group Photo of Akademy-Br"
+msgstr "Akademy-Br Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In April 2010, [the first meeting](http://ev.kde.org/reports/ev-"
+"quarterly-2010Q2.pdf) of Brazil KDE contributors took place. The event was "
+"held in Salvador, Bahia, and was the only Brazilian Akademy edition. From "
+"2012 on, the event expanded to a meeting for all Latin American contributors."
+msgstr ""
+"Nisan 2010'da, Brezilya KDE katkıcılarının ilk [toplantısı](http://ev.kde."
+"org/reports/ev-quarterly-2010Q2.pdf) gerçekleşti. Etkinlik, Salvador'un "
+"Bahia kentinde yapıldı ve Brezilya'nın tek Akademy etkinliğiydi. 2012'den "
+"sonra, etkinlik tüm Latin Amerika'yı kapsayacak biçimde genişletildi."
+
+#: content/_index.md:0
+msgid "Join the Game"
+msgstr "Oyuna Katıl"
+
+#: content/_index.md:0
+msgid "JtG logo"
+msgstr "JtG logosu"
+
+#: content/_index.md:0
+msgid ""
+"In June 2010, the KDE e.V. announced the supporting membership program "
+"[\"Join the Game\"](https://jointhegame.kde.org/), which aims to encourage "
+"financial support to the community. By participating in the program you "
+"become a member of the KDE e.V., contributing to an annual amount and being "
+"able participate in the organization's annual meetings."
+msgstr ""
+"Haziran 2010'da, KDE e.V., destekleyici üyelik programı olan [\"Oyuna Katıl"
+"\"](https://jointhegame.kde.org/)'ı duyurdu. Bu program, topluluğa finansal "
+"destek sağlamak için duyuruldu. Bu programa katılarak; KDE e.V.'nin bir "
+"üyesi olur ve yıllık düzenli bir tutar yatırarak ayrıca organizasyonun "
+"yıllık toplantılarına da katılma olanağı kazanılır."
+
+#: content/_index.md:0
+msgid "KDE SC 4.5"
+msgstr "KDE SC 4.5"
+
+#: content/_index.md:0
+msgid "Plasma Netbook screenshot"
+msgstr "Plasma Netbook ekran görüntüsü"
+
+#: content/_index.md:0
+msgid ""
+"In August 2010, the community [announced version 4.5](https://www.kde.org/"
+"announcements/4.5/) of its products: Development Platform, Applications and "
+"Plasma Workspaces. Each of them began to have a separate release "
+"announcement. One of the highlights of this version was the Plasma interface "
+"for netbooks, announced in version 4.4."
+msgstr ""
+"Ağustos 2010'da, topluluk, şu ürünlerin [4.5 sürümünü duyurdu](https://www."
+"kde.org/announcements/4.5/): Geliştirme Platformu, Uygulamalar ve Plasma "
+"Çalışma Alanları. Her biri için ayrı bir yayım duyurusu yapılmaya başlandı. "
+"Bu sürümün en göze çarpan yeniliklerinden bir tanesi, 4.4 sürümünde "
+"duyurulan Netbook'lar için Plasma arayüzü oldu."
+
+#: content/_index.md:0
+msgid "Calligra Suite"
+msgstr "Calligra Suite"
+
+#: content/_index.md:0
+msgid "Calligra Suite logo"
+msgstr "Calligra Suite logosu"
+
+#: content/_index.md:0
+msgid ""
+"In December 2010, the community [announces](https://dot.kde.org/2010/12/06/"
+"kde-announces-calligra-suite) the [Calligra Suite](https://www.calligra."
+"org/), a split from the KOffice suite. KOffice was discontinued in 2011."
+msgstr ""
+"Aralık 2010'da, topluluk, KOffice'in bir yan ürünü olan [Calligra Suite]"
+"(https://www.calligra.org/)'i [duyurdu](https://dot.kde.org/2010/12/06/kde-"
+"announces-calligra-suite). KOffice, 2011 yılında sonlandırıldı."
+
+#: content/_index.md:0
+msgid "First Conf KDE India"
+msgstr "KDE Hindistan'ın İlk Konferansı"
+
+#: content/_index.md:0
+msgid "Group Photo of Conf India"
+msgstr "Hindistan Konferansı Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In March 2011, the [first conference](https://dot.kde.org/2010/12/28/"
+"confkdein-first-kde-conference-india) of the KDE and Qt community in India "
+"took place in Bengaluru. Since then, the event has taken place annually."
+msgstr ""
+"Mart 2011'de, KDE ve Qt topluluğunun Hindistan'daki [ilk konferansı](https://"
+"dot.kde.org/2010/12/28/confkdein-first-kde-conference-india) Bengaluru'da "
+"gerçekleşti. Ondan bu yana, etkinlik her yıl yineleniyor."
+
+#: content/_index.md:0
+msgid "Desktop Summit 2011"
+msgstr "Masaüstü Çalıştayı 2011"
+
+#: content/_index.md:0
+msgid "Group Photo of DS 2011"
+msgstr "DS 2011 Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In August 2011, [another joint conference](https://desktopsummit.org/) of "
+"the KDE and Gnome communities took place in Berlin, Germany. Nearly 800 "
+"contributors from all over the world came together to share ideas and "
+"collaborate on various free software projects."
+msgstr ""
+"Ağustos 2011'de, KDE ve Gnome topluluklarının [başka bir ortak konferansı]"
+"(https://desktopsummit.org/), Almanya'nın Berlin kentinde gerçekleşti. "
+"Dünyanın her bir yanından 800 kadar katılımcı, çeşitli özgür yazılım "
+"projeleri üzerine bilgi paylaşımında bulunmak ve birlikte çalışmak için bir "
+"araya geldi."
+
+#: content/_index.md:0
+msgid "Plasma Active"
+msgstr "Plasma Active"
+
+#: content/_index.md:0
+msgid "Plasma Active 1 screenshot"
+msgstr "Plasma Active 1 Ekran Görüntüsü"
+
+#: content/_index.md:0
+msgid ""
+"The community released the first version of its interface for mobile "
+"devices, [Plasma Active](https://www.kde.org/announcements/plasma-active-"
+"one/). Later, it was superseded by Plasma Mobile."
+msgstr ""
+"Topluluk, taşınabilir aygıtlar için tasarlanan ilk Plasma arayüzü olan "
+"[Plasma Active](https://www.kde.org/announcements/plasma-active-one/)'in ilk "
+"sürümünü yayımladı. Proje, daha sonra Plasma Mobile olarak yeniden "
+"adlandırıldı."
+
+#: content/_index.md:0
+msgid "First LaKademy"
+msgstr "İlk LaKademy"
+
+#: content/_index.md:0
+msgid "Group Photo of LaKademy 2012"
+msgstr "LaKademy 2012 Grup Fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"In April 2012, the [first meeting](https://lakademy.kde.org/lakademy12-en."
+"html) of the KDE contributors in Latin America, LaKademy, took place. The "
+"event was held in Porto Alegre, Brazil. The [second edition](https://br.kde."
+"org/lakademy-2014) took place in 2014 in São Paulo, and since then has been "
+"an annual event. So far, all editions were held in Brazil, where the highest "
+"number of contributors from the Latin American community is based."
+msgstr ""
+"Nisan 2012'de, Latin Amerika'daki KDE topluluğunun [ilk toplantısı](https://"
+"lakademy.kde.org/lakademy12-en.html) olan LaKademy gerçekleşti. Etkinlik, "
+"Brezilya'nın Porto Alegre kentinde yer aldı. [İkinci toplantı](https://br."
+"kde.org/lakademy-2014), 2014 yılında São Paulo'da gerçekleşti ve o zamandan "
+"bu yana her yıl yapılıyor. Bugüne kadar, tüm toplantılar, Latin Amerika'daki "
+"en çok katkıcıya ev sahipliği yapan Brezilya'da gerçekleşti."
+
+#: content/_index.md:0
+msgid "KDE Manifesto"
+msgstr "KDE Manifestosu"
+
+#: content/_index.md:0
+msgid "KDE Manifesto Art"
+msgstr "KDE Manifestosu Resmi"
+
+#: content/_index.md:0
+msgid ""
+"[KDE Manifesto](https://manifesto.kde.org/index.html), a document that "
+"presents the benefits and obligations of a KDE project, was released. It "
+"also introduces the core values that guide the community: Open Governance, "
+"Free Software, Inclusivity, Innovation, Common Ownership, and End-User Focus."
+msgstr ""
+"Bir KDE projesinin artı yönlerini ve uyması gereken kuralları sunan bir "
+"belge olan [KDE Manifestosu](https://manifesto.kde.org/index.html) "
+"yayımlandı. Bu belge, aynı zamanda, topluluğun ana ilkelerini de içeriyor: "
+"Açık Yönetim, Özgür Yazılım, İçerimcilik, İnovasyon, Ortak İyelik ve Son "
+"Kullanıcı Odağı."
+
+#: content/_index.md:0
+msgid "New Konqi"
+msgstr "Yeni Konqi"
+
+#: content/_index.md:0
+msgid "Konqi redesigned"
+msgstr "Konqi yeniden tasarlandı"
+
+#: content/_index.md:0
+msgid ""
+"In December 2012, the community [launched a competition](https://dot.kde."
+"org/2012/12/08/contest-create-konqi-krita) to create a new mascot using "
+"Krita. The competition winner was Tyson Tan, who created [new looks for the "
+"Konqi and Katie](http://tysontan.deviantart.com/art/Konqi-ver-2-494267237)."
+msgstr ""
+"Aralık 2012'de, topluluk, Krita kullanarak yeni bir maskot oluşturmak için "
+"bir [yarışma düzenledi](https://dot.kde.org/2012/12/08/contest-create-konqi-"
+"krita). Yarışmayı kazanan Tyson Tan, [Konqi ve Katie için yeni bir görünüm "
+"tasarladı](http://tysontan.deviantart.com/art/Konqi-ver-2-494267237)."
+
+#: content/_index.md:0
+msgid "Release cycle change"
+msgstr "Yayım çevrimi değişimi"
+
+#: content/_index.md:0
+msgid "Graph of the KDE technologies separated"
+msgstr "Ayrılan KDE teknolojilerinin bir grafiği"
+
+#: content/_index.md:0
+msgid ""
+"In September 2013, the community [announced](https://dot.kde.org/2013/09/04/"
+"kde-release-structure-evolves) changes in the release cycle of its products. "
+"Each of them, Workspaces, Applications, and Platform, now have separate "
+"releases. The change was already a reflection of the restructuring of KDE "
+"technologies. This restructuring resulted in the next generation of "
+"community products, which would be released the following year."
+msgstr ""
+"Eylül 2013'te, topluluk, ürünlerinin sürüm yayım çevrimindeki değişiklikleri "
+"[duyurdu](https://dot.kde.org/2013/09/04/kde-release-structure-evolves). "
+"Çalışma Alanları, Uygulamalar ve Platform'un artık ayrı sürüm yayım "
+"periyotları var. Bu değişiklik, KDE teknolojilerinin yeniden düzenlenmesi "
+"çalışmalarının bir meyvesi olarak yerini aldı. Bu değişiklikle, bir sonraki "
+"yıl yayımlanacak sonraki kuşak topluluk ürünleri için yer açıldı."
+
+#: content/_index.md:0
+msgid "Frameworks 5"
+msgstr "Frameworks 5"
+
+#: content/_index.md:0
+msgid "Evolution of development of KDE technologies"
+msgstr "KDE teknolojilerinin gelişiminin evrimi"
+
+#: content/_index.md:0
+msgid ""
+"The first stable version of Frameworks 5 (KF5), the successor of KDE "
+"Platform 4, [was released](https://www.kde.org/announcements/kde-"
+"frameworks-5.0.php). This new generation of the KDE libraries based on Qt 5 "
+"has made the KDE development platform more modular and facilitated cross-"
+"platform development."
+msgstr ""
+"KDE Platform 4'ün bir sonraki sürümü olan Frameworks 5'in ilk kararlı sürümü "
+"[yayımlandı](https://www.kde.org/announcements/kde-frameworks-5.0.php). Qt5 "
+"tabanlı olan KDE kitaplıklarının bu yeni kuşağı, KDE geliştirme sürecini "
+"daha modüler ve çapraz platform geliştirmeye daha da uygun kıldı."
+
+#: content/_index.md:0
+msgid "Plasma 5"
+msgstr "Plasma 5"
+
+#: content/_index.md:0
+msgid "Plasma 5 screenshot"
+msgstr "Plasma 5 ekran görüntüsü"
+
+#: content/_index.md:0
+msgid ""
+"[Release](https://www.kde.org/announcements/plasma5.0/) of the first stable "
+"version of Plasma 5. This new generation of Plasma has a new theme, Breeze. "
+"Changes include a migration to a new, fully hardware-accelerated graphics "
+"stack centered around an OpenGL(ES) scenegraph. This version of Plasma uses "
+"as base the Qt 5 and Frameworks 5."
+msgstr ""
+"Plasma 5'in ilk kararlı sürümü [yayımlandı](https://www.kde.org/"
+"announcements/plasma5.0/). Plasma'nın bu yeni kuşağı, Esinti adında yeni bir "
+"tema içeriyor. Değişiklikler arasında, OpenGL(ES) tabanlı, tümüyle donanım "
+"ivmelendirmesi kullanan yeni bir grafik yığını da var. Plasma'nın bu yeni "
+"sürümü, Qt5 ve Frameworks 5 tabanlıdır."
+
+#: content/_index.md:0
+msgid "GCompris joins the KDE"
+msgstr "GCompris, KDE'ye katıldı"
+
+#: content/_index.md:0
+msgid "GCompris logo"
+msgstr "GCompris logosu"
+
+#: content/_index.md:0
+msgid ""
+"In December 2014, the educational software suite [GCompris joins](https://"
+"dot.kde.org/2014/12/11/gcompris-joins-kde-incubator-and-launches-fundraiser) "
+"the [project incubator of KDE community](https://community.kde.org/"
+"Incubator). Bruno Coudoin, who created the [project](http://gcompris.net/"
+"index-en.html) in 2000, decided to rewrite it in Qt Quick to facilitate its "
+"use on mobile platforms. It was originally written in GTK+."
+msgstr ""
+"Aralık 2014'te, eğitim amaçlı yazılım paketi [GCompris joins](https://dot."
+"kde.org/2014/12/11/gcompris-joins-kde-incubator-and-launches-fundraiser), "
+"[KDE topluluğunun proje kuluçka makinesine](https://community.kde.org/"
+"Incubator) katıldı. [2000 yılında projeyi yaratan Bruno Coudoin](http://"
+"gcompris.net/index-en.html), projeyi, taşınabilir platformlarda kullanımına "
+"önayak olmak adına QtQuick ile yeniden yazmaya karar verdi. Proje, önceden "
+"GTK+ kullanılarak yazılmıştı."
+
+#: content/_index.md:0
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: content/_index.md:0
+msgid "Plasma Mobile photo"
+msgstr "Plasma Mobile fotoğrafı"
+
+#: content/_index.md:0
+msgid ""
+"The community [announced Plasma Mobile](https://dot.kde.org/2015/07/25/"
+"plasma-mobile-free-mobile-platform), an interface for smartphones that uses "
+"Qt, Frameworks 5 and Plasma Shell technologies."
+msgstr ""
+"Topluluk; Qt, Frameworks 5 ve Plasma Shell teknolojilerini kullanan bir "
+"akıllı telefon arayüzü olan [Plasma Mobile](https://dot.kde.org/2015/07/25/"
+"plasma-mobile-free-mobile-platform)'i duyurdu."
+
+#: content/_index.md:0
+msgid "Plasma on Wayland"
+msgstr "Wayland üzerinde Plasma"
+
+#: content/_index.md:0
+msgid "KWin on Wayland"
+msgstr "Wayland üzerinde KWin"
+
+#: content/_index.md:0
+msgid ""
+"The [first live image](https://dot.kde.org/2015/12/18/first-plasma-wayland-"
+"live-image) of Plasma running on Wayland was made available for download. "
+"Since 2011, the community works in support of Wayland by KWin, the "
+"Compositor of Plasma, and the Window Manager."
+msgstr ""
+"Wayland üzerinde Plasma'yı çalıştıran [ilk canlı kalıp](https://dot.kde."
+"org/2015/12/18/first-plasma-wayland-live-image), indirilmeye açıldı. 2011 "
+"yılından beri, topluluk, Plasma'nın bileşikleştiricisi ve pencere yöneticisi "
+"olan KWin'i Wayland üzerinde çalıştırmak için uğraşıyor."
+
+#: content/_index.md:0
+msgid "Plasma 5.5"
+msgstr "Plasma 5.5"
+
+#: content/_index.md:0
+msgid "Plasma 5.5 screenshot"
+msgstr "Plasma 5.5 ekran görüntüsü"
+
+#: content/_index.md:0
+msgid ""
+"Version 5.5 is [announced](https://www.kde.org/announcements/plasma-5.5.0."
+"php) with several new features: new icons added to the Breeze theme, support "
+"for OpenGL ES in KWin, progress to support Wayland, a new default font "
+"(Noto), a new design."
+msgstr ""
+"Sürüm 5.5, birkaç yeni özellikle birlikte [duyuruldu](https://www.kde.org/"
+"announcements/plasma-5.5.0.php): Breeze simge temasına yeni simgeler "
+"eklendi, KWin'de için OpenGL ES desteği eklendi, Wayland desteği "
+"iyileştirildi ve yeni bir arayüz tasarımıyla birlikte yeni bir yazıyüzü "
+"(Noto) kullanılmaya başlandı."
+
+#: content/_index.md:0
+msgid "KDE Neon"
+msgstr "KDE Neon"
+
+#: content/_index.md:0
+msgid "Neon 5.6 screenshot"
+msgstr "Neon 5.6 ekran görüntüsü"
+
+#: content/_index.md:0
+msgid ""
+"The community [announced](https://dot.kde.org/2016/01/30/fosdem-announcing-"
+"kde-neon) the inclusion of another project in its incubator, [KDE Neon]"
+"(https://neon.kde.org/), based on Ubuntu. Developers, testers, artists, "
+"translators and early adopters can get fresh code from git as it is "
+"committed by the KDE community."
+msgstr ""
+"Topluluk, kuluçka makinesine yeni bir projenin eklendiğini [duyurdu](https://"
+"dot.kde.org/2016/01/30/fosdem-announcing-kde-neon): Ubuntu tabanlı bir "
+"dağıtım olan [KDE Neon](https://neon.kde.org/). Geliştiriciler, sınayıcılar, "
+"sanatçılar, çevirmenler ve erken adapte olanlar, KDE topluluğu tarafından "
+"sağlanan git deposundan taze kodu alabilirler."
+
+#: content/_index.md:0
+msgid "Akademy 2016 part of QtCon"
+msgstr "QtCon'un Akademy 2016 kısmı"
+
+#: content/_index.md:0
+msgid "QtCon banner"
+msgstr "QtCon afişi"
+
+#: content/_index.md:0
+msgid ""
+"[Akademy 2016](https://akademy.kde.org/2016) took place as a part of [QtCon]"
+"(http://qtcon.org/) in September 2016 in Berlin, Germany. The event brought "
+"together the Qt, [FSFE](https://fsfe.org/), [VideoLAN](http://www.videolan."
+"org/) and KDE communities. It celebrated 20 years of KDE, 20 years of VLC, "
+"and 15 years of FSFE."
+msgstr ""
+"[Akademy 2016](https://akademy.kde.org/2016), 2016 yılının Eylül ayında, "
+"Almanya'nın Berlin kentinde [QtCon](http://qtcon.org/)'un bir parçası olarak "
+"gerçekleşti. Etkinlik, Qt, [FSFE](https://fsfe.org/), [VideoLAN](http://www."
+"videolan.org/) ve KDE topluluklarını bir araya getirdi. KDE'nin ve VLC'nin "
+"20. yılı, FSFE'nin de 15. yılı kutlandı."
+
+#: content/_index.md:0
+msgid "Kirigami UI"
+msgstr "Kirigami Arayüzü"
+
+#: content/_index.md:0
+msgid "Kirigami logo"
+msgstr "Kirigami logosu"
+
+#: content/_index.md:0
+msgid ""
+"[Kirigami is released](https://dot.kde.org/2016/03/30/kde-proudly-presents-"
+"kirigami-ui), a set of QML components to develop applications based on Qt "
+"for mobile or desktop devices."
+msgstr ""
+"Masaüstü ve taşınabilir aygıtlarda Qt tabanlı uygulamalar geliştirmek için "
+"yapılan bir QML bileşenleri kümesi olan [Kirigami](https://dot.kde."
+"org/2016/03/30/kde-proudly-presents-kirigami-ui), yayımlandı."
+
+#: content/_index.md:0
+msgid "KDE presents its Vision for the future"
+msgstr "KDE; gelecek vizyonunu sunuyor"
+
+#: content/_index.md:0
+msgid ""
+"In early 2016, as a result of a survey and open discussions among community "
+"members, [KDE has published a document outlining its vision for the future]"
+"(https://dot.kde.org/2016/04/05/kde-presents-its-vision-future). This vision "
+"represents the values that its members consider most important: \"A world in "
+"which everyone has control over their digital life and enjoys freedom and "
+"privacy.\" The idea in defining this vision was to make clear what are the "
+"main motivations that drive the community."
+msgstr ""
+"2016 başında, topluluk üyeleri arasındaki tartışmalar ve anketlerin "
+"sonucunda, [KDE, gelecek için olan vizyonunu özetleyen bir belge yayımladı]"
+"(https://dot.kde.org/2016/04/05/kde-presents-its-vision-future). Bu vizyon, "
+"üyelerinin en önemli olarak addettiği değerleri belirtiyordu: \"Herkesin "
+"sayısal yaşamı üzerine tam denetimi olduğu ve özgürlüklerinin ve "
+"gizliliklerinin keyfini çıkardığı bir dünya.\" Bu vizyonu tanımlama "
+"düşüncesi, topluluğun ana motivasyonunu belirtme isteğinden geliyordu."
+
+#: content/_index.md:0
+msgid "KDE announced the Advisory Board"
+msgstr "KDE, Danışma Kurulu'nu duyurdu"
+
+#: content/_index.md:0
+msgid ""
+"In order to formalize the cooperation among the community and the "
+"organizations that have been its allies, [KDE e.V. announced the Advisory "
+"Board](https://dot.kde.org/2016/09/26/announcing-kde-advisory-board). "
+"Through the Advisory Board, organizations can provide feedback on community "
+"activities and decisions, to participate in regular meetings with KDE e.V., "
+"and to attend to Akademy and community sprints."
+msgstr ""
+"Topluluk ve dostları arasındaki işbirliğini resmileştirmek adına, [KDE e.V., "
+"Danışma Kurulu'nu duyurdu](https://dot.kde.org/2016/09/26/announcing-kde-"
+"advisory-board). Danışma Kurulu aracılığıyla, organizasyonlar topluluk "
+"etkinlikleri ve kararları üzerinde geri bildirimde bulunabilir, KDE e.V. ile "
+"düzenli toplantılar yapabilir ve Akademy ve topluluk hız koşularına "
+"katılabilirler."
+
+#: content/_index.md:0
+msgid "KDE celebrated 20 years"
+msgstr "KDE, 20. yılını kutladı"
+
+#: content/_index.md:0
+msgid "KDE 20 years art by Elias Silveira"
+msgstr "Elias Silveira tarafından yapılan KDE 20. yaş günü görseli"
+
+#: content/_index.md:0
+msgid ""
+"On October 14, KDE celebrated its 20th birthday. The project that started as "
+"a desktop environment for Unix systems, today is a community that incubates "
+"ideas and projects which go far beyond desktop technologies. To celebrate "
+"its anniversary the community [published a book](https://20years.kde.org/"
+"book/) written by its contributors. [We also had parties](https://community."
+"kde.org/Promo/Events/Parties/KDE_20_Anniversary) been held in eight "
+"countries."
+msgstr ""
+"14 Ekim'de, KDE 20. yaş gününü kutladı. UNIX sistemler için bir masaüstü "
+"ortam olarak başlayan proje, bugün yeni fikirleri kuluçkasından geçiren ve "
+"masaüstü teknolojilerinin ötesine geçen bir kapsama iye. Yıldönümünü "
+"kutlamak için, topluluk, üyeleri tarafından yazılan [bir kitap yayımladı]"
+"(https://20years.kde.org/book/). Ayrıca, sekiz ülkede [partiler düzenlendi]"
+"(https://community.kde.org/Promo/Events/Parties/KDE_20_Anniversary)."
+
+#: content/_index.md:0
+msgid "KDE Slimbook is announced"
+msgstr "KDE Slimbook duyuruldu"
+
+#: content/_index.md:0
+msgid "KDE Slimbook"
+msgstr "KDE Slimbook"
+
+#: content/_index.md:0
+msgid ""
+"In partnership with a Spanish laptop retailer [the community announced the "
+"launch of the KDE Slimbook](https://dot.kde.org/2017/01/26/kde-and-slimbook-"
+"release-laptop-kde-fans), a ultrabook that comes with the KDE Plasma and KDE "
+"Applications pre-installed. The laptop offers a pre-installed version of KDE "
+"Neon and [can be purchased from the retailer's website](https://slimbook.es/"
+"en/store/slimbook-kde)."
+msgstr ""
+"Topluluk, İspanyol bir bilgisayar satıcısı olan Slimbook ile işbirliği "
+"çerçevesinde, [KDE Slimbook'un çıktığını duyurdu](https://dot.kde."
+"org/2017/01/26/kde-and-slimbook-release-laptop-kde-fans). Bu ultrabook, KDE "
+"Plasma ve KDE uygulamaları yüklü olarak geliyor. Bu dizüstü bilgisayarda KDE "
+"Neon sunuluyor ve [satıcının web sayfasından temin edilebilir](https://"
+"slimbook.es/en/store/slimbook-kde)."
+
+#: content/_index.md:0
+msgid "QtCon Brasil is announced"
+msgstr "QtCon Brasil duyuruldu"
+
+#: content/_index.md:0
+msgid ""
+"Inspired by QtCon 2016, which took place in Berlin and brought together the "
+"KDE, VLC, Qt and FSFE communities, [KDE community in Brazil hosted QtCon "
+"Brasil in 2017](https://br.qtcon.org/2017/). The event was held in São Paulo "
+"and brought together Qt experts from Brazil and abroad in two days of talks "
+"and one day of training."
+msgstr ""
+"KDE, VLC, Qt ve FSFE topluluklarını bir araya getiren QtCon 2016 esintili "
+"bir etkinlik olarak, [Brezilya'daki KDE topluluğu, 2017 yılında QtCon "
+"Brasil'e ev sahipliği yaptı](https://br.qtcon.org/2017/). Etkinlik, São "
+"Paulo'da düzenlendi ve iki günlük konuşma ve bir günlük eğitim ile "
+"Brezilya'daki Qt uzmanlarını bir araya getirdi."
+
+#: content/_index.md:0
+msgid "KDE set goals"
+msgstr "KDE, hedeflerini belirledi"
+
+#: content/_index.md:0
+msgid ""
+"[KDE sets its goals for the next four years](https://dot.kde.org/2017/11/30/"
+"kdes-goals-2018-and-beyond). As part of an effort undertaken by its members "
+"since 2015, the community has defined three main objectives for the coming "
+"years: to improve the usability and productivity of its software, to ensure "
+"that its software helps to preserve the privacy of users and to facilitate "
+"the contribution and integration of new collaborators."
+msgstr ""
+"[KDE, önümüzdeki dört yıl için hedeflerini belirledi](https://dot.kde."
+"org/2017/11/30/kdes-goals-2018-and-beyond). 2015 yılından bu yana topluluk "
+"üyeleri tarafından sürdürülen bu efor ile, topluluk üç ana hedef belirledi: "
+"Yazılımlarının kullanılabilirliğini ve üretkenliğini iyileştirme, "
+"kullanıcıların gizliliğinin korunduğundan emin olma ve yeni katkıcıların "
+"kolaylıkla projeye katılabilmesine olanak sağlama."
+
+#: content/_index.md:0
+msgid "Handshake Foundation donates USD 300,000 to KDE"
+msgstr "Handshake Vakfı, KDE'ye $300.000 bağışta bulundu"
+
+#: content/_index.md:0
+msgid "Handshake Foundation"
+msgstr "Handshake Vakfı"
+
+#: content/_index.md:0
+msgid ""
+"In 2018, the [Handshake Foundation made a donation of USD 300,000 to KDE e.V]"
+"(https://dot.kde.org/2018/10/15/kde-ev-receives-sizeable-donation-handshake-"
+"foundation). The money was used to finance projects, fund the development of "
+"Calligra Office Suite and to continue our commitment to keep creating free "
+"and open source software for users worldwide."
+msgstr ""
+"2018'de, [Handshake Vakfı, KDE e.V.'ye $300.000 bağışta bulundu](https://dot."
+"kde.org/2018/10/15/kde-ev-receives-sizeable-donation-handshake-foundation). "
+"Bu para, Calligra Ofis Takımı ve diğer projelerin finanse edilmesinde "
+"kullanıldı ve dünyanın her bir yanındaki kullanıcılara özgür ve açık "
+"kaynaklı yazılım sunmayı sürdürmemize yardımcı oldu."
+
+#: content/_index.md:0
+msgid "Debian Joins KDE Advisory Board"
+msgstr "Debian, KDE Danışma Kurulu'na Katıldı"
+
+#: content/_index.md:0
+msgid "Debian Community"
+msgstr "Debian Topluluğu"
+
+#: content/_index.md:0
+msgid ""
+"Debian, the famous Linux distribution founded in 1993, [joined KDE's "
+"Advisory Board](https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-"
+"board) to further deepen the collaboration between both communities. With "
+"this, we expect both communities to grow even stronger and to keep working "
+"together to build FLOSS projects."
+msgstr ""
+"1993 yılından bu yana Linux kullanıcılarına sunulan Debian, her iki topluluk "
+"arasındaki işbirliğini daha da geliştirmek için [KDE'nin Danışma Kurulu]"
+"(https://dot.kde.org/2018/07/12/debian-joins-kdes-advisory-board)'na "
+"katıldı. Bununla, iki topluluğun daha da güçlenmesini ve birlikte FLOSS "
+"projeler yaratmayı sürdürmesini bekliyoruz."
+
+#: content/_index.md:0
+msgid "The Pineapple fund donates USD 200,000 to KDE"
+msgstr "Pineapple fonu, KDE'ye $200.000 bağışta bulundu"
+
+#: content/_index.md:0
+msgid "Pineapple Fund"
+msgstr "Pineapple Fonu"
+
+#: content/_index.md:0
+msgid ""
+"Pineapple, an anonymous philanthropic fund, [donated USD 200,000 to KDE e.V]"
+"(https://dot.kde.org/2018/02/19/kde-receives-200000-usd-donation-pineapple-"
+"fund) in 2018. This allowed KDE to keep paying for all the expenses related "
+"to our community, such as sprints and events."
+msgstr ""
+"Pineapple, anonim bir yardımsever fon, 2018 yılında [KDE e.V.'ye $200.000 "
+"bağışta bulundu](https://dot.kde.org/2018/02/19/kde-receives-200000-usd-"
+"donation-pineapple-fund). Bu bağış, KDE'nin hız koşuları ve topluluk ile "
+"ilgili diğer etkinliklerin masraflarını ödemesine yardımcı oldu."
+
+#: content/_index.md:0
+msgid "KDE-powered newspaper achieves world first"
+msgstr "KDE tarafından desteklenen gazete dünyada bir ilk oldu"
+
+#: content/_index.md:0
+msgid ""
+"The *Janayugom* daily newspaper becomes the [first in the world](https://"
+"poddery.com/posts/4691002) to switch to a completely free software stack for "
+"its publication. The regional paper has 100,000 subscribers across Kerala, "
+"India. An event celebrating the move is attended by the state's Chief "
+"Minister. Plasma, Okular, Krita, and more are deployed on systems across 14 "
+"different offices."
+msgstr ""
+"*Janayugom* günlük gazetesi, yayın süreci için tümüyle açık kaynaklı bir "
+"yazılım yığınına geçiş yapan [dünyadaki ilk gazete](https://poddery.com/"
+"posts/4691002) oldu. Bölgesel gazetenin, Hindistan'ın Kerala bölgesinde "
+"yaklaşık 100.000 abonesi bulunuyor. Bu hareketi kutlamak için düzenlenen "
+"organizasyona eyaletin başbakanı katıldı ve 14 farklı ofisteki "
+"bilgisayarlara Plasma, Okular ve Krita kuruldu."
+
+#: content/_index.md:0
+msgid "KDE adopts GitLab as an online development platform"
+msgstr "KDE, çevrimiçi geliştirme platformu olarak GitLab kullanmaya başladı"
+
+#: content/_index.md:0
+msgid "KDE adopts GitLab"
+msgstr "KDE, Gitlab kullanmaya başladı"
+
+#: content/_index.md:0
+msgid ""
+"In 2019, [KDE transitioned to GitLab](https://about.gitlab.com/press/"
+"releases/2019-09-17-gitlab-adopted-by-KDE.html) as our main DevOps platform. "
+"This change allowed the KDE community to work more efficiently and to lower "
+"the bar for new contributors to join us. Our GitLab instance can be found "
+"[on KDE Invent](https://invent.kde.org)."
+msgstr ""
+"2019'da, KDE, ana geliştirme platformu olarak [GitLab kullanmaya başladı]"
+"(https://about.gitlab.com/press/releases/2019-09-17-gitlab-adopted-by-KDE."
+"html). Bu değişiklikle, KDE topluluğu artık daha etkili çalışıyor ve katkıda "
+"bulunma eşiği bayağı aşağı çekilmiş oldu. GitLab örneğimiz [KDE Invent]"
+"(https://invent.kde.org)'te bulunabilir."
+
+#: content/_index.md:0
+msgid "New goals for 2019"
+msgstr "2019 için yeni hedefler"
+
+#: content/_index.md:0
+msgid ""
+"KDE [announces](https://dot.kde.org/2019/09/07/kde-decides-three-new-"
+"challenges-wayland-consistency-and-apps) a new slate of goals for the near "
+"future at Akademy 2019. The community has whittled down  a long list of "
+"proposals and chose to prioritize a consistent user experience across all "
+"KDE software, getting KDE apps into the hands of users with the help of new "
+"packaging methods, and improving the Wayland session."
+msgstr ""
+"KDE, Akademy 2019'da yakın gelecek için yeni hedeflerini [duyurdu](https://"
+"dot.kde.org/2019/09/07/kde-decides-three-new-challenges-wayland-consistency-"
+"and-apps). Topluluk, uzun bir listeden oluşan olası hedefleri üçe indirdi ve "
+"tüm KDE yazılımları genelinde tutarlı bir kullanıcı deneyimi, KDE "
+"yazılımlarını yeni paketleme yöntemleriyle herkese ulaştırma ve Wayland "
+"oturumunu iyileştirme olarak kendine yeni yol haritasını çizdi."
+
+#: content/_index.md:0
+msgid "KDE adopts Matrix as an Instant Messaging Platform"
+msgstr "KDE, Anlık İletileşme Platformu olarak Matrix'i kullanmaya başladı"
+
+#: content/_index.md:0
+msgid ""
+"[Matrix](https://community.kde.org/Matrix), an Open Source, decentralized "
+"and secure Instant Messaging platform, became the default and recommended "
+"way of communication for those who like their instant messaging graphical. "
+"Matrix allows community members to use a web-based, desktop or mobile "
+"clients, as well as native KDE clients, such as [Neochat](https://invent.kde."
+"org/network/neochat). IRC channels still exist and are bridged to Matrix, "
+"ensuring that members using different systems can communicate easily with "
+"each other. Likewise Telegram channels, although these are not considered "
+"official, as Telegram does not open source the code for its servers or "
+"encryption methods."
+msgstr ""
+"Açık Kaynaklı, merkezsizleştirilmiş ve güvenli bir anlık iletileşme "
+"platformu olan [Matrix](https://community.kde.org/Matrix), iletişimini hoş "
+"kılmak isteyenler için öntanımlı ve önerilen iletişim platformu olarak "
+"bildirildi. Matrix, topluluk üyelerinin, [Neochat](https://invent.kde.org/"
+"network/neochat) gibi KDE yerel uygulamalarının yanı sıra, web tabanlı, "
+"masaüstü veya taşınabilir uygulamalardan çevrimiçi olmasını olanaklı "
+"kılıyor. IRC kanalları hâlâ var ve Matrix'e köprülendiklerinden, bütün "
+"üyelerin birbirleriyle her durumda iletişimde kalmasına da izin veriyor. "
+"Telegram kanalları da var; ancak bunlar Telegram açık kaynak olmadığından ve "
+"sunucu ve şifreleme yöntemi konularında açık olmadığından önerilmiyor."
+
+#: content/_index.md:0
+msgid "KDE PinePhone Announced"
+msgstr "KDE PinePhone Duyuruldu"
+
+#: content/_index.md:0
+msgid "KDE PinePhone"
+msgstr "KDE PinePhone"
+
+#: content/_index.md:0
+msgid ""
+"KDE's Plasma Mobile developers team up with [PINE64](https://www.pine64."
+"org/) to create the [PinePhone KDE Community Edition](https://www.pine64.org/"
+"pinephone/), a mobile phone that runs solely Free Software, is easy to hack "
+"and protects your privacy."
+msgstr ""
+"KDE'nin Plasma Mobile geliştiricileri [PINE64](https://www.pine64.org/) ile "
+"güçlerini birleştirerek [PinePhone KDE Topluluk Sürümü](https://www.pine64."
+"org/pinephone/)'nü yaratmak için kolları sıvadı. Bu telefon, tümüyle özgür "
+"yazılım ile çalışıyor, deşilmesi çok kolay ve gizliliğinizi koruyor."
+
+#: content/_index.md:0
+msgid ""
+"GCompris celebrates its 20th Anniversary and is deployed in thousands of "
+"schools in Kerala, India"
+msgstr ""
+"GCompris 20. yaş gününü kutluyor ve Hindistan'ın Kerala kentinde binlerce "
+"bilgisayara kuruldu"
+
+#: content/_index.md:0
+msgid "GCompris in Malayalam"
+msgstr "GCompris Malayalam Dilinde"
+
+#: content/_index.md:0
+msgid ""
+"In 2020 GCompris celebrated its 20th birthday and was also [deployed in many "
+"schools in Kerala, India](https://timotheegiet.com/blog/floss/tales-of-the-"
+"kde-network-kerala.html). KDE educational applications have been helping "
+"students around the world for decades and are part of the [KDE Educational "
+"Project](https://edu.kde.org)."
+msgstr ""
+"2020 yılında, GCompris 20. yaş gününü kutladı ve [Hindistan'ın Kerala "
+"kentindeki okullarda bilgisayarlara kuruldu](https://timotheegiet.com/blog/"
+"floss/tales-of-the-kde-network-kerala.html). KDE eğitim uygulamaları, "
+"onyıllardan beri dünyanın her yanındaki öğrencilere öğrenimlerinde katkıda "
+"bulunuyor ve [KDE Eğitim Projesi](https://edu.kde.org)'nin bir parçası."
+
+#: content/_index.md:0
+msgid "Slimbook Becomes a KDE Patron"
+msgstr "Slimbook, KDE Düzenli Bağışçısı Oldu"
+
+#: content/_index.md:0
+msgid ""
+"Alejandro López (right), CEO at Slimbook, with Adriaan de Groot from the KDE "
+"e.V. board."
+msgstr ""
+"Alejandro López (sağda), Slimbook CEO'su, KDE e.V. yönetim kurulundan "
+"Adriaan de Groot ile birlikte."
+
+#: content/_index.md:0
+msgid ""
+"Slimbook, a Linux-focused Spanish computer brand, [has joined KDE as a "
+"Patron](https://dot.kde.org/2021/02/25/slimbook-becomes-kde-patron). They "
+"have been offering a variety of computers with GNU/Linux and Plasma for "
+"years, and continue to support KDE and open source with their contributions."
+msgstr ""
+"Slimbook, Linux odaklı bir İspanyol bilgisayar markası, [KDE'ye bir düzenli "
+"bağışçı olarak](https://dot.kde.org/2021/02/25/slimbook-becomes-kde-patron) "
+"katıldı. Yıllardan beri GNU/Linux ve Plasma ile gelen bilgisayarlar üreten "
+"firma, artık KDE'yi ve açık kaynaklı yazılımları doğrudan destekliyor."
+
+#: content/_index.md:0
+msgid "PINE64 joins KDE as a Patron"
+msgstr "PINE64, KDE'ye düzenli bağışçı olarak katıldı"
+
+#: content/_index.md:0
+msgid "PinePhone - KDE Community Edition"
+msgstr "PinePhone - KDE Topluluk Sürümü"
+
+#: content/_index.md:0
+msgid ""
+"PINE64 is a company that aims to deliver affordable, high-quality phones and "
+"other devices with open source software. [PINE64 has become a KDE Patron]"
+"(https://dot.kde.org/2021/06/02/pine64-becomes-kde-patron) after years of "
+"shipping devices with KDE software."
+msgstr ""
+"PINE64; açık kaynıklı yazılım kullanan, uygun fiyatlı, yüksek kaliteli "
+"telefonlar ve diğer aygıtlar üreten bir firmadır. Yıllardır KDE "
+"yazılımlarını ürünlerinde kullanan PINE64, [artık bir KDE bağışçısı oldu]"
+"(https://dot.kde.org/2021/06/02/pine64-becomes-kde-patron)."
+
+#: content/_index.md:0
+msgid "TUXEDO Computers Becomes a KDE Patron"
+msgstr "TUXEDO Computers, bir KDE bağışçısı oldu"
+
+#: content/_index.md:0
+msgid "Herbert Feiler, CEO of TUXEDO Computers."
+msgstr "Herbert Feller, TUXEDO Computers CEO'su."
+
+#: content/_index.md:0
+msgid ""
+"TUXEDO Computers offers a variety of products with GNU/Linux and KDE Plasma "
+"pre-installed. They have been supporting open source software for years and "
+"now [they have become KDE Patrons](https://dot.kde.org/2021/09/14/tuxedo-"
+"computers-becomes-newest-kde-patron)."
+msgstr ""
+"TUXEDO Computers, GNU/Linux ve KDE Plasma önyüklü gelen birçok ürün sunuyor. "
+"Açık kaynaklı yazılımları yıllardır destekleyen firma, [artık bir KDE "
+"bağışçısı oldu](https://dot.kde.org/2021/09/14/tuxedo-computers-becomes-"
+"newest-kde-patron)."
+
+#: content/_index.md:0
+msgid "Valve chooses KDE Plasma for Steam Deck"
+msgstr "Valve, Steam Deck için KDE Plasma'yı seçti"
+
+#: content/_index.md:0
+msgid "KDE Plasma running on Steam Deck"
+msgstr "KDE Plasma, Steam Deck üzerinde çalışırken"
+
+#: content/_index.md:0
+msgid ""
+"Valve, the creators of Steam, announced their portable gaming computer "
+"called Steam Deck has KDE Plasma as the default desktop experience. KDE "
+"developers have been working with Valve to make Plasma work well with Steam "
+"Deck."
+msgstr ""
+"Valve, Steam'in yaratıcıları, Steam Deck adındaki taşınabilir oyun "
+"bilgisayarları için öntanımlı masaüstü ortamı olarak KDE Plasma'yı "
+"seçtiklerini duyurdular. Plasma'yı Steam Deck ile uyumlu çalıştırmak için, "
+"KDE geliştiricileri Valve ile birlikte çalıştılar."

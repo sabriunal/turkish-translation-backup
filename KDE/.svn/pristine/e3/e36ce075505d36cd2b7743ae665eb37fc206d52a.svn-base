@@ -1,0 +1,148 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-05 03:38+0100\n"
+"PO-Revision-Date: 2022-07-29 15:14+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.subtitlecomposer.appdata.xml:6
+msgid "Subtitle Composer"
+msgstr "Altyazı Oluşturucu"
+
+#. (itstool) path: component/summary
+#: org.kde.subtitlecomposer.appdata.xml:7
+msgid ""
+"Video subtitle editor that supports basic and advanced editing operations"
+msgstr ""
+"Temel ve gelişmiş düzenleme işlemlerini destekleyen video altyazı düzenleyici"
+
+#. (itstool) path: description/p
+#: org.kde.subtitlecomposer.appdata.xml:9
+msgid ""
+"Subtitle Composer is an open source text-based subtitle editor that supports "
+"basic and advanced editing operations."
+msgstr ""
+"Altyazı Oluşturucu, temel ve gelişmiş düzenleme işlemlerini destekleyen, "
+"açık kaynaklı ve metin tabanlı bir altyazı düzenleyicidir."
+
+#. (itstool) path: description/p
+#: org.kde.subtitlecomposer.appdata.xml:10
+msgid "Features"
+msgstr "Özellikler"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:12
+msgid ""
+"Open/Save Text Subtitle Formats - SubRip/SRT, MicroDVD, SSA/ASS, MPlayer, "
+"TMPlayer and YouTube captions"
+msgstr ""
+"Metin Altyazı Biçimlerini Aç/Kaydet - SubRip/SRT, MicroDVD, SSA/ASS, "
+"MPlayer, TMPlayer ve YouTube altyazıları"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:13
+msgid ""
+"Open/OCR Graphics Subtitle Formats - VobSub (.idx/.sub/.rar), BluRay/PGS (*."
+"sup), formats supported by ffmpeg (DVD/Vob, DVB, XSUB, HDMV-PGS)"
+msgstr ""
+"Açık/OCR Grafik Altyazı Biçimleri - VobSub (.idx/.sub/.rar), BluRay/PGS (*."
+"sup), ffmpeg tarafından desteklenen biçimler (DVD/Vob, DVB, XSUB, HDMV-PGS)"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:14
+msgid ""
+"Demux Graphics/Text Subtitle Stream from video file - SRT, SSA/ASS, MOV "
+"text, MicroDVD, DVD/Vob, DVB, XSUB, HDMV-PGS"
+msgstr ""
+"Demux Graphics/video dosyasından Metin Altyazı Akışı - SRT, SSA/ASS, MOV "
+"metni, MicroDVD, DVD/Vob, DVB, XSUB, HDMV-PGS"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:15
+msgid "Speech recognition from audio/video file using PocketSphinx"
+msgstr "PocketSphinx kullanarak ses/video dosyasından konuşma tanıma"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:16
+msgid "Smart language/text encoding** detection"
+msgstr "Akıllı dil/metin kodlama** algılaması"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:17
+msgid ""
+"Live preview of subtitles in integrated video player w/ audio stream "
+"selection"
+msgstr ""
+"Tümleşik video oynatıcıda ses akış seçimi ile altyazıların canlı önizlemesi"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:18
+msgid ""
+"Preview/editing of subtitles on graphical audio waveform w/ audio stream "
+"selection"
+msgstr ""
+"Grafik ses dalga biçiminde ses akış seçimi ile altyazıların önizlemesi/"
+"düzenlemesi"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:19
+msgid "Sync by dragging several anchors/graftpoints and stretching timeline"
+msgstr ""
+"Birden çok çapa/aşı noktası sürükleyerek ve zaman akışını çekiştirerek "
+"eşzamanlama"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:20
+msgid ""
+"Time shifting and scaling, lines duration re-calculation, framerate "
+"conversion, etc."
+msgstr ""
+"Zaman kaydırma ve ölçekleme, satır süresi yeniden hesaplama, kare hızı "
+"dönüşümü vb."
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:21
+msgid "Joining and splitting of subtitle files"
+msgstr "Altyazı dosyalarının birbirine katılması ve bölünmesi"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:22
+msgid "Side by side subtitle translations"
+msgstr "Yan yana altyazı çevirisi"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:23
+msgid "Text styles (italic, bold, underline, stroke, color)"
+msgstr "Metin biçemleri (yatık, kalın, altı çizili, üstü çizili, renkli)"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:24
+msgid "Spell checking"
+msgstr "Yazım denetimi"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:25
+msgid "Detection of timing errors in subtitles"
+msgstr "Altyazılarda zamanlama hatalarını algılama"
+
+#. (itstool) path: ul/li
+#: org.kde.subtitlecomposer.appdata.xml:26
+msgid ""
+"Scripting (JavaScript, Python, Ruby and other languages supported by Kross)."
+msgstr ""
+"Betik yazımı (JavaScript, Python, Ruby ve Kross tarafından desteklenen diğer "
+"diller)."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.subtitlecomposer.appdata.xml:33
+msgid "Main application window"
+msgstr "Ana uygulama penceresi"

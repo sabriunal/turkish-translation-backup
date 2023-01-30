@@ -1,0 +1,821 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-25years-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-05 00:52+0000\n"
+"PO-Revision-Date: 2022-10-30 22:23+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.2\n"
+
+#: config.yaml:0
+msgid "KDE"
+msgstr "KDE"
+
+#: config.yaml:0 i18n/en.yaml:0
+msgid "Activities"
+msgstr "Etkinlikler"
+
+#: config.yaml:0
+msgid "Plasma"
+msgstr "Plasma"
+
+#: config.yaml:0
+msgid "History"
+msgstr "Geçmiş"
+
+#: config.yaml:0
+msgid "Support"
+msgstr "Destek"
+
+#: config.yaml:0
+msgid "Merch"
+msgstr "Ürünler"
+
+#: content/_index.md:0 i18n/en.yaml:0
+msgid "KDE's 25th Anniversary"
+msgstr "KDE'nin 25. Yıldönümü"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is 25 years old! Come celebrate with us, attend our talks, join our "
+"offline meetups, check out the history of the project — and play with some "
+"of historic landmark desktops and software, and get some really cool merch!"
+msgstr ""
+"KDE 25 yaşında! Bizimle kutlayın, konuşmalarımıza katılın, çevrimdışı "
+"buluşmalarımıza gelin, projenin geçmişine bir bakın — ve tarihte önemli bir "
+"yer tutmuş masaüstü bilgisayarlar ve yazılımları kullanın; biraz da KDE "
+"ürünlerinden satın alın!"
+
+#: i18n/en.yaml:0
+msgid ""
+"<p>Join our fireside talks and meet other KDE friends and enthusiasts.</p>\n"
+"<p><b>NOTE:</b> Links to the actual talks will appear here shortly before "
+"each chat starts.</p>"
+msgstr ""
+"<p>Ateşin çevresindeki konuşmalara katılın ve diğer KDE arkadaşlarımızla ve "
+"meraklılarla tanışın.</p>\n"
+"<p><b>NOT:</b> Asıl konuşmalara olan bağlantılar, her bir sohbetin "
+"başlangıcından önce burada belirecektir.</p>"
+
+#: i18n/en.yaml:0
+msgid "Fireside Chats"
+msgstr "Ateş Çevresindeki Konuşmalar"
+
+#: i18n/en.yaml:0
+msgid "October 14, at 17:00 UTC: KDE e.V. Board"
+msgstr "14 Ekim, saat 17:00 UTC: KDE e.V. Yönetim Kurulu"
+
+#: i18n/en.yaml:0
+msgid ""
+"Aleix, Lydia, Eike, Adriaan and Neofytos are the KDE volunteers that run "
+"[KDE e.V.](https://ev.kde.org/), the foundation that supports the KDE "
+"Community in all organizational, financial and legal matters. In this "
+"fireside chat we sit down with all five of them to talk about KDE's history, "
+"achievements and where they think KDE is headed. We will also dive into what "
+"it means to support the KDE Community for almost 25 years."
+msgstr ""
+"Aleix, Lydia, Eike, Adriaan ve Neofytos; [KDE e.V.](https://ev.kde.org/)'yi "
+"yöneten KDE gönüllüleridir. KDE e.V., KDE Topluluğu'nu tüm organizasyon, "
+"finans ve yasal konularda destekleyen vakıftır. Bu ateş çevresi sohbetinde, "
+"oturup KDE'nin geçmişi, başarıları ve KDE'nin nereye doğru gittiği üzerine "
+"konuşacaklar. Aynı zamanda, KDE Topluluğu'nu 25 yıldır desteklemenin ne "
+"anlama geldiğini anlamaya çalışacağız."
+
+#: i18n/en.yaml:0
+msgid "October 15, at 18:00 UTC: Jeri Ellsworth"
+msgstr "15 Ekim, saat 18:00 UTC: Jeri Ellsworth"
+
+#: i18n/en.yaml:0
+msgid ""
+"Jeri Ellsworth, self-taught electronics engineer, race driver, and maker and "
+"inventor supreme, will give us a glimpse into her latest project: [Tilt 5]"
+"(https://www.tiltfive.com/), an augmented reality system for collaborative "
+"tabletop gaming. Yes, it is awesome as it sounds."
+msgstr ""
+"Jeri Ellsworth, kendi kendini yetiştirmiş elektronik mühendisi, yarış "
+"sürücüsü, yapıcı ve yaratıcı; son projesi [Tilt 5](https://www.tiltfive."
+"com/), işbirlikçi masaüstü oyunları için bir artırılmış gerçeklik sistemi, "
+"üzerine konuşacak. Pek hoş."
+
+#: i18n/en.yaml:0
+msgid "October 23, at 15:00 UTC: Massimo Stella"
+msgstr "23 Ekim, saat 15:00 UTC: Massimo Stella"
+
+#: i18n/en.yaml:0
+msgid ""
+"Massimo Stella of Kdenlive will talk about how KDE's video editor came to "
+"be, where it is now and what we can look forward to in the future of open "
+"source film-making."
+msgstr ""
+"Kdenlive takımından Massimo Stella, KDE'nin video düzenleyicisinin nasıl "
+"ortaya çıktığını, şimdi nerede olduğunu ve açık kaynaklı film yapımının "
+"geleceğinde neleri bekleyebileceğimiz üzerine konuşacak."
+
+#: i18n/en.yaml:0
+msgid "October 25, at 17:00 UTC: Matthias Ettrich"
+msgstr "25 Ekim, saat 17:00 UTC: Matthias Ettrich"
+
+#: i18n/en.yaml:0
+msgid ""
+"25 years ago Matthias Ettrich sent a now [famous email](https://groups."
+"google.com/g/de.comp.os.linux.misc/c/SDbiV3Iat_s/m/zv_D_2ctS8sJ?pli=1) to "
+"the de.comp.os.linux.misc news group. In that message, Matthias asked "
+"developers to join him in building a Kool Desktop Environment (and a set of "
+"apps to match), all geared towards end users. We will chat with Matthias "
+"about how KDE started, dig into the details and fascinating anecdotes that "
+"shaped the project and our community in its early days, and discover his "
+"perspective on what has become of his vision since then."
+msgstr ""
+"25 yıl önce, Matthias Ettrich de.comp.os.linux.misc haber grubuna şu anda "
+"[ünlü olmuş bir e-posta](https://groups.google.com/g/de.comp.os.linux.misc/c/"
+"SDbiV3Iat_s/m/zv_D_2ctS8sJ?pli=1) gönderdi. Bu e-postada, Matthias "
+"geliştiricilere, son kullanıcılara yönelik bir Kool Desktop Environment "
+"yapmada (ve uyumlu uygulamalar) kendisine katılmaya çağırdı. Matthias ile "
+"KDE'nin nasıl başladığı konusunda, projeyi şekillendiren ana konularda, ilk "
+"günlerde topluluğun nasıl olduğu hakkında ve o zamandan bu yana vizyonunun "
+"hangi bakış açısına kaydığı konusunda sohbet edeceğiz."
+
+#: i18n/en.yaml:0
+msgid "Register here"
+msgstr "Buradan kaydol"
+
+#: i18n/en.yaml:0
+msgid "The room opens shortly before the beginning of the talk."
+msgstr "Oda, konuşmanın başlangıcından kısa bir süre önce açılır."
+
+#: i18n/en.yaml:0
+msgid "Access room"
+msgstr "Odaya eriş"
+
+#: i18n/en.yaml:0
+msgid "Meetups"
+msgstr "Buluşmalar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Let's celebrate KDE's 25th Anniversary together! Join the meetups and get "
+"together with fellow Community members, make friends, and explore similar "
+"interests. Events are happening, both online and in-person! You can join the "
+"in-person events in Berlin, Malaga, Barcelona, Nurnberg, or Valencia or host "
+"your own event in your city and meet for coffee or drinks."
+msgstr ""
+"KDE'nin 25. yıldönümünü birlikte kutlayalım! Buluşmalara katılın ve topluluk "
+"üyeleriyle tanışın, arkadaşlıklar kurun ve benzer ilgi konularına dalın. Hem "
+"çevrimiçi hem de canlı etkinlikler olacaktır. Berlin, Malaga, Barcelona "
+"Nürnberg veya Valencia'daki canlı etkinliklerden birine katılın veya kendi "
+"kentinizde kendi etkinliğinizi organize edip kahve veya içki ısmarlayın."
+
+#: i18n/en.yaml:0
+msgid "Find a meetup near you!"
+msgstr "Yanıbaşınızda bir buluşma bulun!"
+
+#: i18n/en.yaml:0
+msgid "Reddit AMA"
+msgstr "Reddit AMA"
+
+#: i18n/en.yaml:0
+msgid ""
+"Nate Graham (developer and author of _This Week in KDE_), Aleix Pol "
+"(President of KDE), and Lydia Pintscher (Vice President) will be answering "
+"all your questions on [Reddit](https://reddit.com/r/kde) live on Sunday, "
+"October 17th at 16:00 UTC. Don't miss it!"
+msgstr ""
+"Nate Graham (geliştirici ve _KDE'de bu hafta_ yazılarının yazarı), Aleix Pol "
+"(KDE Başkanı) ve Lydia Pintscher (İkinci Başkan); 17 Ekim Pazar günü tüm "
+"sorularınızı [Reddit](https://reddit.com/r/kde)'te canlı olarak "
+"yanıtlayacak. Kaçırmayın!"
+
+#: i18n/en.yaml:0
+msgid ""
+"But you can still visit [KDE's subreddit](https://reddit.com/r/kde) and "
+"receive up to date news, interact with KDE contributors, and participate in "
+"lively discussions!"
+msgstr ""
+"[KDE'nin subreddit](https://reddit.com/r/kde)'ini ziyaret ederek güncel "
+"haberleri alabilir, KDE katkıcılarıyla etkileşimde bulunabilir ve canlı "
+"tartışmalara katılabilirsiniz!"
+
+#: i18n/en.yaml:0
+msgid "Visit r/kde"
+msgstr "r/kde'yi Ziyaret Et"
+
+#: i18n/en.yaml:0
+msgid "Plasma - 25th Anniversary Edition"
+msgstr "Plasma - 25. Yıldönümü Sürümü"
+
+#: i18n/en.yaml:0
+msgid ""
+"<p>In time to celebrate KDE's birthday, Plasma renews its looks performance "
+"and speed. You get a new wallpaper, an updated theme, extra speed, increased "
+"reliability and new features.</p>\n"
+"<p>Find out about all the details that make the new Plasma so deserving of "
+"this 25th Anniversary on <a href='https://kde.org/announcements/"
+"plasma/5/5.23.0/'>the release's announcement page</a>.</p>"
+msgstr ""
+"<p>KDE'nin doğum günüyle eşzamanlı olarak, Plasma görünümünü ve hızını "
+"yeniliyor. Yeni bir duvar kağıdı, güncellenmiş bir tema, ekstra hız, "
+"artırılmış güvenilirlik ve yeni özellikler.</p>\n"
+"<p><a href='https://kde.org/announcements/plasma/5/5.23.0/'>Sürüm duyurusu</"
+"a> sayfasından, Plasma'yı bu 25. yıldönümünde bu kadar alımlı kılan nedir "
+"öğrenebilirsiniz.</p>"
+
+#: i18n/en.yaml:0
+msgid "See Announcement"
+msgstr "Duyuruyu Gör"
+
+#: i18n/en.yaml:0
+msgid "The History of KDE"
+msgstr "KDE'nin Geçmişi"
+
+#: i18n/en.yaml:0
+msgid ""
+"The history of KDE is a fascinating one. In this section, apart from "
+"learning about how things started (and how they are going), you will be able "
+"to see what things looked like as they evolved and actually test-drive some "
+"of KDE's most iconic desktops through the ages."
+msgstr ""
+"KDE'nin geçmişi gerçekten büyüleyici. Bu bölümde, hareketin nasıl "
+"başladığına ek olarak (ve nasıl gittiğine), eski zamanlarda masaüstünün "
+"nasıl göründüğünü ve nasıl evrimleştiğini görecek ve KDE'nin bu tarihsel ve "
+"simgesel masaüstlerini deneme şansına erişeceksiniz."
+
+#: i18n/en.yaml:0
+msgid "Historic Desktops"
+msgstr "Tarihsel Masaüstleri"
+
+#: i18n/en.yaml:0
+msgid ""
+"Download and try historic versions of Plasma and KDE on easy to run virtual "
+"machines."
+msgstr ""
+"Plasma ve KDE'nin tarihsel sürümlerini indirin ve sanal makinelerde deneyin."
+
+#: i18n/en.yaml:0
+msgid "KDE 1: 1998 - 2000. Coming soon"
+msgstr "KDE 1: 1998 - 2000. Çok yakında"
+
+#: i18n/en.yaml:0
+msgid "KDE 2: 2000 - 2002. Coming soon"
+msgstr "KDE 2: 2000 - 2002. Çok yakında"
+
+#: i18n/en.yaml:0
+msgid "KDE 3: 2002 - 2008"
+msgstr "KDE 3: 2002 - 2008"
+
+#: i18n/en.yaml:0
+msgid "Plasma 4: 2008 - 2014"
+msgstr "Plasma 4: 2008 - 2014"
+
+#: i18n/en.yaml:0
+msgid "Plasma 5: 2014 - 2017"
+msgstr "Plasma 5: 2014 - 2017"
+
+#: i18n/en.yaml:0
+msgid "Instructions"
+msgstr "Yönergeler"
+
+#: i18n/en.yaml:0
+msgid ""
+"<ol> <li>Download and Install <a href='https://www.virtualbox.org/wiki/"
+"Downloads'>VirtualBox</a> on your computer</li> <li>Right-click on the icons "
+"below and choose <i>Save link as...</i> to download the VBox images to your "
+"computer</li> <li>Navigate to where you downloaded the images and click on "
+"them</li> <li>Choose to open them with VirtualBox</li> </ol>"
+msgstr ""
+"<ol> <li><a href='https://www.virtualbox.org/wiki/Downloads'>VirtualBox</"
+"a>'u bilgisayarınıza indirin ve kurun</li> <li>Simgelere sağ tıklayın ve "
+"VBox kalıplarını bilgisayarınıza indirmek için <i>Bağlantıyı farklı kaydet..."
+"</i>'i seçin</li> <li>Kalıpları indirdiğiniz konuma gidin ve açmak için "
+"tıklayın</li> <li>VirtualBox ile açmayı seçin</li> </ol>"
+
+#: i18n/en.yaml:0
+msgid "Credentials"
+msgstr "Kimlik Bilgileri"
+
+#: i18n/en.yaml:0
+msgid ""
+"<ul> <li><b>User name:</b> kde</li> <li><b>User Password:</b> kdeproject</"
+"li> <li><b>Root Password:</b> kdeproject</li> </ul> <p>VB images very kindly "
+"created by Hélio Castro.</p>"
+msgstr ""
+"<ul> <li><b>Kullanıcı adı:</b> kde</li> <li><b>Kullanıcı parolası:</b> "
+"kdeproject</li> <li><b>Kök parolası:</b> kdeproject</li> </ul> <p>VBox "
+"kalıpları için Hélio Castro'ya teşekkür ederiz.</p>"
+
+#: i18n/en.yaml:0
+msgid "The KDE Timeline"
+msgstr "KDE Zaman Akışı"
+
+#: i18n/en.yaml:0
+msgid ""
+"<p>As is well known, the Universe was born 14 billion years ago. Then "
+"nothing much happened until KDE popped into existence on the 14th of October "
+"of 1996... That's when stuff really kicked off.</p>\n"
+"<p>Delve deep into KDE's history at our updated KDE Timeline.</p>"
+msgstr ""
+"<p>Yaygınca bilindiği üzere, Evren 14 milyar yıl önce doğdu. Sonrasında, 14 "
+"Ekim 1996 tarihinde KDE doğana kadar pek bir şey olmadı. Sonrasını "
+"biliyorsunuz.</p>\n"
+"<p>Güncellenmiş KDE Zaman Akışı ile KDE'nin geçmişine bir dalın.</p>"
+
+#: i18n/en.yaml:0
+msgid "Visit the timeline"
+msgstr "Zaman akışını ziyaret et"
+
+#: i18n/en.yaml:0
+msgid "Gallery"
+msgstr "Galeri"
+
+#: i18n/en.yaml:0
+msgid "Check out what things were like across the 25 years of KDE's existence."
+msgstr "KDE'nin 25 yıllık varlığı boyunca ortalık nasıldı bir bakın."
+
+#: i18n/en.yaml:0
+msgid ""
+"Have you got pictures or videos of the KDE Community you would like to show "
+"the world? <a href='mailto:press@kde.org'>Write to us!</a> We'd love to "
+"display your contribution in our gallery!"
+msgstr ""
+"Dünyanın geri kalanına göstermek istediğiniz KDE Topluluğu fotoğraflarınız "
+"mı var? <a href='mailto:press@kde.org'>Bize yazın!</a> Galerimize "
+"yapacağınız katkıları dört gözle bekliyoruz!"
+
+#: i18n/en.yaml:0
+msgid "Right click on an image to see a bigger version."
+msgstr "Daha büyük bir sürümü görmek için görselin üzerine sağ tıklayın."
+
+#: i18n/en.yaml:0
+msgid ""
+"The first version of KDE, KDE 1.0, running here on Mandrake Linux - 1996. "
+"Thanks to Manuel Alberto  Ascencio Ramirez."
+msgstr ""
+"KDE'nin ilk sürümü, KDE 1.0, Mandrake Linux üzerinde çalışırken - 1996. "
+"Manuel Alberto Ascencio Ramirez'e teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"'KDE One', probably the first KDE event. Held in Arnsberg, Germany in 1997"
+msgstr ""
+"'KDE One', bilinen ilk KDE etkinliği. Almanya'nın Arnsberg kentinde 1997 "
+"yılında gerçekleştirildi"
+
+#: i18n/en.yaml:0
+msgid "The 'KDE Two' event was held in Erlangen, Germany, in 1999"
+msgstr ""
+"'KDE Two' etkinliği, Almanya'nın Erlangen kentinde 1999 yılında gerçekleşti"
+
+#: i18n/en.yaml:0
+msgid "Konqi made his debut in 1999"
+msgstr "Konqi, 1999 yılında ortaya çıktı"
+
+#: i18n/en.yaml:0
+msgid ""
+"Initial release of KDE 3 on SuSE - 2002. Thanks to Manuel Alberto Ascencio "
+"Ramirez."
+msgstr ""
+"KDE 3'ün ilk çıkışı, SuSE üzerinde; 2002. Manuel Alberto Ascencio Ramirez'e "
+"teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"Jimmy Wales, founder of Wikipedia, and Matthias Ettrich, founder of KDE, in "
+"2005"
+msgstr ""
+"Vikipedi kurucusu Jimmy Wales ve KDE kurucusu Matthias Ettrich, 2005 yılı"
+
+#: i18n/en.yaml:0
+msgid "Amarok Dev Sprint 2007"
+msgstr "Amarok Geliştirici Hız Koşusu 2007"
+
+#: i18n/en.yaml:0
+msgid ""
+"Initial release of KDE 4 on Kubuntu - 2008. Thanks to Manuel Alberto "
+"Ascencio Ramirez."
+msgstr ""
+"KDE 4'ün ilk çıkışı, SuSE üzerinde; 2008. Manuel Alberto Ascencio Ramirez'e "
+"teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"Akademy 2010 in Bilbao, Spain. [Source](https://www.flickr.com/photos/"
+"palazio/4595340538/). Thanks Gorka Palazio."
+msgstr ""
+"Akademy 2010, İspanya'nın Bilbao kenti. [Kaynak](https://www.flickr.com/"
+"photos/palazio/4595340538/). Gorka Palazio'ya teşekkürler."
+
+#: i18n/en.yaml:0
+msgid "Plasma Sprint 2015"
+msgstr "Plasma Hız Koşusu 2015"
+
+#: i18n/en.yaml:0
+msgid "conf.kde.in 2015"
+msgstr "conf.kde.in 2015"
+
+#: i18n/en.yaml:0
+msgid "LAkademy 2015"
+msgstr "LAkademy 2015"
+
+#: i18n/en.yaml:0
+msgid "QtCon 2016 in Berlin, Germany."
+msgstr "Almanya'nın Berlin kentinde yapılan QtCon 2016."
+
+#: i18n/en.yaml:0
+msgid "1st (very successful) online Akademy (2020)"
+msgstr "1. (pek başarılı) çevrimiçi Akademy (2020)"
+
+#: i18n/en.yaml:0
+msgid "KDE in the Wild"
+msgstr "Ortalıkta KDE"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE's desktop and its applications have popped up in quite a few weird "
+"places over the years. From the _Hadron Collider_ to _Heroes_, KDE has made "
+"its way into all sorts of industries, organizations, films and TV shows. "
+"Here are just a few of KDE's most notable star moments:"
+msgstr ""
+"KDE'nin masaüstü ve uygulamaları, yıllar boyunca birçok beklenmedik yerde "
+"karşımızı çıktı. _Hadron Çarpıştırıcısı_'ndan _Heroes_ dizisine kadar, KDE, "
+"her türden endüstri, organizasyon, film ve televizyon dizisine girmeyi "
+"başardı. Aşağıda KDE'nin yıldızının parladığı birkaç örneği görebilirsiniz:"
+
+#: i18n/en.yaml:0
+msgid ""
+"Have you seen other instances of KDE running in an interesting place or on a "
+"TV show or in a movie? <a href='mailto:press@kde.org'>Let us know</a>! If "
+"possible, send us a pic too, so we can share it with the rest of the world."
+msgstr ""
+"KDE'yi bir TV dizisinde, filmde veya başka bir ilgi çekebilecek yerde "
+"gördünüz mü? <a href='mailto:press@kde.org'>Bize haber verin</a>! Eğer "
+"olanaklıysa bize bir fotoğraf da gönderin ki dünyanın geri kalanıyla "
+"paylaşabilelim."
+
+#: i18n/en.yaml:0
+msgid ""
+"2018 - KDE 4 at [LIGO Hanford Observatory](https://www.ligo.caltech.edu/WA) "
+"(big screen). [Source](https://twitter.com/LIGOWA/"
+"status/1068552370013913089). Thanks Tóth Bálint."
+msgstr ""
+"2018 - [LIGO Hanford Gözlemevinde](https://www.ligo.caltech.edu/WA) KDE 4 "
+"(büyük ekran). [Kaynak](https://twitter.com/LIGOWA/"
+"status/1068552370013913089). Tóth Bálint'e teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"2019 - The first images from Mars sent by NASA's InSight lander were "
+"displayed to the world using KDE 4. Image courtesy of NASA."
+msgstr ""
+"2019 - NASA'nın InSight yer aracından Dünya'ya gönderilen ilk görseller, KDE "
+"4 kullanılarak görüntülendi. Görsel telifi NASA'ya aittir."
+
+#: i18n/en.yaml:0
+msgid ""
+"2019 - In the ALBA Synchrotron, located near Barcelona, Spain, they shoot "
+"electrons along an accelerator to produce light for studies in different "
+"fields. Photo by Sergi Blanch-Torné. [Source](https://dot.kde.org/2019/07/19/"
+"powered-plasma-alba-synchrotron-barcelona-spain)."
+msgstr ""
+"2019 - İspanya'nın Barcelona kentinin yakınlarında bulunan ALBA "
+"Sinkronoton'unda, farklı alanlarda çalışmalar yapmak için bir "
+"ivmelendiricinin içinde elektronlar fırlatıyorlar. Sergi Blanch-Torné "
+"tarafından fotoğraflandı. [Kaynak](https://dot.kde.org/2019/07/19/powered-"
+"plasma-alba-synchrotron-barcelona-spain)."
+
+#: i18n/en.yaml:0
+msgid ""
+"2014 - Plasma is used extensively throughout CERN, the place where the World "
+"Wide Web and the Large Hadron Collider were born. In this case, we see KDE 4 "
+"being used at a control station for a particle accelerator at Adlershof "
+"Technology Park, Germany. Photo courtesy of Thomas Weissel."
+msgstr ""
+"2014 - Plasma, World Wide Web ve Büyük Hadron Çarpıştırıcısının doğum yeri "
+"olan CERN'de yaygın olarak kullanılıyor. Bu fotoğrafta, Almanya'da bulunan "
+"Adlershorf Teknoloji Parkı'ndaki bir denetim istasyonunda KDE 4 "
+"kullanılırken görüyoruz. Thomas Weissel tarafından fotoğraflandı."
+
+#: i18n/en.yaml:0
+msgid ""
+"2021 - NERC's Space Geodesy Facility fires lasers at satellites to check "
+"their position to a high degree of precision. Scientists use a wide range of "
+"KDE software products on their workstations, including Plasma and Konsole. "
+"[Source](https://youtu.be/vdvIY0CJaXw)."
+msgstr ""
+"2021 - NERC'in Uzay Yer Bilimi Tesisi'nde, uyduların konumunun büyük bir "
+"kesinlikle belirlemek için lazer atışları yapılıyor. Bilimciler, çalışma "
+"istasyonlarında KDE yazılımlarından genişçe bir demet kullanıyorlar. [Kaynak]"
+"(https://youtu.be/vdvIY0CJaXw)."
+
+#: i18n/en.yaml:0
+msgid ""
+"2017 - KDE's software, including the Plasma desktop, is used extensively "
+"throughout Kerala's educational system and is preinstalled on laptops pupils "
+"use. [Source](https://kite.kerala.gov.in/KITE/index.php/welcome/"
+"gallery_view/15)."
+msgstr ""
+"2017 - Plasma Masaüstü'nü de içeren KDE yazılımları, Kerala'nın eğitim "
+"sisteminde büyük oranda kullanılıyor ve öğrencilerin kullandığı dizüstü "
+"bilgisayarlarda önyüklü olarak geliyor. [Kaynak](https://kite.kerala.gov.in/"
+"KITE/index.php/welcome/gallery_view/15)."
+
+#: i18n/en.yaml:0
+msgid ""
+"2003 - The good guys (as long as you consider CIA operatives \"good\") got "
+"to use KDE 3.0 in _24_ and it helped them to correctly identify who is "
+"probably the busiest spy in the agency, one Mr Jack Bauer, as he entered the "
+"HQ in Season 3, Episode 1. Source: Netflix. Thanks Eike Hein."
+msgstr ""
+"2003 - CIA ajanları KDE 3.0'ı _24_ dizisinde kullandılar. Üçüncü sezon "
+"birinci bölümde, Jack Bauer binaya girerken bilgilerini denetliyorlar. "
+"Kaynak: Netflix. Eike Hein'e teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"2006 - The wildly popular series _Heroes_ showed a character using KDE 3 "
+"apps and themes (Kicker, KMenu applet, Kopete, KMix, Keramik) in an episode "
+"that featured an intense chat session. [Source and more pics](http://www."
+"eikehein.com/kde/heroes/). Thanks Eike Hein."
+msgstr ""
+"2006 - Zamanının en popüler dizilerinden _Heroes_, yoğun bir sohbet oturumu "
+"içeren bir bölümde KDE 3 uygulamalarını ve temalarını kullanan bir karakter "
+"gösteriyor (Kicker, KMenu applet, Kopete, KMix, Keramik). [Kaynak ve daha "
+"fazla fotoğraf](http://www.eikehein.com/kde/heroes/). Eike Hein'e "
+"teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"2006 - KDE 3 pops up again in the also popular, albeit darker, _Dexter_ in "
+"season 1, episode 8, running on the laptop of a dodgy psychiatrist. Source: "
+"Amazon Prime. Thanks Aaron Seigo."
+msgstr ""
+"2006 - KDE 3, yine popüler; ancak karanlık temalı dizilerden _Dexter_'ın "
+"birinci sezon sekizinci bölümünde ortaya çıkıyor. Bu kez bir psikiyatrin "
+"bilgisayarında. Kaynak: Amazon Prime. Aaron Seigo'ya teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"2013 - Alfonso Cuarón's smash hit movie _Gravity_, starring Sandra Bullock "
+"and George Clooney, may have had wonky physics, but its visual production "
+"was impeccable, thanks, in part, to Plasma 4, seen here running the software "
+"used by the visual effects artists. [Source and more pics](https://blogs.kde."
+"org/2014/02/09/kde-plasma-movies). Thanks Eike Hein."
+msgstr ""
+"2013 - Alfonso Cuarón'nun Sandra Bullock ve George Clooney'in başrollerini "
+"paylaştığı _Gravity_ adlı filminde çarpıtılmış fizik konuları yer alıyor "
+"olabilir; ancak görsel prodüksiyonu kesinlikle muhteşemdi. Bunun bir "
+"kısmında görsel efekt sanatçılarının kullandığı KDE ve Plasma 4'ün yardımı "
+"büyüktü. [Kaynak ve daha fazla fotoğraf](https://blogs.kde.org/2014/02/09/"
+"kde-plasma-movies). Eike Hein'e teşekkürler."
+
+#: i18n/en.yaml:0
+msgid ""
+"2014 - Weta Digital's animation unit used KDE Plasma to produce motion "
+"capture for The Hobbit: The Desolation of Smaug. Next time you see some "
+"dwarves rolling down the river you can be assured that the smooth animation "
+"was done with Plasma 4. [Source](https://youtu.be/U_usC2EQcDo)."
+msgstr ""
+"2014 - Weta Digital'in canlandırma birimi, Hobbit: Smaug'un Çorak Toprakları "
+"filmi için hareket yakalamada KDE Plasma'yı kullandılar. Bir sonraki "
+"ırmaktan yuvarlanan cüceler gördüğünüzde, pürüzsüz canlandırmanın Plasma 4 "
+"ile yapıldığını aklınıza getirin. [Kaynak](https://youtu.be/U_usC2EQcDo)."
+
+#: i18n/en.yaml:0
+msgid ""
+"2019 - From Middle Earth to Pandora: KDE's Plasma desktop and tools were "
+"also used during the filming of James Cameron's _Avatar_. [Source](https://"
+"youtu.be/bibZyMjY2K4?t=1975)."
+msgstr ""
+"2019 - Orta Dünya'dan Pandora'ya: KDE'nin Plasma masaüstü ve araçları, James "
+"Cameron'un _Avatar_ filminin çekimleri sırasında kullanıldı. [Kaynak]"
+"(https://youtu.be/bibZyMjY2K4?t=1975)."
+
+#: i18n/en.yaml:0
+msgid "Support KDE!"
+msgstr "KDE'yi destekle"
+
+#: i18n/en.yaml:0
+msgid ""
+"<p>Like many Free Software projects, at KDE we rely on volunteers and "
+"donations to carry out our work. Volunteers develop, contribute media, "
+"translate, promote, and help implement KDE software. Donations help us with "
+"all the operational costs of running a non-profit with thousands of members."
+"</p>\n"
+"<p>You can find out how volunteers work together and monetary resources are "
+"allocated by taking a look at our <a href='https://ev.kde.org/"
+"reports/'>yearly reports</a>.</p>\n"
+"<p>You can contribute too! Here are some ways you can help us:</p>"
+msgstr ""
+"<p>Birçok Özgür Yazılım projesi gibi, KDE de misyonunu gerçekleştirebilmek "
+"için gönüllülerin çalışmalarına ve bağışlarına gereksinim duyuyor. "
+"Gönüllüler; geliştirme, ortam katkısı, çeviri, promosyon ve KDE "
+"uygulamalarını dağıtmada katkı sağlarken, bağışlar da binlerce üyesi olan "
+"bir kâr amacı gütmeyen kuruluşun tüm operasyonsal masraflarını karşılamamıza "
+"yardımcı oluyor.</p>\n"
+"<p><a href='https://ev.kde.org/reports/'>Yıllık raporlarımıza</a> bakarak "
+"gönüllülerin nice birlikte çalıştığını ve parasal kaynakların nerelere "
+"gittiğini öğrenebilirsiniz.</p>\n"
+"<p>İsterseniz katkıda da bulunabilirsiniz. Bize yardımcı olabileceğiniz "
+"birkaç yol:</p>"
+
+#: i18n/en.yaml:0
+msgid "\"25 for 25\" Fundraising Campaign"
+msgstr "\"25 için 25\" Bağış Toplama Kampanyası"
+
+#: i18n/en.yaml:0
+msgid ""
+"For our 25th Anniversary, we are running a special _25 for 25_ fundraising "
+"campaign! Show your ❤️‍for KDE by donating $ 25 or € 25!"
+msgstr ""
+"25. yıldönümümüz için, özel bir _25'e 25_ para toplama kampanyası "
+"düzenliyoruz. KDE'ye olan sevginizi $25 veya 25 € bağışta bulunarak gösterin!"
+
+#: i18n/en.yaml:0
+msgid "Donate 25 for 25"
+msgstr "25'e 25 bağış yap"
+
+#: i18n/en.yaml:0
+msgid "Donations"
+msgstr "Bağışlar"
+
+#: i18n/en.yaml:0
+msgid ""
+"You can <a href='https://kde.org/community/donations/'>make a donation of "
+"the quantity of your choice</a> or become a <a href='https://relate.kde."
+"org/'>KDE Supporting Member</a> and donate a yearly amount to KDE. Every bit "
+"helps!"
+msgstr ""
+"İstediğiniz bir tutarı <a href='https://kde.org/community/donations/'>bağış "
+"yapabilir</a> veya <a href='https://relate.kde.org/'>KDE Destekleyen Üye</a> "
+"olarak düzenli bir tutarı yıllık olarak bağışta bulunabilirsiniz. Her bir "
+"kuruşun yardımı büyüktür!"
+
+#: i18n/en.yaml:0
+msgid "Donate"
+msgstr "Bağış yap"
+
+#: i18n/en.yaml:0
+msgid "Over the years more than<br><strong>7000 Kontributors</strong> joined"
+msgstr "Yıllar boyunca <br><strong>7000'den fazla katkıcı</strong> katıldı"
+
+#: i18n/en.yaml:0
+msgid "Learn how to get involved"
+msgstr "Nasıl yardımda bulunabileceğinizi öğrenin"
+
+#: i18n/en.yaml:0
+msgid "25 Ways to Contribute"
+msgstr "Katkıda Bulunmanın 25 Yolu"
+
+#: i18n/en.yaml:0
+msgid ""
+"<p>Becoming a KDE volunteer keeps the Community and our software alive. To "
+"celebrate KDE's 25th anniversary, we have compiled a list of 25 things you "
+"can do for KDE and Nate Graham has turned the list into <a href='https://"
+"pointieststick.com/2021/10/13/25-ways-you-can-contribute-to-kde/'>an "
+"entertaining and informative article</a> with tons of links to resources.</p>"
+msgstr ""
+"<p>Bir KDE gönüllüsü olmak, topluluğumuzu ve yazılımlarımızı ayakta tutmaya "
+"yardımcı olur. KDE'nin 25. yıldönümünü kutlamak için, KDE için "
+"yapabileceğiniz 25 şeyin bir listesini hazırladık ve Nate Graham bu listeyi, "
+"tonlarca özkaynak bağlantıları da içeren <a href='https://pointieststick."
+"com/2021/10/13/25-ways-you-can-contribute-to-kde/'>eğlendiren ve bilgi veren "
+"bir infografik makaleye dönüştürdü</a>.</p>"
+
+#: i18n/en.yaml:0
+msgid ""
+"<p>This is a brief summary:</p>\n"
+"<ol> <li>Application development</li> <li>Web development</li> <li>Software "
+"testing</li> <li><a href='https://bugs.kde.org'>Bug reporting</a></li> "
+"<li>Bug triaging</li> <li>Sending code fixes and new features</li> "
+"<li>Enabling <I>User Feedback</I> for Plasma on <I>System Settings</I></li> "
+"<li><a href='https://community.kde.org/Get_Involved/"
+"translation'>Translating</a></li> <li><a href='https://community.kde.org/"
+"Get_Involved/design'>Visual designing</a></li> <li><a href='https://t.me/"
+"kdeusability'>User experience (UX) designing</a></li> <li><a href='https://"
+"community.kde.org/Promo'>Promoting and doing marketing</a></li> <li>Working "
+"on tasks on <a href='https://phabricator.kde.org'>KDE's Phabricator</a></li> "
+"<li>Producing and editing videos for KDE's social media accounts</li> "
+"<li>Writing and updating documentation and manuals</li> <li>Writing <a "
+"href='https://community.kde.org/Main_Page'>wiki articles</a></li> "
+"<li>Organizing events</li> <li>Participating in events</li> <li>Answering "
+"users' questions on the <a href='https://forum.kde.org'>forum</a> or <a "
+"href='https://www.reddit.com/r/kde/'>Reddit</a></li> <li>Promoting KDE in "
+"your local community/school/business/family</li> <li>Evangelizing about KDE "
+"on the Internet</li> <li>Following, sharing and interacting with posts on "
+"KDE's social media: <ul> <li><a href='https://www.facebook.com/"
+"kde'>Facebook</a></li> <li><a href='https://www.linkedin.com/company/"
+"kde/'>LinkedIn</a> </li> <li><a href='https://twitter.com/kdecommunity'>KDE "
+"Community Twitter</a></li> <li><a href='https://twitter.com/Akademy'>Akademy "
+"Twitter</a></li> <li><a href='https://www.instagram.com/"
+"kdecommunity/'>Instagram</a></li> <li><a href='https://tube.kockatoo.org/a/"
+"kde_community/'>PeerTube</a></li> <li><a href='https://www.youtube.com/c/"
+"KdeOrg/videos'>YouTube</a></li> <li><a href='https://vk.com/kde_ru'>VK</a></"
+"li> <li><a href='https://joindiaspora.com/u/kdecommunity'>Diaspora</a></li> "
+"<li><a href='https://mastodon.technology/@kde'>Mastodon</a></li> </ul> "
+"<li>Sharing links pointing to KDE websites and social media on other "
+"platforms</li> <li>Writing posts or making videos about KDE for your "
+"personal blog post, social media and YouTube/PeerTube channels</li> "
+"<li>Using <a href='https://apps.kde.org'>KDE software</a></li> <li>Packaging "
+"KDE software for your distro/app store</li> </ol>"
+msgstr ""
+"<p>Kısa bir özet için:</p>\n"
+"<ol> <li>Uygulama geliştirme</li> <li>Web geliştirmesi</li> <li>Yazılım "
+"sınama</li> <li><a href='https://bugs.kde.org'>Hata bildirme</a></li> "
+"<li>Hata triyajı</li> <li>Kod düzeltmeleri ve yeni özellikler ekleme</li> "
+"<li><I>Sistem Ayarları</I>'nda Plasma için <I>Kullanıcı Geri Bildirimi</"
+"I>'ni etkinleştirme</li> <li><a href='https://community.kde.org/Get_Involved/"
+"translation'>Çeviri</a></li> <li><a href='https://community.kde.org/"
+"Get_Involved/design'>Görsel tasarım</a></li> <li><a href='https://t.me/"
+"kdeusability'>Kullanıcı deneyimi (UX) tasarlama</a></li> <li><a "
+"href='https://community.kde.org/Promo'>Promosyon ve pazarlama</a></li> "
+"<li><a href='https://phabricator.kde.org'>KDE's Phabricator</a>'undaki "
+"görevleri tamamlama</li> <li>KDE'nin sosyal medya hesapları için videolar "
+"üretme</li> <li>Kılavuzları ve belgelendirmeyi güncelleme ve yeni yazma</li> "
+"<li><a href='https://community.kde.org/Main_Page'>Viki makaleleri</a> yazma</"
+"li> <li>Etkinlikler düzenleme</li> <li>Etkinliklere katılma</li> <li><a "
+"href='https://forum.kde.org'>Forum</a>'da veya<a href='https://www.reddit."
+"com/r/kde/'>Reddit</a>'te kullanıcı sorularını yanıtlama</li> <li>Yerel "
+"topluluğunuzda/okulunuzda/iş ortamınızda KDE'yi tanıtma</li> <li>İnternette "
+"KDE misyonerliği yapma</li> <li>KDE sosyal medya hesaplarının gönderilerini "
+"takip etme, paylaşma ve etkileşimde bulunma: <ul> <li><a href='https://www."
+"facebook.com/kde'>Facebook</a></li> <li><a href='https://www.linkedin.com/"
+"company/kde/'>LinkedIn</a> </li> <li><a href='https://twitter.com/"
+"kdecommunity'>KDE Topluluğu Twitter</a></li> <li><a href='https://twitter."
+"com/Akademy'>Akademy Twitter</a></li> <li><a href='https://www.instagram.com/"
+"kdecommunity/'>Instagram</a></li> <li><a href='https://tube.kockatoo.org/a/"
+"kde_community/'>PeerTube</a></li> <li><a href='https://www.youtube.com/c/"
+"KdeOrg/videos'>YouTube</a></li> <li><a href='https://vk.com/kde_ru'>VK</a></"
+"li> <li><a href='https://joindiaspora.com/u/kdecommunity'>Diaspora</a></li> "
+"<li><a href='https://mastodon.technology/@kde'>Mastodon</a></li> </ul> "
+"<li>KDE web siteleri ve sosyal medya hesaplarının bağlantılarını paylaşma</"
+"li> <li>Kişisel ağ günlüğünüzde, sosyal medyanızda veya YouTube/PeerTube "
+"hesaplarınızda yazılar yazmak veya videolar üretmek</li> <li><a "
+"href='https://apps.kde.org'>KDE yazılımları</a> kullanmak</li> "
+"<li>Dağıtımınız veya uygulama mağazanız için uygulamalar paketlemek</li> </"
+"ol>"
+
+#: i18n/en.yaml:0
+msgid "Companies"
+msgstr "Şirketler"
+
+#: i18n/en.yaml:0
+msgid ""
+"Are you a manager in a company that finds our work useful? Let's develop "
+"better code together! Many companies encourage their developers to "
+"contribute to KDE's software. You can too."
+msgstr ""
+"Çalışmalarımızı yararlı bulan bir şirkette yönetici misiniz? Birlikte daha "
+"yararlı kodlar yazalım. Birçok şirket, geliştiricilerine KDE yazılımlarına "
+"katkıda bulunmaları için telkinde bulunuyor. Siz de yapabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Get in touch"
+msgstr "İletişime geç"
+
+#: i18n/en.yaml:0
+msgid ""
+"You can also sponsor our activities or, better yet, become <a href='https://"
+"ev.kde.org/getinvolved/supporting-members/'>a KDE patron</a>!"
+msgstr ""
+"Etkinliklerimize sponsor olabilir veya daha da iyisi, bir <a href='https://"
+"ev.kde.org/getinvolved/supporting-members/'>a KDE düzenli bağışçısı "
+"olabilirsiniz</a>!"
+
+#: i18n/en.yaml:0
+msgid "Merch!"
+msgstr "Ürünler!"
+
+#: i18n/en.yaml:0
+msgid ""
+"Celebrate the occasion with KDE 25th Anniversary T-shirts and stickers! "
+"Remember: Freewear donates to KDE with every purchase."
+msgstr ""
+"KDE'nin 25. yıldönümü tişörtlerini ve yapışkanlarını satın alarak kutlayın! "
+"Unutmayın: Freewear, her bir satıştan KDE'ye bağışta bulunur."
+
+#: i18n/en.yaml:0
+msgid "Fitted T-shirt"
+msgstr "Kalıplı Tişört"
+
+#: i18n/en.yaml:0
+msgid "Non-fitted T-shirt"
+msgstr "Kalıpsız Tişört"
+
+#: i18n/en.yaml:0
+msgid "Stickers"
+msgstr "Yapışkanlar"
+
+#: i18n/en.yaml:0
+msgid "Visit Freewear"
+msgstr "Freewear'ı ziyaret et"
+
+#~ msgid "Celebrate with us 25 years of awesomeness"
+#~ msgstr "25 yıllık mükemmelliği bizlerle paylaşın"

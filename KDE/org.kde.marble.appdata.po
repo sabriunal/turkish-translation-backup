@@ -1,0 +1,71 @@
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Volkan Gezer <volkangezer@gmail.com>, 2017.
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-29 00:14+0000\n"
+"PO-Revision-Date: 2023-01-18 22:32+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#. (itstool) path: component/name
+#: org.kde.marble.appdata.xml:10
+msgid "Marble"
+msgstr "Marble"
+
+#. (itstool) path: component/summary
+#: org.kde.marble.appdata.xml:11
+msgid "Virtual Globe"
+msgstr "Sanal Küre"
+
+#. (itstool) path: description/p
+#: org.kde.marble.appdata.xml:13
+msgid ""
+"Marble is a virtual globe and world atlas — your swiss army knife for maps "
+"that you can use to learn more about the Earth and other planets."
+msgstr ""
+"Marble bir sanal küre ve dünya atlasıdır — haritaların İsviçre çakısıdır. "
+"Dünya ve diğer gezegenler hakkında bir sürü yeni şey öğrenebilirsiniz."
+
+#. (itstool) path: description/p
+#: org.kde.marble.appdata.xml:14
+msgid ""
+"Explore the neighborhood with Marble's rich set of city and street level "
+"maps. Search for addresses and places of interest. Marble takes care of "
+"querying various search backends and presents their results in a unified "
+"view. Calculate pedestrian, bike and motorcar routes with ease — online and "
+"offline, with an arbitrary number of via points."
+msgstr ""
+"Marble'ın zengin şehir ve cadde düzeyindeki haritaları ile çevreyi "
+"inceleyin. Adresleri ve ilginizi çeken yerleri arayın. Marble, çeşitli arama "
+"arka uçlarıyla sorgulamaları ve birleşik bir görünüm ile kendi sonuçlarını "
+"göstermektedir. Çevrimiçi ve çevrimdışı şekilde, yaya, bisiklet ve motorlu "
+"taşıt rotalarını kolayca hesaplar."
+
+#. (itstool) path: description/p
+#: org.kde.marble.appdata.xml:15
+msgid ""
+"Start exploring the world. View clouds and sun shadow, follow satellites and "
+"space stations and display their orbits, all updated in real-time. Travel "
+"back in time and learn about historic views of our planet using maps from "
+"past centuries. Earth is not enough? Marble also offers maps of the moon and "
+"other planets."
+msgstr ""
+"Dünyayı incelemeye başlayın. Bulutları ve güneş gölgelerini görün, uyduları "
+"ve uzay istasyonlarını takip edin, ayrıca yörüngelerini de gerçek zamanlı "
+"takip edebilirsiniz. Geçmişe dönük yolculuk yapın ve geçmiş yüzyıllardan "
+"kullanılan haritalar ile gezegenimizin tarihsel görünümleri hakkında bilgi "
+"sahibi olun. Dünya yeterli değil mi? Marble ayrıca, ayın ve diğer "
+"gezegenlerin haritalarını da önerir."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.marble.appdata.xml:24
+msgid "Earth globe in Marble"
+msgstr "Marble'da Yerküre"

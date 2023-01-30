@@ -1,0 +1,345 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-13 00:57+0000\n"
+"PO-Revision-Date: 2022-04-17 17:49+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: examples/applets/bugreport/metadata.json
+#: examples/developerguide/basic/metadata.json
+msgctxt "Name"
+msgid "Bug"
+msgstr "Hata"
+
+#: examples/applets/compactrepresentation/metadata.json
+#: examples/applets/helloworld/metadata.json
+msgctxt "Name"
+msgid "hello world"
+msgstr "merhaba dünya"
+
+#: examples/applets/conditionalloader/metadata.json
+msgctxt "Name"
+msgid "Applet Test"
+msgstr "Uygulamacık Sınaması"
+
+#: examples/applets/config/metadata.json
+msgctxt "Name"
+msgid "Configuration test"
+msgstr "Yapılandırma Sınaması"
+
+#: examples/applets/dataenginemodel/metadata.json
+msgctxt "Name"
+msgid "Dataengine model"
+msgstr "Veri motoru modeli"
+
+#: examples/applets/notes/metadata.json
+msgctxt "Name"
+msgid "Example notes"
+msgstr "Örnek notlar"
+
+#: examples/applets/nowplaying/metadata.json
+msgctxt "Name"
+msgid "Now playing (QML)"
+msgstr "Şimdi oynatılıyor (QML)"
+
+#: examples/applets/qmltasks/metadata.json
+msgctxt "Name"
+msgid "Poor Man's Tasks"
+msgstr "Yoksul Adamın Görevleri"
+
+#: examples/applets/samegame/metadata.json
+msgctxt "Name"
+msgid "Same game (QML)"
+msgstr "Aynı oyun (QML)"
+
+#: examples/applets/testcomponents/metadata.json
+msgctxt "Name"
+msgid "Components Test"
+msgstr "Bileşenler Sınaması"
+
+#: examples/applets/testshaders/metadata.json
+msgctxt "Name"
+msgid "Shader Test"
+msgstr "Gölgelendirici Sınaması"
+
+#: examples/applets/testtheme/metadata.json
+msgctxt "Name"
+msgid "Theme Test"
+msgstr "Tema Sınaması"
+
+#: examples/applets/widgetgallery/metadata.json
+msgctxt "Name"
+msgid "Widgets gallery"
+msgstr "Araç takımları galerisi"
+
+#: examples/applets/windowthumbnails/metadata.json
+msgctxt "Name"
+msgid "Example window thumbnails list"
+msgstr "Örnek pencere küçük görseller listesi"
+
+#: examples/containments/testcontainment/metadata.json
+msgctxt "Name"
+msgid "Containment Test"
+msgstr "Kapsama Sınaması"
+
+#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.json
+msgctxt "Name"
+msgid "Custom DataContainers"
+msgstr "Özel DataContainer'lar"
+
+#: examples/dataengines/simpleEngine/plasma-dataengine-example-simpleEngine.json
+msgctxt "Name"
+msgid "Simple DataEngine Example"
+msgstr "Yalın DataEngine Örneği"
+
+#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.json
+msgctxt "Name"
+msgid "Sources On Request"
+msgstr "İsteğe Bağlı Kaynaklar"
+
+#: examples/wallpapers/autumn/metadata.json
+msgctxt "Name"
+msgid "Autumn"
+msgstr "Güz"
+
+#: src/desktoptheme/air/metadata.json.cmake
+msgctxt "Name"
+msgid "Air"
+msgstr "Hava"
+
+#: src/desktoptheme/breeze-dark/metadata.json.cmake
+msgctxt "Name"
+msgid "Breeze Dark"
+msgstr "Esinti Koyu"
+
+#: src/desktoptheme/breeze-light/metadata.json.cmake
+msgctxt "Name"
+msgid "Breeze Light"
+msgstr "Esinti Açık"
+
+#: src/desktoptheme/breeze/metadata.json.cmake
+msgctxt "Name"
+msgid "Breeze"
+msgstr "Esinti"
+
+#: src/desktoptheme/oxygen/metadata.json.cmake
+msgctxt "Name"
+msgid "Oxygen"
+msgstr "Oksijen"
+
+#: src/plasma/packagestructure/plasma_containmentactions_packagestructure.json
+msgctxt "Name"
+msgid "Containment Actions"
+msgstr "Sınırlama Eylemleri"
+
+#: src/scriptengines/qml/plasma-scriptengine-applet-declarative.json
+msgctxt "Name"
+msgid "Declarative widget"
+msgstr "Bildirimsel araç takımları"
+
+#: templates/cpp-plasmoid/src/package/metadata.json
+#: templates/plasma-wallpaper/package/metadata.json
+#: templates/plasma-wallpaper-with-qml-extension/package/metadata.json
+#: templates/qml-plasmoid/package/metadata.json
+#: templates/qml-plasmoid-with-qml-extension/package/metadata.json
+msgctxt "Name"
+msgid "%{APPNAME}"
+msgstr "%{APPNAME}"
+
+#: examples/applets/bugreport/metadata.json
+msgctxt "Description"
+msgid "Report a bug in Plasma"
+msgstr "Plasma'daki bir hatayı bildirin"
+
+#: examples/applets/dataenginemodel/metadata.json
+msgctxt "Description"
+msgid "Example applet that shows how to use Models embedded in DataEngines"
+msgstr ""
+"DataEngines içinde gömülü modellerin nice kullanılacağını gösteren örnek "
+"uygulama"
+
+#: examples/applets/notes/metadata.json
+msgctxt "Description"
+msgid "Example on how to manage Drop data"
+msgstr "Bırakma verisinin nice yönetileceği üzerine örnek"
+
+#: examples/applets/nowplaying/metadata.json
+msgctxt "Description"
+msgid "A proof of concept media player controller qml"
+msgstr "Kavram kanıtlayıcı bir ortam oynatıcı denetimi qml"
+
+#: examples/applets/qmltasks/metadata.json
+msgctxt "Description"
+msgid "Example showing how to write your own tasks Widget"
+msgstr "Kendi görevler araç takımınızı nice yazabileceğiniz üzerine örnek"
+
+#: examples/applets/samegame/metadata.json
+msgctxt "Description"
+msgid "The Same game QML Qt demo converted as plasmoid"
+msgstr "Same oyunu QML Qt demosu, Plasmoid olarak"
+
+#: examples/applets/testshaders/metadata.json
+msgctxt "Description"
+msgid "Futzing with Visual Effects"
+msgstr "Görsel Efektlerle Oynaşma"
+
+#: examples/applets/widgetgallery/metadata.json
+msgctxt "Description"
+msgid "gallery of widgets done with Plasma QtComponents"
+msgstr "Plasma QtComponents ile yapılmış araç takımları galerisi"
+
+#: examples/applets/windowthumbnails/metadata.json
+msgctxt "Description"
+msgid "Example showing how to display window thumbnails"
+msgstr "Pencere küçük görsellerinin nice gösterileceğini anlatan örnek"
+
+#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.json
+msgctxt "Description"
+msgid "A demonstration of how to subclass DataContainer"
+msgstr "DataContainer'dan nice sınıf alınacağının gösterimi"
+
+#: examples/dataengines/simpleEngine/plasma-dataengine-example-simpleEngine.json
+msgctxt "Description"
+msgid "A very basic DataEngine implementation"
+msgstr "Pek yalın bir DataEngine oluşturumu"
+
+#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.json
+msgctxt "Description"
+msgid ""
+"A DataEngine example showing how to respond to requests for source creation "
+"and updates"
+msgstr ""
+"Kaynak oluşturumu ve güncellemeler için isteklere nice yanıt verileceğini "
+"gösteren bir DataEngine örneği"
+
+#: examples/developerguide/basic/metadata.json
+msgctxt "Description"
+msgid "Basic App"
+msgstr "Yalın Uygulama"
+
+#: src/desktoptheme/air/metadata.json.cmake
+msgctxt "Description"
+msgid "A breath of fresh air"
+msgstr "Temiz hava"
+
+#: src/desktoptheme/breeze-dark/metadata.json.cmake
+msgctxt "Description"
+msgid "Breeze Dark by the KDE VDG"
+msgstr "KDE VDG tarafından Esinti Koyu"
+
+#: src/desktoptheme/breeze-light/metadata.json.cmake
+msgctxt "Description"
+msgid "Breeze Light by the KDE VDG"
+msgstr "KDE VDG tarafından Esinti Açık"
+
+#: src/desktoptheme/breeze/metadata.json.cmake
+msgctxt "Description"
+msgid "Breeze by the KDE VDG"
+msgstr "KDE VDG tarafından Esinti"
+
+#: src/desktoptheme/oxygen/metadata.json.cmake
+msgctxt "Description"
+msgid "Theme done in the Oxygen style"
+msgstr "Oksijen tarzında yapılmış tema"
+
+#: src/scriptengines/qml/plasma-scriptengine-applet-declarative.json
+msgctxt "Description"
+msgid "Native Plasma widget written in QML and JavaScript"
+msgstr "QML ve JavaScript ile yazılmış yerel Plasma araç takımı"
+
+#: templates/cpp-plasmoid/src/package/metadata.json
+#: templates/qml-plasmoid/package/metadata.json
+#: templates/qml-plasmoid-with-qml-extension/package/metadata.json
+msgctxt "Description"
+msgid "what your app does in a few words"
+msgstr "uygulamanızı birkaç sözcükle anlatın"
+
+#: examples/applets/bugreport/metadata.json
+#: examples/applets/testcomponents/metadata.json
+#: examples/applets/testshaders/metadata.json
+#: examples/applets/testtheme/metadata.json
+#: examples/developerguide/basic/metadata.json
+#: examples/wallpapers/autumn/metadata.json
+msgctxt "Authors Name"
+msgid "Sebastian Kügler"
+msgstr "Sebastian Kügler"
+
+#: examples/applets/compactrepresentation/metadata.json
+#: examples/applets/conditionalloader/metadata.json
+#: examples/applets/config/metadata.json
+#: examples/applets/dataenginemodel/metadata.json
+#: examples/applets/helloworld/metadata.json
+#: examples/applets/notes/metadata.json
+#: examples/applets/nowplaying/metadata.json
+#: examples/applets/qmltasks/metadata.json
+#: examples/applets/samegame/metadata.json
+#: examples/applets/widgetgallery/metadata.json
+#: examples/applets/windowthumbnails/metadata.json
+#: examples/containments/testcontainment/metadata.json
+msgctxt "Authors Name"
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.json
+#: examples/dataengines/simpleEngine/plasma-dataengine-example-simpleEngine.json
+#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.json
+#: src/plasma/packagestructure/plasma_containmentactions_packagestructure.json
+msgctxt "Authors Name"
+msgid "Aaron Seigo"
+msgstr "Aaron Seigo"
+
+#: src/desktoptheme/air/metadata.json.cmake
+#: src/desktoptheme/oxygen/metadata.json.cmake
+msgctxt "Authors Name"
+msgid "The Oxygen Project"
+msgstr "Oksijen Projesi"
+
+#: src/desktoptheme/breeze-dark/metadata.json.cmake
+#: src/desktoptheme/breeze-light/metadata.json.cmake
+#: src/desktoptheme/breeze/metadata.json.cmake
+msgctxt "Authors Name"
+msgid "KDE Visual Design Group"
+msgstr "KDE Görsel Tasarım Grubu"
+
+#: src/scriptengines/qml/plasma-scriptengine-applet-declarative.json
+msgctxt "Authors Name"
+msgid "Alexis Menard"
+msgstr "Alexis Menard"
+
+#: templates/cpp-plasmoid/src/package/metadata.json
+#: templates/plasma-wallpaper/package/metadata.json
+#: templates/plasma-wallpaper-with-qml-extension/package/metadata.json
+#: templates/qml-plasmoid/package/metadata.json
+#: templates/qml-plasmoid-with-qml-extension/package/metadata.json
+msgctxt "Authors Name"
+msgid "%{AUTHOR}"
+msgstr "%{AUTHOR}"
+
+#~ msgctxt "Name"
+#~ msgid "Plasmoid"
+#~ msgstr "Plasmoid"
+
+#~ msgctxt "Name"
+#~ msgid "Data Engine"
+#~ msgstr "Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Generic"
+#~ msgstr "Genel"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Theme"
+#~ msgstr "Plasma Teması"
+
+#~ msgctxt "Authors Name"
+#~ msgid "Marco MArtin"
+#~ msgstr "Marco Martin"

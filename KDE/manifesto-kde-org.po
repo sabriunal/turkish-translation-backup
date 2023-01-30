@@ -1,0 +1,325 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-manifesto-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-09 00:54+0000\n"
+"PO-Revision-Date: 2022-08-29 12:54+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.0\n"
+
+#: config.yaml:0
+msgid "KDE Manifesto"
+msgstr "KDE Manifestosu"
+
+#: config.yaml:0
+msgid ""
+"We are a community of technologists, designers, writers and advocates who "
+"work to ensure freedom for all people through our software. These are our "
+"values and principles."
+msgstr ""
+"Biz, yazılımlarımız ile tüm kişilere özgürlüğü sağladığımızdan emin olmaya "
+"çalışan, teknoloji bağımlıları, tasarımcılar, yazarlar ve destekleyicilerden "
+"oluşan bir topluluğuz. Bunlar, bizim değerlerimiz ve ilkelerimizdir."
+
+#: content/_index.md:0
+msgid "The KDE Manifesto"
+msgstr "KDE Manifestosu"
+
+#: content/_index.md:4
+msgid ""
+"<div class=\"text\">We are a community of technologists, designers, writers "
+"and advocates who work to ensure freedom for all people through our "
+"software. Because of this work we have come to value:</div>\n"
+msgstr ""
+"<div class=\"text\">Biz, yazılımlarımız ile tüm kişilere özgürlüğü "
+"sağladığımızdan emin olmaya çalışan, teknoloji bağımlıları, tasarımcılar, "
+"yazarlar ve destekleyicilerden oluşan bir topluluğuz. Bu çalışma ile "
+"aşağıdakiler değerleri savunuyoruz:</div>\n"
+
+#: content/_index.md:6
+msgid ""
+"<span class=\"value\">Open Governance</span> to ensure engagement in our "
+"leadership and decision processes;"
+msgstr ""
+"<span class=\"value\">Açık Yönetim</span>, liderlik ve karar verme "
+"aşamalarında tam katılımı sağladığımızdan emin olmak için;"
+
+#: content/_index.md:8
+msgid ""
+"<span class=\"value\">Free Software</span> to ensure the result of our work "
+"is available to all people for all time;"
+msgstr ""
+"<span class=\"value\">Özgür Yazılım</span>, çalışmalarımızın sonucunun "
+"herkese, her zaman erişilebilir olduğundan emin olmak için;"
+
+#: content/_index.md:10
+msgid ""
+"<span class=\"value\">Inclusivity</span> to ensure that all people are "
+"welcome to join us and participate;"
+msgstr ""
+"<span class=\"value\">İçerimcilik</span>, herkesin bize katılabileceğinden "
+"emin olmak için;"
+
+#: content/_index.md:12
+msgid ""
+"<span class=\"value\">Innovation</span> to ensure that new ideas constantly "
+"emerge to better serve people;"
+msgstr ""
+"<span class=\"value\">İnovasyon</span>, kişilere hizmet etmek için yeni "
+"düşüncelerin her zaman ortaya çıkabileceğinden emin olmak için;"
+
+#: content/_index.md:14
+msgid ""
+"<span class=\"value\">Common Ownership</span> to ensure that we stay united;"
+msgstr ""
+"<span class=\"value\">Ortak İyelik</span>, her zaman hep birlikte kalmak "
+"için;"
+
+#: content/_index.md:16
+msgid ""
+"<span class=\"value\">End-User Focus</span> to ensure our work is useful to "
+"all people."
+msgstr ""
+"<span class=\"value\">Son Kullanıcı Odağı</span>, çalışmalarımızın herkese "
+"yararlı olduğundan emin olmak için."
+
+#: content/_index.md:18
+msgid ""
+"<div class=\"text\">That is, in pursuit of our goal, we have found these "
+"items essential to define and stay true to ourselves.</div>\n"
+msgstr ""
+"<div class=\"text\">Kendimize sadık ve özümüze doğru kalmak için bu ögeleri "
+"vazgeçilmez olarak kendimize addettik.</div>\n"
+
+#: content/_index.md:20
+msgid ""
+"<div class=\"addendum\">From those values we derived the <a href=\"../"
+"benefits\">benefits</a> and <a href=\"../commitments\">commitments</a> of a "
+"KDE Project.</div>\n"
+msgstr ""
+"<div class=\"addendum\">Bu değerlerden, bir KDE Projesinin <a href=\"../"
+"benefits\">yararlarını</a> ve <a href=\"../commitments\">taahhütlerini</a> "
+"derledik.</div>\n"
+
+#: content/benefits.md:0 i18n/en.yaml:0
+msgid "Benefits of a KDE Project"
+msgstr "Bir KDE Projesinin Yararları"
+
+#: content/benefits.md:0
+msgid "Benefits"
+msgstr "Yararlar"
+
+#: content/benefits.md:10
+msgid "Being part of the international KDE community conveys certain benefits:"
+msgstr ""
+"Uluslararası KDE topluluğunun bir parçası olmak belirli avantajlar sağlar:"
+
+#: content/benefits.md:12
+msgid "To stand on the shoulders of giants"
+msgstr "Devlerin omuzlarında durun"
+
+#: content/benefits.md:13
+msgid "Make use of KDE infrastructure for project hosting"
+msgstr "Proje barındırma için KDE altyapısından yararlanın"
+
+#: content/benefits.md:14
+msgid "Benefit from the experience of the KDE sysadmins"
+msgstr "KDE sistem yöneticilerinin deneyiminden yararlanın"
+
+#: content/benefits.md:15
+msgid ""
+"Get support from the larger community with development, documentation, "
+"translation, testing, bug handling, etc."
+msgstr ""
+"Geliştirme, belgeleme, çeviri, test etme, hata işleme vb. konularda daha "
+"geniş topluluktan destek alın"
+
+#: content/benefits.md:16
+msgid ""
+"Use opportunities to integrate with a large ecosystem of end-user products"
+msgstr ""
+"Son kullanıcı ürünlerinden oluşan geniş bir ekosistemle tümleştirme "
+"olanaklarını kullanın"
+
+#: content/benefits.md:17
+msgid ""
+"Interaction with teams that have common values, leading to the cross-"
+"pollination of ideas and innovations"
+msgstr ""
+"Fikirlerin ve yeniliklerin çapraz tozlaşmasına yol açan ortak değerlere iye "
+"ekiplerle etkileşim"
+
+#: content/benefits.md:18
+msgid "Enjoy representation and support by KDE e.V."
+msgstr "KDE e.V tarafından temsil ve desteğin keyfini çıkarın"
+
+#: content/benefits.md:19
+msgid "Participate in Akademy and other KDE events"
+msgstr "Akademy ve diğer KDE etkinliklerine katılın"
+
+#: content/benefits.md:20
+msgid "Receive financial and organizational support"
+msgstr "Finansal ve organizasyonel destek alın"
+
+#: content/benefits.md:21
+msgid "Know that your trademarks can be secured"
+msgstr "Ticari markalarınızın güvence altına alınabileceğini bilin"
+
+#: content/benefits.md:22
+msgid ""
+"Know that your licensing wishes can be protected via the [Fiduciary "
+"Licensing Agreement](https://ev.kde.org/rules/fla/)"
+msgstr ""
+"Lisanslama isteklerinizin [Güvenceli Lisans Sözleşmesi](https://ev.kde.org/"
+"rules/fla/) aracılığıyla korunabileceğini bilin"
+
+#: content/benefits.md:23
+msgid ""
+"Increase your visibility through the reputation of the KDE community and KDE "
+"promotion tools such as:"
+msgstr ""
+"KDE topluluğunun itibarı ve aşağıdakiler gibi KDE tanıtım araçlarıyla "
+"görünürlüğünüzü artırın:"
+
+#: content/benefits.md:24
+msgid ""
+"pushing project announcements to the Dot and employing other KDE promotion "
+"channels"
+msgstr ""
+"proje duyurularını Dot'a taşımak ve diğer KDE tanıtım kanallarını kullanmak"
+
+#: content/benefits.md:25
+msgid "having your project reachable through a subdomain under kde.org"
+msgstr ""
+"projenize kde.org altındaki bir alt alan adı üzerinden ulaşılabilir olmak"
+
+#: content/benefits.md:26
+msgid "having a \\#kde-<projectname\\> IRC channel on the Libera Chat network"
+msgstr "Libera Chat ağında bir \\#kde-<projeadı\\> IRC kanalına iye olmak"
+
+#: content/benefits.md:27
+msgid ""
+"using KDE as an umbrella brand to associate with the KDE community for "
+"communication on web sites and other channels"
+msgstr ""
+"web sitelerinde ve diğer kanallarda iletişim için KDE topluluğuyla ilişki "
+"kurmak için bir şemsiye marka olarak KDE'yi kullanmak"
+
+#: content/commitments.md:0 i18n/en.yaml:0
+msgid "Commitments of a KDE Project"
+msgstr "Bir KDE Projesinin Taahhütleri"
+
+#: content/commitments.md:0
+msgid "Commitments"
+msgstr "Taahhütler"
+
+#: content/commitments.md:10
+msgid "The KDE Project designation carries with it certain commitments:"
+msgstr "KDE Projesi tanımı, belirli taahhütleri beraberinde getirir:"
+
+#: content/commitments.md:12
+msgid "Respect the [KDE Code of Conduct](https://kde.org/code-of-conduct/)"
+msgstr ""
+"[KDE Davranış Kurallarına](https://kde.org/code-of-conduct/) saygı gösterin"
+
+#: content/commitments.md:13
+msgid ""
+"Support the [KDE Vision](https://community.kde.org/KDE/Vision) and [KDE "
+"Mission](https://community.kde.org/KDE/Mission)"
+msgstr ""
+"[KDE Vizyon](https://community.kde.org/KDE/Vision)'unu ve [KDE Hedef]"
+"(https://community.kde.org/KDE/Mission)'ini destekleyin"
+
+#: content/commitments.md:14
+msgid "There is no mandatory Contributor License Agreement"
+msgstr "Zorunlu bir Katılımcı Lisans Sözleşmesi yoktur"
+
+#: content/commitments.md:15
+msgid "Technical requirements"
+msgstr "Teknik gereksinimler"
+
+#: content/commitments.md:16
+msgid ""
+"The project stays true to [established practices](https://community.kde.org/"
+"Policies) common to similar KDE projects"
+msgstr ""
+"Proje, benzer KDE projelerinde ortak olan [yerleşik uygulamalara](https://"
+"community.kde.org/Policies) sadık kalır"
+
+#: content/commitments.md:17
+msgid ""
+"All source materials are hosted on infrastructure available to and writable "
+"by all KDE contributor accounts"
+msgstr ""
+"Tüm kaynak materyaller, tüm KDE katılımcı hesapları tarafından "
+"kullanılabilen ve yazılabilen altyapıda barındırılmaktadır"
+
+#: content/commitments.md:18
+msgid ""
+"Online services associated with the project are either hosted on KDE "
+"infrastructure or have an action plan that ensures continuity which is "
+"approved by the KDE system administration team"
+msgstr ""
+"Projeyle ilgili çevrimiçi hizmetler ya KDE altyapısında barındırılır ya da "
+"KDE sistem yönetim ekibi tarafından onaylanan sürekliliği sağlayan bir eylem "
+"planına sahiptir"
+
+#: content/commitments.md:19
+msgid "Copyrights, trademarks and patents"
+msgstr "Telif hakları, ticari markalar ve patentler"
+
+#: content/commitments.md:20
+msgid ""
+"[KDE licensing policy](https://community.kde.org/Policies/Licensing_Policy) "
+"are respected"
+msgstr ""
+"[KDE lisanslama politikası](https://community.kde.org/Policies/"
+"Licensing_Policy) dikkate alınır"
+
+#: content/commitments.md:21
+msgid "KDE branding guidelines are respected"
+msgstr "KDE markalama yönergelerine uyulur"
+
+#: content/commitments.md:22
+msgid ""
+"If the authors of the software abandon it or disappear, they agree to "
+"transfer the trademark to the next maintainer"
+msgstr ""
+"Yazılımın yazarları yazılımı terk ederse veya ortadan kaybolursa, ticari "
+"markayı bir sonraki bakımcıya devretmeyi kabul ederler"
+
+#: content/commitments.md:23
+msgid ""
+"If the code is covered by patents registered by the project itself, those "
+"patents must be licensed freely"
+msgstr ""
+"Kod, projenin kendisi tarafından tescil edilen patentler kapsamındaysa bu "
+"patentler serbestçe lisanslanmalıdır"
+
+#: i18n/en.yaml:0
+msgid "Manifesto"
+msgstr "Manifesto"
+
+#: i18n/en.yaml:0
+msgid "Back to the manifesto"
+msgstr "Manifestoya geri dön"
+
+#: i18n/en.yaml:0
+msgid ""
+"This manifesto is inspired by the [Agile](http://agilemanifesto.org/) and "
+"[Software Craftmanship](http://manifesto.softwarecraftsmanship.org/) "
+"manifestos."
+msgstr ""
+"Bu manifesto, [Agile](http://agilemanifesto.org/) ve [Software Craftmanship]"
+"(http://manifesto.softwarecraftsmanship.org/) manifestolarından "
+"esinlenmiştir."

@@ -1,0 +1,115 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-06 00:29+0000\n"
+"PO-Revision-Date: 2022-05-11 12:12+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: src/items/check/check.json
+msgctxt "Name"
+msgid "Check box"
+msgstr "Onay kutusu"
+
+#: src/items/field/field.json
+msgctxt "Name"
+msgid "Field"
+msgstr "Giriş"
+
+#: src/items/image/image.json
+msgctxt "Name"
+msgid "Image"
+msgstr "Görsel"
+
+#: src/items/label/label.json
+msgctxt "Name"
+msgid "Label"
+msgstr "Etiket"
+
+#: src/items/text/text.json
+msgctxt "Name"
+msgid "Text"
+msgstr "Metin"
+
+#: src/plugins/barcode/kreport_barcodeplugin.json
+msgctxt "Name"
+msgid "Barcode"
+msgstr "Barkod"
+
+#: src/plugins/chart/kreport_chartplugin.json
+msgctxt "Name"
+msgid "Chart"
+msgstr "Grafik"
+
+#: src/plugins/maps/kreport_mapsplugin.json
+msgctxt "Name"
+msgid "Maps"
+msgstr "Haritalar"
+
+#: src/plugins/web/kreport_webplugin.json
+msgctxt "Name"
+msgid "Web browser"
+msgstr "Web Tarayıcısı"
+
+#: src/items/check/check.json
+msgctxt "Description"
+msgid "Check box element for Reports"
+msgstr "Raporlar için onay kutusu ögesi"
+
+#: src/items/field/field.json
+msgctxt "Description"
+msgid "Field element for Reports"
+msgstr "Raporlar için giriş ögesi"
+
+#: src/items/image/image.json
+msgctxt "Description"
+msgid "Image element for Reports"
+msgstr "Raporlar için görsel ögesi"
+
+#: src/items/label/label.json
+msgctxt "Description"
+msgid "Label element for Reports"
+msgstr "Raporlar için etiket ögesi"
+
+#: src/items/text/text.json
+msgctxt "Description"
+msgid "Text element for Reports"
+msgstr "Raporlar için metin ögesi"
+
+#: src/plugins/barcode/kreport_barcodeplugin.json
+msgctxt "Description"
+msgid "Barcode element for Reports"
+msgstr "Raporlar için barkod ögesi"
+
+#: src/plugins/chart/kreport_chartplugin.json
+msgctxt "Description"
+msgid "Chart element for Reports"
+msgstr "Raporlar için grafik ögesi"
+
+#: src/plugins/maps/kreport_mapsplugin.json
+msgctxt "Description"
+msgid "Maps element for Reports"
+msgstr "Raporlar için haritalar ögesi"
+
+#: src/plugins/web/kreport_webplugin.json
+msgctxt "Description"
+msgid "Web browser element for Reports"
+msgstr "Raporlar için web tarayıcı ögesi"
+
+#: src/items/check/check.json src/items/field/field.json
+#: src/items/image/image.json src/items/label/label.json
+#: src/items/text/text.json src/plugins/barcode/kreport_barcodeplugin.json
+#: src/plugins/chart/kreport_chartplugin.json
+#: src/plugins/maps/kreport_mapsplugin.json
+#: src/plugins/web/kreport_webplugin.json
+msgctxt "Authors Name"
+msgid "Kexi Team"
+msgstr "Kexi Takımı"

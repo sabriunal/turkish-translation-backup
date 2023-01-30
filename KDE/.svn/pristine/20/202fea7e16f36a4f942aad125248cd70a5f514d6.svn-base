@@ -1,0 +1,182 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-07-16 00:50+0000\n"
+"PO-Revision-Date: 2022-12-01 16:45+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kdesrc-build.metainfo.xml:6
+msgid "kdesrc-build"
+msgstr "kdesrc-build"
+
+#. (itstool) path: component/summary
+#: org.kde.kdesrc-build.metainfo.xml:7
+msgid ""
+"Tool to allow you to easily build KDE software from its source repositories"
+msgstr "KDE Yazılımı Yapıcı"
+
+#. (itstool) path: description/p
+#: org.kde.kdesrc-build.metainfo.xml:9
+msgid ""
+"kdesrc-build is a tool to allow you to easily build KDE from its source "
+"repositories."
+msgstr ""
+"kdesrc-build, KDE'yi kaynak depolarından kolaylıkla yapmanıza izin veren bir "
+"araçtır."
+
+#. (itstool) path: description/p
+#: org.kde.kdesrc-build.metainfo.xml:10
+msgid ""
+"Syntax highlighting for kdesrc-buildrc files is available in Kate/KWrite via "
+"the menu Tools-&gt;Highlighting-&gt;Configuration."
+msgstr ""
+"kdesrc-buildrc dosyaları için sözdizim vurgulaması, Kate/KWrite içinde "
+"Araçlar-&gt;Vurgulama-&gt;Yapılandırma altında kullanılabilir."
+
+#. (itstool) path: description/p
+#: org.kde.kdesrc-build.metainfo.xml:11
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:13
+msgid ""
+"Will automatically checkout and update the KDE source code from its source "
+"repository. Both Subversion and git repository types are supported."
+msgstr ""
+"KDE kaynak kodunu kaynak deposundan kendiliğinden çıkış yapar ve günceller. "
+"Subversion ve Git depo türleri desteklenir."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:14
+msgid ""
+"Integrates with the KDE source code infrastructure to automatically build "
+"modules in the required order, and using the appropriate branch."
+msgstr ""
+"Modülleri gereken sırada kendiliğinden yapmak için KDE kaynak kodu altyapısı "
+"ile bütünleşir ve uygun dalları kullanır."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:15
+msgid ""
+"Easily supports building specific branches, tags, or even revisions of a "
+"module (or all of KDE software)."
+msgstr ""
+"Tüm KDE yazılımlarının belirli dallarını, etiketlerini veya revizyonlarını "
+"kolaylıkla yapmayı destekler."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:16
+msgid ""
+"Supports many build systems. It's even possible to build many non-KDE "
+"software projects in a pinch (for instance, CMake can be built from its own "
+"git sources if your distribution does not have CMake packages)."
+msgstr ""
+"Pek çok yapı sistemini destekler. KDE dışı diğer yazılımları da kolaylıkla "
+"yapabilirsiniz (örneğin, dağıtımınız CMake paketleri içermiyorsa CMake'i git "
+"kaynaklarından yapabilirsiniz)."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:17
+msgid ""
+"Supports speedy initial checkouts of modules (KDE Git projects only) by "
+"using the snapshots already available on the KDE project network."
+msgstr ""
+"Modüllerin tez ilk çıkışlarını (yalnızca KDE Git projeleri) KDE proje ağında "
+"bulunan anlık görüntüleri kullararak destekler."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:18
+msgid ""
+"Supports a \"dry run\" mode (the --pretend) option so that you can "
+"experiment with different settings non-destructively."
+msgstr ""
+"Deneme kipi mevcuttur (--pretend), böylece bir zarar vermeden değişik "
+"ayarları deneyebilirsiniz."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:19
+msgid ""
+"kdesrc-build can download modules (both initial checkout and updates) even "
+"while building modules that have already been updated."
+msgstr ""
+"kdesrc-build, halihazırda güncellenen modülleri yaparken bile diğer "
+"modülleri indirebilir (hem ilklendirme hem güncelleme)."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:20
+msgid ""
+"kdesrc-build supports uninstalling modules (manually, or prior to installing "
+"an already-installed module) in order to keep the install directory clean. "
+"Note that this feature requires CMake support and is still experimental."
+msgstr ""
+"kdesrc-build, kurulum dizininin temiz tutmak amaçlı modülleri kaldırmayı "
+"destekler (elle veya halihazırda kurulu bir modülü kurma öncesi). Bu özellik "
+"CMake desteği gerektirir ve henüz deneyseldir."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:21
+msgid ""
+"kdesrc-build logs everything for easy perusal later, that way you can "
+"determine why things went wrong if a build fails. kdesrc-build automatically "
+"creates symlinks for easy access to the last log (log/latest). color-coding "
+"of the output (which can be turned off)."
+msgstr ""
+"kdesrc-build, sonra kullanım için her şeyi günlükler; böylece bir yapı "
+"başarısız olursa neyin yanlış gittiğini kolaylıkla anlayabilirsiniz. kdesrc-"
+"build, son günlüğe hızlı erişim için sembolik bağlar oluşturur ve çıktıyı "
+"renklendirir (istenirse kapatılabilir)."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:23
+msgid ""
+"Has support for building the Qt Project's Qt library, which is a "
+"prerequisite for KDE software."
+msgstr ""
+"KDE yazılımlarının bir ön gereksinimi olan Qt Projesi'nin Qt kitaplığını "
+"yapım desteği vardır."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:24
+msgid ""
+"kdesrc-build is very customizable. You can control most options down to a "
+"module-by-module basis if you so desire, including configure-flags, CMake "
+"flags, and your C++ flags during compilation. Instead of trying to remember "
+"what configure line you used, you can set it once and forget it."
+msgstr ""
+"kdesrc-build pek çok biçimde özelleştirilebilir. Çoğu seçeneği modül "
+"tabanında ulaşabilirsiniz; örneğin yapılandırma bayrakları, CMake bayrakları "
+"ve derleme sırasında C++ bayrakları. Hangi yapılandırma satırını "
+"kullandığınızı anımsamaya çalışmak yerine bir kez ayarlayın ve unutun."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:25
+msgid ""
+"Extensive documentation. Feel free to let me know if you need something "
+"explained (e-mail address at bottom), or contact the kde-devel mailing list."
+msgstr ""
+"Geliişmiş belgelendirme. Bir şeyin açıklanmasını istiyorsanız bana haber "
+"verin (e-posta adresi alttadır) veya kde-devel posta listesine yazın."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:26
+msgid ""
+"A detailed sample configuration file is included, usually you can just copy "
+"it to ~/.config/kdesrc-buildrc and be done with it."
+msgstr ""
+"Ayrıntılı bir örnek yapılandırma dosyası içerilir; genelde yalnızca ~/."
+"config/kdesrc-buildrc konumuna kopyalamanız yeterlidir."
+
+#. (itstool) path: ul/li
+#: org.kde.kdesrc-build.metainfo.xml:27
+msgid "Much more!"
+msgstr "Çok daha fazlası!"

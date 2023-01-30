@@ -1,0 +1,60 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kjots.appdata\n"
+"POT-Creation-Date: 2017-03-15 03:38+0100\n"
+"PO-Revision-Date: 2022-04-11 13:20+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kjots.appdata.xml:5
+msgid "KJots"
+msgstr "KJots"
+
+#. (itstool) path: component/summary
+#: org.kde.kjots.appdata.xml:6
+msgid "Note-taking utility"
+msgstr "Not alma programı"
+
+#. (itstool) path: description/p
+#: org.kde.kjots.appdata.xml:8
+msgid "KJots organises all of your notes into separate books."
+msgstr "KJots, notlarınızı defterlere ayırarak düzenler."
+
+#. (itstool) path: description/p
+#: org.kde.kjots.appdata.xml:11
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:13
+msgid "Multiple books handled"
+msgstr "Çoklu defter işleme"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:14
+msgid "Each book has many named pages"
+msgstr "Her bir defterin çok sayıda sayfası vardır"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:15
+msgid "Books and pages can be rearranged by drag-and-drop"
+msgstr "Defterler ve sayfalar, sürükle-bırak ile yeniden düzenlenebilir"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:16
+msgid "Keyboard shortcuts are available for many functions"
+msgstr "Birçok işlev için klavye kısayolları bulunmaktadır"
+
+#. (itstool) path: ul/li
+#: org.kde.kjots.appdata.xml:17
+msgid "Automatic saving means your notes are safe from loss"
+msgstr ""
+"Otomatik kaydetme, notlarınızın silinmeden güvende olduğu anlamına gelir"

@@ -1,0 +1,39 @@
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-03-13 03:55+0100\n"
+"PO-Revision-Date: 2022-05-09 18:16+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.cervisia.appdata.xml:6
+msgid "Cervisia"
+msgstr "Cervisia"
+
+#. (itstool) path: component/summary
+#: org.kde.cervisia.appdata.xml:7
+msgid "A graphical CVS version control system front-end"
+msgstr "CVS sürüm denetim sistemi için bir grafik ön yüz"
+
+#. (itstool) path: description/p
+#: org.kde.cervisia.appdata.xml:9
+msgid ""
+"Cervisia is a user friendly version control system front-end. The aim is to "
+"support CVS and other version control system programs in a unified "
+"interface, featuring conflict resolution, difference and history viewers, "
+"status for the working copy files, and support for most version control "
+"functions."
+msgstr ""
+"Cervisia kullanıcı dostu bir sürüm denetim sistemi ara yüzüdür. Hedefi CVS "
+"ve diğer sürüm denetim sistemlerini birleştirilmiş bir arayüzde çakışmalara "
+"çözümler sunmak, fark ve geçmiş görünümleri ve çalışılan kopya dosyanın "
+"durumunu göstermek ve sürüm kontrol işlevlerinin çoğunu karşılamaktır."

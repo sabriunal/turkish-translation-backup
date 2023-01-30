@@ -1,0 +1,140 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-08-04 00:58+0000\n"
+"PO-Revision-Date: 2022-12-10 17:56+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#: extras/okularodpgenerator/libokularGenerator_odp.json
+msgctxt "Name"
+msgid "ODP Backend"
+msgstr "ODP Arka Ucu"
+
+#: extras/okularodtgenerator/libokularGenerator_odt.json
+msgctxt "Name"
+msgid "ODT Backend"
+msgstr "ODT Arka Ucu"
+
+#: extras/properties/calligradocinfopropspage.json
+msgctxt "Name"
+msgid "Calligra Document Info Properties Page"
+msgstr "Calligra Belge Bilgisi Özellikleri Sayfası"
+
+#: filters/stage/powerpoint/libokularGenerator_ppt.json
+msgctxt "Name"
+msgid "PPT Backend"
+msgstr "PPT Arka Ucu"
+
+#: filters/stage/pptx/libokularGenerator_pptx.json
+msgctxt "Name"
+msgid "PPTX Backend"
+msgstr "PPTX Arka Ucu"
+
+#: filters/words/docx/import/libokularGenerator_docx.json
+msgctxt "Name"
+msgid "DOCX Backend"
+msgstr "DOCX Arka Ucu"
+
+#: filters/words/msword-odf/libokularGenerator_doc.json
+msgctxt "Name"
+msgid "DOC Backend"
+msgstr "DOC Arka Ucu"
+
+#: filters/words/rtf/import/libokularGenerator_rtf.json
+msgctxt "Name"
+msgid "RTF Backend"
+msgstr "RTF Arka Ucu"
+
+#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+msgctxt "Name"
+msgid "WPD Backend"
+msgstr "WPD Arka Ucu"
+
+#: extras/okularodpgenerator/libokularGenerator_odp.json
+msgctxt "Description"
+msgid "OpenDocument Presentation file renderer"
+msgstr "OpenDocument Sunum dosyası sunucu"
+
+#: extras/okularodtgenerator/libokularGenerator_odt.json
+msgctxt "Description"
+msgid "OpenDocument Text file renderer"
+msgstr "OpenDocument Metin dosyası sunucu"
+
+#: filters/stage/powerpoint/libokularGenerator_ppt.json
+msgctxt "Description"
+msgid "PPT file renderer"
+msgstr "PPT dosyası sunucu"
+
+#: filters/stage/pptx/libokularGenerator_pptx.json
+msgctxt "Description"
+msgid "PPTX file renderer"
+msgstr "PPTX dosyası sunucu"
+
+#: filters/words/docx/import/libokularGenerator_docx.json
+msgctxt "Description"
+msgid "DOCX file renderer"
+msgstr "DOCX dosyası sunucu"
+
+#: filters/words/msword-odf/libokularGenerator_doc.json
+msgctxt "Description"
+msgid "DOC file renderer"
+msgstr "DOC dosyası sunucu"
+
+#: filters/words/rtf/import/libokularGenerator_rtf.json
+msgctxt "Description"
+msgid "RTF file renderer"
+msgstr "RTF dosyası sunucu"
+
+#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+msgctxt "Description"
+msgid "WordPerfect Document file renderer"
+msgstr "WordPerfect Document dosyası sunucu"
+
+#: extras/okularodpgenerator/libokularGenerator_odp.json
+#: filters/stage/powerpoint/libokularGenerator_ppt.json
+#: filters/stage/pptx/libokularGenerator_pptx.json
+msgctxt "Copyright"
+msgid "Copyright 2010-2016 Sven Langkamp, Friedrich W. H. Kossebau"
+msgstr "Telif hakkı 2010-2016 Sven Langkamp, Friedrich W. H. Kossebau"
+
+#: extras/okularodtgenerator/libokularGenerator_odt.json
+#: filters/words/docx/import/libokularGenerator_docx.json
+#: filters/words/msword-odf/libokularGenerator_doc.json
+#: filters/words/rtf/import/libokularGenerator_rtf.json
+#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+msgctxt "Copyright"
+msgid "Copyright 2012-2016 Sven Langkamp, Friedrich W. H. Kossebau"
+msgstr "Telif hakkı 2012-2016 Sven Langkamp, Friedrich W. H. Kossebau"
+
+#: extras/okularodpgenerator/libokularGenerator_odp.json
+#: extras/okularodtgenerator/libokularGenerator_odt.json
+#: filters/stage/powerpoint/libokularGenerator_ppt.json
+#: filters/stage/pptx/libokularGenerator_pptx.json
+#: filters/words/docx/import/libokularGenerator_docx.json
+#: filters/words/msword-odf/libokularGenerator_doc.json
+#: filters/words/rtf/import/libokularGenerator_rtf.json
+#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+msgctxt "Authors Name"
+msgid "Sven Langkamp"
+msgstr "Sven Langkamp"
+
+#: extras/okularodpgenerator/libokularGenerator_odp.json
+#: extras/okularodtgenerator/libokularGenerator_odt.json
+#: filters/stage/powerpoint/libokularGenerator_ppt.json
+#: filters/stage/pptx/libokularGenerator_pptx.json
+#: filters/words/docx/import/libokularGenerator_docx.json
+#: filters/words/msword-odf/libokularGenerator_doc.json
+#: filters/words/rtf/import/libokularGenerator_rtf.json
+#: filters/words/wordperfect/import/libokularGenerator_wpd.json
+msgctxt "Authors Name"
+msgid "Friedrich W. H. Kossebau"
+msgstr "Friedrich W. H. Kossebau"

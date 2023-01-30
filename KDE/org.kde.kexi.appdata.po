@@ -1,0 +1,138 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.kexi.appdata\n"
+"POT-Creation-Date: 2019-05-21 02:39+0200\n"
+"PO-Revision-Date: 2022-12-01 17:02+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kexi.appdata.xml:6
+msgid "KEXI"
+msgstr "KEXI"
+
+#. (itstool) path: component/summary
+#: org.kde.kexi.appdata.xml:7
+msgid "Visual database apps builder"
+msgstr "Görsel Veritabanı Uygulaması Yapıcı"
+
+#. (itstool) path: description/p
+#: org.kde.kexi.appdata.xml:9
+msgid ""
+"KEXI is a visual database applications builder. It can be used for designing "
+"database applications, inserting and editing data, performing queries, and "
+"processing data. Forms can be created to provide a custom interface to your "
+"data. All database objects - tables, queries, forms, reports, etc. - are "
+"stored in the database, making it easy to share data and design."
+msgstr ""
+"KEXI, görsel bir veritabanı uygulaması yapıcısıdır. Veritabanı uygulamaları "
+"tasarlamak, veri eklemek ve düzenlemek, sorgular gerçekleştirmek ve veri "
+"işlemek için kullanılabilir. Verinize özel bir arayüz sağlamak için formlar "
+"kullanılabilir. Tüm veritabanı nesneleri (tablolar, sorgular, formlar, "
+"raporlar vb.) veritabanında depolanır; böylece kolaylıkla tasarlanıp "
+"paylaşılabilir."
+
+#. (itstool) path: description/p
+#: org.kde.kexi.appdata.xml:15
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:17
+msgid "Full visual designers for tables, queries, forms and reports"
+msgstr ""
+"Tablolar, sorgular, formlar ve raporlar için tümüyle görsel tasarımcılar"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:18
+msgid "Running queries, support for parametrized queries"
+msgstr "Sorgu çalıştırma, parametreleştirilmiş sorgular"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:19
+msgid ""
+"Supports SQLite, MySQL, PostgreSQL, xBase, and Sybase/MS SQL Server databases"
+msgstr ""
+"SQLite, MySQL, PostgreSQL, xBase ve Sybase/MS SQL sunucusuu veritabanlarını "
+"destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:20
+msgid ""
+"The only multiplatform visual tool that can easily import data from MS "
+"Access databases"
+msgstr ""
+"MS Access veritabanlarından veri içe aktarabilen tek çoklu platformlu görsel "
+"araç"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:21
+msgid "Support for query design in dedicated SQL view"
+msgstr "Özel SQL görünümünde sorgu tasarımı desteği"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:22
+msgid ""
+"Designing and displaying relational data using combo boxes (lookup columns)"
+msgstr ""
+"Çoklu kutular kullanarak (sütun arama) ilişkisel veri tasarlama ve "
+"görüntüleme"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:23
+msgid "Direct data entry or import using CSV format"
+msgstr "Doğrudan veri girişi veya CSV biçimi ile içe aktarma"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:24
+msgid ""
+"Locked down User Mode, allowing you to switch off all commands related to "
+"editing your project's design"
+msgstr ""
+"Projenizin tasarımını değiştirmeyi kapatan, sınırlandırılmış Kullanıcı Kipi"
+
+#. (itstool) path: ul/li
+#: org.kde.kexi.appdata.xml:25
+msgid ""
+"Scripting using JavaScript, Python or Ruby programming languages "
+"(experimental)"
+msgstr ""
+"JavaScript, Python veya Ruby programlama dillerini kullanarak betik yazımı "
+"desteği (deneysel)"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:36
+msgid "Tabular view"
+msgstr "Sekmeli görünüm"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:40
+msgid "Query Designer"
+msgstr "Sorgu Tasarımcısı"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:44
+msgid "SQL Editor"
+msgstr "SQL Düzenleyicisi"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:48
+msgid "Form Designer"
+msgstr "Form Tasarımcısı"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:52
+msgid "Report Designer"
+msgstr "Rapor Tasarımcı"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kexi.appdata.xml:56
+msgid "MS Access database import"
+msgstr "MS Access veritabanı içe aktarma"

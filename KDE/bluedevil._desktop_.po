@@ -1,0 +1,122 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2015, 2021.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-06 00:57+0000\n"
+"PO-Revision-Date: 2022-05-06 13:03+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: src/applet/package/metadata.desktop:2 src/bluedevil.notifyrc:3
+#: src/kio/bluetooth/bluetooth-network.desktop:3
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: src/applet/package/metadata.desktop:54
+msgctxt "Comment"
+msgid "Bluetooth status and control"
+msgstr "Bluetooth denetim ve durum izleme"
+
+#: src/bluedevil.notifyrc:54
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr "Bluetooth sistemi"
+
+#: src/bluedevil.notifyrc:108
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr "Yetkilendirme Gerekli"
+
+#: src/bluedevil.notifyrc:159
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr "Bir aygıt bağlanmak istiyor"
+
+#: src/bluedevil.notifyrc:215
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr "PIN'i Onaylayın"
+
+#: src/bluedevil.notifyrc:267
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr "Eşleştirme PIN'i kullanarak bir aygıt isteğini onaylayın"
+
+#: src/bluedevil.notifyrc:323
+msgctxt "Name"
+msgid "Request PIN"
+msgstr "PIN iste"
+
+#: src/bluedevil.notifyrc:374
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr "PIN gerekiyor"
+
+#: src/bluedevil.notifyrc:431
+msgctxt "Name"
+msgid "Incoming File"
+msgstr "Gelen Dosya"
+
+#: src/bluedevil.notifyrc:483
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr "Gelen dosya aktarımı"
+
+#: src/bluedevil.notifyrc:539
+msgctxt "Name"
+msgid "Connection Failed"
+msgstr "Bağlantı başarısız oldu"
+
+#: src/bluedevil.notifyrc:590
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "Aygıta bağlantı başarısız oldu"
+
+#: src/bluedevil.notifyrc:646
+msgctxt "Name"
+msgid "Device Setup Finished"
+msgstr "Aygıt Kurulumu tamamlandı"
+
+#: src/bluedevil.notifyrc:687
+msgctxt "Comment"
+msgid "Setting up a Bluetooth device finished successfully"
+msgstr "Bir Bluetooth aygıtının kurulumu başarıyla tamamlandı"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:2
+msgctxt "Name"
+msgid "Bluetooth File Transfer"
+msgstr "Bluetooth Dosya Aktarımı"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:41
+msgctxt "GenericName"
+msgid "Bluetooth File Transfer"
+msgstr "Bluetooth Dosya Aktarımı"
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:79
+msgctxt "Comment"
+msgid "Send files via Bluetooth"
+msgstr "Bluetooth üzerinden dosya gönder"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:2
+msgctxt "Name"
+msgid "Add Bluetooth Device"
+msgstr "Bluetooth Aygıtı Ekle"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:40
+msgctxt "GenericName"
+msgid "Add Bluetooth Device"
+msgstr "Bluetooth Aygıtı Ekle"
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:78
+msgctxt "Comment"
+msgid "Add Bluetooth Device"
+msgstr "Bluetooth Aygıtı Ekle"

@@ -1,0 +1,793 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-plasma-mobile-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-05 00:53+0000\n"
+"PO-Revision-Date: 2022-12-01 17:08+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#: config.yaml:0 content/_index.md:0
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: config.yaml:0
+msgid "Privacy-respecting, open source and secure phone ecosystem"
+msgstr "Gizliliğinize önem veren, açık kaynaklı ve güvenli telefon ekosistemi"
+
+#: config.yaml:0
+msgid "Project"
+msgstr "Proje"
+
+#: config.yaml:0
+msgid "Contributing"
+msgstr "Katkıda Bulun"
+
+#: config.yaml:0
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: config.yaml:0
+msgid "Reporting Issues"
+msgstr "Hata Bildir"
+
+#: content/about.md:0
+msgid "About"
+msgstr "Hakkında"
+
+#: content/about.md:9
+msgid ""
+"Plasma Mobile is an open-source user interface and ecosystem targeted at "
+"mobile devices, built on the **KDE Plasma** stack."
+msgstr ""
+"Plasma Mobile; **KDE Plasma** temeli üzerine yapılmış, taşınabilir aygıtları "
+"hedefleyen bir açık kaynaklı kullanıcı arayüzü ve ekosistemidir."
+
+#: content/about.md:11
+msgid ""
+"A pragmatic approach is taken that is inclusive to software regardless of "
+"toolkit, giving users the power to choose whichever software they want to "
+"use on their device."
+msgstr ""
+"Araç setinden bağımsız olarak yazılıma dahil olan ve kullanıcılara "
+"aygıtlarında kullanmak istedikleri yazılımı seçme gücü veren pragmatik bir "
+"yaklaşım benimsenmiştir."
+
+#: content/about.md:13
+msgid ""
+"Plasma Mobile aims to contribute to and implement open standards, and is "
+"developed in a transparent process that is open for anyone to participate in."
+msgstr ""
+"Plasma Mobile, açık standartlara katkıda bulunmayı ve uygulamayı amaçlar ve "
+"herkesin katılımına açık olan saydam bir süreç ile geliştirilmiştir."
+
+#: content/about.md:15
+msgid "<img src=\"/img/konqi/konqi-calling.png\" width=250px/>\n"
+msgstr "<img src=\"/img/konqi/konqi-calling.png\" width=250px/>\n"
+
+#: content/about.md:19
+msgid "Can I use it?"
+msgstr "Nasıl kullanabilirim?"
+
+#: content/about.md:21
+msgid ""
+"Yes! Plasma Mobile is currently preinstalled on the PinePhone using Manjaro "
+"ARM. There are also various other distributions for the PinePhone with "
+"Plasma Mobile available."
+msgstr ""
+"Evet! Plasma Mobile şu anda Manjaro ARM ile PinePhone'da önyüklü gelir. "
+"Ayrıca PinePhone için Plasma Mobile'i sunan başka dağıtımlar da mevcuttur."
+
+#: content/about.md:23
+msgid ""
+"There is also postmarketOS, an Alpine Linux-based distribution with support "
+"for many more devices and it offers Plasma Mobile as an available interface "
+"for the devices it supports. You can see the list of supported devices [here]"
+"(https://wiki.postmarketos.org/wiki/Devices), but on any device outside the "
+"main and community categories your mileage may vary."
+msgstr ""
+"Ayrıca daha birçok aygıtı destekleyen Alpine Linux tabanlı bir dağıtım olan "
+"postmarketOS da vardır ve desteklediği aygıtlar için uygun bir arayüz olarak "
+"Plasma Mobile'ı sunar. Desteklenen aygıtların listesini [burada](https://"
+"wiki.postmarketos.org/wiki/Devices) görebilirsiniz; ancak ana ve topluluk "
+"kategorilerinin dışındaki herhangi bir aygıtta bulacağınız deneyim farklı "
+"olabilir."
+
+#: content/about.md:25
+msgid ""
+"The interface is using KWin over Wayland and is now mostly stable, albeit a "
+"little rough around the edges in some areas. A subset of the normal KDE "
+"Plasma features are available, including widgets and activities, both of "
+"which are integrated into the Plasma Mobile UI. This makes it possible to "
+"use and develop for Plasma Mobile on your desktop/laptop."
+msgstr ""
+"Arayüz, Wayland üzerinden KWin kullanır ve bazı kısımlarda biraz pürüzlü "
+"olsa da artık çoğunlukla kararlıdır. Her ikisi de Plasma Mobile Kullanıcı "
+"Arayüzüne entegre edilmiş araç takımları ve etkinlikler dahil olmak üzere "
+"normal KDE Plasma özelliklerinin bir alt kümesi mevcuttur. Bu, masaüstünüzde/"
+"dizüstü bilgisayarınızda Plasma Mobile kullanmayı ve onun için geliştirme "
+"yapmayı olanaklı kılar."
+
+#: content/about.md:27
+msgid "What can it do?"
+msgstr "Neler yapabilirim?"
+
+#: content/about.md:29
+msgid ""
+"There are quite a few touch-optimized apps that are now being bundled with "
+"the Manjaro-based Plasma Mobile image, allowing a wide range of basic "
+"functions."
+msgstr ""
+"Şu anda Manjaro tabanlı Plasma Mobile kalıbıyla bir araya getirilen ve çok "
+"çeşitli temel işlevlere izin veren, dokunma için optimize edilmiş birkaç "
+"uygulama mevcuttur."
+
+#: content/about.md:31
+msgid ""
+"These are mostly built with Kirigami, KDE’s interface framework allowing "
+"convergent UIs that work very well in a touch-only environment."
+msgstr ""
+"Bunlar çoğunlukla KDE'nin yalnızca dokunmatik bir ortamda çok iyi çalışan ve "
+"yakınsak grafik arabirimlere izin veren arayüz kod kitaplığı Kirigami ile "
+"oluşturulmuştur."
+
+#: content/about.md:33
+msgid ""
+"You can find a list of these applications on [plasma-mobile.org homepage]"
+"(https://plasma-mobile.org)."
+msgstr ""
+"Bu uygulamaların bir listesini [plasma-mobile.org anasayfasında](https://"
+"plasma-mobile.org) bulabilirsiniz."
+
+#: content/about.md:35
+msgid "Where can I find…"
+msgstr "Nerede bulabilirim…"
+
+#: content/about.md:37
+msgid ""
+"The code for various Plasma Mobile components can be found on [invent.kde."
+"org](https://invent.kde.org/plasma-mobile)."
+msgstr ""
+"Çeşitli Plasma Mobile bileşenleri için kodları [invent.kde.org](https://"
+"invent.kde.org/plasma-mobile) sayfasında bulabilirsiniz."
+
+#: content/about.md:39
+msgid ""
+"Read the [contributors documentation](https://invent.kde.org/plasma/plasma-"
+"mobile/-/wikis/home) for more details on the Plasma stack and how everything "
+"fits together."
+msgstr ""
+"Plasma yığını üzerine ayrıntılı bilgi ve her şeyin nasıl çalıştığını görmek "
+"için [katkıda bulunma belgelerini](https://invent.kde.org/plasma/plasma-"
+"mobile/-/wikis/home) okuyun."
+
+#: content/about.md:41
+msgid ""
+"You can also ask your questions in the [Plasma Mobile community groups and "
+"channels](/join)."
+msgstr ""
+"Sorularınızı ayrıca [Plasma Mobile topluluk grupları ve kanallarında](/join) "
+"da sorabilirsiniz."
+
+#: content/blog/_index.md:0
+msgid "Blog"
+msgstr "Blog"
+
+#: content/get.md:0 i18n/en.yaml:0
+msgid "Install"
+msgstr "Kur"
+
+#: content/get.md:0
+msgid "Distributions offering Plasma Mobile"
+msgstr "Plasma Mobile'i sunan dağıtımlar"
+
+#: content/get.md:13
+msgid "Listed below are distributions that ship Plasma Mobile."
+msgstr "Aşağıda Plasma Mobile yüklü gelen dağıtımları görebilirsiniz."
+
+#: content/get.md:15
+msgid ""
+"Please check the information for each distribution to see if your device is "
+"supported."
+msgstr ""
+"Aygıtınızın desteklenip desteklenmediğini görmek için her dağıtım için "
+"bilgileri denetleyin."
+
+#: content/get.md:17
+msgid "Mobile"
+msgstr "Taşınabilir"
+
+#: content/get.md:19
+msgid "Manjaro ARM"
+msgstr "Manjaro ARM"
+
+#: content/get.md:21 content/get.md:136
+msgid "![](/img/manjaro.svg)"
+msgstr "![](/img/manjaro.svg)"
+
+#: content/get.md:23
+msgid ""
+"Manjaro ARM is the Manjaro distribution, but for ARM devices. It's based on "
+"Arch Linux ARM, combined with Manjaro tools, themes and infrastructure to "
+"make install images for your ARM device."
+msgstr ""
+"Manjaro ARM, Manjaro dağıtımıdır; ancak ARM aygıtları içindir. ARM aygıtınız "
+"için yükleme kalıpları sağlayan Manjaro araçları, temaları ve altyapısı ile "
+"birlikte Arch Linux ARM'ye dayanmaktadır."
+
+#: content/get.md:25
+msgid ""
+"[Website](https://manjaro.org) [Forum](https://forum.manjaro.org/c/arm/)"
+msgstr ""
+"[Web sitesi](https://manjaro.org) [Forum](https://forum.manjaro.org/c/arm/)"
+
+#: content/get.md:27 content/get.md:48 content/get.md:64 content/get.md:76
+#: content/get.md:140
+msgid "Download"
+msgstr "İndir"
+
+#: content/get.md:29
+msgid ""
+"[Latest Stable (PinePhone)](https://github.com/manjaro-pinephone/plasma-"
+"mobile/releases)"
+msgstr ""
+"[Güncel Kararlı (PinePhone)](https://github.com/manjaro-pinephone/plasma-"
+"mobile/releases)"
+
+#: content/get.md:30
+msgid ""
+"[Developer builds (Pinephone)](https://github.com/manjaro-pinephone/plasma-"
+"mobile-dev/releases)"
+msgstr ""
+"[(Pinephone) Geliştirici Yapıları](https://github.com/manjaro-pinephone/"
+"plasma-mobile-dev/releases)"
+
+#: content/get.md:32
+msgid "Installation"
+msgstr "Kurulum"
+
+#: content/get.md:34
+msgid ""
+"For the PinePhone, you can find generic information on [Pine64 wiki](https://"
+"wiki.pine64.org/index.php/PinePhone_Installation_Instructions)."
+msgstr ""
+"PinePhone için genel bilgiyi [Pine64 vikisinde](https://wiki.pine64.org/"
+"index.php/PinePhone_Installation_Instructions) bulabilirsiniz."
+
+#: content/get.md:38 content/get.md:116
+msgid "postmarketOS"
+msgstr "postmarketOS"
+
+#: content/get.md:40 content/get.md:118
+msgid "![](/img/pmOS.svg)"
+msgstr "![](/img/pmOS.svg)"
+
+#: content/get.md:42
+msgid ""
+"PostmarketOS (pmOS), is a touch-optimized, pre-configured Alpine Linux that "
+"can be installed on smartphones and other mobile devices. View the [device "
+"list](https://wiki.postmarketos.org/wiki/Devices) to see the progress for "
+"supporting your device."
+msgstr ""
+"PostmarketOS (pmOS); akıllı telefonlara ve diğer taşınabilir aygıtlara "
+"kurulabilen, dokunmatik optimizasyonlu, önceden yapılandırılmış bir Alpine "
+"Linux'tur. Aygıtınızı destekleme konusundaki ilerlemeyi görmek için [aygıt "
+"listesini](https://wiki.postmarketos.org/wiki/Devices) görüntüleyin."
+
+#: content/get.md:44
+msgid ""
+"For devices that do not have prebuilt images, you will need to flash it "
+"manually using the `pmbootstrap` utility. Follow instructions [here](https://"
+"wiki.postmarketos.org/wiki/Installation_guide). Be sure to also check the "
+"device's wiki page for more information on what is working."
+msgstr ""
+"Önceden oluşturulmuş kalıplanı olmayan aygıtlar için, 'pmbootstrap' yardımcı "
+"programını kullanarak el ile flaşlamanız gerekecektir. [Buradaki](https://"
+"wiki.postmarketos.org/wiki/Installation_guide) talimatları uygulayın. Ayrıca "
+"neyin çalıştığı hakkında daha fazla bilgi için aygıtınızın viki sayfasını "
+"denetlediğinizden emin olun."
+
+#: content/get.md:46
+msgid "[Learn more](https://postmarketos.org)"
+msgstr "[Daha fazla öğrenin](https://postmarketos.org)"
+
+#: content/get.md:50
+msgid "[Well supported devices](https://postmarketos.org/download/)"
+msgstr "[İyi desteklenen aygıtlar](https://postmarketos.org/download/)"
+
+#: content/get.md:51
+msgid "[Full Device List](https://wiki.postmarketos.org/wiki/Devices)"
+msgstr "[Tam aygıt listesi](https://wiki.postmarketos.org/wiki/Devices)"
+
+#: content/get.md:53
+msgid "Nightly Builds"
+msgstr "Gecelik Yapılar"
+
+#: content/get.md:54
+msgid ""
+"Sineware [Plasma Mobile Nightly](https://sineware.ca/prolinux/plasma-mobile-"
+"nightly/) provides an unofficial Alpine repository and PinePhone/PinePhone "
+"Pro images, built nightly from git main/master."
+msgstr ""
+"Sineware [Plasma Mobile Gecelik](https://sineware.ca/prolinux/plasma-mobile-"
+"nightly/), resmi olmayan bir Alpine deposu ve güncel Git ana deposundan "
+"yapılan PinePhone/PinePhone Pro kalıpları sağlar."
+
+#: content/get.md:58
+msgid "Arch Linux ARM"
+msgstr "Arch Linux ARM"
+
+#: content/get.md:60 content/get.md:128
+msgid "![](/img/archlinux.png)"
+msgstr "![](/img/archlinux.png)"
+
+#: content/get.md:62
+msgid ""
+"Arch Linux ARM has been ported to the PinePhone and PineTab by the DanctNIX "
+"community."
+msgstr ""
+"Arch Linux ARM, PinePhone ve PineTab'e DanctNIX topluluğu tarafından "
+"aktarılmıştır."
+
+#: content/get.md:66
+msgid "[Releases](https://github.com/dreemurrs-embedded/Pine64-Arch/releases)"
+msgstr "[Yayımlar](https://github.com/dreemurrs-embedded/Pine64-Arch/releases)"
+
+#: content/get.md:70
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: content/get.md:72
+msgid "![](/img/openSUSE.svg)"
+msgstr "![](/img/openSUSE.svg)"
+
+#: content/get.md:74
+msgid ""
+"openSUSE, formerly SUSE Linux and SuSE Linux Professional, is a Linux "
+"distribution sponsored by SUSE Linux GmbH and other companies. Currently "
+"openSUSE provides Tumbleweed based Plasma Mobile builds."
+msgstr ""
+"openSUSE; eski adıyla SUSE Linux ve SuSE Linux Professional, SUSE Linux GmbH "
+"ve diğer şirketler tarafından desteklenen bir Linux dağıtımıdır. Şu anda "
+"openSUSE, Tumbleweed tabanlı Plasma Mobile yapıları sağlar."
+
+#: content/get.md:78
+msgid ""
+"[PinePhone](https://download.opensuse.org/repositories/devel:/ARM:/Factory:/"
+"Contrib:/PinePhone/images/openSUSE-Tumbleweed-ARM-PLAMO-pinephone.aarch64."
+"raw.xz)"
+msgstr ""
+"[PinePhone](https://download.opensuse.org/repositories/devel:/ARM:/Factory:/"
+"Contrib:/PinePhone/images/openSUSE-Tumbleweed-ARM-PLAMO-pinephone.aarch64."
+"raw.xz)"
+
+#: content/get.md:82 content/get.md:106
+msgid "Fedora"
+msgstr "Fedora"
+
+#: content/get.md:84 content/get.md:108
+msgid "![](/img/fedora.svg)"
+msgstr "![](/img/fedora.svg)"
+
+#: content/get.md:86
+msgid "This is a work in progress, stay tuned!"
+msgstr "Hâlâ üzerinde çalışılmaktadır, bizi izlemeyi sürdürün!"
+
+#: content/get.md:88
+msgid ""
+"Join the Fedora Mobility [matrix channel](https://matrix.to/#/#mobility:"
+"fedoraproject.org) to get details on the progress."
+msgstr ""
+"İlerleme üzerine en güncel ayrıntıları almak için Fedora Mobility [matrix "
+"kanalına](https://matrix.to/#/#mobility:fedoraproject.org) katılın."
+
+#: content/get.md:90
+msgid "Links to testing images can be found in the channel."
+msgstr "Sınama kalıplarına olan bağlantılar kanalda bulunabilir."
+
+#: content/get.md:94
+msgid "Debian"
+msgstr "Debian"
+
+#: content/get.md:96
+msgid "![](/img/debian.svg)"
+msgstr "![](/img/debian.svg)"
+
+#: content/get.md:98
+msgid "Debian does not package Plasma Mobile packages."
+msgstr "Debian, Plasma Mobile paketlerini sunmaz."
+
+#: content/get.md:100
+msgid ""
+"However, you can install [Mobian](https://mobian-project.org/) and follow "
+"the instructions to add a 3rd party repo providing Plasma Mobile packages "
+"[here](https://jbb.ghsq.ga/debian-pm/)."
+msgstr ""
+"Ancak, [Mobian](https://mobian-project.org/)'ı kurabilir ve [buradan]"
+"(https://jbb.ghsq.ga/debian-pm/) Plasma Mobile paketlerini sunan üçüncü "
+"parti bir depo ekleme yönergelerini izleyebilirsiniz."
+
+#: content/get.md:104
+msgid "Desktop Devices"
+msgstr "Masaüstü Aygıtlar"
+
+#: content/get.md:110
+msgid ""
+"Fedora has Plasma Mobile and related applications packaged in their "
+"repositories."
+msgstr ""
+"Fedora, Plasma Mobile ve ilgili uygulamaları paketleyip depolarında "
+"sunmaktadır."
+
+#: content/get.md:112
+msgid ""
+"Install the [plasma-mobile](https://src.fedoraproject.org/rpms/plasma-"
+"mobile) package."
+msgstr ""
+"[plasma-mobile](https://src.fedoraproject.org/rpms/plasma-mobile) paketini "
+"kurun."
+
+#: content/get.md:120
+msgid ""
+"postmarketOS is able to be run in QEMU, and thus is a suitable option for "
+"trying Plasma Mobile on your computer."
+msgstr ""
+"postmarketOS, QEMU içinde çalıştırılabilir; böylelikle Plasma Mobile'i "
+"bilgisayarınızda kolaylıkla deneyebilirsiniz."
+
+#: content/get.md:122
+msgid ""
+"Read more about it [here](https://wiki.postmarketos.org/wiki/"
+"QEMU_amd64_(qemu-amd64)). During the setup process, simply select Plasma "
+"Mobile as the desktop environment."
+msgstr ""
+"Ayrıntılı bilgi için [buraya](https://wiki.postmarketos.org/wiki/"
+"QEMU_amd64_(qemu-amd64)) bakın. Kurulum sırasında, masaüstü ortamı olarak "
+"Plasma Mobile'i seçin."
+
+#: content/get.md:126
+msgid "Arch Linux"
+msgstr "Arch Linux"
+
+#: content/get.md:130
+msgid ""
+"Plasma Mobile is available on the [AUR](https://aur.archlinux.org/packages/"
+"plasma-mobile)."
+msgstr ""
+"Plasma Mobile, [AUR](https://aur.archlinux.org/packages/plasma-mobile) "
+"üzerinde bulunabilir."
+
+#: content/get.md:134
+msgid "Manjaro"
+msgstr "Manjaro"
+
+#: content/get.md:138
+msgid "Manjaro builds x64 images for use on desktop."
+msgstr "Manjaro, masaüstü kullanımı için x86 kalıpları yapar."
+
+#: content/get.md:142
+msgid "[Images](https://github.com/manjaro/manjaro-plasma-mobile-x64/releases)"
+msgstr ""
+"[Görseller](https://github.com/manjaro/manjaro-plasma-mobile-x64/releases)"
+
+#: content/get.md:146
+msgid "KDE Neon"
+msgstr "KDE Neon"
+
+#: content/get.md:148
+msgid "![](/img/neon.svg)"
+msgstr "![](/img/neon.svg)"
+
+#: content/get.md:150
+msgid "**WARNING**: This is not actively maintained!"
+msgstr "**UYARI**: Bu sürüm güncel değildir!"
+
+#: content/get.md:152
+msgid ""
+"This image, based on KDE neon, can be tested on non-android intel tablets, "
+"PCs and virtual machines."
+msgstr ""
+"KDe neon tabanlı bu sürüm, Android olmayan Intel tabanlı tabletlerde, "
+"kişisel bilgisayarlarda ve sanal makinelerde sınanabilir."
+
+#: content/get.md:154
+msgid "[Neon amd64](https://files.kde.org/neon/images/mobile/)"
+msgstr "[Neon amd64](https://files.kde.org/neon/images/mobile/)"
+
+#: content/join.md:0
+msgid "Community"
+msgstr "Topluluk"
+
+#: content/join.md:12
+msgid ""
+"If you'd like to contribute to the amazing free software for mobile devices, "
+"[join us - we always have a task for you](https://invent.kde.org/plasma/"
+"plasma-mobile/-/wikis/home)!"
+msgstr ""
+"Taşınabilir aygıtlar için tasarlanan bu mükemmel yazılıma katkıda bulunmak "
+"isterseniz [bize katılın, yapılacak bir şeyler her zaman vardır](https://"
+"invent.kde.org/plasma/plasma-mobile/-/wikis/home)!"
+
+#: content/join.md:14
+msgid "<img src=\"/img/konqi/konqi-contribute.png\" width=200px/>\n"
+msgstr "<img src=\"/img/konqi/konqi-contribute.png\" width=200px/>\n"
+
+#: content/join.md:18
+msgid "Plasma Mobile community groups and channels:"
+msgstr "Plasma Mobile topluluk grupları ve kanalları:"
+
+#: content/join.md:20
+msgid "Plasma Mobile specific channels:"
+msgstr "Plasma Mobile'e özel kanallar:"
+
+#: content/join.md:22
+msgid ""
+"[![](/img/matrix.svg)Matrix (most active)](https://matrix.to/#/#plasmamobile:"
+"matrix.org)"
+msgstr ""
+"[![](/img/matrix.svg)Matrix (en yoğun)](https://matrix.to/#/#plasmamobile:"
+"matrix.org)"
+
+#: content/join.md:24
+msgid "[![](/img/telegram.svg)Telegram](https://t.me/plasmamobile)"
+msgstr "[![](/img/telegram.svg)Telegram](https://t.me/plasmamobile)"
+
+#: content/join.md:26
+msgid ""
+"[![](/img/mail.svg)Plasma Mobile mailing list](https://mail.kde.org/mailman/"
+"listinfo/plasma-mobile)"
+msgstr ""
+"[![](/img/mail.svg)Plasma Mobile posta listesi](https://mail.kde.org/mailman/"
+"listinfo/plasma-mobile)"
+
+#: content/join.md:29
+msgid "Plasma Mobile related project channels:"
+msgstr "Plasma Mobile ile ilgili proje kanalları:"
+
+#: content/join.md:31
+msgid ""
+"[![](/img/mail.svg)Plasma development mailing list](https://mail.kde.org/"
+"mailman/listinfo/plasma-devel)"
+msgstr ""
+"[![](/img/mail.svg)Plasma geliştirme posta listesi](https://mail.kde.org/"
+"mailman/listinfo/plasma-devel)"
+
+#: content/screenshots.md:0
+msgid "Screenshots"
+msgstr "Ekran Görüntüleri"
+
+#: content/screenshots.md:0
+msgid "Homescreen"
+msgstr "Ana Ekran"
+
+#: content/screenshots.md:0
+msgid "App Drawer (Grid)"
+msgstr "Uygulama Çekmecesi (Izgara)"
+
+#: content/screenshots.md:0
+msgid "App Drawer (List)"
+msgstr "Uygulama Çekmecesi (Liste)"
+
+#: content/screenshots.md:0
+msgid "Action Drawer (Expanded)"
+msgstr "Eylem Çekmecesi (Genişletilmiş)"
+
+#: content/screenshots.md:0
+msgid "Action Drawer (Minimized)"
+msgstr "Eylem Çekmecesi (Küçültülmüş)"
+
+#: content/screenshots.md:0
+msgid "Task Switcher"
+msgstr "Görev Değiştirici"
+
+#: content/screenshots.md:0
+msgid "Weather"
+msgstr "Hava Durumu"
+
+#: content/screenshots.md:0
+msgid "Calculator"
+msgstr "Hesap Makinesi"
+
+#: content/screenshots.md:0
+msgid "Calendar"
+msgstr "Takvim"
+
+#: content/screenshots.md:0
+msgid "Clock"
+msgstr "Clock"
+
+#: content/screenshots.md:0
+msgid "Angelfish, a web browser"
+msgstr "Angelfish, bir web tarayıcısı"
+
+#: content/screenshots.md:0
+msgid "Discover, an app store"
+msgstr "Keşfet, bir uygulama mağazası"
+
+#: content/screenshots.md:0
+msgid "Plasma mobile homescreen"
+msgstr "Plasma Mobile ana ekranı"
+
+#: content/screenshots.md:0
+msgid "Index, a file manager"
+msgstr "Index, bir dosya yöneticisi"
+
+#: content/screenshots.md:0
+msgid "Koko, a photo library viewer"
+msgstr "Koko, bir fotoğraf kitaplığı görüntüleyici"
+
+#: content/screenshots.md:0
+msgid "Dialer"
+msgstr "Çevirici"
+
+#: content/screenshots.md:0
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: content/screenshots.md:0
+msgid "Elisa, a music player"
+msgstr "Elisa, bir müzik çalar"
+
+#: content/screenshots.md:0
+msgid "Megapixels, a camera application"
+msgstr "Megapixels, bir kamera uygulaması"
+
+#: content/screenshots.md:0
+msgid "The hardware"
+msgstr "Donanım"
+
+#: content/screenshots.md:51
+msgid ""
+"The following screenshots were taken from a Pinephone device running Plasma "
+"Mobile (April 2022)."
+msgstr ""
+"Aşağıdaki ekran görüntüleri, Plasma Mobile çalıştıran bir PinePhone'dan "
+"alınmıştır (Nisan 2022)."
+
+#: i18n/en.yaml:0
+msgid "Plasma, in your pocket."
+msgstr "Plasma, cebinizde."
+
+#: i18n/en.yaml:0
+msgid "Open up."
+msgstr "Açılın."
+
+#: i18n/en.yaml:0
+msgid ""
+"Plasma Mobile is an open-source user interface for phones. Running on top of "
+"a Linux distribution, Plasma Mobile turns your phone into a fully hackable "
+"device."
+msgstr ""
+"Plasma Mobile, telefonlar için açık kaynaklı bir kullanıcı arabirimidir. "
+"Linux dağıtımları üzerinde çalışır ve telefonunuzu deşilebilen bir aygıta "
+"dönüştürür."
+
+#: i18n/en.yaml:0
+msgid "Contribute"
+msgstr "Katkıda bulun"
+
+#: i18n/en.yaml:0
+msgid ""
+"Using the multi-platform toolkit Qt, the flexible extensions of KDE "
+"Frameworks plus the power of Plasma Shell, Plasma Mobile is built with "
+"technology which feels equally at home on the desktop and mobile devices."
+msgstr ""
+"Çok platformlu Qt araç takımını, KDE kod kitaplıklarının esnek uzantılarını "
+"ve Plasma kabuğunun tam gücünü kullan Plasma Mobile, hem masaüstü hem "
+"taşınabilir aygıtlarda sizi evinizde hissettiren bir teknoloji ile "
+"üretilmiştir."
+
+#: i18n/en.yaml:0
+msgid "KWin and Wayland"
+msgstr "KWin ve Wayland"
+
+#: i18n/en.yaml:0
+msgid ""
+"Wayland is the next-generation protocol for delivering cutting-edge "
+"interfaces which are silky smooth. KWin is the battle-tested window manager "
+"which implements Wayland, delivering a polished and reliable experience on "
+"both the desktop and mobile devices."
+msgstr ""
+"Wayland, pürüzsüz son teknoloji arayüzler sunmada kullanılan yeni nesil "
+"protokoldür. KWin, Wayland'ı uygulayan, hem masaüstü hem taşınabilir "
+"aygıtlarda gösterişli ve güvenilir bir deneyim sunan, uzun süre sınanmış bir "
+"pencere yöneticisidir."
+
+#: i18n/en.yaml:0
+msgid "Making full use of Open Source"
+msgstr "Açık kaynağın tam gücü"
+
+#: i18n/en.yaml:0
+msgid ""
+"Plasma Mobile combines many powerful software tools from established "
+"projects to make a whole greater than the sum of its parts.<br /> "
+"ModemManager provides our telephone solution and Pulseaudio drives the "
+"Plasma Mobile sound system."
+msgstr ""
+"Plasma Mobile, parçalarının toplamından daha büyük bir bütün oluşturmak için "
+"yerleşik projelerden birçok güçlü yazılım aracını birleştirir.<br /> "
+"ModemManager telefon çözümümüzü sağlar ve Pulseaudio, Plasma Mobile ses "
+"sistemini çalıştırır."
+
+#: i18n/en.yaml:0
+msgid "Adapting to your needs"
+msgstr "Gereksinimlerinize uyum sağlar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Being based on the most flexible desktop in the world means you can truly "
+"make your phone your own. Add and modify widgets, change colour schemes, "
+"fonts, and much, much more."
+msgstr ""
+"Dünyanın en esnek masaüstü tabanlı olması, telefonunuzu gerçekten kendinize "
+"ait hale getirebileceğiniz anlamına gelir. Araç takımları ekleyin ve "
+"değiştirin, renk şemalarını, yazıtiplerini ve çok daha fazlasını kendi "
+"zevkinize göre ayarlayın."
+
+#: i18n/en.yaml:0
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Plasma Mobile apps are developed with [Kirigami](https://develop.kde.org/"
+"frameworks/kirigami) but applications developed for other Linux operating "
+"system are generally compatible."
+msgstr ""
+"Plasma Mobile uygulamaları [Kirigami](https://develop.kde.org/frameworks/"
+"kirigami) ile geliştirilmiştir; ancak diğer Linux işletim sistemleri için "
+"geliştirilen uygulamalarla da genellikle uyumludur."
+
+#: i18n/en.yaml:0
+msgid "Why?"
+msgstr "Neden?"
+
+#: i18n/en.yaml:0
+msgid ""
+"The most common offerings on mobile devices lack openness and trust. In a "
+"world of walled gardens, we want to create a platform that respects and "
+"protects the user’s privacy to the fullest. We want to provide a fully open "
+"base which others can help develop and use for themselves, or in their "
+"products."
+msgstr ""
+"Taşınabilir aygıtlardaki mevcut seçenekler açıklık ve güvenden yoksundur. "
+"Duvarlarla çevrili bir dünyada, kullanıcının gizliliğine saygı duyan ve onu "
+"sonuna kadar koruyan bir platform oluşturmak gerektiğinin ayrımındayız. "
+"Başkalarının geliştirmelerine ve kendileri için veya ürünlerinde "
+"kullanmalarına yardımcı olabilecekleri tamamen açık bir temel sağlamak "
+"istiyoruz."
+
+#~ msgid "Neon based amd64 ISO image"
+#~ msgstr "Neon tabanlı amd64 ISO kalıbı"
+
+#~ msgid "KWeather, Plasma mobile weather application"
+#~ msgstr "KWeather, Plasma Mobile hava durumu uygulaması"
+
+#~ msgid "Kalk, a calculator application"
+#~ msgstr "Kalk, bir hesap makinesi uygulaması"
+
+#~ msgid "Calindori, a calendar application"
+#~ msgstr "Calindori, bir takvim uygulaması"
+
+#~ msgid "Buho, a note taking application"
+#~ msgstr "Buho, bir not alma uygulaması"
+
+#~ msgid "Kongress"
+#~ msgstr "Kongress"
+
+#~ msgid "Okular Mobile, a universal document viewer"
+#~ msgstr "Okular Mobile, genel bir belge görüntüleyici"
+
+#~ msgid "Nota, a text editor"
+#~ msgstr "Nota, bir metin düzenleyici"
+
+#~ msgid "Pix, another image viewer"
+#~ msgstr "Pix, başka bir resim görüntüleyici"

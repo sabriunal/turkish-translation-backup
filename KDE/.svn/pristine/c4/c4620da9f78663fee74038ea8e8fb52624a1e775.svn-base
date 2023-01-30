@@ -1,0 +1,24 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-28 00:47+0000\n"
+"PO-Revision-Date: 2022-09-28 11:48+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.1\n"
+
+#. (itstool) path: component/name
+#: org.kde.neon.net.launchpad.ppa.mozillateam.metainfo.xml:9
+msgid "Firefox and Thunderbird Archive"
+msgstr "Firefox ve Thunderbird Arşivi"
+
+#. (itstool) path: component/summary
+#: org.kde.neon.net.launchpad.ppa.mozillateam.metainfo.xml:10
+msgid "Firefox and Thunderbird stable builds"
+msgstr "Firefox ve Thunderbird kararlı yapıları"

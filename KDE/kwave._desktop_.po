@@ -1,0 +1,189 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-02 00:55+0000\n"
+"PO-Revision-Date: 2022-06-13 13:10+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.1\n"
+"X-POOTLE-MTIME: 1497616342.000000\n"
+
+#: kwave/org.kde.kwave.desktop.in:4
+msgctxt "GenericName"
+msgid "Sound Editor"
+msgstr "Ses Düzenleyici"
+
+#: kwave/org.kde.kwave.desktop.in:37
+msgctxt "Name"
+msgid "Kwave Sound Editor"
+msgstr "Kwave Ses Düzenleyicisi"
+
+#: kwave/org.kde.kwave.desktop.in:70
+msgctxt "Comment"
+msgid "A sound editor by KDE"
+msgstr "KDE tarafından geliştirilmiş bir ses düzenleyicisi"
+
+#: plugins/about/kwaveplugin_about.desktop.in:2
+msgctxt "Name"
+msgid "About Kwave"
+msgstr "Kwave Hakkında"
+
+#: plugins/amplifyfree/kwaveplugin_amplifyfree.desktop.in:2
+msgctxt "Name"
+msgid "Amplify Free"
+msgstr "Boşu Yükselt"
+
+#: plugins/band_pass/kwaveplugin_band_pass.desktop.in:2
+msgctxt "Name"
+msgid "Band Pass Filter"
+msgstr "Bant Geçiş Süzgeci"
+
+#: plugins/codec_ascii/kwaveplugin_codec_ascii.desktop.in:2
+msgctxt "Name"
+msgid "ASCII Codec"
+msgstr "ACII Kodek"
+
+#: plugins/codec_audiofile/kwaveplugin_codec_audiofile.desktop.in:2
+msgctxt "Name"
+msgid "Audiofile Codec"
+msgstr "Audiofile Kodek"
+
+#: plugins/codec_flac/kwaveplugin_codec_flac.desktop.in:2
+msgctxt "Name"
+msgid "FLAC Codec"
+msgstr "FLAC Kodek"
+
+#: plugins/codec_mp3/kwaveplugin_codec_mp3.desktop.in:2
+msgctxt "Name"
+msgid "MP3 Codec"
+msgstr "MP3 Kodek"
+
+#: plugins/codec_ogg/kwaveplugin_codec_ogg.desktop.in:2
+msgctxt "Name"
+msgid "Ogg Codec"
+msgstr "Ogg Kodek"
+
+#: plugins/codec_wav/kwaveplugin_codec_wav.desktop.in:2
+msgctxt "Name"
+msgid "WAV Codec"
+msgstr "WAV Kodek"
+
+#: plugins/debug/kwaveplugin_debug.desktop.in:2
+msgctxt "Name"
+msgid "Debug Functions"
+msgstr "Hata Ayıklama İşlevleri"
+
+#: plugins/export_k3b/kwaveplugin_export_k3b.desktop.in:2
+msgctxt "Name"
+msgid "K3b Project Export"
+msgstr "K3b Proje Dışa Aktarma"
+
+#: plugins/fileinfo/kwaveplugin_fileinfo.desktop.in:2
+msgctxt "Name"
+msgid "File Info"
+msgstr "Dosya Bilgisi"
+
+#: plugins/goto/kwaveplugin_goto.desktop.in:2
+msgctxt "Name"
+msgid "Goto Position"
+msgstr "Gidilecek Konum"
+
+#: plugins/goto/kwaveplugin_insert_at.desktop.in:2
+msgctxt "Name"
+msgid "Insert At"
+msgstr "Şuraya Ekle"
+
+#: plugins/lowpass/kwaveplugin_lowpass.desktop.in:2
+msgctxt "Name"
+msgid "Low Pass Filter"
+msgstr "Düşük Geçiş Süzgeci"
+
+#: plugins/newsignal/kwaveplugin_newsignal.desktop.in:2
+msgctxt "Name"
+msgid "New Signal"
+msgstr "Yeni Sinyal"
+
+#: plugins/noise/kwaveplugin_noise.desktop.in:2
+msgctxt "Name"
+msgid "Noise Generator"
+msgstr "Ses Üreteci"
+
+#: plugins/normalize/kwaveplugin_normalize.desktop.in:2
+msgctxt "Name"
+msgid "Normalizer"
+msgstr "Normalleştirici"
+
+#: plugins/notch_filter/kwaveplugin_notch_filter.desktop.in:2
+msgctxt "Name"
+msgid "Notch Filter"
+msgstr "Çentik Süzgeci"
+
+#: plugins/pitch_shift/kwaveplugin_pitch_shift.desktop.in:2
+msgctxt "Name"
+msgid "Pitch Shift"
+msgstr "Atım Kaydırma"
+
+#: plugins/playback/kwaveplugin_playback.desktop.in:2
+msgctxt "Name"
+msgid "Playback"
+msgstr "Çal"
+
+#: plugins/record/kwaveplugin_record.desktop.in:2
+msgctxt "Name"
+msgid "Record"
+msgstr "Kaydet"
+
+#: plugins/reverse/kwaveplugin_reverse.desktop.in:2
+msgctxt "Name"
+msgid "Reverse"
+msgstr "Ters"
+
+#: plugins/samplerate/kwaveplugin_samplerate.desktop.in:2
+msgctxt "Name"
+msgid "Sample Rate Conversion"
+msgstr "Örnekleme Hızı Dönüşümü"
+
+#: plugins/saveblocks/kwaveplugin_saveblocks.desktop.in:2
+msgctxt "Name"
+msgid "Save Blocks"
+msgstr "Blokları Kaydet"
+
+#: plugins/selectrange/kwaveplugin_selectrange.desktop.in:2
+msgctxt "Name"
+msgid "Select Range"
+msgstr "Aralık Seç"
+
+#: plugins/sonagram/kwaveplugin_sonagram.desktop.in:2
+msgctxt "Name"
+msgid "Sonagram"
+msgstr "Sonagram"
+
+#: plugins/stringenter/kwaveplugin_stringenter.desktop.in:2
+msgctxt "Name"
+msgid "Enter Command"
+msgstr "Komut Girin"
+
+#: plugins/volume/kwaveplugin_volume.desktop.in:2
+msgctxt "Name"
+msgid "Volume"
+msgstr "Ses"
+
+#: plugins/zero/kwaveplugin_zero.desktop.in:2
+msgctxt "Name"
+msgid "Zero Generator"
+msgstr "Sıfır Üreteci"
+
+#~ msgctxt "Comment"
+#~ msgid "Kwave Plugin"
+#~ msgstr "Kwave Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Memory Settings"
+#~ msgstr "Bellek Ayarları"

@@ -1,0 +1,1648 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kasts package.
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: kasts\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-26 00:59+0000\n"
+"PO-Revision-Date: 2023-01-24 19:17+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Emir SARI"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "emir_sari@icloud.com"
+
+#: audiomanager.cpp:373
+#, kde-format
+msgid "No connection or streaming on metered connection not allowed"
+msgstr "Kısıtlı bağlantılarda bir bağlantıya veya akışa izin verilmiyor"
+
+#: audiomanager.cpp:507
+#, kde-format
+msgid "Invalid Media"
+msgstr "Geçersiz Ortam"
+
+#: enclosure.cpp:164
+#, kde-format
+msgid "Podcast downloads not allowed due to user setting"
+msgstr "Kullanıcı ayarlarından dolayı podcast indirmelerine izin verilmiyor"
+
+#: enclosuredownloadjob.cpp:33
+#, kde-format
+msgid "Downloading %1"
+msgstr "%1 indiriliyor"
+
+#: error.cpp:48
+#, kde-format
+msgid "Podcast Update Error"
+msgstr "Podcast Güncelleme Hatası"
+
+#: error.cpp:50
+#, kde-format
+msgid "Media Download Error"
+msgstr "Ortam İndirme Hatası"
+
+#: error.cpp:52
+#, kde-format
+msgid "Update Not Allowed on Metered Connection"
+msgstr "Kısıtlı Bağlantıda Güncellemeye İzin Verilmiyor"
+
+#: error.cpp:54
+#, kde-format
+msgid "Invalid Media File"
+msgstr "Geçersiz Ortam Dosyası"
+
+#: error.cpp:56
+#, kde-format
+msgid "Nothing Found"
+msgstr "Bir Şey Bulunmadı"
+
+#: error.cpp:58
+#, kde-format
+msgid "Error moving storage path"
+msgstr "Depolama yolu taşınırken hata"
+
+#: error.cpp:60
+#, kde-format
+msgid "Error Syncing Feed and/or Episode Status"
+msgstr "Bölüm Durumu ve/veya Besleme Eşzamanlanırken Hata"
+
+#: error.cpp:62
+#, kde-format
+msgid "No Connection or Streaming Not Allowed on Metered Connection"
+msgstr "Kısıtlı Bağlantıda Bağlantıya veya Akışa İzin Verilmiyor"
+
+#: kmediasession/example-app/qml/main.qml:20
+#, kde-format
+msgid "Example player KMediaSession"
+msgstr "Örnek oynatıcı KMediaSession"
+
+#: kmediasession/example-app/qml/main.qml:72
+#, kde-format
+msgid "Select file..."
+msgstr "Dosya seç..."
+
+#: kmediasession/example-app/qml/main.qml:78
+#, kde-format
+msgid "Select media file"
+msgstr "Ortam dosyası seç"
+
+#: kmediasession/example-app/qml/main.qml:85
+#, kde-format
+msgid "OR"
+msgstr "VEYA"
+
+#: kmediasession/example-app/qml/main.qml:93
+#, kde-format
+msgid "Open"
+msgstr "Aç"
+
+#: kmediasession/example-app/qml/main.qml:101 qml/ChapterListDelegate.qml:39
+#: qml/Desktop/DesktopPlayerControls.qml:129 qml/EntryPage.qml:155
+#: qml/GenericEntryDelegate.qml:322
+#, kde-format
+msgid "Play"
+msgstr "Çal"
+
+#: kmediasession/example-app/qml/main.qml:109
+#: qml/Desktop/DesktopPlayerControls.qml:129 qml/EntryPage.qml:147
+#: qml/GenericEntryDelegate.qml:343
+#, kde-format
+msgid "Pause"
+msgstr "Duraklat"
+
+#: kmediasession/example-app/qml/main.qml:117 qml/SleepTimerDialog.qml:41
+#, kde-format
+msgid "Stop"
+msgstr "Durdur"
+
+#: kmediasession/example-app/qml/main.qml:147
+#, kde-format
+msgid "Mute"
+msgstr "Sessize Al"
+
+#: kmediasession/example-app/qml/main.qml:174
+#, kde-format
+msgid "title: %1"
+msgstr "başlık: %1"
+
+#: kmediasession/example-app/qml/main.qml:177
+#, kde-format
+msgid "artist: %1"
+msgstr "sanatçı: %1"
+
+#: kmediasession/example-app/qml/main.qml:180
+#, kde-format
+msgid "album: %1"
+msgstr "albüm: %1"
+
+#: kmediasession/example-app/qml/main.qml:191
+#, kde-format
+msgid "mediaStatus: %1"
+msgstr "ortamDurumu: %1"
+
+#: kmediasession/example-app/qml/main.qml:194
+#, kde-format
+msgid "playbackStatus: %1"
+msgstr "çalmaDurumu: %1"
+
+#: kmediasession/example-app/qml/main.qml:197
+#, kde-format
+msgid "error: %1"
+msgstr "hata: %1"
+
+#: kmediasession/powermanagement/powermanagementinterface.cpp:188
+#: kmediasession/powermanagement/powermanagementinterface.cpp:214
+#, kde-format
+msgctxt "Explanation for sleep inhibit during media playback"
+msgid "Playing Media"
+msgstr "Ortam Çalınıyor"
+
+#: main.cpp:108
+#, kde-format
+msgid "Podcast Application"
+msgstr "Podcast Uygulaması"
+
+#: main.cpp:110
+#, kde-format
+msgid "Adds a new podcast to subscriptions."
+msgstr "Aboneliklere yeni bir podcast ekler."
+
+#: main.cpp:111
+#, kde-format
+msgid "Podcast URL"
+msgstr "Podcast URL'si"
+
+#: main.cpp:116
+#, kde-format
+msgid "Kasts"
+msgstr "Kasts"
+
+#: main.cpp:118
+#, kde-format
+msgid "Podcast Player"
+msgstr "Podcast Çalar"
+
+#: main.cpp:120
+#, kde-format
+msgid "© 2020-2022 KDE Community"
+msgstr "© 2020-2022 KDE Topluluğu"
+
+#: main.cpp:121
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: main.cpp:122
+#, kde-format
+msgid "Bart De Vries"
+msgstr "Bart De Vries"
+
+#: models/episodeproxymodel.cpp:86
+#, kde-format
+msgid "No Filter"
+msgstr "Süzgeç Yok"
+
+#: models/episodeproxymodel.cpp:88
+#, kde-format
+msgid "Played Episodes"
+msgstr "Çalınan Bölümler"
+
+#: models/episodeproxymodel.cpp:90
+#, kde-format
+msgid "Unplayed Episodes"
+msgstr "Çalınmayan Bölümler"
+
+#: models/episodeproxymodel.cpp:92
+#, kde-format
+msgid "Episodes marked as \"New\""
+msgstr "\"Yeni\" olarak imlenen bölümler"
+
+#: models/episodeproxymodel.cpp:94
+#, kde-format
+msgid "Episodes not marked as \"New\""
+msgstr "\"Yeni\" olarak imlenmeyen bölümler"
+
+#: qml/AddFeedSheet.qml:21
+#, kde-format
+msgid "Add New Podcast"
+msgstr "Yeni Podcast Ekle"
+
+#: qml/AddFeedSheet.qml:27
+#, kde-format
+msgid "Url:"
+msgstr "URL:"
+
+#: qml/AddFeedSheet.qml:49 qml/FeedListPage.qml:54
+#, kde-format
+msgid "Add Podcast"
+msgstr "Podcast Ekle"
+
+#: qml/ConnectionCheckAction.qml:21
+#, kde-format
+msgid "Podcast updates are currently not allowed on metered connections"
+msgstr "Şu anda kısıtlı bağlantılarda podcast güncellemelerine izin verilmiyor"
+
+#: qml/ConnectionCheckAction.qml:55
+#, kde-format
+msgid "Select Option"
+msgstr "Seçenek Seç"
+
+#: qml/ConnectionCheckAction.qml:82
+#, kde-format
+msgid "Don't Allow"
+msgstr "İzin Verme"
+
+#: qml/ConnectionCheckAction.qml:95
+#, kde-format
+msgid "Allow Once"
+msgstr "Bir Kez İzin Ver"
+
+#: qml/ConnectionCheckAction.qml:108
+#, kde-format
+msgid "Always Allow"
+msgstr "Her Zaman İzin Ver"
+
+#: qml/Desktop/DesktopPlayerControls.qml:119
+#, kde-format
+msgid "Seek Backward"
+msgstr "Geriye Sar"
+
+#: qml/Desktop/DesktopPlayerControls.qml:138
+#, kde-format
+msgid "Seek Forward"
+msgstr "İleri Sar"
+
+#: qml/Desktop/DesktopPlayerControls.qml:147
+#, kde-format
+msgid "Skip Forward"
+msgstr "İleri Atla"
+
+#: qml/Desktop/DesktopPlayerControls.qml:163
+#, kde-format
+msgid "Playback Rate: "
+msgstr "Çalma Hızı: "
+
+#: qml/Desktop/DesktopPlayerControls.qml:222
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Chapter List"
+msgstr "Fasıl Listesini Göster"
+
+#: qml/Desktop/DesktopPlayerControls.qml:234
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Episode Info"
+msgstr "Bölüm Bilgisini Göster"
+
+#: qml/Desktop/DesktopPlayerControls.qml:246
+#, kde-format
+msgctxt "@action:button"
+msgid "Open Sleep Timer Settings"
+msgstr "Uyku Sayacı Ayarlarını Aç"
+
+#: qml/Desktop/DesktopPlayerControls.qml:261
+#: qml/Mobile/MobilePlayerControls.qml:345
+#, kde-format
+msgctxt "@action:button"
+msgid "Open Volume Settings"
+msgstr "Ses Düzeyi Ayarlarını Aç"
+
+#: qml/Desktop/DesktopPlayerControls.qml:306
+#: qml/Mobile/MobilePlayerControls.qml:375
+#, kde-format
+msgctxt "@action:button"
+msgid "Toggle Mute"
+msgstr "Sesi Aç/Kapat"
+
+#: qml/Desktop/DesktopPlayerControls.qml:323
+#, kde-format
+msgctxt "@action:button"
+msgid "Show More"
+msgstr "Daha Fazla Göster"
+
+#: qml/Desktop/DesktopPlayerControls.qml:353
+#, kde-format
+msgctxt "@action:button"
+msgid "Chapters"
+msgstr "Fasıllar"
+
+#: qml/Desktop/DesktopPlayerControls.qml:361
+#, kde-format
+msgctxt "@action:button"
+msgid "Show Info"
+msgstr "Bilgi Göster"
+
+#: qml/Desktop/DesktopPlayerControls.qml:371
+#, kde-format
+msgctxt "@action:button"
+msgid "Sleep Timer"
+msgstr "Uyku Sayacı"
+
+#: qml/Desktop/DesktopPlayerControls.qml:405
+#, kde-format
+msgid "Chapters"
+msgstr "Fasıllar"
+
+#: qml/Desktop/DesktopPlayerControls.qml:425 qml/Desktop/HeaderBar.qml:120
+#: qml/Mobile/MobilePlayerControls.qml:179
+#, kde-format
+msgid "No Track Title"
+msgstr "Parça Başlığı Yok"
+
+#: qml/Desktop/DesktopPlayerControls.qml:430 qml/Desktop/HeaderBar.qml:121
+#: qml/Mobile/MobilePlayerControls.qml:21
+#: qml/Mobile/MobilePlayerControls.qml:189
+#, kde-format
+msgid "No Track Loaded"
+msgstr "Yüklenen Parça Yok"
+
+#: qml/DiscoverPage.qml:16 qml/FeedListPage.qml:40 qml/main.qml:188
+#, kde-format
+msgid "Discover"
+msgstr "Keşfet"
+
+#: qml/DiscoverPage.qml:23
+#, kde-format
+msgid "Search podcastindex.org"
+msgstr "podcastindex.org aranıyor"
+
+#: qml/DiscoverPage.qml:32
+#, kde-format
+msgid "Search"
+msgstr "Arama"
+
+#: qml/DiscoverPage.qml:67 qml/FeedDetailsPage.qml:142
+#, kde-format
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#: qml/DiscoverPage.qml:67 qml/FeedDetailsPage.qml:142
+#, kde-format
+msgid "Subscribed"
+msgstr "Abone Olundu"
+
+#: qml/DownloadListPage.qml:16 qml/EpisodeListPage.qml:33 qml/main.qml:224
+#, kde-format
+msgid "Downloads"
+msgstr "İndirmeler"
+
+#: qml/DownloadListPage.qml:31 qml/EpisodeListPage.qml:49
+#: qml/FeedListPage.qml:49
+#, kde-format
+msgid "Refresh All Podcasts"
+msgstr "Tüm Podcast'leri Yenile"
+
+#: qml/DownloadListPage.qml:48
+#, kde-format
+msgid "No Downloads"
+msgstr "İndirme Yok"
+
+#: qml/DownloadListPage.qml:64
+#, kde-format
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+#: qml/DownloadListPage.qml:65
+#, kde-format
+msgid "Incomplete Downloads"
+msgstr "Tamamlanmamış İndirmeler"
+
+#: qml/DownloadListPage.qml:66
+#, kde-format
+msgid "Downloaded"
+msgstr "İndirildi"
+
+#: qml/EntryPage.qml:22
+#, kde-format
+msgid "Episode Details"
+msgstr "Bölüm Ayrıntıları"
+
+#: qml/EntryPage.qml:114
+#, kde-format
+msgid "Open in Browser"
+msgstr "Tarayıcıda Aç"
+
+#: qml/EntryPage.qml:122 qml/GenericEntryDelegate.qml:295
+#: qml/GenericEntryListView.qml:197
+#, kde-format
+msgid "Download"
+msgstr "İndir"
+
+#: qml/EntryPage.qml:131 qml/GenericEntryDelegate.qml:304
+#, kde-format
+msgid "Cancel Download"
+msgstr "İndirmeyi İptal Et"
+
+#: qml/EntryPage.qml:139 qml/EntryPage.qml:192 qml/GenericEntryDelegate.qml:310
+#, kde-format
+msgid "Delete Download"
+msgstr "İndirmeyi Sil"
+
+#: qml/EntryPage.qml:164 qml/GenericEntryDelegate.qml:331
+#, kde-format
+msgctxt ""
+"Action to start playback by streaming the episode rather than downloading it "
+"first"
+msgid "Stream"
+msgstr "Akış"
+
+#: qml/EntryPage.qml:176 qml/GenericEntryDelegate.qml:287
+#: qml/GenericEntryListView.qml:155
+#, kde-format
+msgid "Remove from Queue"
+msgstr "Kuyruktan Kaldır"
+
+#: qml/EntryPage.qml:176 qml/GenericEntryDelegate.qml:316
+#: qml/GenericEntryListView.qml:145
+#, kde-format
+msgid "Add to Queue"
+msgstr "Kuyruğa Ekle"
+
+#: qml/EntryPage.qml:198
+#, kde-format
+msgid "Reset Play Position"
+msgstr "Çalma Konumunu Sıfırla"
+
+#: qml/EntryPage.qml:204 qml/GenericEntryListView.qml:173
+#, kde-format
+msgid "Mark as Unplayed"
+msgstr "Çalınmamış Olarak İmle"
+
+#: qml/EntryPage.qml:204 qml/GenericEntryListView.qml:165
+#, kde-format
+msgid "Mark as Played"
+msgstr "Çalınmış Olarak İmle"
+
+#: qml/EntryPage.qml:211 qml/GenericEntryListView.qml:189
+#, kde-format
+msgid "Remove \"New\" Label"
+msgstr "\"Yeni\" Etiketini Kaldır"
+
+#: qml/EntryPage.qml:211 qml/GenericEntryListView.qml:181
+#, kde-format
+msgid "Label as \"New\""
+msgstr "\"Yeni\" Olarak İmle"
+
+#: qml/EntryPage.qml:218
+#, kde-format
+msgid "Open Podcast"
+msgstr "Podcast Aç"
+
+#: qml/EntryPage.qml:288
+#, kde-format
+msgid "Copy Episode Download URL"
+msgstr "Bölüm İndirme URL'sini Kopyala"
+
+#: qml/EntryPage.qml:294
+#, kde-format
+msgid "Link copied"
+msgstr "Bağlantı kopyalandı"
+
+#: qml/EpisodeListPage.qml:18
+#, kde-format
+msgid "Episode List"
+msgstr "Bölüm Listesi"
+
+#: qml/EpisodeListPage.qml:43
+#, kde-format
+msgid "Filter"
+msgstr "Süzgeç"
+
+#: qml/EpisodeListPage.qml:67 qml/FeedDetailsPage.qml:331
+#, kde-format
+msgid "No Episodes Available"
+msgstr "Bölüm Yok"
+
+#: qml/EpisodeListPage.qml:98
+#, kde-format
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: qml/EpisodeListPage.qml:106
+#, kde-format
+msgid "Filter Active: "
+msgstr "Süzgeç Etkin: "
+
+#: qml/EpisodeListPage.qml:114
+#, kde-format
+msgid "Select Filter"
+msgstr "Süzgeç Seç"
+
+#: qml/ErrorList.qml:29
+#, kde-format
+msgid "No Errors Logged"
+msgstr "Günlüklenen Hata Yok"
+
+#: qml/ErrorList.qml:65
+#, kde-format
+msgid "Error Code: "
+msgstr "Hata Kodu: "
+
+#: qml/ErrorListOverlay.qml:23 qml/Settings/ErrorListPage.qml:17
+#: qml/Settings/ErrorListPage.qml:37
+#, kde-format
+msgctxt "@title"
+msgid "Error Log"
+msgstr "Hata Günlüğü"
+
+#: qml/ErrorListOverlay.qml:27 qml/Settings/ErrorListPage.qml:52
+#, kde-format
+msgctxt "@action:button"
+msgid "Clear All Errors"
+msgstr "Tüm Hataları Temizle"
+
+#: qml/ErrorNotification.qml:30
+#, kde-format
+msgid "Show Error Log"
+msgstr "Hata Günlüğünü Göster"
+
+#: qml/FeedDetailsPage.qml:30 qml/FeedListDelegate.qml:257
+#: qml/FeedListPage.qml:286
+#, kde-format
+msgid "Podcast Details"
+msgstr "Podcast Ayrıntıları"
+
+#: qml/FeedDetailsPage.qml:109
+#, kde-format
+msgctxt "by <author(s)>"
+msgid "by %1"
+msgstr "%1 tarafından"
+
+#: qml/FeedDetailsPage.qml:137
+#, kde-format
+msgid "Refresh Podcast"
+msgstr "Podcast'i Yenile"
+
+#: qml/FeedDetailsPage.qml:156
+#, kde-format
+msgid "Show Details"
+msgstr "Ayrıntıları Göster"
+
+#: qml/FeedDetailsPage.qml:217
+#, kde-format
+msgid "Podcast URL:"
+msgstr "Podcast URL'si:"
+
+#: qml/FeedDetailsPage.qml:257
+#, kde-format
+msgid "Weblink:"
+msgstr "Web bağlantısı:"
+
+#: qml/FeedDetailsPage.qml:283
+#, kde-format
+msgid "Subscribed since: %1"
+msgstr "Abonelik tarihi: %1"
+
+#: qml/FeedDetailsPage.qml:296
+#, kde-format
+msgid "Last Updated: %1"
+msgstr "Son Güncelleme: %1"
+
+#: qml/FeedDetailsPage.qml:309
+#, kde-format
+msgid "1 Episode"
+msgid_plural "%1 Episodes"
+msgstr[0] "1 Bölüm"
+msgstr[1] "%1 Bölüm"
+
+#: qml/FeedDetailsPage.qml:309
+#, kde-format
+msgid "1 Unplayed"
+msgid_plural "%1 Unplayed"
+msgstr[0] "1 Çalınmamış"
+msgstr[1] "%1 Çalınmamış"
+
+#: qml/FeedDetailsPage.qml:331
+#, kde-format
+msgid "Error (%1): %2"
+msgstr "Hata (%1): %2"
+
+#: qml/FeedListDelegate.qml:268
+#, kde-format
+msgid "Remove Podcast"
+msgstr "Podcast'i Kaldır"
+
+#: qml/FeedListPage.qml:20 qml/main.qml:200 qml/Mobile/BottomToolbar.qml:35
+#, kde-format
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: qml/FeedListPage.qml:61
+#, kde-format
+msgid "Import Podcasts..."
+msgstr "Podcast'leri İçe Aktar..."
+
+#: qml/FeedListPage.qml:67
+#, kde-format
+msgid "Export Podcasts..."
+msgstr "Podcast'leri Dışa Aktar..."
+
+#: qml/FeedListPage.qml:92
+#, kde-format
+msgid "No Podcasts Added Yet"
+msgstr "Henüz bir Podcast Eklenmedi"
+
+#: qml/FeedListPage.qml:97
+#, kde-format
+msgid "Import Podcasts"
+msgstr "Podcast'leri İçe Aktar"
+
+#: qml/FeedListPage.qml:99
+#, kde-format
+msgid "All Files (*)"
+msgstr "Tüm Dosyalar (*)"
+
+#: qml/FeedListPage.qml:99
+#, kde-format
+msgid "XML Files (*.xml)"
+msgstr "XML Dosyaları (*.xml"
+
+#: qml/FeedListPage.qml:99
+#, kde-format
+msgid "OPML Files (*.opml)"
+msgstr "OPML Dosyaları (*.opml)"
+
+#: qml/FeedListPage.qml:105
+#, kde-format
+msgid "Export Podcasts"
+msgstr "Podcast'leri Dışa Aktar"
+
+#: qml/FeedListPage.qml:107
+#, kde-format
+msgid "All Files"
+msgstr "Tüm Dosyalar"
+
+#: qml/FeedListPage.qml:245 qml/GenericEntryListView.qml:128
+#, kde-format
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: qml/FeedListPage.qml:254 qml/GenericEntryListView.qml:137
+#, kde-format
+msgid "Deselect All"
+msgstr "Tümünün Seçimini Kaldır"
+
+#: qml/FeedListPage.qml:263
+#, kde-format
+msgctxt "context menu action"
+msgid "Remove Podcast"
+msgid_plural "Remove Podcasts"
+msgstr[0] "Podcast'i Kaldır"
+msgstr[1] "Podcast'leri Kaldır"
+
+#: qml/FullScreenImage.qml:47
+#, kde-format
+msgid "Zoom in"
+msgstr "Yakınlaştır"
+
+#: qml/FullScreenImage.qml:58
+#, kde-format
+msgid "Zoom out"
+msgstr "Uzaklaştır"
+
+#: qml/FullScreenImage.qml:69
+#, kde-format
+msgid "Rotate left"
+msgstr "Sola Döndür"
+
+#: qml/FullScreenImage.qml:76
+#, kde-format
+msgid "Rotate right"
+msgstr "Sağa Döndür"
+
+#: qml/FullScreenImage.qml:83
+#, kde-format
+msgid "Close"
+msgstr "Kapat"
+
+#: qml/GenericEntryDelegate.qml:168
+#, kde-format
+msgid "Played"
+msgstr "Çalındı"
+
+#: qml/GenericEntryDelegate.qml:168
+#, kde-format
+msgid "Read"
+msgstr "Okundu"
+
+#: qml/GenericEntryDelegate.qml:174
+#, kde-format
+msgid "New"
+msgstr "Yeni"
+
+#: qml/GenericEntryListView.qml:207
+#, kde-format
+msgctxt "context menu action"
+msgid "Delete Download"
+msgid_plural "Delete Downloads"
+msgstr[0] "İndimeyi Sil"
+msgstr[1] "İndirmeleri Sil"
+
+#: qml/main.qml:176 qml/Mobile/BottomToolbar.qml:25
+#, kde-format
+msgid "Queue"
+msgstr "Kuyruk"
+
+#: qml/main.qml:212 qml/Mobile/BottomToolbar.qml:45
+#, kde-format
+msgid "Episodes"
+msgstr "Bölümler"
+
+#: qml/main.qml:246 qml/main.qml:253 qml/Mobile/BottomToolbar.qml:55
+#: qml/Mobile/BottomToolbar.qml:60
+#, kde-format
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: qml/main.qml:342
+#, kde-format
+msgctxt "Number of Updated Podcasts"
+msgid "Updated %2 of %1 Podcast"
+msgid_plural "Updated %2 of %1 Podcasts"
+msgstr[0] "%2/%1 Podcast Güncellendi"
+msgstr[1] "%2/%1 Podcast Güncellendi"
+
+#: qml/main.qml:369
+#, kde-format
+msgctxt "Number of Moved Files"
+msgid "Moved %2 of %1 File"
+msgid_plural "Moved %2 of %1 Files"
+msgstr[0] "%2/%1 Dosya Taşındı"
+msgstr[1] "%2/%1 Dosya Taşındı"
+
+#: qml/main.qml:433
+#, kde-format
+msgid "Podcast downloads are currently not allowed on metered connections"
+msgstr ""
+"Şu anda kısıtlı bağlantılar üzerinden podcast indirmelere izin verilmiyor"
+
+#: qml/Mobile/MobilePlayerControls.qml:149
+#, kde-format
+msgid "No Title"
+msgstr "Başlıksız"
+
+#: qml/Mobile/MobilePlayerControls.qml:157
+#, kde-format
+msgid "No Podcast Title"
+msgstr "Podcast Başlığı Yok"
+
+#: qml/Mobile/MobilePlayerControls.qml:223
+#, kde-format
+msgid "No chapters found."
+msgstr "Fasıl bulunamadı."
+
+#: qml/PlaybackRateDialog.qml:65 qml/PlaybackRateDialog.qml:114
+#, kde-format
+msgid "Set Playback Rate"
+msgstr "Çalma Hızını Ayarla"
+
+#: qml/QueuePage.qml:18
+#, kde-format
+msgctxt "@title:column Page showing the list queued items"
+msgid "Queue"
+msgstr "Kuyruk"
+
+#: qml/QueuePage.qml:37
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Refresh All Podcasts"
+msgstr "Tüm Podcast'leri Yenile"
+
+#: qml/QueuePage.qml:54
+#, kde-format
+msgctxt "@info"
+msgid "Queue is empty"
+msgstr "Kuyruk boş"
+
+#: qml/QueuePage.qml:63
+#, kde-format
+msgctxt "@info:progress"
+msgid "1 Episode"
+msgid_plural "%1 Episodes"
+msgstr[0] "1 Bölüm"
+msgstr[1] "%1 Bölüm"
+
+#: qml/QueuePage.qml:63
+#, kde-format
+msgctxt "@info:progress"
+msgid "Time Left"
+msgstr "Kalan Süre"
+
+#: qml/Settings/AboutPage.qml:17 qml/Settings/SettingsPage.qml:41
+#, kde-format
+msgid "About"
+msgstr "Hakkında"
+
+#: qml/Settings/GeneralSettingsPage.qml:19
+#, kde-format
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: qml/Settings/GeneralSettingsPage.qml:39
+#, kde-format
+msgid "Appearance"
+msgstr "Görünüş"
+
+#: qml/Settings/GeneralSettingsPage.qml:44
+#, kde-format
+msgid "Always show podcast titles in subscription view"
+msgstr "Abonelik görünümünde her zaman podcast başlıklarını göster"
+
+#: qml/Settings/GeneralSettingsPage.qml:62
+#, kde-format
+msgid "Playback settings"
+msgstr "Çalma ayarları"
+
+#: qml/Settings/GeneralSettingsPage.qml:67
+#, kde-format
+msgctxt "Label for setting to select audio playback backend"
+msgid "Select Audio Backend"
+msgstr "Ses Arka Ucu Seç"
+
+#: qml/Settings/GeneralSettingsPage.qml:97
+#, kde-format
+msgctxt ""
+"Label for settings related to the play time, e.g. whether the total track "
+"time is shown or a countdown of the remaining play time"
+msgid "Play Time:"
+msgstr "Çalma Süresi:"
+
+#: qml/Settings/GeneralSettingsPage.qml:99
+#, kde-format
+msgid "Show time left instead of total track time"
+msgstr "Toplam parça süresi yerine kalan zamanı göster"
+
+#: qml/Settings/GeneralSettingsPage.qml:109
+#, kde-format
+msgid "Adjust time left based on current playback speed"
+msgstr "Kalan zamanı geçerli çalma hızına bağlı olarak ayarla"
+
+#: qml/Settings/GeneralSettingsPage.qml:118
+#, kde-format
+msgid "Prioritize streaming over downloading"
+msgstr "İndirme yerine akışa öncelik ver"
+
+#: qml/Settings/GeneralSettingsPage.qml:135
+#, kde-format
+msgid "Queue settings"
+msgstr "Kuyruk ayarları"
+
+#: qml/Settings/GeneralSettingsPage.qml:141
+#, kde-format
+msgid "Continue playing next episode after current one finishes"
+msgstr "Şu anda çalınan bittikten sonra sonraki bölümden çalmayı sürdür"
+
+#: qml/Settings/GeneralSettingsPage.qml:149
+#, kde-format
+msgctxt "Label for settings related to podcast updates"
+msgid "Update Settings:"
+msgstr "Güncelleme Ayarları:"
+
+#: qml/Settings/GeneralSettingsPage.qml:151
+#, kde-format
+msgid "Automatically fetch podcast updates on startup"
+msgstr "Başlangıçta podcast güncellemelerini kendiliğinden getir"
+
+#: qml/Settings/GeneralSettingsPage.qml:160
+#, kde-format
+msgid "Update existing episode data on refresh (slower)"
+msgstr "Yenilemede var olan bölüm verisini güncelle (daha yavaş)"
+
+#: qml/Settings/GeneralSettingsPage.qml:170
+#, kde-format
+msgid "Automatically queue new episodes"
+msgstr "Yeni bölümleri kendiliğinden kuyruğa ekle"
+
+#: qml/Settings/GeneralSettingsPage.qml:185
+#, kde-format
+msgid "Automatically download new episodes"
+msgstr "Yeni bölümleri kendiliğinden indir"
+
+#: qml/Settings/GeneralSettingsPage.qml:198
+#, kde-format
+msgid "Played episode behavior"
+msgstr "Çalınan bölüm davranışı"
+
+#: qml/Settings/GeneralSettingsPage.qml:201
+#, kde-format
+msgid "Do Not Delete"
+msgstr "Silme"
+
+#: qml/Settings/GeneralSettingsPage.qml:202
+#, kde-format
+msgid "Delete Immediately"
+msgstr "Anında Sil"
+
+#: qml/Settings/GeneralSettingsPage.qml:203
+#, kde-format
+msgid "Delete at Next Startup"
+msgstr "Bir Sonraki Başlangıçta Sil"
+
+#: qml/Settings/GeneralSettingsPage.qml:216
+#, kde-format
+msgid "Reset play position after an episode is played"
+msgstr "Bir bölüm çalındıktan sonra çalma konumunu sıfırla"
+
+#: qml/Settings/GeneralSettingsPage.qml:233
+#, kde-format
+msgid "When adding new podcasts"
+msgstr "Yeni Podcast'ler eklerken"
+
+#: qml/Settings/GeneralSettingsPage.qml:238
+#, kde-format
+msgid "Mark all episodes as played"
+msgstr "Tüm bölümleri çalınmış olarak imle"
+
+#: qml/Settings/GeneralSettingsPage.qml:249
+#, kde-format
+msgid "Mark most recent episodes as unplayed"
+msgstr "En son bölümleri çalınmamış olarak imle"
+
+#: qml/Settings/GeneralSettingsPage.qml:272
+#, kde-format
+msgid "Mark all episodes as unplayed"
+msgstr "Tüm bölümleri çalınmamış olarak imle"
+
+#: qml/Settings/GeneralSettingsPage.qml:289
+#, kde-format
+msgid "Article"
+msgstr "Yazı"
+
+#: qml/Settings/GeneralSettingsPage.qml:294
+#, kde-format
+msgid "Font size"
+msgstr "Yazıtipi boyutu"
+
+#: qml/Settings/GeneralSettingsPage.qml:301
+#, kde-format
+msgid "Font size:"
+msgstr "Yazıtipi boyutu:"
+
+#: qml/Settings/GeneralSettingsPage.qml:317
+#, kde-format
+msgid "Use system default"
+msgstr "Sistem öntanımlısını kullan"
+
+#: qml/Settings/NetworkSettingsPage.qml:18
+#, kde-format
+msgid "Network Settings"
+msgstr "Ağ Ayarları"
+
+#: qml/Settings/NetworkSettingsPage.qml:38
+#, kde-format
+msgid "On metered connections"
+msgstr "Kısıtlı bağlantılarda"
+
+#: qml/Settings/NetworkSettingsPage.qml:44
+#, kde-format
+msgid "Allow podcast updates"
+msgstr "Podcast güncellemelerine izin ver"
+
+#: qml/Settings/NetworkSettingsPage.qml:54
+#, kde-format
+msgid "Allow episode downloads"
+msgstr "Bölüm indirmelere izin ver"
+
+#: qml/Settings/NetworkSettingsPage.qml:64
+#, kde-format
+msgid "Allow image downloads"
+msgstr "Görsel indirmelere izin ver"
+
+#: qml/Settings/NetworkSettingsPage.qml:74
+#, kde-format
+msgid "Allow streaming"
+msgstr "Akışa izin ver"
+
+#: qml/Settings/SettingsPage.qml:16
+#, kde-format
+msgid "General"
+msgstr "Genel"
+
+#: qml/Settings/SettingsPage.qml:21
+#, kde-format
+msgid "Storage"
+msgstr "Depolama"
+
+#: qml/Settings/SettingsPage.qml:26
+#, kde-format
+msgid "Network"
+msgstr "Ağ"
+
+#: qml/Settings/SettingsPage.qml:31
+#, kde-format
+msgid "Synchronization"
+msgstr "Eşzamanlama"
+
+#: qml/Settings/SettingsPage.qml:36
+#, kde-format
+msgid "Error Log"
+msgstr "Hata Günlüğü"
+
+#: qml/Settings/StorageSettingsPage.qml:19
+#, kde-format
+msgid "Storage Settings"
+msgstr "Depolama Ayarları"
+
+#: qml/Settings/StorageSettingsPage.qml:39
+#: qml/Settings/StorageSettingsPage.qml:45
+#, kde-format
+msgid "Storage path"
+msgstr "Depolama konumu"
+
+#: qml/Settings/StorageSettingsPage.qml:51
+#, kde-format
+msgid "Select folder..."
+msgstr "Klasör seç..."
+
+#: qml/Settings/StorageSettingsPage.qml:58
+#, kde-format
+msgid "Select Storage Path"
+msgstr "Depolama Konumu Seç"
+
+#: qml/Settings/StorageSettingsPage.qml:73
+#, kde-format
+msgid "Use default path"
+msgstr "Öntanımlı konumu kullan"
+
+#: qml/Settings/StorageSettingsPage.qml:91
+#, kde-format
+msgid "Information"
+msgstr "Bilgi"
+
+#: qml/Settings/StorageSettingsPage.qml:95
+#, kde-format
+msgid "Podcast downloads"
+msgstr "Podcast indirmeleri"
+
+#: qml/Settings/StorageSettingsPage.qml:96
+#: qml/Settings/StorageSettingsPage.qml:103
+#, kde-format
+msgctxt "Using <amount of bytes> of disk space"
+msgid "Using %1 of disk space"
+msgstr "%1 disk alanı kullanılıyor"
+
+#: qml/Settings/StorageSettingsPage.qml:102
+#, kde-format
+msgid "Image cache"
+msgstr "Görsel önbelleği"
+
+#: qml/Settings/StorageSettingsPage.qml:107
+#, kde-format
+msgid "Clear Cache"
+msgstr "Önbelleği Temizle"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:18
+#, kde-format
+msgid "Synchronization Settings"
+msgstr "Eşzamanlama Ayarları"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:39
+#, kde-format
+msgid "Account"
+msgstr "Hesap"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:40
+#, kde-format
+msgid "Logged into account \"%1\" on server \"%2\""
+msgstr "\"%2\" sunucusunda \"%1\" olarak oturum açıldı"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:40
+#, kde-format
+msgid "Syncing disabled"
+msgstr "Eşzamanlama devre dışı"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:43
+#, kde-format
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:43
+#, kde-format
+msgid "Login"
+msgstr "Giriş Yap"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:54
+#, kde-format
+msgid "Manually sync"
+msgstr "Elle eşzamanlama"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:57
+#, kde-format
+msgid "Sync Now"
+msgstr "Şimdi Eşzamanla"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:69
+#, kde-format
+msgid "Last full sync with server"
+msgstr "Sunucuyla son tam eşzamanlama"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:77
+#, kde-format
+msgid "Last quick upload to sync server"
+msgstr "Eşzamanlama sunucusuna son hızlı yükleme"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:91
+#, kde-format
+msgid "Automatic syncing"
+msgstr "Otomatik eşzamanlama"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:97
+#, kde-format
+msgid "Do full sync on startup"
+msgstr "Başlangıçta tam eşzamanlama yapma"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:107
+#, kde-format
+msgid "Do full sync when fetching podcasts"
+msgstr "Podcast'leri getirirken tam eşzamanlama yap"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:117
+#, kde-format
+msgid "Upload episode play positions on play/pause toggle"
+msgstr "Çal/Duraklat düğmesine bölüm çalma konumlarını yükle"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:134
+#, kde-format
+msgid "Advanced options"
+msgstr "Gelişmiş seçenekler"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:139
+#, kde-format
+msgid "Fetch all episode states from server"
+msgstr "Sunucudan tüm bölüm durumlarını getir"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:142
+#, kde-format
+msgid "Fetch"
+msgstr "Getir"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:154
+#, kde-format
+msgid "Push all local episode states to server"
+msgstr "Tüm yerel bölüm durumlarını sunucuya it"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:158
+#, kde-format
+msgid "Push"
+msgstr "İt"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:197
+#, kde-format
+msgid "Push all local episode states to server?"
+msgstr "Tüm bölüm durumları sunucuya itilsin mi?"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:217
+#, kde-format
+msgid ""
+"Please note that pushing the playback state of all local episodes to the "
+"server might take a very long time and/or might overload the server. Also "
+"note that this action will overwrite all existing episode states on the "
+"server.\n"
+"\n"
+"Continue?"
+msgstr ""
+"Tüm yerel bölümlerin çalınma durumunu sunucuya yüklemek çok uzun zaman "
+"alabilir ve sunucuyu aşırı yükleyebilir. Bu işlem, sunucudaki bölümlerin "
+"çalınma durumunun da üzerine yazacaktır.\n"
+"\n"
+"Sürdürülsün mü?"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:241
+#, kde-format
+msgid "Select Sync Provider"
+msgstr "Eşzamanlama Sağlayıcısı Seç"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:253
+#, kde-format
+msgid "gpodder.net"
+msgstr "gpodder.net"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:254
+#, kde-format
+msgid "Synchronize with official gpodder.net server"
+msgstr "Resmi gpodder.net sunucusu ile eşzamanla"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:257
+#, kde-format
+msgid "GPodder Nextcloud"
+msgstr "GPodder Nextcloud"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:258
+#, kde-format
+msgid "Synchronize with GPodder Nextcloud app"
+msgstr "GPodder Nextcloud uygulamasıyla eşzamanla"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:289
+#, kde-format
+msgid "Sync Login Credentials"
+msgstr "Eşzamanlama Oturum Açma Bilgileri"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:318
+#, kde-format
+msgid "Sync with GPodder Nextcloud app"
+msgstr "GPodder Nextcloud uygulamasıyla eşzamanla"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:318
+#, kde-format
+msgid "Sync with gpodder.net service"
+msgstr "gpodder.net hizmetiyle eşzamanla"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:327
+#, kde-format
+msgctxt "argument is a weblink"
+msgid ""
+"Sync with a Nextcloud server that has the GPodder Sync app installed: %1.<br/"
+">It is advised to manually create an app password for Kasts through the web "
+"interface and use those credentials."
+msgstr ""
+"GPodder Sync uygulaması kurulu bir Nextcloud sunucusu ile eşzamanla: %1.<br/"
+">Web arabiriminden Kasts'a özel bir uygulama parolası oluturulması ve onun "
+"kullanılması önerilir."
+
+#: qml/Settings/SynchronizationSettingsPage.qml:328
+#, kde-format
+msgctxt "argument is a weblink"
+msgid "If you don't already have an account, you should first create one at %1"
+msgstr "Eğer bir hesabınız yoksa %1 konumunda bir tane oluşturmalısınız"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:340
+#, kde-format
+msgid "Username:"
+msgstr "Kullanıcı adı:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:351
+#: qml/SyncPasswordOverlay.qml:56
+#, kde-format
+msgid "Password:"
+msgstr "Parola:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:366
+#, kde-format
+msgid "Use custom server"
+msgstr "Özel sunucu kullan"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:371
+#, kde-format
+msgid "Hostname:"
+msgstr "Makine adı:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:405
+#, kde-format
+msgid "Sync Device Settings"
+msgstr "Eşzamanlama Aygıt Ayarları"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:411
+#, kde-format
+msgid "Create a new device"
+msgstr "Yeni bir aygıt oluştur"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:417
+#, kde-format
+msgid "Device Name:"
+msgstr "Aygıt Adı:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:427
+#, kde-format
+msgid "Device Description:"
+msgstr "Aygıt Açıklaması:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:436
+#, kde-format
+msgid "Device Type:"
+msgstr "Aygıt Türü:"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:443
+#, kde-format
+msgid "other"
+msgstr "diğer"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:444
+#, kde-format
+msgid "desktop"
+msgstr "masaüstü"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:445
+#, kde-format
+msgid "laptop"
+msgstr "dizüstü"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:446
+#, kde-format
+msgid "server"
+msgstr "sunucu"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:447
+#, kde-format
+msgid "mobile"
+msgstr "taşınabilir"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:452
+#, kde-format
+msgid "Create Device"
+msgstr "Aygıt Oluştur"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:469
+#, kde-format
+msgid "or select an existing device"
+msgstr "veya var olan bir aygıtı seç"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:518
+#, kde-format
+msgid "Device Sync Settings"
+msgstr "Aygıt Eşzamanlama Ayarları"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:540
+#, kde-format
+msgid ""
+"Should all podcast subscriptions on this gpodder.net account be synced "
+"across all devices?\n"
+"If you don't know what this means, you should probably select \"Ok\"."
+msgstr ""
+"Bu gpodder.net hesabındaki tüm podcast abonelikleri tüm aygıtlar arasında "
+"eşzamanlansın mı?\n"
+"Bunun ne anlama geldiğini bilmiyorsanız \"Tamam\"ı seçmeniz yararlı olabilir."
+
+#: qml/Settings/SynchronizationSettingsPage.qml:562
+#, kde-format
+msgid "Sync Now?"
+msgstr "Şimdi Eşzamanla?"
+
+#: qml/Settings/SynchronizationSettingsPage.qml:582
+#, kde-format
+msgid "Perform a first sync now?"
+msgstr "İlk eşzamanlama gerçekleştirilsin mi?"
+
+#: qml/SleepTimerDialog.qml:16
+#, kde-format
+msgid "Sleep Timer"
+msgstr "Uyku Sayacı"
+
+#: qml/SleepTimerDialog.qml:26
+#, kde-format
+msgid "Start"
+msgstr "Başlat"
+
+#: qml/SleepTimerDialog.qml:53
+#, kde-format
+msgid "Status: Active"
+msgstr "Durum: Etkin"
+
+#: qml/SleepTimerDialog.qml:53
+#, kde-format
+msgid "Status: Inactive"
+msgstr "Durum: Devre Dışı"
+
+#: qml/SleepTimerDialog.qml:59
+#, kde-format
+msgid "Remaining Time: %1"
+msgstr "Kalan Zaman: %1"
+
+#: qml/SleepTimerDialog.qml:76
+#, kde-format
+msgid "Seconds"
+msgstr "Saniye"
+
+#: qml/SleepTimerDialog.qml:77
+#, kde-format
+msgid "Minutes"
+msgstr "Dakika"
+
+#: qml/SleepTimerDialog.qml:78
+#, kde-format
+msgid "Hours"
+msgstr "Saat"
+
+#: qml/SyncPasswordOverlay.qml:24
+#, kde-format
+msgid "Sync Password Required"
+msgstr "Parola Eşzamanlaması Gerekiyor"
+
+#: qml/SyncPasswordOverlay.qml:48
+#, kde-format
+msgid ""
+"The password for user \"%1\" on Nextcloud server \"%2\" could not be "
+"retrieved."
+msgstr ""
+"\"%2\" Nextcloud sunucusundaki \"%1\" kullanıcısının parolası alınamadı."
+
+#: qml/SyncPasswordOverlay.qml:49
+#, kde-format
+msgid "The password for user \"%1\" on \"gpodder.net\" could not be retrieved."
+msgstr "\"gpodder.net\" üzerindeki \"%1\" kullanıcısının parolası alınamadı."
+
+#: qml/UpdateNotification.qml:90 qml/UpdateNotification.qml:91
+#, kde-format
+msgid "Abort"
+msgstr "İptal Et"
+
+#: storagemanager.cpp:83
+#, kde-format
+msgid "Old location:"
+msgstr "Eski konum:"
+
+#: storagemanager.cpp:83
+#, kde-format
+msgid "New location:"
+msgstr "Yeni konum:"
+
+#: storagemovejob.cpp:59
+#, kde-format
+msgid "Destination path not writable"
+msgstr "Hedef konumu yazılabilir değil"
+
+#: storagemovejob.cpp:76 storagemovejob.cpp:97
+#, kde-format
+msgid "Operation aborted by user"
+msgstr "İşlem kullanıcı tarafından iptal edildi"
+
+#: storagemovejob.cpp:106
+#, kde-format
+msgid "An error occurred while copying data"
+msgstr "Veri kopyalanırken bir hata oluştu"
+
+#: sync/sync.cpp:185
+#, kde-format
+msgid "Never"
+msgstr "Asla"
+
+#: sync/sync.cpp:208
+#, kde-format
+msgctxt ""
+"Suggested description for this device on gpodder sync service; argument is "
+"the hostname"
+msgid "Kasts on %1"
+msgstr "%1 üzerinde Kasts"
+
+#: sync/sync.cpp:302
+#, kde-format
+msgid "Could not log into GPodder-nextcloud server"
+msgstr "GPodder-nextcloud sunucusuna giriş yapılamadı"
+
+#: sync/sync.cpp:341
+#, kde-format
+msgid "Could not log into GPodder server"
+msgstr "GPodder sunucusuna giriş yapılamadı"
+
+#: sync/sync.cpp:486 sync/sync.cpp:487
+#, kde-format
+msgid "I/O Denied: Cannot save password."
+msgstr "Girdi-Çıktı Reddedildi: Parola kaydedilemiyor."
+
+#: sync/sync.cpp:567 sync/sync.cpp:568
+#, kde-format
+msgid "I/O Denied: Cannot access password file."
+msgstr "Girdi-Çıktı Reddedildi: Parola dosyasına erişilemiyor."
+
+#: sync/sync.cpp:640
+#, kde-format
+msgid "Could not create GPodder device"
+msgstr "GPodder aygıtı oluşturulamadı"
+
+#: sync/sync.cpp:666
+#, kde-format
+msgid "Could not retrieve synced device status"
+msgstr "Eşzamanlanmış aygıt durumu alınamadı"
+
+#: sync/sync.cpp:717
+#, kde-format
+msgid "Could not retrieve subscriptions for device %1"
+msgstr "%1 aygıtı için abonelikler alınamadı"
+
+#: sync/sync.cpp:736
+#, kde-format
+msgid "Could not upload subscriptions for device %1"
+msgstr "%1 aygıtı için abonelikler yüklenemedi"
+
+#: sync/syncjob.cpp:69
+#, kde-format
+msgid "Could not retrieve subscription updates from server"
+msgstr "Sunucudan abonelik güncellemeleri alınamadı"
+
+#: sync/syncjob.cpp:72
+#, kde-format
+msgid "Could not upload subscription changes to server"
+msgstr "Sunucuya abonelik değişiklikleri yüklenemedi"
+
+#: sync/syncjob.cpp:75
+#, kde-format
+msgid "Could not retrieve episode updates from server"
+msgstr "Sunucudan bölüm güncellemeleri alınamadı"
+
+#: sync/syncjob.cpp:78
+#, kde-format
+msgid "Could not upload episode updates to server"
+msgstr "Sunucuya bölüm değişiklikleri yüklenemedi"
+
+#: sync/syncjob.cpp:81
+#, kde-format
+msgid "Internal data error"
+msgstr "İç veri hatası"
+
+#: sync/syncjob.cpp:886
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Start Syncing"
+msgstr "(Adım %1/%2) Eşzamanlamaya Başlanıyor"
+
+#: sync/syncjob.cpp:889
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Requesting Remote Subscription Updates"
+msgstr "(Adım %1/%2) Uzak Konum Abonelik Güncellemeleri İsteniyor"
+
+#: sync/syncjob.cpp:892
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Uploading Local Subscription Updates"
+msgstr "(Adım %1/%2) Yerel Abonelik Güncellemeleri Yükleniyor"
+
+#: sync/syncjob.cpp:896
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %3 of %4) Updated %2 of %1 Podcast"
+msgid_plural "(Step %3 of %4) Updated %2 of %1 Podcasts"
+msgstr[0] "(Adım %3/%4) %2/%1 Podcast Yükleniyor"
+msgstr[1] "(Adım %3/%4) %2/%1 Podcast Güncellendi"
+
+#: sync/syncjob.cpp:904
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Requesting Remote Episode Updates"
+msgstr "(Adım %1/%2) Uzak Konum Bölüm Güncellemeleri İsteniyor"
+
+#: sync/syncjob.cpp:907
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Applying Remote Episode Changes"
+msgstr "(Adım %1/%2) Uzak Konum Bölüm Güncellemeleri Uygulanıyor"
+
+#: sync/syncjob.cpp:910
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Uploading Local Episode Updates"
+msgstr "(Adım %1/%2) Yerel Bölüm Güncellemeleri Yükleniyor"
+
+#: sync/syncjob.cpp:913
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "(Step %1 of %2) Finished Syncing"
+msgstr "(Adım %1/%2) Eşzamanlama Bitti"
+
+#: sync/syncjob.cpp:916
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "Sync Aborted"
+msgstr "Eşzamanlama İptal Edildi"
+
+#: sync/syncjob.cpp:920
+#, kde-format
+msgctxt "Step in Subscription and Episode Syncing Progress"
+msgid "Sync finished with Error"
+msgstr "Eşzamanlama, hatalarla bitti"
+
+#~ msgid "Errors"
+#~ msgstr "Hatalar"
+
+#~ msgid "Error log"
+#~ msgstr "Hata günlüğü"
+
+#~ msgctxt ""
+#~ "Label for settings related to streaming of episodes (as opposed to "
+#~ "playing back locally downloaded files)"
+#~ msgid "Streaming:"
+#~ msgstr "Akış:"
+
+#~ msgid "New Episodes:"
+#~ msgstr "Yeni Bölümler:"
+
+#~ msgid "Played Episodes:"
+#~ msgstr "Çalınan Bölümler:"
+
+#~ msgid "Current Status:"
+#~ msgstr "Geçerli Durum:"
+
+#~ msgid "Nothing Added to the Queue Yet"
+#~ msgstr "Kuyruğa Henüz Bir Şey Eklenmedi"
+
+#~ msgctxt "by <Author(s)>"
+#~ msgid "by %1"
+#~ msgstr "%1 tarafından"
+
+#~ msgid "Force Sync Now"
+#~ msgstr "Şimdi Eşzamanlamayı Zorla"

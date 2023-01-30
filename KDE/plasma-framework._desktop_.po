@@ -1,0 +1,167 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2022.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-19 01:05+0000\n"
+"PO-Revision-Date: 2022-03-11 02:39+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:2
+msgctxt "Name"
+msgid "Test"
+msgstr "Sınama"
+
+#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:55
+msgctxt "Comment"
+msgid "A dummy plugin for testing"
+msgstr "Denemek için sahte bir eklenti"
+
+#: src/plasma/data/servicetypes/plasma-applet.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet"
+msgstr "Plasma uygulamacığı"
+
+#: src/plasma/data/servicetypes/plasma-containmentactions.desktop:5
+msgctxt "Comment"
+msgid "Plasma ContainmentActions"
+msgstr "Plasma İçerici Eylemleri"
+
+#: src/plasma/data/servicetypes/plasma-containment.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet container and background painter"
+msgstr "Plasma uygulamacık içerici ve arka plan oluşturucu"
+
+#: src/plasma/data/servicetypes/plasma-dataengine.desktop:5
+msgctxt "Comment"
+msgid "Plasma Data Engine"
+msgstr "Plasma Veri Motoru"
+
+#: src/plasma/data/servicetypes/plasma-generic.desktop:4
+msgctxt "Name"
+msgid "Plasma Package"
+msgstr "Plasma Paketi"
+
+#: src/plasma/data/servicetypes/plasma-generic.desktop:56
+msgctxt "Comment"
+msgid "Generic Plasma Package"
+msgstr "Genel Plasma Paketi"
+
+#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:4
+msgctxt "Name"
+msgid "Plasma Look and Feel"
+msgstr "Plasma Görünüm ve His"
+
+#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:55
+msgctxt "Comment"
+msgid "Defines the Visual Language for Plasma Shells"
+msgstr "Plasma Kabukları için Sanal Dili tanımlar"
+
+#: src/plasma/data/servicetypes/plasma-packagestructure.desktop:4
+msgctxt "Comment"
+msgid "Plasma package structure definition"
+msgstr "Plasma paketi yapısı tanımlaması"
+
+#: src/plasma/data/servicetypes/plasma-scriptengine.desktop:5
+msgctxt "Comment"
+msgid "Scripting language extension for Plasma"
+msgstr "Plasma için betik dili eklentisi"
+
+#: src/plasma/data/servicetypes/plasma-service.desktop:5
+msgctxt "Comment"
+msgid "Plasma service"
+msgstr "Plasma hizmeti"
+
+#: src/plasma/data/servicetypes/plasma-shell.desktop:4
+msgctxt "Name"
+msgid "Plasma Shell"
+msgstr "Plasma Kabuğu"
+
+#: src/plasma/data/servicetypes/plasma-shell.desktop:55
+msgctxt "Comment"
+msgid "Plasma Shell Components"
+msgstr "Plasma Kabuğu Bileşenleri"
+
+#: src/scriptengines/qml/data/plasma-wallpaper.desktop:5
+msgctxt "Comment"
+msgid "Plasma wallpaper"
+msgstr "Plasma duvar kağıdı"
+
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:3
+msgctxt "Name"
+msgid "Plasma QML/C++ Applet"
+msgstr "Plasma QML/C Uygulamacığı"
+
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:48
+msgctxt "Comment"
+msgid ""
+"A Plasma Applet template written in an hybrid mix of QML and C++: a Plasma "
+"applet template displaying a SVG picture and a text"
+msgstr ""
+"QML ve C'nin karma bir karışımı içinde yazılmış bir Plasma Uygulamacık "
+"şablonu: Bir SVG resmi ve metin gösteren bir Plasma uygulamacığı şablonu"
+
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:3
+msgctxt "Name"
+msgid "Simple Plasma Wallpaper"
+msgstr "Basit Plasma Duvar Kağıdı"
+
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:50
+msgctxt "Comment"
+msgid ""
+"Simple Plasma Wallpaper template: a Plasma wallpaper template displaying a "
+"text"
+msgstr ""
+"Basit Plasma Duvar Kağıdı şablonu: Metin görüntüleyen bir Plasma duvar "
+"kağıdı şablonu"
+
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:2
+msgctxt "Name"
+msgid "Simple Plasma Wallpaper with QML extension"
+msgstr "QML eklentisiyle Basit Plasma Duvar Kağıdı"
+
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:42
+msgctxt "Comment"
+msgid ""
+"A Plasma wallpaper which uses custom API provided by an own QML extension "
+"plugin"
+msgstr ""
+"Kendi QML uzantısı tarafından sağlanan özel bir API kullanan bir Plasma "
+"duvar kağıdı"
+
+#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:3
+msgctxt "Name"
+msgid "Plasma QML Applet"
+msgstr "Plasma QML Uygulamacığı"
+
+#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:50
+msgctxt "Comment"
+msgid ""
+"Plasma QML Applet template: a Plasma applet template displaying a SVG "
+"picture and a text"
+msgstr ""
+"Plasma QML Uygulamacığı şablonu: SVG resmi ve metin gösteren bir Plasma "
+"uygulamacığı şablonu"
+
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:2
+msgctxt "Name"
+msgid "Plasma QML Applet with QML extension"
+msgstr "QML eklentisi ile Plasma QML Uygulamacığı"
+
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:45
+msgctxt "Comment"
+msgid ""
+"A template for a Plasma applet which uses custom API provided by an own QML "
+"extension plugin"
+msgstr ""
+"Kendi QML eklentisi için sağlanan özel bir API kullanan Plasma uygulamacığı "
+"için bir şablon"

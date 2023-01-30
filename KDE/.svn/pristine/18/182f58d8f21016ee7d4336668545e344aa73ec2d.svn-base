@@ -1,0 +1,779 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2007-2009.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-graphics-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-07 00:56+0000\n"
+"PO-Revision-Date: 2022-04-11 11:32+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: dropbox/kipiplugin_dropbox.desktop.cmake:3
+msgctxt "Name"
+msgid "Dropbox Export"
+msgstr "Dropbox Aktarımı"
+
+#: dropbox/kipiplugin_dropbox.desktop.cmake:42
+msgctxt "Comment"
+msgid "A tool to export images to a remote Dropbox web service"
+msgstr "Görselleri uzak bir Dropbox web hizmetine aktarmak için bir araç"
+
+#: facebook/kipiplugin_facebook.desktop.cmake:3
+msgctxt "Name"
+msgid "Facebook Export"
+msgstr "Facebook Dışa Aktar"
+
+#: facebook/kipiplugin_facebook.desktop.cmake:39
+msgctxt "Comment"
+msgid "A tool to export images to a remote Facebook web service"
+msgstr "Görselleri uzak bir Facebook web hizmetine aktarmak için bir araç"
+
+#: flickr/kipiplugin_flickr.desktop.cmake:3
+msgctxt "Name"
+msgid "Flickr/23"
+msgstr "Flickr/23"
+
+#: flickr/kipiplugin_flickr.desktop.cmake:40
+msgctxt "Comment"
+msgid "A tool to export images to remote Flickr and 23 web services."
+msgstr "Görselleri Flickr ve 23 web servisine aktarmak için bir araç."
+
+#: googleservices/kipiplugin_googleservices.desktop.cmake:3
+msgctxt "Name"
+msgid "Google Services"
+msgstr "Google Servisleri"
+
+#: googleservices/kipiplugin_googleservices.desktop.cmake:40
+msgctxt "Comment"
+msgid "A tool to manage images with a remote Google web service"
+msgstr "Görselleri uzak bir Google Drive web hizmetine aktarmak için bir araç"
+
+#: imgur/kipiplugin_imgur.desktop.cmake:3
+msgctxt "Name"
+msgid "Imgur Export"
+msgstr "Imgur Aktarımı"
+
+#: imgur/kipiplugin_imgur.desktop.cmake:44
+msgctxt "Comment"
+msgid "A tool to export images to the imgur.com image hosting service"
+msgstr "Görselleri imgur.com resim barındırma hizmetine aktarmak için bir araç"
+
+#: printimages/templates/1_photo_10.5x14.8cm.desktop:2
+msgctxt "Name"
+msgid "10.5x14.8 cm (1 photo)"
+msgstr "10.5x14.8 cm (1 fotoğraf)"
+
+#: printimages/templates/1_photo_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm (1 photo)"
+msgstr "10x15 cm (1 fotoğraf)"
+
+#: printimages/templates/1_photo_20x25cm.desktop:2
+msgctxt "Name"
+msgid "20x25 cm (1 photo)"
+msgstr "20x25 cm (1 fotoğraf)"
+
+#: printimages/templates/1_photo_8x10.desktop:2
+msgctxt "Name"
+msgid "8 x 10\" (1 photo)"
+msgstr "8 x 10\" (1 fotoğraf)"
+
+#: printimages/templates/1_photo_9x13cm.desktop:2
+msgctxt "Name"
+msgid "9x13 cm (1 photo)"
+msgstr "9x13 cm (1 fotoğraf)"
+
+#: printimages/templates/2_photos_13x18cm.desktop:2
+msgctxt "Name"
+msgid "13x18 cm (2 photos)"
+msgstr "13x18 cm (2 fotoğraf)"
+
+#: printimages/templates/2_photos_5x7.desktop:2
+msgctxt "Name"
+msgid "5 x 7\" (2 photos)"
+msgstr "5 x 7\" (2 fotoğraf)"
+
+#: printimages/templates/3_photos_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm (3 photos)"
+msgstr "10x15 cm (3 fotoğraf)"
+
+#: printimages/templates/3_photos_4x6.desktop:2
+msgctxt "Name"
+msgid "4 x 6\" (3 photos)"
+msgstr "4 x 6\" (3 fotoğraf)"
+
+#: printimages/templates/4_photos_10x13.33cm.desktop:2
+msgctxt "Name"
+msgid "10x13.33 cm (4 photos)"
+msgstr "10x13.33 cm (4 fotoğraf)"
+
+#: printimages/templates/4_photos_3.5x5.desktop:2
+msgctxt "Name"
+msgid "3.5 x 5\" (4 photos)"
+msgstr "3.5 x 5\" (4 fotoğraf)"
+
+#: printimages/templates/4_photos_4.5x5cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos - 4.5x5cm (4 photos)"
+msgstr "Pasaport fotoğrafları - 4.5x5cm (4 fotoğraf)"
+
+#: printimages/templates/4_photos_9x13cm.desktop:2
+msgctxt "Name"
+msgid "9x13 cm (4 photos)"
+msgstr "9x13 cm (4 fotoğraf)"
+
+#: printimages/templates/4x6Album.desktop:2
+msgctxt "Name"
+msgid "4 x 6\" Album"
+msgstr "4 x 6\" Albüm"
+
+#: printimages/templates/6_photos_3.5x4.5cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos UK - 3.5x4.5cm (6 photos)"
+msgstr "Pasaport fotoğrafları Birleşik Krallık - 3.5x4.5cm (6 fotoğraf)"
+
+#: printimages/templates/6_photos_3.5x4cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos - 3.5x4cm (6 photos)"
+msgstr "Pasaport fotoğrafları - 3.5x4cm (6 fotoğraf)"
+
+#: printimages/templates/8_photos_6x9cm.desktop:2
+msgctxt "Name"
+msgid "6x9 cm (8 photos)"
+msgstr "6 x 9cm (8 fotoğraf)"
+
+#: printimages/templates/Album_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm Album"
+msgstr "10 x 15 cm Albüm"
+
+#: printimages/templates/Album_11.5x15cm.desktop:2
+msgctxt "Name"
+msgid "11.5x15 cm Album"
+msgstr "11.5x15 cm Albüm"
+
+#: printimages/templates/Album-Collage1.desktop:2
+msgctxt "Name"
+msgid "Album Collage 2 (6 photos)"
+msgstr "Albüm Kolajı 2 (6 fotoğraf)"
+
+#: printimages/templates/Album-Collage.desktop:2
+msgctxt "Name"
+msgid "Album Collage 1 (9 photos)"
+msgstr "Albüm Kolajı 1 (9 fotoğraf)"
+
+#: printimages/templates/FullPage.desktop:2
+msgctxt "Name"
+msgid "Full page"
+msgstr "Tam sayfa"
+
+#: printimages/templates/Photoframe.desktop:2
+msgctxt "Name"
+msgid "Photoframe (5 photos)"
+msgstr "Fotoğraf çerçevesi (5 fotoğraf)"
+
+#: printimages/templates/Thumbnails_5x4.desktop:2
+msgctxt "Name"
+msgid "Thumbnails 5x4 photos"
+msgstr "5x4 küçük fotoğraf"
+
+#: printimages/templates/Thumbnails_6x5.desktop:2
+msgctxt "Name"
+msgid "Thumbnails 6x5 photos"
+msgstr "6x5 küçük fotoğraf"
+
+#~ msgctxt "Comment"
+#~ msgid "A PhotoLayoutsEditor Border Plugin"
+#~ msgstr "Bir PhotoLayoutsEditor Kenar Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "A PhotoLayoutsEditor Effect Plugin"
+#~ msgstr "Bir PhotoLayoutsEditor Efekt Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Photo Layouts Editor"
+#~ msgstr "Fotoğraf Yerleşim Düzenleyici"
+
+#~ msgctxt "GenericName"
+#~ msgid "Photo layouts management program"
+#~ msgstr "Fotoğraf yerleşim yönetim programı"
+
+#~ msgctxt "Comment"
+#~ msgid "Create beautiful and professional photo layouts from your photos"
+#~ msgstr ""
+#~ "Fotoğraflarınızdan güzel ve profesyonel fotoğraf yerleşimleri oluşturun"
+
+#~ msgctxt "Name"
+#~ msgid "Classic"
+#~ msgstr "Klasik"
+
+#~ msgctxt "Comment"
+#~ msgid "A port of the old HTML Export plugin theme"
+#~ msgstr "Eski HTML Aktarma eklentisinin bir portu"
+
+#~ msgctxt "Name"
+#~ msgid "Aurélien Gâteau"
+#~ msgstr "Aurélien Gâteau"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnails per row"
+#~ msgstr "Satır başına küçük resimler"
+
+#~ msgctxt "Name"
+#~ msgid "Background Color"
+#~ msgstr "Arkaplan Rengi "
+
+#~ msgctxt "Name"
+#~ msgid "Foreground Color"
+#~ msgstr "Önplan Rengi "
+
+#~ msgctxt "Name"
+#~ msgid "Font Size"
+#~ msgstr "Yazı Tipi Boyutu"
+
+#~ msgctxt "Name"
+#~ msgid "Image Border Size"
+#~ msgstr "Görüntü Kenarlık Boyutu"
+
+#~ msgctxt "Name"
+#~ msgid "Image Border Color"
+#~ msgstr "Görüntü Kenarlığı Rengi"
+
+#~ msgctxt "Name"
+#~ msgid "Link Color"
+#~ msgstr "Bağlantı Rengi"
+
+#~ msgctxt "Name"
+#~ msgid "Visited Link Color"
+#~ msgstr "Tıklanmış Bağlantı Rengi"
+
+#~ msgctxt "Name"
+#~ msgid "Clean Frames"
+#~ msgstr "Çerçeveleri Temizle"
+
+#~ msgctxt "Comment"
+#~ msgid "A frame theme based on Ruediger Bente's frame theme"
+#~ msgstr "Ruediger Bente'nin çerçeve teması tabanlı bir  tema"
+
+#~ msgctxt "Name"
+#~ msgid "Elizabeth Marmorstein"
+#~ msgstr "Elizabeth Marmorstein"
+
+#~ msgctxt "Name"
+#~ msgid "Style"
+#~ msgstr "Biçim"
+
+#~ msgctxt "Name"
+#~ msgid "Date Frames"
+#~ msgstr "Tarih Çerçeveleri"
+
+#~ msgctxt "Name"
+#~ msgid "Thumbnail Background"
+#~ msgstr "Küçük Resim Arkaplanı"
+
+#~ msgctxt "Name"
+#~ msgid "Image Background (contrasting)"
+#~ msgstr "Resim Arkaplanı (karşıt renk)"
+
+#~ msgctxt "Name"
+#~ msgid "Nav Bar Background (dark)"
+#~ msgstr "Gezinme Çubuğu Arkaplanı (koyu)"
+
+#~ msgctxt "Name"
+#~ msgid "Gallery Introduction"
+#~ msgstr "Galeriye Giriş"
+
+#~ msgctxt "Name"
+#~ msgid ""
+#~ "Caption Date Format (see http://xsltsl.sourceforge.net/date-time.html)"
+#~ msgstr ""
+#~ "Başlık Tarihi Biçimi (http://xsltsl.sourceforge.net/date-time.html "
+#~ "adresine bakın)"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "XSL Date Format String: Use the syntax given at http://xsltsl.sourceforge."
+#~ "net/date-time.html"
+#~ msgstr ""
+#~ "XSL Tarih Biçimi Dizgisi: http://xsltsl.sourceforge.net/date-time.html "
+#~ "adresinde verilen yazım şeklini kullanın"
+
+#~ msgctxt "Name"
+#~ msgid "Image List Date Format"
+#~ msgstr "Resim Listesi Tarih Biçimi"
+
+#~ msgctxt "Comment"
+#~ msgid "Yet another simple theme. Clean look with more image details."
+#~ msgstr "Bir diğer hoş tema.  Daha fazla resim ayrıntısı ile temiz görünüm."
+
+#~ msgctxt "Name"
+#~ msgid "Details"
+#~ msgstr "Ayrıntılar"
+
+#~ msgctxt "Name"
+#~ msgid "Gianluca Urgese"
+#~ msgstr "Gianluca Urgese"
+
+#~ msgctxt "Name"
+#~ msgid "Details screenshot"
+#~ msgstr "Ekran görüntüsü ayrıntıları"
+
+#~ msgctxt "Name"
+#~ msgid "Footer information"
+#~ msgstr "Dipnot bilgisi"
+
+#~ msgctxt "Name"
+#~ msgid "Floating Cards"
+#~ msgstr "Yüzen Kartlar"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A dark theme with floating thumbnail/description cards. Fast navigation "
+#~ "through the gallery."
+#~ msgstr ""
+#~ "Yüzen küçük resim/açıklama kartları ile koyu bir tema. Galeri içerisinde "
+#~ "hızlı gezinme."
+
+#~ msgctxt "Name"
+#~ msgid "Jiří Boháč"
+#~ msgstr "Jiří Boháč"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Keyboard navigation"
+#~ msgctxt "Name"
+#~ msgid "Keyboard & swipe navigation"
+#~ msgstr "Klavye gezintisi"
+
+#~ msgctxt "Name"
+#~ msgid "Preload"
+#~ msgstr "Önyükleme"
+
+#~ msgctxt "Name"
+#~ msgid "Frames"
+#~ msgstr "Çerçeveler"
+
+#~ msgctxt "Comment"
+#~ msgid "A frame theme"
+#~ msgstr "Bir Çerçeve teması"
+
+#~ msgctxt "Name"
+#~ msgid "Ruediger Bente"
+#~ msgstr "Ruediger Bente"
+
+#~ msgctxt "Name"
+#~ msgid "Matrix"
+#~ msgstr "Matrix"
+
+#~ msgctxt "Comment"
+#~ msgid "Show your photos with Matrix style"
+#~ msgstr "Fotoğraflarınızı Matrix stili olarak gösterin"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Yet another nice theme. Very simple and clean look with \"calligraphics\" "
+#~ "icons."
+#~ msgstr ""
+#~ "Bir diğer hoş tema.  \"calligraphics\" ikonlarıyla çok sade ve ferah "
+#~ "görünüm."
+
+#~ msgctxt "Name"
+#~ msgid "S0"
+#~ msgstr "S0"
+
+#~ msgctxt "Name"
+#~ msgid "Petr Vaněk"
+#~ msgstr "Petr Vaněk"
+
+#~ msgctxt "Name"
+#~ msgid "Simple"
+#~ msgstr "Basit"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple and light theme"
+#~ msgstr "Sade ve hafif bir tema"
+
+#~ msgctxt "Name"
+#~ msgid "Snow"
+#~ msgstr "Kar"
+
+#~ msgctxt "Comment"
+#~ msgid "A perfect match for your mountain holidays"
+#~ msgstr "Dağ gezintileriniz için mükemmel bir tercih"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to blend bracketed images"
+#~ msgstr "Parantezli resimleri karıştırmak için bir araç"
+
+#~ msgctxt "GenericName"
+#~ msgid "Exposure Blending"
+#~ msgstr "Pozlama Harmanlaması"
+
+#~ msgctxt "Name"
+#~ msgid "ExpoBlending"
+#~ msgstr "ExpoBlending"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to assemble images as a panorama"
+#~ msgstr "Resimleri bir panorama olarak birleştirmek için bir araç"
+
+#~ msgctxt "GenericName"
+#~ msgid "Panorama"
+#~ msgstr "Panorama"
+
+#~ msgctxt "Name"
+#~ msgid "Panorama"
+#~ msgstr "Panorama"
+
+#~ msgctxt "Name"
+#~ msgid "AcquireImages"
+#~ msgstr "Resim Tara"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to acquire images using flat scanner"
+#~ msgstr "Tarayıcı kullanarak resimleri elde etmek için bir araç"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to acquire images using a flat scanner"
+#~ msgstr "Tarayıcı kullanarak resimleri elde etmek için bir araç"
+
+#~ msgctxt "GenericName"
+#~ msgid "Acquire Images"
+#~ msgstr "Resimleri Al"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced Slideshow"
+#~ msgstr "Gelişmiş Slayt Gösterisi"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to slide images with 2D and 3D effects using OpenGL"
+#~ msgstr ""
+#~ "OpenGL kullanarak resimleri 2B vee 3B efektlerle slayt haline getirmek "
+#~ "için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "BatchProcessImages"
+#~ msgstr "Çoklu Resim İşleme"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to batch process images"
+#~ msgstr "Resimleri toplu işlemek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Calendar"
+#~ msgstr "Takvim"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to create calendars"
+#~ msgstr "Takvim oluşturmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Debian Screenshots Export"
+#~ msgstr "Debian Ekran Görüntüsü Aktarımı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to the Debian Screenshots site"
+#~ msgstr "Resimleri Debian Ekran Görüntüleri sitesine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "DLNAExport"
+#~ msgstr "DLNAExport"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export collection on DLNA network service"
+#~ msgstr "Resimleri DLNA ağ hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "DNGConverter"
+#~ msgstr "DNG Dönüştürücü"
+
+#~ msgctxt "GenericName"
+#~ msgid "DNG Image Converter"
+#~ msgstr "DNG Resim Dönüştürücü"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to batch convert RAW camera images to DNG"
+#~ msgstr "RAW kamera resimlerini DNG'ye yığın olarak çevirmek için bir araç"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to convert Raw Image to Digital NeGative"
+#~ msgstr "Ham Resmi Dijital Negatife dönüştürmek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Expo Blending"
+#~ msgstr "Expo Blending"
+
+#~ msgctxt "Name"
+#~ msgid "Flash Export"
+#~ msgstr "Flash olarak Dışarı Aktar"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to Flash"
+#~ msgstr "Resimleri USB belleğe aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Flickr/23/Zooomr Exporter"
+#~ msgstr "Flickr/23/Zooomr Servislerine Aktarıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Remote Gallery Export"
+#~ msgstr "Uzak Galeri Aktarma"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Gallery"
+#~ msgstr "Resimleri uzak bir Galeriye aktarmak için bir araç"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to geolocalize pictures"
+#~ msgstr "Resimlerin coğrafi konumunu belirtme eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "GPSSync"
+#~ msgstr "GPSSync"
+
+#~ msgctxt "Name"
+#~ msgid "HTML Gallery"
+#~ msgstr "HTML Galerisi"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images collections into a static XHTML page"
+#~ msgstr ""
+#~ "Resim koleksiyonlarını statik bir XHTML sayfasına aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Imageshack Export"
+#~ msgstr "Imageshack Aktarımı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to Imageshack web service"
+#~ msgstr "Resimleri Imageshack web hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Imageviewer"
+#~ msgstr "Resim Gösterici"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to preview images using OpenGL"
+#~ msgstr "OpenGL kullanarak resimleri ön izlemek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "iPodExport"
+#~ msgstr "iPod'a Aktarıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export pictures to an Ipod device"
+#~ msgstr "Resimleri bir Ipod aygıtına aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "jAlbumExport"
+#~ msgstr "jAlbumExport"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to pass selected photos to jAlbum"
+#~ msgstr "Seçili fotoğrafları jAlbum'e göndermek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "JPEGLossless"
+#~ msgstr "Kayıpsız JPEG"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to rotate/flip images without losing quality"
+#~ msgstr "Resimleri kalitesini kaybetmeden döndürmek/çevirmek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "KioExportImport"
+#~ msgstr "KioExportImport"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A tool to export pictures to or import from a remote directory that is "
+#~ "accessible via KIO."
+#~ msgstr ""
+#~ "Resimleri KIO kullanarak uzak bir dizine aktarmak veya uzak dizinden "
+#~ "içeriye aktarmak için bir araç."
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to create KML files with geolocated images"
+#~ msgstr "Konum içeren resimlerden KML dosyaları oluşturmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "KMLExport"
+#~ msgstr "KMLExport"
+
+#~ msgctxt "Name"
+#~ msgid "Instant Messaging Export"
+#~ msgstr "Anında Mesajlaşma Aktarımı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to an instant messaging contact"
+#~ msgstr "Resimleri bir anlış mesajlaşma kişisine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "MediaWiki Export"
+#~ msgstr "MediaWiki Aktarımı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote MediaWiki web service"
+#~ msgstr "Resimleri uzak bir MediaWiki web hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to edit EXIF, IPTC and XMP metadata"
+#~ msgstr "EXIF, IPTC ve XMP üst verilerini düzenlemek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "MetadataEdit"
+#~ msgstr "Metadata Düzenle"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to make photo layouts"
+#~ msgstr "Fotoğraf yerleşimleri yapmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Remote Piwigo Export"
+#~ msgstr "Uzak Piwigo Aktarma"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Piwigo"
+#~ msgstr "Resimleri uzak bir Piwogo'ya aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Print images"
+#~ msgstr "Resimleri Yazdır"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to print images in various formats"
+#~ msgstr "Çeşitli biçimlerdeki resimleri yazdırmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Rajce.net Exporter"
+#~ msgstr "Rajce.net Aktarıcısı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote rajce.net service"
+#~ msgstr "Resimleri uzak bir rajce.net hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "RawConverter"
+#~ msgstr "Ham Dönüştürücü"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to convert Raw Image to JPEG/PNG/TIFF"
+#~ msgstr "Ham dosyaları  JPEG/PNG/TIFF biçimlerine dönüştürmek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Remove Red Eyes"
+#~ msgstr "Kırmızı Gözleri Düzelt"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to remove red eyes automatically from images"
+#~ msgstr "Resimdeki kırmızı gözleri otomatik olarak gidermek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "SendImages"
+#~ msgstr "Resim Gönder"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to send images by e-mail"
+#~ msgstr "Dosyaları e-posta ile göndermek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Shwup Export"
+#~ msgstr "Shwup Aktarımı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Shwup web service"
+#~ msgstr "Resimleri uzak bir Shwup web hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "SmugMug Import/Export"
+#~ msgstr "SmugMug İçeriye/Dışarıya Aktar"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to import/export images to/from a remote SmugMug web service"
+#~ msgstr ""
+#~ "Resimleri uzak bir SmugMug web servisine aktarmak  ve oradan almak için "
+#~ "bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "TimeDateAdjust"
+#~ msgstr "Tarih Saat Ayarla"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to adjust date and time"
+#~ msgstr "Tarihi ve saati ayarlamak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "VideoSlideShow"
+#~ msgstr "Video Slayt Gösterisi"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images as Video Slide Show"
+#~ msgstr "Resimleri Video Slayt Gösterisi olarak aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "VKontakte.ru Exporter"
+#~ msgstr "VKontakte.ru Aktarıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to the VKontakte.ru social network"
+#~ msgstr "Resimleri VKontakte.ru sosyal ağına aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Yandex.Fotki Exporter"
+#~ msgstr "Yandex.Fotki Aktarıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Yandex.Fotki web service"
+#~ msgstr ""
+#~ "Resimleri uzak bir Yandex.Fotki web hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Photivo Integration"
+#~ msgstr "Photivo Bütünleştirmesi"
+
+#~ msgctxt "Comment"
+#~ msgid "Integration of the Photivo RAW-Processor"
+#~ msgstr "Photivo RAW-İşleyici bütünleştirmesi"
+
+#~ msgctxt "Name"
+#~ msgid "WallPaper"
+#~ msgstr "Duvar Kağıdı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to set image as background on your desktop"
+#~ msgstr "Resimi masaüstü arkaplanı olarak belirlemek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "Picasaweb Exporter"
+#~ msgstr "Picasaweb Aktarıcısı"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to export images to a remote Picasa web service"
+#~ msgstr "Resimleri uzak bir Picasa web hizmetine aktarmak için bir araç"
+
+#~ msgctxt "Comment"
+#~ msgid "KIPI Batch Processing Images Plugin"
+#~ msgstr "KIPI Çoklu Resim İşleme Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Photo layouts management tool"
+#~ msgstr "Fotoğraf yerleşim yönetim aracı"
+
+#~ msgctxt "Name"
+#~ msgid "KIPI Plugins"
+#~ msgstr "Kipi Eklentileri"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Image Plugins Interface"
+#~ msgstr "KDE Resim Eklentileri Arayüzü"

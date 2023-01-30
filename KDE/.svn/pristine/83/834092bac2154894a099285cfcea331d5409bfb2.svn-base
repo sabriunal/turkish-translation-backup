@@ -1,0 +1,43 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-04 02:12+0200\n"
+"PO-Revision-Date: 2022-04-11 11:01+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kipi_plugins.metainfo.xml:6
+msgid "KIPI Plugins"
+msgstr "KIPI Eklentileri"
+
+#. (itstool) path: component/summary
+#: org.kde.kipi_plugins.metainfo.xml:7
+msgid "Plugins for KDE applications to export images"
+msgstr "KDE uygulamalarının görsel dışa aktarabilmesi için eklentiler"
+
+#. (itstool) path: description/p
+#: org.kde.kipi_plugins.metainfo.xml:9
+msgid ""
+"These plugins export image to various services such as Mediawiki or Facebook "
+"or a local album."
+msgstr ""
+"Bu eklentiler, görselleri Mediawiki veya Facebook gibi hizmetlere veya yerel "
+"bir albüme dışa aktarır."
+
+#. (itstool) path: description/p
+#: org.kde.kipi_plugins.metainfo.xml:10
+msgid "They add export features to Gwenview and Spectacle."
+msgstr "Gwenview ve Spectacle'a dışa aktarma özellikleri eklerler."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kipi_plugins.metainfo.xml:17
+msgid "KIPI Plugins as used in Gwenview."
+msgstr "KIPI Eklentileri, Gwenview'da kullanılırken."

@@ -1,0 +1,102 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2014.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-05-18 07:39+0000\n"
+"PO-Revision-Date: 2022-12-10 18:13+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.okteta.appdata.xml:6
+msgid "Okteta"
+msgstr "Okteta"
+
+#. (itstool) path: component/summary
+#: org.kde.okteta.appdata.xml:7
+msgid "Hex editor"
+msgstr "Bayt düzenleyici"
+
+#. (itstool) path: description/p
+#: org.kde.okteta.appdata.xml:9
+msgid "Okteta is a simple editor for the raw data of files."
+msgstr "Okteta ham veri dosyaları için basit bir düzenleyicidir."
+
+#. (itstool) path: description/p
+#: org.kde.okteta.appdata.xml:10
+msgid "Features:"
+msgstr "Özellikleri:"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:12
+msgid ""
+"Values and characters shown either in two columns (the traditional display "
+"in hex editors) or in rows with the value on top of the character"
+msgstr ""
+"Değerler ve karakterler ya iki sütunda (hex düzenleyicilerin geleneksel "
+"görünümü) ya da değer karakterin üzerinde olacak şekilde iki satırda "
+"görüntülenir"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:13
+msgid "Editing and navigating similar to a text editor"
+msgstr "Metin düzenleyicilere benzer düzenleme ve gezinme"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:14
+msgid "Customizable data views, with loadable and storable profiles"
+msgstr ""
+"Yüklenebilir ve saklanabilir profillerle özelleştirilebilir veri görünümleri"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:15
+msgid "Tools dockable on all sides or floating"
+msgstr "Kenarlara tutturulmuş veya kayan araçlar"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:16
+msgid "Numerical encodings: Hexadecimal, Decimal, Octal, Binary"
+msgstr "Sayısal kodlama: Onaltılık, Onluk, Sekizlik, İkilik"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:17
+msgid "Character encodings: All 8-bit encodings as supplied by Qt, EBCDIC"
+msgstr ""
+"Karakter kodlamaları: Qt tarafından verilen tüm 8-bit kodlamaları, EBCDIC"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:18
+msgid "Fast data rendering on screen"
+msgstr "Ekranda hızlı veri sunumu"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:19
+msgid "Multiple open files"
+msgstr "Çoklu dosya açılması"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:20
+msgid "Undo/redo support"
+msgstr "Geri Al/Yinele desteği"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:21
+msgid ""
+"Structures tool for analyzing and editing based on user-creatable structure "
+"definitions"
+msgstr ""
+"Kullanıcının oluşturabildiği yapı tanımlamalarına dayalı analiz ve düzenleme "
+"yapmak için araçlar"
+
+#. (itstool) path: ul/li
+#: org.kde.okteta.appdata.xml:22
+msgid "And more..."
+msgstr "Ve daha fazlası..."

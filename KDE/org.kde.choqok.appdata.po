@@ -1,0 +1,122 @@
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.choqok.appdata\n"
+"POT-Creation-Date: 2017-01-05 03:45+0100\n"
+"PO-Revision-Date: 2023-01-21 15:23+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+"X-POOTLE-MTIME: 1497540699.000000\n"
+
+#. (itstool) path: component/name
+#: org.kde.choqok.appdata.xml:6
+msgid "Choqok"
+msgstr "Choqok"
+
+#. (itstool) path: component/summary
+#: org.kde.choqok.appdata.xml:7
+msgid "Micro-blogging client"
+msgstr "Mikro Günlük İstemcisi"
+
+#. (itstool) path: description/p
+#: org.kde.choqok.appdata.xml:9
+msgid ""
+"Choqok is a micro-blogging client which supports Twitter.com, GNU Social, "
+"Pump.io and Friendica services."
+msgstr ""
+"Choqok, Twitter.com, GNU Social, Pump.ip ve Friendica hizmetlerini "
+"destekleyen bir mikro günlük istemcisidir."
+
+#. (itstool) path: description/p
+#: org.kde.choqok.appdata.xml:12
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:14
+msgid "Supporting Twitter.com micro-blogging service"
+msgstr "Twitter.com mikro günlük hizmetini destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:15
+msgid "Supporting self hosted Pump.io services"
+msgstr "Kendi kendine barındırılabilir Pump.io hizmetini destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:16
+msgid "Supporting self hosted GNU social service"
+msgstr "Kendi kendine barındırılabilir GNU social hizmetini destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:17
+msgid "Supporting self hosted Friendica services"
+msgstr "Kendi kendine barındırılabilir Friendica hizmetini destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:18
+msgid "Supporting User + His/Her Friends time-lines"
+msgstr "Kullanıcının ve arkadaşlarının zaman akışlarını destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:19
+msgid "Supporting @Reply time-lines"
+msgstr "@Yanıtla zaman akışlarını destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:20
+msgid "Support for send and receive direct messages"
+msgstr "Doğrudan ileti alma ve göndermeyi destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:21
+msgid "Support medium upload using external services (Flickr, Imageshack,...)"
+msgstr ""
+"Ortamların dış hizmetlere (Flickr, Imageshack,...) yüklenmesini destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:22
+msgid "Supporting Multiple Accounts simultaneously"
+msgstr "Eşzamanlı olarak birden çok hesabı destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:23
+msgid "Supporting search APIs for all services"
+msgstr "Tüm hizmetler için arama API'lerini destekler"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:24
+msgid "KWallet integration"
+msgstr "K Cüzdan tümleştirmesi"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:25
+msgid "Ability to make a quick tweet with global shortcuts (Ctrl+Meta+T)"
+msgstr "Global kısayollar (Ctrl+Meta4T) ile hızlı tweet atabilme olanağı"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:26
+msgid ""
+"Ability to notify user about new statuses text, with KNotification or "
+"Libnotify"
+msgstr ""
+"KNotification veya Libnotify kullanarak yeni durum iletilerinden kullanıcıyı "
+"haberdar etme"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:27
+msgid ""
+"Support for shortening urls with more than 30 characters (shorten on paste)"
+msgstr ""
+"30 karakterden fazla olan bağlantıları kısaltma desteği (yapıştırma "
+"sırasında kısaltma)"
+
+#. (itstool) path: ul/li
+#: org.kde.choqok.appdata.xml:28
+msgid "Support for configuring status lists appearance"
+msgstr "Durum listeleri görünüşlerini yapılandırma desteği"

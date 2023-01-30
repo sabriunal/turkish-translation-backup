@@ -1,0 +1,1847 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-skrooge-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-26 01:02+0000\n"
+"PO-Revision-Date: 2023-01-26 18:54+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: config.yaml:0 content/download.md:0 i18n/en.yaml:0
+msgid "Skrooge"
+msgstr "Varyemez"
+
+#: config.yaml:0
+msgid ""
+"Skrooge allows you to manage your personal finances, powered by KDE. Thanks "
+"to its many features, it is one of the most powerful way to enter, follow, "
+"and analyze your expenses."
+msgstr ""
+"Varyemez, KDE tarafından desteklenen, kişisel mali durumunuzu yönetmenizi "
+"sağlayan bir yazılımdır. Birçok özelliği ile giderlerinizi girmenin, takip "
+"etmenin ve çözümlemenin en güçlü yollarından birisidir."
+
+#: content/_index.md:0
+msgid "Skrooge - A personal finances manager, powered by KDE"
+msgstr "Varyemez - KDE tarafından desteklenen bir kişisel finans yöneticisi"
+
+#: content/_index.md:9
+msgid ""
+"Skrooge allows you to manage your personal finances, powered by [KDE]"
+"(https://www.kde.org). Thanks to its many [features](/features), it is one "
+"of the most powerful way to enter, follow, and analyze your expenses."
+msgstr ""
+"Varyemez, [KDE](https://www.kde.org)  tarafından desteklenen, kişisel mali "
+"durumunuzu yönetmenizi sağlayan bir yazılımdır. Birçok [özelliği](/features) "
+"ile harcamalarınızı girmenin, takip etmenin ve çözümlemenin en güçlü "
+"yollarından birisidir."
+
+#: content/_index.md:11
+msgid ""
+"Based on its KDE foundations, Skrooge can run on many platforms, including "
+"of course Linux, BSD, Solaris, but also on macOS, and possibly on Windows."
+msgstr ""
+"Varyemez, KDE temellerine dayanarak, elbette Linux, BSD, Solaris ve ayrıca "
+"macOS ve muhtemelen Windows da dahil olmak üzere birçok platformda "
+"çalışabilir."
+
+#: content/_index.md:13
+msgid ""
+"Skrooge is part of [KDE](https://apps.kde.org), and is released under the "
+"[GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) V3 licence."
+msgstr ""
+"Varyemez, [KDE'nin](https://apps.kde.org) bir parçasıdır ve [GPL](https://en."
+"wikipedia.org/wiki/GNU_General_Public_License) V3 lisansı altında "
+"yayımlanmıştır."
+
+#: content/_index.md:15
+msgid ""
+"General user information: [KDE Userbase](https://userbase.kde.org/Skrooge)"
+msgstr ""
+"Genel kullanıcı bilgisi: [KDE Kullanıcı Tabanı](https://userbase.kde.org/"
+"Skrooge)"
+
+#: content/_index.md:16
+msgid "The git repository: [KDE Invent](https://invent.kde.org/office/skrooge)"
+msgstr "Git deposu: [KDE Invent](https://invent.kde.org/office/skrooge)"
+
+#: content/_index.md:17
+msgid ""
+"Bugs and wishes: [KDE Bugtracker](https://bugs.kde.org/enter_bug.cgi?"
+"format=guided&product=skrooge)"
+msgstr ""
+"Hatalar ve istekler: [KDE Hata İzleyicisi](https://bugs.kde.org/enter_bug."
+"cgi?format=guided&product=skrooge)"
+
+#: content/_index.md:18
+msgid "Forum: [KDE Forum](https://forum.kde.org/viewforum.php?f=210)"
+msgstr "Forum: [KDE Forum](https://forum.kde.org/viewforum.php?f=210)"
+
+#: content/_index.md:19
+msgid "The dedicated page on [KDE Applications](https://apps.kde.org/skrooge)"
+msgstr "[KDE Uygulamaları](https://apps.kde.org/skrooge) sayfası"
+
+#: content/_index.md:20
+msgid ""
+"Documentation: in case the Skrooge handbook is not installed on your "
+"machine, you may browse it [online](https://docs.kde.org/?"
+"application=skrooge)."
+msgstr ""
+"Belgelendirme: Varyemez el kitabının makinenizde kurulu olmaması durumunda "
+"[çevrimiçi](https://docs.kde.org/?application=skrooge) olarak göz "
+"atabilirsiniz."
+
+#: content/contact.md:0
+msgid "Contact"
+msgstr "İletişim"
+
+#: content/contact.md:8
+msgid "You can contact the Skrooge developer in many ways:"
+msgstr "Varyemez geliştiricilerine birçok yoldan ulaşabilirsiniz:"
+
+#: content/contact.md:10
+msgid ""
+"Mail: You can find the email of the main developer in the \"About\" of "
+"Skrooge."
+msgstr ""
+"Posta: Varyemez'in ana geliştiricisinin e-postasına, uygulamanın \"Hakkında"
+"\" iletişim kutusundan ulaşabilirsiniz."
+
+#: content/contact.md:12
+msgid ""
+"Forum: If you prefer to use a forum you can use the [Skrooge forum](https://"
+"forum.kde.org/viewforum.php?f=210) inside the bigger [KDE Community Forums]"
+"(https://forum.kde.org/)."
+msgstr ""
+"Forum: Forumları kullanmayı tercih ediyorsanız [KDE Topluluk Forumları]"
+"(https://forum.kde.org/) altındaki [Varyemez forumunu](https://forum.kde.org/"
+"viewforum.php?f=210) kullanabilirsiniz."
+
+#: content/contact.md:14
+msgid ""
+"Bugs and Wishes: Bugs and Wishes should be reported to the [KDE bug tracker]"
+"(https://bugs.kde.org/enter_bug.cgi?format=guided&product=skrooge)."
+msgstr ""
+"Hatalar ve İstekler: Hatalar ve istekler, [KDE hata izleyicisine](https://"
+"bugs.kde.org/enter_bug.cgi?format=guided&product=skrooge) bildirilmelidir."
+
+#: content/donate.md:0
+msgid "Donate"
+msgstr "Bağış Yap"
+
+#: content/donate.md:7
+msgid "The Skrooge team does not currently need financial support, thank you."
+msgstr ""
+"Varyemez takımının şu anda finansal desteğe gereksinimi yoktur, teşekkür "
+"ederiz."
+
+#: content/donate.md:9
+msgid "Donate to KDE instead:"
+msgstr "Bunun yerine KDE'ye bağış yapın:"
+
+#: content/donate.md:10
+msgid ""
+"However, if you wish to support us, we strongly encourage you to make a "
+"donation to the [KDE e.V.](https://ev.kde.org/). We rely on [KDE](https://"
+"kde.org) for many things, so if you really want to support us, you should "
+"definitely consider helping KDE:"
+msgstr ""
+"Bizi desteklemek isterseniz bunun yerine [KDE e.V.](https://ev.kde.org/)'ye "
+"bağış yapmanızı şiddetle öneriyoruz. Biz, çoğu şey için [KDE](https://kde."
+"org)'ye bağımlıyız, bu yüzden bize destek yerine KDE'ye destek olmanız bize "
+"her durumda yardımcı olacaktır:"
+
+#: content/donate.md:12
+msgid "[Make a donation to KDE](https://kde.org/community/donations/)"
+msgstr "[KDE'ye bağış yap](https://kde.org/community/donations/)"
+
+#: content/donate.md:13
+msgid ""
+"[Join the Game](https://relate.kde.org/civicrm/contribute/transact?"
+"reset=1&id=9)"
+msgstr ""
+"[Oyuna Katıl](https://relate.kde.org/civicrm/contribute/transact?"
+"reset=1&id=9)"
+
+#: content/donate.md:15
+msgid "Send us a small item:"
+msgstr "Bize ufak hediyelik eşyalar gönderin:"
+
+#: content/donate.md:16
+msgid ""
+"Another option would be to send the Skrooge dev a small item, typical of "
+"your country or area! This is a great way for us to know where our users are "
+"from, and to remember them! If you wish to send us something, please "
+"[contact us](/contact) so that we can give you postal addresses."
+msgstr ""
+"Başka bir seçenek de Varyemez geliştiricilerine ülkenize veya bölgenize özgü "
+"küçük bir eşya göndermek olabilir! Bu, kullanıcılarımızın nereli olduğunu "
+"öğrenmemiz ve onları hatırlamamız için harika bir yol! Bize bir şey "
+"göndermek isterseniz posta adreslerimiz için lütfen [bize ulaşın](/contact)."
+
+#: content/download.md:0
+msgid "Download"
+msgstr "İndir"
+
+#: content/download.md:14
+msgid "Linux, BSD"
+msgstr "Linux, BSD"
+
+#: content/download.md:16
+msgid ""
+"**The recommended way is to install Skrooge using your distribution's "
+"package management tool.**"
+msgstr ""
+"**Varyemez'i kurmak için önerilen yol, dağıtımınızın paket yönetim aracını "
+"kullanmaktır.**"
+
+#: content/download.md:20
+msgid ""
+"However, if Skrooge is not yet available in repositories, you should of "
+"course bug the distro's packagers to include it, but in the mean time you "
+"can [compile and install Skrooge yourself](https://techbase.kde.org/Projects/"
+"Skrooge \"https://techbase.kde.org/Projects/Skrooge\"), it is not that "
+"difficult."
+msgstr ""
+"Varyemez henüz depolarda yoksa elbette dağıtımın paketleyicilerine onu "
+"içermelerini söylemelisiniz; bu arada [Varyemez'i kendiniz derleyip "
+"kurabilirsiniz](https://techbase.kde.org/Projects/Skrooge), o kadar da güç "
+"değildir."
+
+#: content/download.md:26
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: content/download.md:28
+msgid ""
+"Ubuntu's policy is not to propose the latest software versions, but rather "
+"to focus on stability. For that reason, it is possible that the Skrooge "
+"version available in official repositories is usually several versions "
+"behind the latest stable from developers."
+msgstr ""
+"Ubuntu'nun politikası, en son yazılım sürümlerini önermek değil, kararlılığa "
+"odaklanmaktır. Bu nedenle, resmi depolarda bulunan Varyemez sürümünün "
+"genellikle geliştiricilerin en son kararlı sürümünün arkasındaki birkaç "
+"sürüm olması olasıdır."
+
+#: content/download.md:30
+msgid ""
+"To install Skrooge on Ubuntu from our [PPA](https://launchpad.net/~s-"
+"mankowski), you need to:"
+msgstr ""
+"Varyemez'i Ubuntu üzerinde bizim [PPA'mızdan](https://launchpad.net/~s-"
+"mankowski) kurmak için yapmanız gerekenler şunlardır:"
+
+#: content/download.md:32
+msgid "Open a terminal and enter:"
+msgstr "Bir uçbirim açın ve şunları girin:"
+
+#: content/download.md:34
+msgid "**Stable**"
+msgstr "**Kararlı**"
+
+#: content/download.md:39
+msgid "**Beta**"
+msgstr "**Beta**"
+
+#: content/download.md:44
+msgid ""
+"Tell Ubuntu to re-load the details of each software archive it knows about:"
+msgstr ""
+"Ubuntu'ya bildiği her yazılım arşivinin ayrıntılarını yeniden yüklemesini "
+"söyleyin:"
+
+#: content/download.md:50
+msgid "Install Skrooge:"
+msgstr "Varyemez'i kurun:"
+
+#: content/download.md:60
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#: content/download.md:62
+msgid ""
+"Download package from [here](https://software.opensuse.org/download.html?"
+"project=home%3Amiraks&package=skrooge)"
+msgstr ""
+"Paketi [buradan](https://software.opensuse.org/download.html?project=home"
+"%3Amiraks&package=skrooge) indirin"
+
+#: content/download.md:68
+msgid "Snap"
+msgstr "Snap"
+
+#: content/download.md:76
+msgid "Appimage"
+msgstr "Appimage"
+
+#: content/download.md:84
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: content/download.md:86
+msgid "**You can install the stable version from Flathub**"
+msgstr "**Kararlı sürümü Flathub'dan kurabilirsiniz**"
+
+#: content/download.md:90
+msgid "**You can install the nightly build version too**:"
+msgstr "**Gecelik yapıyı da kurmak olanaklıdır:**"
+
+#: content/download.md:98
+msgid "**To run it:**"
+msgstr "**Çalıştırmak için:**"
+
+#: content/download.md:108
+msgid "Windows"
+msgstr "Windows"
+
+#: content/download.md:110
+msgid "Please read the [Windows Installation](/windows_installation) page"
+msgstr "Lütfen [Windows Kurulum](/windows_installation) sayfasını okuyun"
+
+#: content/download.md:116
+msgid "Source Code of Skrooge based on Kf5 and Qt5"
+msgstr "Varyemez'in kaynak kodu Kf5 ve Qt5 temellidir"
+
+#: content/download.md:118
+msgid "Latest Stable Version"
+msgstr "Güncel Kararlı Sürüm"
+
+#: content/download.md:120
+msgid ""
+"This is the recommended version for most users. It should be exempt from "
+"major bugs."
+msgstr "Çoğu kullanıcı için bu önerilir. Genelde büyük hatalar içermez."
+
+#: content/download.md:122 content/download.md:130
+msgid ""
+"31 July 2022: [skrooge-2.28.0.tar.xz](https://download.kde.org/stable/"
+"skrooge/skrooge-2.28.0.tar.xz.mirrorlist)"
+msgstr ""
+"31 Temmuz 2022: [skrooge-2.28.0.tar.xz](https://download.kde.org/stable/"
+"skrooge/skrooge-2.28.0.tar.xz.mirrorlist)"
+
+#: content/download.md:124
+msgid "Other [stable versions](https://download.kde.org/stable/skrooge/)"
+msgstr "Diğer [kararlı sürümler](https://download.kde.org/stable/skrooge/)"
+
+#: content/download.md:126
+msgid "Development Version"
+msgstr "Geliştirme Sürümü"
+
+#: content/download.md:128
+msgid ""
+"If you like living on the edge, or are in interested in testing new "
+"features, you may want to try the development version. Be aware though that "
+"it might contains severe bugs. Your data should be safe, however."
+msgstr ""
+"Sınırlarda yaşamayı seviyorsanız veya yeni özellikleri sınamakla "
+"ilgileniyorsanız geliştirme sürümünü denemek isteyebilirsiniz. Ancak ciddi "
+"hatalar içerebileceğinin farkında olun. Verileriniz genelde güvendedir."
+
+#: content/download.md:132
+msgid "Other [unstable versions](https://download.kde.org/unstable/skrooge/)"
+msgstr "Diğer [kararsız sürümler](https://download.kde.org/unstable/skrooge/)"
+
+#: content/faq.md:0 content/help.md:32
+msgid "FAQ"
+msgstr "SSS"
+
+#: content/faq.md:0
+msgid "How can I help when I have a performance issue?"
+msgstr "Bir başarım sorunum olduğunda nasıl yardımcı olabilirim?"
+
+#: content/faq.md:0
+msgid ""
+"If you want to help us to analyse a performance issue, you can do that from "
+"a console:\n"
+"```bash\n"
+"export SKGTRACEPERFO=1\n"
+"skrooge\n"
+"```\n"
+"Play your scenario except the action causing the issue.  \n"
+"Click on **Tools/Restart Profiling**.  \n"
+"Play the last action causing the issue.  \n"
+"Click on **Tools/Open Profiling.**\n"
+"\n"
+"A page has been opened.\n"
+"\n"
+"Copy and send us the content by email.\n"
+msgstr ""
+"Bir başarım sorununu çözümlememize yardımcı olmak istiyorsanız bunu bir "
+"konsoldan yapabilirsiniz:\n"
+"```bash\n"
+"export SKGTRACEPERFO=1\n"
+"skrooge\n"
+"```\n"
+"Soruna neden olan eylem dışında ne yapıyordu iseniz onu yapın.  \n"
+"**Araçlar/Profillemeyi Yeniden Başlat** seçeneğine tıklayın.  \n"
+"Soruna neden olan son eylemi oynatın.  \n"
+"**Araçlar/Profillemeyi Aç**'ya tıklayın.\n"
+"\n"
+"Bir sayfa açılır.\n"
+"\n"
+"İçeriği kopyalayın ve bize e-posta ile gönderin.\n"
+
+#: content/faq.md:0
+msgid "How can I initialize tracker value?"
+msgstr "İzleyici değerini nasıl başlatabilirim?"
+
+#: content/faq.md:0
+msgid ""
+"Sometimes, you would like to track the refund of a payment done before you "
+"started to use Skrooge.  \n"
+"How to do that because it's not possible to set an initial amount on a "
+"tracker?\n"
+"\n"
+"You can create a split operation with:\n"
+"\n"
+"* amount=0 to avoid impact on reports\n"
+"* a split with the expected amount associated to the tracker\n"
+"* the other split with the opposite amount not associated to a tracker\n"
+msgstr ""
+"Bazen, Varyemez'i kullanmaya başlamadan önce yapılan bir ödemenin iadesini "
+"takip etmek istersiniz.  \n"
+"Bir izleyicide bir başlangıç tutarı belirlemek olanaklı olmadığı için bunu "
+"nasıl yapabilirim?\n"
+"\n"
+"Şununla bir bölme işlemi oluşturabilirsiniz:\n"
+"\n"
+"* raporlar üzerindeki etkiyi önlemek için tutar=0\n"
+"* izleyiciyle ilişkili beklenen miktarla bir bölme\n"
+"* bir izleyiciyle ilişkili olmayan karşıt tutardaki diğer yarısı\n"
+
+#: content/faq.md:0
+msgid "How to have Skrooge in my language ?"
+msgstr "Varyemez'i kendi dilimde nasıl kullanabilirim?"
+
+#: content/faq.md:0
+msgid ""
+"First, check if Skrooge is well translated for your language: https://l10n."
+"kde.org/stats/gui/trunk-kf5/po/skrooge.po/\n"
+"\n"
+"Second, don't forget to install packages for your language. Example for "
+"french (fr):  \n"
+"language-pack-kde-fr  \n"
+"kde-l10n-fr\n"
+msgstr ""
+"Öncelikle, Varyemez'in dilinize iyice çevrilip çevrilmediğini denetleyin: "
+"https://l10n.kde.org/stats/gui/trunk-kf5/po/skrooge.po/\n"
+"\n"
+"İkinci olarak, diliniz için olan paketleri kurmayı unutmayın. Fransızca (fr) "
+"için örnek:  \n"
+"language-pack-kde-fr  \n"
+"kde-l10n-fr\n"
+
+#: content/faq.md:0
+msgid "How to add a source of download for units?"
+msgstr "Birimler için bir indirme kaynağı nasıl eklenir?"
+
+#: content/faq.md:0
+msgid ""
+"Since Skrooge 1.1.0, you can add your own source of download for units.\n"
+"\n"
+"For that, you just have to add a file in `$HOME/.kde/share/apps/skrooge/"
+"quotes/`\n"
+"\n"
+"This file must be a text file (extension `.txt`) like this:\n"
+"```text\n"
+"#The URL of the source. %1 will be replaced by the internet code of the "
+"unit\n"
+"url=https://stooq.com/q/l/?s=%1&f=sd2t2ohlcv&h&e=csv\n"
+"\n"
+"#The mode (HTML or CSV). In HTML mode, only one value will be extracted from "
+"downloaded page. In CSV mode, a value per line will be extracted.\n"
+"mode=CSV\n"
+"\n"
+"#The regular expression for the price (see https://doc.qt.io/qt-6.2/qregexp."
+"html)\n"
+"price=%1,\\[^,\\]\\*,\\[^,\\]\\*,\\[^,\\]\\*,\\[^,\\]\\*,\\[^,\\]\\*,(\\[^,"
+"\\]\\*),.\\*\n"
+"\n"
+"#The regular expression for the date (see https://doc.qt.io/qt-6.2/qregexp."
+"html)\n"
+"date=%1,(\\[^,\\]\\*),.\\*\n"
+"\n"
+"#The format of the date (see https://doc.qt.io/qt-6.2/qdate."
+"html#fromString-2)\n"
+"dateformat = yyyy-MM-dd\n"
+"```\n"
+"This is not so easy to define regular expression, so you can active "
+"Skrooge's traces by doing `export SKGTRACE=1`.\n"
+"\n"
+"Defaults sources are installed in `/usr/share/kde4/apps/skrooge/quotes/`.\n"
+msgstr ""
+"Varyemez 1.1.0 sürümünden bu yana, birimler için indirmelere kendi "
+"kaynağınızı ekleyebilirsiniz.\n"
+"\n"
+"Bunun için yalnızca şuraya bir dosya ekleyin: `$HOME/.kde/share/apps/skrooge/"
+"quotes/`\n"
+"\n"
+"Bu dosya, bir metin dosyası olmalıdır (uzantısı `.txt`), şöyle:\n"
+"```text\n"
+"#Kaynağın URL'si. %1, birimin internet koduyla değiştirilir\n"
+"url=https://stooq.com/q/l/?s=%1&f=sd2t2ohlcv&h&e=csv\n"
+"\n"
+"#Kip (HTML veya CSV). HTML kipinde, indirme sayfasından yalnızca bir değer "
+"çıkarılır. CSV kipinde, satır başına bir değer çıkarılır.\n"
+"mode=CSV\n"
+"\n"
+"#Fiyatın düzenli ifadesi, (bkz. https://doc.qt.io/qt-6.2/qregexp.html)\n"
+"price=%1,\\[^,\\]\\*,\\[^,\\]\\*,\\[^,\\]\\*,\\[^,\\]\\*,\\[^,\\]\\*,(\\[^,"
+"\\]\\*),.\\*\n"
+"\n"
+"#Tarihin düzenli ifadesi (bkz. https://doc.qt.io/qt-6.2/qregexp.html)\n"
+"date=%1,(\\[^,\\]\\*),.\\*\n"
+"\n"
+"#Tarihin biçimi (bkz. https://doc.qt.io/qt-6.2/qregexp.html)\n"
+"dateformat = yyyy-MM-dd\n"
+"```\n"
+"Bu düzenli ifadeyi tanımlamak o kadar kolay değildir, bu yüzden `export "
+"SKGTRACE=1` yaparak Varyemez'in izlerini etkin duruma getirebilirsiniz.\n"
+"\n"
+"Öntanımlı kaynaklar `/usr/share/kde4/apps/skrooge/quotes/` dizinine "
+"kurulur.\n"
+
+#: content/faq.md:0
+msgid "How to reduce the size of my document?"
+msgstr "Belgemin boyutunu nasıl düşürebilirim?"
+
+#: content/faq.md:0
+msgid ""
+"The size of your document can be very important. If you delete same old "
+"transactions, the size will increase.\n"
+"\n"
+"This is normal because Skrooge keeps the history of all modifications for "
+"the undo/redo mechanism.\n"
+"\n"
+"So, if you want to reduce the size of your document, you just have to clear "
+"the history.\n"
+msgstr ""
+"Belgenizin boyutu çok önemli olabilir. Aynı eski işlemleri silerseniz boyut "
+"artacaktır.\n"
+"\n"
+"Bu normaldir; çünkü Varyemez, geri alma/yineleme mekanizması için tüm "
+"değişikliklerin geçmişini tutar.\n"
+"\n"
+"Bu nedenle, belgenizin boyutunu küçültmek istiyorsanız geçmişi temizlemeniz "
+"yeterlidir.\n"
+
+#: content/faq.md:0
+msgid "How to set default currency and date format?"
+msgstr "Öntanımlı para birimi ve tarih biçimi nasıl ayarlanır?"
+
+#: content/faq.md:0
+msgid ""
+"Default currency and date format are retrieve from KDE's system settings. "
+"Some distributions do not ship it with base KDE packages, that should have "
+"been installed along Skrooge. In such case you should install it through "
+"your distribution's package manager.\n"
+"\n"
+"You can then start it in a console\n"
+"```bash\n"
+"systemsettings\n"
+"```\n"
+"\n"
+"And select your preferred settings in the _locale_ section.\n"
+msgstr ""
+"Öntanımlı para birimi ve tarih biçimi, KDE'nin sistem ayarlarından alınır. "
+"Bazı dağıtımlar, onu Varyemez'in ile birlikte kurulmuş olması gereken temel "
+"KDE paketleriyle göndermiyor olabilir. Böyle bir durumda, dağıtımınızın "
+"paket yöneticisi aracılığıyla elle kurmanız gerekir.\n"
+"\n"
+"Daha sonra, onu bir konsolda başlatabilirsiniz\n"
+"```bash\n"
+"systemsettings\n"
+"```\n"
+"\n"
+"Sonrasında _Bölgesel Ayarlar_ bölümünde tercih ettiğiniz ayarları seçin.\n"
+
+#: content/faq.md:0
+msgid "How can I add bank's icons for my country?"
+msgstr "Ülkem için bankaların simgelerini nasıl ekleyebilirim?"
+
+#: content/faq.md:0
+msgid ""
+"The banks are defined in a file named `list_bank.txt` containing one line "
+"per icon.\n"
+"\n"
+"Lines in this file are in fact the name of each bank logo file, and the file "
+"should be named like this : `xxxxx_xxx_xx__yyyyy.png`  \n"
+"Where:\n"
+"* `xxxxx_xxx_xx` is the name of the bank. Underscores (`_`) will be replaced "
+"by space when displayed in Skrooge.\n"
+"* `yyyyy` is the code of the bank. Usually, this code appears at the "
+"beginning of the account number.\n"
+"* The size of the file must be 100x100 maximum.\n"
+"\n"
+"Note 1: there is double underscore (`__`) between the bank name and the bank "
+"code.  \n"
+"Note 2: the bank code is optional. If this is not applicable in your "
+"country, do not put anything, and do not put the double underscore.\n"
+"\n"
+"As to logo files, it's being debated currently whether we should ship them "
+"within Skrooge, because of copyright issues. If you want to add them along "
+"with the file, please do so, but be aware that at some point in the future "
+"they might be removed...\n"
+msgstr ""
+"Bankalar, simge başına bir satır içeren `list_bank.txt` adlı bir dosyada "
+"tanımlanır.\n"
+"\n"
+"Bu dosyadaki satırlar aslında her bir banka logo dosyasının adıdır ve dosya "
+"şu şekilde adlandırılmalıdır: `xxxxxx_xxx_xx__yyyyy.png`  \n"
+"Bunlar:\n"
+"* `xxxxx_xxx_xx` bankanın adıdır. Alt çizgiler (`_`), Varyemez'de "
+"görüntülendiğinde boşluklarla değiştirilir.\n"
+"* `yyyyy` bankanın kodudur. Bu kod genellikle hesap numarasının başında "
+"görünür.\n"
+"* Dosyanın boyutu en çok 100 x 100 olmalıdır.\n"
+"\n"
+"Not 1: Banka adı ile banka kodu arasında çift alt çizgi (`__`) vardır.  \n"
+"Not 2: Banka kodu isteğe bağlıdır. Bu, ülkenizde geçerli değilse hiçbir şey "
+"koymayın ve çift alt çizgi de eklemeyin.\n"
+"\n"
+"Logo dosyalarına gelince, şu anda telif hakkı sorunları nedeniyle onları "
+"Varyemez içinde gönderip göndermememiz tartışılıyor. Bunları dosyayla "
+"birlikte eklemek istiyorsanız lütfen yapın; ancak gelecekte bir noktada "
+"kaldırılabileceklerini unutmayın...\n"
+
+#: content/faq.md:0
+msgid "How to translate Skrooge for my language ?"
+msgstr "Varyemez'i kendi dilime nasıl çevirebilirim?"
+
+#: content/faq.md:0
+msgid ""
+"Skrooge being a KDE application, all translations are held in the KDE "
+"repository. The following page shows translation progresses for Skrooge:  \n"
+"https://l10n.kde.org/stats/gui/trunk-kf5/po/skrooge.po/\n"
+"\n"
+"In order to contribute to KDE translations, I'd recommend you have a look at "
+"this page: https://l10n.kde.org/  \n"
+"It's usually very easy to join a team.\n"
+"\n"
+"They should give you proper indication on getting involved.\n"
+msgstr ""
+"Varyemez bir KDE uygulaması olduğundan, tüm çeviriler KDE depolarında "
+"tutulurlar. Aşağıdaki sayfa, Varyemez'in dillere göre çeviri durumunu "
+"gösterir:  \n"
+"https://l10n.kde.org/stats/gui/trunk-kf5/po/skrooge.po/\n"
+"\n"
+"KDE çevirilerine katkıda bulunmak için, bu sayfaya bakmanızı öneririz: "
+"https://l10n.kde.org/  \n"
+"Bir takıma katılmak genellikle çok kolaydır.\n"
+"\n"
+"Katılma konusunda size gereken bilgileri vereceklerdir.\n"
+
+#: content/faq.md:0
+msgid "How to avoid Skrooge freeze ?"
+msgstr "Varyemez'in arada sırada donmasını nasıl engelleyebilirim?"
+
+#: content/faq.md:0
+msgid ""
+"Sometimes, Skrooge freezes.  \n"
+"Most of the time it's due to settings.  \n"
+"So, you just have to try:\n"
+"```bash\n"
+"rm ~/.kde/share/config/skroogerc\n"
+"```\n"
+"If this doesn't work, then try:\n"
+"```bash\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_print.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_file.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_importexport.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_undoredo.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_operation.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_scheduled.rc\n"
+"rm ~/.kde/share/config/skrooge-appletsrc\n"
+"rm ~/.kde/share/config/skrooge_filerc\n"
+"rm ~/.kde/share/config/skrooge_operationrc\n"
+"rm ~/.kde/share/config/skrooge_importexportrc\n"
+"rm ~/.kde/share/config/skrooge_searchrc\n"
+"rm ~/.kde/share/config/skrooge_scheduledrc\n"
+"rm ~/.kde/share/config/skrooge_unitrc\n"
+"rm ~/.kde/share/config/skrooge_undoredorc\n"
+"```\n"
+msgstr ""
+"Arada sırada Varyemez donabilir.  \n"
+"Çoğu zaman, bu ayarlarla ilgilidir.  \n"
+"Böyle bir durumda şunları deneyin:\n"
+"```bash\n"
+"rm ~/.kde/share/config/skroogerc\n"
+"```\n"
+"Bu çalışmazsa:\n"
+"```bash\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_print.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_file.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_importexport.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_undoredo.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_operation.rc\n"
+"rm ~/.kde/share/apps/skrooge/skrooge_scheduled.rc\n"
+"rm ~/.kde/share/config/skrooge-appletsrc\n"
+"rm ~/.kde/share/config/skrooge_filerc\n"
+"rm ~/.kde/share/config/skrooge_operationrc\n"
+"rm ~/.kde/share/config/skrooge_importexportrc\n"
+"rm ~/.kde/share/config/skrooge_searchrc\n"
+"rm ~/.kde/share/config/skrooge_scheduledrc\n"
+"rm ~/.kde/share/config/skrooge_unitrc\n"
+"rm ~/.kde/share/config/skrooge_undoredorc\n"
+"```\n"
+
+#: content/faq.md:0
+msgid "How do you manage code quality ?"
+msgstr "Kod kalitesini nasıl denetim altında tutuyorsunuz?"
+
+#: content/faq.md:0
+msgid ""
+"To improve the quality of Skrooge, we are using many tools:\n"
+"* [ctest](https://www.cmake.org/Wiki/CMake_Testing_With_CTest) to execute "
+"automatic tests.\n"
+"* With continuous integration thanks to [KDE Build](https://build.kde.org/"
+"job/skrooge%20master%20stable-kf5-qt5/).\n"
+"* With Coverity:[![Coverity Scan Build Status](https://scan.coverity.com/"
+"projects/7151/badge.svg)](https://scan.coverity.com/projects/skrooge)\n"
+msgstr ""
+"Varyemez'in kalitesini artırmak için birçok araç kullanıyoruz:\n"
+"* Otomatik sınamaları yürütmek için [ctest](http://www.cmake.org/Wiki/"
+"CMake_Testing_With_CTest).\n"
+"* [KDE Build](https://build.kde.org/job/skrooge%20master%20stable-kf5-qt5/) "
+"sayesinde sürekli entegrasyon ile.\n"
+"* Coverity yardımıyla:[![Gizlilik Tarama Yapı Durumu](https://scan.coverity."
+"com/projects/7151/badge.svg)](https://scan.coverity.com/projects/skrooge)\n"
+
+#: content/faq.md:0
+msgid "How can I help debug?"
+msgstr "Hata ayıklamaya nasıl yardımcı olabilirim?"
+
+#: content/faq.md:0
+msgid ""
+"You can help us by doing:\n"
+"* Ask help on forum if you are not sure that it's a bug.\n"
+"* Check in the [bug tracker](https://bugs.kde.org/buglist.cgi?"
+"query_format=advanced&short_desc_type=allwordssubstr&short_desc=&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse"
+"+same+sort+as+last"
+"+time&known_name=Skrooge&query_based_on=Skrooge&field0-0-0=product&type0-0-0=substring&value0-0-0=skrooge&field0-0-1=component&type0-0-1=substring&value0-0-1=skrooge&field0-0-2=short_desc&type0-0-2=substring&value0-0-2=skrooge&field0-0-3=status_whiteboard&type0-0-3=substring&value0-0-3=skrooge) "
+"that our problem has not been reported before.\n"
+"* Open a console.\n"
+"* Execute following lines in the console.\n"
+"```bash\n"
+"export SKGTRACE=255\n"
+"skrooge > traces.txt\n"
+"```\n"
+"* Replay your scenario.\n"
+"* Open a new incident with:\n"
+"  * A detailed description.\n"
+"  * The result.\n"
+"  * The expected result.\n"
+"* Attach the file named `traces.txt` to the opened incident.\n"
+"\n"
+"This [document](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) "
+"could help you to avoid mistakes.\n"
+msgstr ""
+"Şunları yaparak bize yardımcı olabilirsiniz:\n"
+"* Sorununuzun bir hata olduğundan emin değilseniz forumda sorun.\n"
+"* Sorununuzun daha önceden bildirilmediğinden emin olmak için [hata "
+"izleyicisine bakın](https://bugs.kde.org/buglist.cgi?"
+"query_format=advanced&short_desc_type=allwordssubstr&short_desc=&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse"
+"+same+sort+as+last"
+"+time&known_name=Skrooge&query_based_on=Skrooge&field0-0-0=product&type0-0-0=substring&value0-0-0=skrooge&field0-0-1=component&type0-0-1=substring&value0-0-1=skrooge&field0-0-2=short_desc&type0-0-2=substring&value0-0-2=skrooge&field0-0-3=status_whiteboard&type0-0-3=substring&value0-0-3=skrooge).\n"
+"* Bir konsol açın.\n"
+"* Konsolda aşağıdaki satırları yürütün.\n"
+"```bash\n"
+"export SKGTRACE=255\n"
+"skrooge > traces.txt\n"
+"```\n"
+"* Hata senaryonuzu yeniden oynatın.\n"
+"* Şu bilgilerle yeni bir hata kaydı açın:\n"
+"  * Ayrıntılı bir açıklama.\n"
+"  * Sonuç.\n"
+"  * Beklenen sonuç.\n"
+"* `traces.txt` adlı dosyayı açtığınız kayda ekleyin.\n"
+"\n"
+"Bu [belge](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html), "
+"yanlışlardan kaçınmanıza yardımcı olabilir.\n"
+
+#: content/faq.md:0
+msgid "How can I report a vulnerabilities ?"
+msgstr "Bir güvenlik açığını nasıl bildirebilirim?"
+
+#: content/faq.md:0
+msgid ""
+"You can contact the main developer. You can find his email in the \"About\" "
+"of Skrooge."
+msgstr ""
+"Ana geliştirici ile iletişime geçebilirsiniz. E-postası, Varyemez'in "
+"\"Hakkında\" bölümünde vardır."
+
+#: content/faq.md:0
+msgid "How can I contribute to the Skrooge project?"
+msgstr "Varyemez projesine nasıl katkıda bulunabilirim?"
+
+#: content/faq.md:0
+msgid ""
+"Many answers to this question:\n"
+"* By translating the application and the documentation. You can find "
+"statistics [here](https://l10n.kde.org/stats/gui/trunk-kf5/po/skrooge.po/).\n"
+"* By opening bugs or wishes from [here](https://bugs.kde.org).\n"
+"* By answering questions on forum.\n"
+"* By proposing [patches](https://community.kde.org/Get_Involved/"
+"development).\n"
+"* By writing articles on this site.\n"
+"* By voting for Skrooge on [KDE-Apps](https://kde-apps.org/content/show.php/"
+"skrooge?content=92458).\n"
+"* By sending us encouragement."
+msgstr ""
+"Bu sorunun birçok yanıtı vardır:\n"
+"* Uygulamayı ve belgeleri çevirerek. İstatistikleri, [burada](https://l10n."
+"kde.org/stats/gui/trunk-kf5/po/skrooge.po/) bulabilirsiniz.\n"
+"* [Buradan](https://bugs.kde.org) hata ve istek kayıtları açarak.\n"
+"* Forumdaki soruları yanıtlayarak.\n"
+"* [Yamalar](https://community.kde.org/Get_Involved/development) önererek.\n"
+"* Bu sitede makaleler yazarak.\n"
+"* [KDE Uygulamaları](https://kde-apps.org/content/show.php/skrooge?"
+"content=92458) üzerinden Varyemez'e oy vererek.\n"
+"* Bizi cesaretlendirerek."
+
+#: content/features.md:0
+msgid "Features"
+msgstr "Özellikler"
+
+#: content/features.md:7
+msgid "Classical features"
+msgstr "Klasik özellikler"
+
+#: content/features.md:9
+msgid "Like in a web browser"
+msgstr "Bir web tarayıcısındaki gibi"
+
+#: content/features.md:13
+msgid "![](/images/multi_tabs.png)"
+msgstr "![](/images/multi_tabs.png)"
+
+#: content/features.md:13
+msgid "Several tabs to help you organize your work."
+msgstr "İşinizi düzenlemenize yardımcı olmak için birkaç adet sekme."
+
+#: content/features.md:14
+msgid "![](/images/back_forward.png)"
+msgstr "![](/images/back_forward.png)"
+
+#: content/features.md:14
+msgid "Navigate like in a browser."
+msgstr "Bir web tarayıcısındaymışçasına dolaşın."
+
+#: content/features.md:15
+msgid "![](/images/bookmarks_browser.png)"
+msgstr "![](/images/bookmarks_browser.png)"
+
+#: content/features.md:15
+msgid "Bookmark your preferred reports, graphs, filters, pages, ..."
+msgstr ""
+"Yeğlediğiniz raporları, grafikleri, süzgeçleri, sayfaları yer imlerine "
+"ekleyin..."
+
+#: content/features.md:19
+msgid "Infinite categories levels"
+msgstr "Sonsuz kategori düzeyleri"
+
+#: content/features.md:22
+msgid "![](/images/categories.png)"
+msgstr "![](/images/categories.png)"
+
+#: content/features.md:22
+msgid ""
+"Categories allow you to organize all of your financial transactions.<br>This "
+"makes it easier to see where your money comes from and where it goes."
+msgstr ""
+"Kategoriler, tüm finansal işlemlerinizi düzenlemenizi sağlar.<br>Bu, "
+"paranızın nereden geldiğini ve nereye gittiğini görmenizi kolaylaştırır."
+
+#: content/features.md:24
+msgid "Scheduled operations"
+msgstr "Zamanlanmış işlemler"
+
+#: content/features.md:27
+msgid "This is an easy way to add automatically transactions."
+msgstr "Bu, işlemleri otomatik olarak eklemenin kolay bir yoludur."
+
+#: content/features.md:27
+msgid "![](/images/scheduled.png)"
+msgstr "![](/images/scheduled.png)"
+
+#: content/features.md:29
+msgid "Multi currencies"
+msgstr "Birden çok sayıda para birimi"
+
+#: content/features.md:32
+msgid "![](/images/units.png)"
+msgstr "![](/images/units.png)"
+
+#: content/features.md:32
+msgid ""
+"Manage all our currencies, stocks, assets.<br>You can download stocks and "
+"currencies prices from many sources too."
+msgstr ""
+"Tüm para birimlerinizi, hisse senetlerinizi, varlıklarınızı yönetin."
+"<br>Hisse senetlerini ve döviz fiyatlarını da birçok kaynaktan "
+"indirebilirsiniz."
+
+#: content/features.md:34
+msgid "Manage payees"
+msgstr "Alacaklıları yönetin"
+
+#: content/features.md:37
+msgid "This is an easy way to manage who is the payee transactions."
+msgstr "Alacaklılarınızı Varyemez ile kolayca takip edebilirsiniz."
+
+#: content/features.md:37
+msgid "![](/images/payees.png)"
+msgstr "![](/images/payees.png)"
+
+#: content/features.md:39
+msgid "Reporting"
+msgstr "Raporlama"
+
+#: content/features.md:43
+msgid ""
+"Build the graph you want to well understand how your spend your money."
+"<br>Have a look to the periodic reports (monthly, annually, ...) to "
+"understand the progress.<br>Have a quick look on the dashboard. Skrooge is "
+"also able to give you advice based on your behavior."
+msgstr ""
+"Paranızı nasıl harcadığınızı iyice anlamak istediğiniz grafiği oluşturun."
+"<br>İlerlemeyi anlamak için periyodik raporlara (aylık, yıllık, ...) göz "
+"atın.<br>Denetim paneline hızlıca göz gezdirin. Varyemez, ayrıca "
+"davranışlarınıza göre size tavsiyelerde bulunabilir."
+
+#: content/features.md:43
+msgid "![](/images/reports.png)"
+msgstr "![](/images/reports.png)"
+
+#: content/features.md:45
+msgid "Budget"
+msgstr "Bütçe"
+
+#: content/features.md:49
+msgid ""
+"Budgeting isn't about restriction.<br>It's about setting and reaching your "
+"goals.<br>Skrooge can help you to manage your budgets by putting in places "
+"simple rules."
+msgstr ""
+"Bütçeleme, kısıtlamalarla ilgili değildir.<br>Hedeflerinizi belirlemek ve "
+"bunlara ulaşmakla ilgilidir.<br>Varyemez, basit kurallar koyarak "
+"bütçelerinizi yönetmenize yardımcı olabilir."
+
+#: content/features.md:49
+msgid "![](/images/budgets.png)"
+msgstr "![](/images/budgets.png)"
+
+#: content/features.md:52
+msgid "Import your accounts from many sources"
+msgstr "Hesaplarınızı birçok kaynaktan içe aktarın"
+
+#: content/features.md:54
+msgid ""
+"Skrooge is able to import transactions from many formats (AFB120, QIF, CSV, "
+"MT940, OFX, QFX, ...)."
+msgstr ""
+"Varyemez, birçok biçimden (AFB120, QIF, CSV, MT940, OFX, QFX, ...) işlemleri "
+"içe aktarabilir."
+
+#: content/features.md:56
+msgid ""
+"For a richer import, Skrooge is able to import documents from many "
+"applications (KMYMONEY, Microsoft Money, GNUCASH, GRISBI, HOMEBANK and MONEY "
+"MANAGER EX)."
+msgstr ""
+"Daha zengin bir içe aktarma için Varyemez, birçok uygulamadan (KMYMONEY, "
+"Microsoft Money, GNUCASH, GRISBI, HOMEBANK ve MONEY MANAGER EX) belgeleri "
+"içe aktarabilir."
+
+#: content/features.md:58
+msgid ""
+"And better, Skrooge is able to import directly transactions from all your "
+"banks websites in one click."
+msgstr ""
+"Daha da iyisi, Varyemez tüm bankalarınızın web sitelerindeki işlemleri tek "
+"bir tıklamayla doğrudan içe aktarabilir."
+
+#: content/features.md:60
+msgid "Format"
+msgstr "Biçim"
+
+#: content/features.md:60
+msgid "Comments"
+msgstr "Açıklamalar"
+
+#: content/features.md:60
+msgid "Import"
+msgstr "İçe Aktar"
+
+#: content/features.md:60
+msgid "Export"
+msgstr "Dışa Aktar"
+
+#: content/features.md:62
+msgid ""
+"[.OFX](https://en.wikipedia.org/wiki/Open_Financial_Exchange) / [.QFX]"
+"(https://en.wikipedia.org/wiki/QFX_%28file_format%29)"
+msgstr ""
+"[.OFX](https://en.wikipedia.org/wiki/Open_Financial_Exchange) / [.QFX]"
+"(https://en.wikipedia.org/wiki/QFX_%28file_format%29)"
+
+#: content/features.md:62
+msgid ""
+"Widely used by banks or applications. Standard specifications make it the "
+"more robust format when available"
+msgstr ""
+"Bankalar veya uygulamalar tarafından yaygın olarak kullanılır. "
+"Kullanılabilir olduğu durumlarda, standartlaştırılmış biçimi onu en iyi veri "
+"biçimi yapar"
+
+#: content/features.md:62 content/features.md:63 content/features.md:64
+#: content/features.md:65 content/features.md:66 content/features.md:67
+#: content/features.md:68 content/features.md:69 content/features.md:70
+#: content/features.md:71 content/features.md:72 content/features.md:73
+#: content/features.md:74 content/features.md:75 content/features.md:76
+#: content/features.md:77 content/features.md:78 content/features.md:79
+#: content/features.md:80
+msgid "![](/images/ok.png)"
+msgstr "![](/images/ok.png)"
+
+#: content/features.md:63
+msgid "MT940"
+msgstr "MT940"
+
+#: content/features.md:63
+msgid "MT940 is a specific SWIFT message type used by the SWIFT network."
+msgstr ""
+"MT940, SWIFT ağı tarafından kullanılan belirli bir SWIFT iletisi türüdür."
+
+#: content/features.md:64
+msgid "AFB120"
+msgstr "AFB120"
+
+#: content/features.md:64
+msgid "French norm"
+msgstr "Fransız standardı"
+
+#: content/features.md:65
+msgid "[.QIF](https://en.wikipedia.org/wiki/QIF)"
+msgstr "[.QIF](https://en.wikipedia.org/wiki/QIF)"
+
+#: content/features.md:65
+msgid ""
+"Widely used text format, but with no standard specification. Has some major "
+"drawbacks, like not containing the currency used, nor a defined date format. "
+"Skrooge does mostly better in processing this format than other "
+"applications, but there might still be some tricks here and there."
+msgstr ""
+"Yaygın olarak kullanılan metin biçimi; ancak standart bir özelliği yoktur. "
+"Kullanılan para birimini veya tanımlanmış bir tarih biçimini içermemesi gibi "
+"bazı önemli dezavantajları vardır. Varyemez, bu biçimi işlemede diğer "
+"uygulamalardan çoğunlukla daha iyidir; ancak yine de burada burada bazı ufak "
+"sıkıntılar olabilir."
+
+#: content/features.md:66
+msgid "[.CSV](https://en.wikipedia.org/wiki/Comma-separated_values)"
+msgstr "[.CSV](https://en.wikipedia.org/wiki/Comma-separated_values)"
+
+#: content/features.md:66
+msgid ""
+"Not a financial specific file formats, but sometimes used by banks or "
+"applications. Skrooge allows very flexible processing of these files"
+msgstr ""
+"Belirli bir finansal dosya biçimi değildir; ancak bazen bankalar veya "
+"uygulamalar tarafından kullanılır. Varyemez, bu dosyaların çok esnek bir "
+"şekilde işlenmesine izin verir"
+
+#: content/features.md:67
+msgid ".kmy"
+msgstr ".kmy"
+
+#: content/features.md:67
+msgid "The [KMyMoney](https://kmymoney.org/) file format."
+msgstr "[KMyMoney](https://kmymoney.org/) dosya biçimi."
+
+#: content/features.md:68
+msgid ".skg"
+msgstr ".skg"
+
+#: content/features.md:68
+msgid "The Skrooge file format."
+msgstr "Varyemez dosya biçimi."
+
+#: content/features.md:69
+msgid ".sqlite"
+msgstr ".sqlite"
+
+#: content/features.md:69
+msgid "The [sqlite](https://www.sqlite.org) file format."
+msgstr "[Sqlite](https://www.sqlite.org) dosya biçimi."
+
+#: content/features.md:70
+msgid ".gnc"
+msgstr ".gnc"
+
+#: content/features.md:70
+msgid "The [GnuCash](https://www.gnucash.org/) file format."
+msgstr "[GnuCash](https://www.gnucash.org/) dosya biçimi."
+
+#: content/features.md:71
+msgid ".gsb"
+msgstr ".gsb"
+
+#: content/features.md:71
+msgid "The [Grisbi](https://grisbi.org/) file format."
+msgstr "[Grisbi](https://grisbi.org/) dosya biçimi."
+
+#: content/features.md:72
+msgid ".iif"
+msgstr ".iif"
+
+#: content/features.md:72
+msgid ""
+"The [Intuit Interchange Format](https://quickbooks.intuit.com/learn-support/"
+"en-us/help-article/list-management/iif-overview-import-kit-sample-files-"
+"headers/L5CZIpJne_US_en_US) file format."
+msgstr ""
+"[Intuit Değişim Biçimi](https://quickbooks.intuit.com/learn-support/en-us/"
+"help-article/list-management/iif-overview-import-kit-sample-files-headers/"
+"L5CZIpJne_US_en_US) dosyası biçimi."
+
+#: content/features.md:73
+msgid ".ledger"
+msgstr ".ledger"
+
+#: content/features.md:73
+msgid "The [ledger](https://www.ledger-cli.org/) file format."
+msgstr "[Ledger](https://www.ledger-cli.org/) dosyası biçimi."
+
+#: content/features.md:74
+msgid ".xhb"
+msgstr ".xhb"
+
+#: content/features.md:74
+msgid "The [Homebank](http://homebank.free.fr/) file format."
+msgstr "[Homebank](http://homebank.free.fr/) dosyası biçimi."
+
+#: content/features.md:75
+msgid ".mmb"
+msgstr ".mmb"
+
+#: content/features.md:75
+msgid "The [Money Manager Ex](https://moneymanagerex.org/) file format."
+msgstr "[Money Manager Ex](https://moneymanagerex.org/) dosyası biçimi."
+
+#: content/features.md:76
+msgid ".mny"
+msgstr ".mny"
+
+#: content/features.md:76
+msgid "The Microsoft Money file format."
+msgstr "Microsoft Money dosyası biçimi."
+
+#: content/features.md:77
+msgid ".json"
+msgstr ".json"
+
+#: content/features.md:77
+msgid "The javascript file format."
+msgstr "JavaScript dosyası biçimi."
+
+#: content/features.md:78 content/features.md:79
+msgid ".xml"
+msgstr ".xml"
+
+#: content/features.md:78
+msgid "The Skrooge XML file format."
+msgstr "Varyemez XML dosya biçimi."
+
+#: content/features.md:79
+msgid "The [ISO 20022](https://www.iso20022.org/) XML file format."
+msgstr "[ISO 20022](https://www.iso20022.org/) XML dosyası biçimi."
+
+#: content/features.md:80
+msgid "Direct import"
+msgstr "Doğrudan içe aktar"
+
+#: content/features.md:80
+msgid "The direct import from banks is done with [woob](https://woob.tech/)."
+msgstr ""
+"Bankalardan doğrudan içe aktarma, [woob](https://woob.tech/) ile yapılır."
+
+#: content/features.md:82
+msgid ""
+"And if you're not satisfied with Skrooge, this is not a problem. Your data "
+"is not trapped, indeed you can export them in many formats."
+msgstr ""
+"Eğer Varyemez'den memnun kalmadıysanız bu bir sorun değildir. Veriniz "
+"bizimle esir değildir; onu birçok biçimde dışa aktarabilirsiniz."
+
+#: content/features.md:84
+msgid "Advanced features"
+msgstr "Gelişmiş özellikler"
+
+#: content/features.md:86
+msgid "Infinite undo/redo"
+msgstr "Sınırsız geri al/yinele"
+
+#: content/features.md:89
+msgid ""
+"Skrooge records all your actions.<br>This allows to undo or redo them even "
+"after the file was closed !"
+msgstr ""
+"Varyemez tüm eylemlerinizi kaydeder.<br>Böylece, dosyanızı kaydettikten "
+"sonra bile onları geri alabilir veya yineleyebilirsiniz."
+
+#: content/features.md:89
+msgid "![](/images/history_browser.png)"
+msgstr "![](/images/history_browser.png)"
+
+#: content/features.md:91
+msgid "Mass update of operations"
+msgstr "Toplu işlem güncelleme"
+
+#: content/features.md:94
+msgid "![](/images/before_mass_update.png)"
+msgstr "![](/images/before_mass_update.png)"
+
+#: content/features.md:94
+msgid "To make your life easier, all actions can be done massively."
+msgstr "İşinizi kolaylaştırmak adına, tüm işlemler toplu olarak yapılabilir."
+
+#: content/features.md:96
+msgid "Automatically process operations based on search conditions"
+msgstr "Arama koşullarına göre süreçleri otomatik olarak işleyin"
+
+#: content/features.md:97
+msgid ""
+"With the \"Search and process\" page, you can search operation and apply a "
+"categorisation or a template."
+msgstr ""
+"\"Ara ve İşle\" sayfası ile, bir işlemi arayabilir ve üzerinde "
+"kategorizasyon veya şablon uygulayabilirsiniz."
+
+#: content/features.md:99
+msgid "Really useful after an import."
+msgstr "Veri içe aktardıktan sonra işinize yarayabilir."
+
+#: content/features.md:101
+msgid "Track refund of your expenses"
+msgstr "Harcamalarınızın geri iadesini takip edin"
+
+#: content/features.md:104
+msgid "![](/images/trackers.png)"
+msgstr "![](/images/trackers.png)"
+
+#: content/features.md:104
+msgid ""
+"Skrooge can help you to check that you have received the expected refund (e."
+"g. medical)."
+msgstr ""
+"Varyemez, beklediğiniz geri iadelerin gelip gelmediğini denetlemenize "
+"yardımcı olur (örn. sigorta işlemleri)."
+
+#: content/features.md:106
+msgid "Dashboard"
+msgstr "Gösterge Tablosu"
+
+#: content/features.md:109
+msgid ""
+"![](/images/dashboard_categories.png)<br>![](/images/dashboard_banks_light."
+"png)"
+msgstr ""
+"![](/images/dashboard_categories.png)<br>![](/images/dashboard_banks_light."
+"png)"
+
+#: content/features.md:109
+msgid "You can design your dashboard by using many different components."
+msgstr ""
+"Birçok değişik bileşen kullanarak kendi gösterge tablonuzu "
+"tasarlayabilirsiniz."
+
+#: content/features.md:111
+msgid "Reports"
+msgstr "Raporlar"
+
+#: content/features.md:114
+msgid "Skrooge can produce some periodic reports.<br>"
+msgstr "Varyemez bazı periyotlar için raporlar oluşturabilir.<br>"
+
+#: content/features.md:114
+msgid "![](/images/monthly.png)"
+msgstr "![](/images/monthly.png)"
+
+#: content/features.md:116
+msgid "Skrooge can download more reports templates:"
+msgstr "Varyemez ek rapor şablonları indirebilir:"
+
+#: content/features.md:118
+msgid "Fichier des Ecritures Comptables"
+msgstr "Muhasebe Girişleri Dosyası"
+
+#: content/features.md:119
+msgid "autoentrepreneur"
+msgstr "girişimci"
+
+#: content/features.md:120
+msgid "freelance"
+msgstr "serbest"
+
+#: content/features.md:121 content/features.md:132
+msgid "..."
+msgstr "..."
+
+#: content/features.md:123
+msgid "If you want, you can build your own report template too."
+msgstr "Dilerseniz kendi rapor şablonunuzu da oluşturabilirsiniz."
+
+#: content/features.md:125
+msgid "And many other"
+msgstr "... ve çok daha fazlası"
+
+#: content/features.md:126
+msgid "Instant filtering on operations and reports."
+msgstr "İşlemler ve raporlar üzerinde anlık süzme."
+
+#: content/features.md:127
+msgid ""
+"Add all properties you want on all objets (transactions, accounts, "
+"categories, ...) and including files (pdf, pictures, ...)."
+msgstr ""
+"Tüm nesnelere (işlemler, hesaplar, kategoriler, ...) ve dosyalar (pdf, "
+"resimler, ...) dahil olmak üzere istediğiniz tüm özellikleri ekleyin."
+
+#: content/features.md:128
+msgid "Interests computation."
+msgstr "Faiz hesaplama."
+
+#: content/features.md:129
+msgid "Simulations."
+msgstr "Benzetimler."
+
+#: content/features.md:130
+msgid "Export from all tables."
+msgstr "Tüm tablolardan dışa aktarma."
+
+#: content/features.md:131
+msgid "Export from graphs and reports."
+msgstr "Grafiklerden ve raporlardan dışa aktarma."
+
+#: content/features.md:134
+msgid "Videos"
+msgstr "Videolar"
+
+#: content/features.md:136
+msgid "A Skrooge user kindly took some of his time to craft some videos:"
+msgstr ""
+"Bir Varyemez kullanıcısı, kendi zamanından ayırarak bu güzel videoları "
+"üretti:"
+
+#: content/features.md:138
+msgid ""
+"Skrooge tutorial #1 [https://vimeo.com/27796633](https://vimeo.com/27796633)"
+msgstr "[Varyemez öğreticisi #1](https://vimeo.com/27796633)"
+
+#: content/features.md:139
+msgid ""
+"Skrooge tutorial #2 [https://vimeo.com/27808880](https://vimeo.com/27808880)"
+msgstr "[Varyemez öğreticisi #2](https://vimeo.com/27808880)"
+
+#: content/features.md:140
+msgid ""
+"Skrooge tutorial #3 [https://vimeo.com/27893118](https://vimeo.com/27893118)"
+msgstr "[Varyemez öğreticisi #3](https://vimeo.com/27893118)"
+
+#: content/features.md:142
+msgid ""
+"He also created a comparison between Skrooge, Gnucash and Homebank: [https://"
+"vimeo.com/27799084](https://vimeo.com/27799084)"
+msgstr ""
+"Ayrıca Varyemez, Gnucash ve Homebank arasında bir [karşılaştırma](https://"
+"vimeo.com/27799084) yaptı"
+
+#: content/help.md:0
+msgid "Help"
+msgstr "Yardım"
+
+#: content/help.md:7
+msgid ""
+"Are you looking for help using Skrooge ? Here is a list of useful locations"
+msgstr ""
+"Varyemez kullanımı hakkında yardım mı arıyorsunuz? Buralarda yararlı "
+"yerlerin bir listesini bulabilirsiniz"
+
+#: content/help.md:11
+msgid "Forum"
+msgstr "Forum"
+
+#: content/help.md:12
+msgid ""
+"As a standard [KDE](https://kde.org) application, Skrooge questions can be "
+"asked on the KDE Forum, specifically in the office section:"
+msgstr ""
+"Standart bir [KDE](https://kde.org) uygulaması olarak, Varyemez ile ilgili "
+"sorular doğrudan KDE Forumunda \"Office\" bölümü altında bulunan alt forumda "
+"sorulabilir:"
+
+#: content/help.md:14
+msgid ""
+"[Take me to the forum!](https://forum.kde.org/viewforum.php?"
+"f=210&sid=1763a05f65212d8220bb82781e5155a4)"
+msgstr ""
+"[Beni foruma götür!](https://forum.kde.org/viewforum.php?"
+"f=210&sid=1763a05f65212d8220bb82781e5155a4)"
+
+#: content/help.md:18
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: content/help.md:19
+msgid ""
+"Skrooge documentation is supposed to be installed along the application when "
+"using your distribution's packages. If for some reason it is not there, or "
+"outdated, you may read it online:"
+msgstr ""
+"Dağıtımınızın paketlerini kullanırken Varyemez belgelerinin uygulama ile "
+"birlikte kurulması gerekir. Herhangi bir nedenle yoksa veya güncelliğini "
+"yitirmişse çevrimiçi olarak okuyabilirsiniz:"
+
+#: content/help.md:21
+msgid ""
+"[Take me to the online doc!](https://docs.kde.org/development/en/extragear-"
+"office/skrooge/index.html)"
+msgstr ""
+"[Beni çevrimiçi belgelere götür!](https://docs.kde.org/development/en/"
+"extragear-office/skrooge/index.html)"
+
+#: content/help.md:25
+msgid "Wiki"
+msgstr "Viki"
+
+#: content/help.md:26
+msgid ""
+"Skrooge uses the [KDE Wiki](https://userbase.kde.org). As with any wiki, you "
+"are encouraged to contribute :)"
+msgstr ""
+"Varyemez, [KDE Vikisi](https://userbase.kde.org)'ni kullanır. Herhangi bir "
+"vikide olduğu gibi, katkılarınızı bekliyoruz :)"
+
+#: content/help.md:28
+msgid "[Take me to the Wiki!](https://userbase.kde.org/Skrooge)"
+msgstr "[Beni vikiye götür!](https://userbase.kde.org/Skrooge)"
+
+#: content/help.md:33
+msgid "You may find answers to your questions at our own [FAQ](/faq)."
+msgstr "Sorularınızın yanıtları bizim kendi [SSS](/faq)'mizde de olabilir."
+
+#: content/news/_index.md:0
+msgid "News"
+msgstr "Haberler"
+
+#: content/windows_installation.md:0
+msgid "Windows Installation"
+msgstr "Windows Kurulumu"
+
+#: content/windows_installation.md:4
+msgid "Skrooge can be installed on Windows 10 by following this procedure:"
+msgstr ""
+"Varyemez, Windows 10 üzerinde aşağıdaki prosedürü izleyerek kurulabilir:"
+
+#: content/windows_installation.md:6
+msgid ""
+"On Win10 Creators Update with the Windows Subsystem for Linux (WSL) https://"
+"docs.microsoft.com/en-us/windows/wsl/install-win10"
+msgstr ""
+"Windows için Linux Alt Sistemi kurulu (WSL) Win10 Creators Update üzerinde: "
+"https://docs.microsoft.com/en-us/windows/wsl/install-win10"
+
+#: content/windows_installation.md:7
+msgid "You can use Ubuntu, then on console:"
+msgstr "Ubuntu'yu seçin ve konsolda şunları yürütün:"
+
+#: content/windows_installation.md:13
+msgid "Install Xming:"
+msgstr "Xming'u kur:"
+
+#: content/windows_installation.md:19
+msgid "Enable icons in Skrooge:"
+msgstr "Varyemez simgelerini etkinleştir:"
+
+#: content/windows_installation.md:32
+msgid "And choose \"Breeze\" icons."
+msgstr "Sonrasında \"Breeze (Esinti)\" simgelerini seçin."
+
+#: content/windows_installation.md:33
+msgid "Add at the end of `~/.config/kdeglobals`:"
+msgstr "`~/.config/kdeglobals` dosyasının en sonuna ekleyin:"
+
+#: i18n/en.yaml:0
+msgid "Latest News"
+msgstr "En Son Haberler"
+
+#: i18n/en.yaml:0
+msgid "View All Development News"
+msgstr "Tüm Geliştirme Haberlerini Görüntüle"
+
+#: i18n/en.yaml:0
+msgid "Badge of Skrooge version"
+msgstr "Varyemez sürüm rozeti"
+
+#: i18n/en.yaml:0
+msgid "Skrooge version"
+msgstr "Varyemez sürümü"
+
+#: i18n/en.yaml:0
+msgid "Badge of Skrooge Snap version"
+msgstr "Varyemez Snap sürümü rozeti"
+
+#: i18n/en.yaml:0
+msgid "Skrooge Snap version"
+msgstr "Varyemez Snap sürümü"
+
+#: i18n/en.yaml:0
+msgid "OpenSSF Best Practices"
+msgstr "En İyi OpenSSF Pratikleri"
+
+#: i18n/en.yaml:0
+msgid "Coverity Scan Build Status"
+msgstr "Coverity Taraması Yapı Durumu"
+
+#. %1 file name, %2 link
+#: i18n/en.yaml:0
+msgid "[%1](%2)"
+msgstr "[%1](%2)"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid ""
+"The [Skrooge](https://skrooge.org) Team announces the release %1 version of "
+"its popular Personal Finances Manager based on [KDE Frameworks](https://kde."
+"org)."
+msgstr ""
+"[Varyemez](https://skrooge.org) Takımı, [KDE Frameworks](https://kde.org) "
+"tabanlı kişisel finans yöneticisinin %1 sürümünü duyurur."
+
+#: i18n/en.yaml:0
+msgid "Get it, Try it, Love it..."
+msgstr "Alın, deneyin, sevin..."
+
+#: i18n/en.yaml:0
+msgid ""
+"Grab Skrooge from your distro's packaging system. If it is not yet included "
+"in repositories, go [get it from our website](/download), and bug your "
+"favorite distro for inclusion."
+msgstr ""
+"Varyemez'i dağıtımınızın paket sisteminden alın. Henüz paketler arasında "
+"yoksa [web sitemizden alın](/download) ve dağıtımınızın kafasını Varyemez'i "
+"paket depolarına eklemeleri için ütüleyin."
+
+#: i18n/en.yaml:0
+msgid "To enhance Skrooge, we need you! There are many ways you can help us:"
+msgstr ""
+"Varyemez'i geliştirmemiz için size gereksinimimiz var! Bize yardım "
+"edebileceğiniz bir sürü yol vardır:"
+
+#: i18n/en.yaml:0
+msgid "Submit bug reports"
+msgstr "Hata kayıtları gönder"
+
+#: i18n/en.yaml:0
+msgid "Discuss on the [KDE forum](https://forum.kde.org/)"
+msgstr "[KDE forumunda](https://forum.kde.org/) tartış"
+
+#: i18n/en.yaml:0
+msgid ""
+"[Contact us](/contact), give us your ideas, tell us where we can improve..."
+msgstr "[İletişime geçip](/contact) düşüncelerinizi ilet..."
+
+#: i18n/en.yaml:0
+msgid ""
+"Can you design good interfaces? Can you code? Have webmaster skills? Are you "
+"a billionaire looking for a worthy investment? We will be very pleased to "
+"welcome you in the Skrooge team, [contact us](/contact)!"
+msgstr ""
+"İyi arayüzler tasarlayabilir misiniz? Kod yazabiliyor musunuz? Web sayfası "
+"yapabiliyor musunuz? Güzel bir yatırım peşinde olan bir milyarder misiniz? "
+"Sizi Varyemez takımına dahil etmekten mutluluk duyacağız, [bizimle iletişime "
+"geçin](/contact)!"
+
+#: : site.md:0
+msgid "New web site"
+msgstr "Yeni web sitesi"
+
+#: : site.md:5
+msgid ""
+"We are excited to announce the launch of our new website, now built with the "
+"popular static site generator, [Hugo](https://gohugo.io). This change marks "
+"a significant shift away from our previous CMS, Drupal, and brings a fresh "
+"new look that aligns with the style of KDE, our parent organization."
+msgstr ""
+"Popüler statik site oluşturucu [Hugo](https://gohugo.io) ile oluşturulmuş "
+"yeni web sitemizin lansmanını duyurmaktan heyecan duyuyoruz. Bu değişiklik, "
+"önceki CMS'miz olan Drupal'dan önemli bir sapmayı haber veriyor ve üst "
+"kuruluşumuz olan KDE'nin tarzıyla uyumlu yepyeni bir görünüm getiriyor."
+
+#: : site.md:7
+msgid ""
+"We understand that change can be difficult, but we believe that this move "
+"will greatly benefit our users. The switch to [Hugo](https://gohugo.io) "
+"allows for faster loading times, improved security, and a more streamlined "
+"user experience. Additionally, the new design is fully responsive, ensuring "
+"that the site looks great on any device."
+msgstr ""
+"Değişimin zor olabileceğini anlıyoruz; ancak bu hamlenin kullanıcılarımıza "
+"büyük fayda sağlayacağına inanıyoruz. [Hugo](https://gohugo.io)'ya geçiş, "
+"daha hızlı yükleme süreleri, gelişmiş güvenlik ve daha akıcı bir kullanıcı "
+"deneyimi sağlayacak. Ek olarak, yeni tasarım tamamen duyarlıdır ve sitenin "
+"herhangi bir aygıtta harika görünmesini sağlar."
+
+#: : site.md:9
+msgid ""
+"One of the most exciting features of the new website is that it will be "
+"**translated into multiple languages**, making it more accessible to our "
+"global audience. This will ensure that users can access the same "
+"information, no matter what language they speak."
+msgstr ""
+"Yeni web sitesinin en heyecan verici özelliklerinden biri, **birden çok dile "
+"çevrilecek** olması ve böylece global kitlemiz için daha erişilebilir hale "
+"gelmesidir. Bu, kullanıcıların hangi dili konuşurlarsa konuşsunlar aynı "
+"bilgilere erişebilmelerini sağlayacak."
+
+#: : site.md:11
+msgid ""
+"We hope that you enjoy the new website and would love to hear your feedback. "
+"Don't hesitate to reach out to us with any suggestions or questions."
+msgstr ""
+"Umarız yeni web sitesini beğenmişsinizdir ve geri bildirimlerinizi duymak "
+"isteriz. Herhangi bir öneriniz veya sorunuz için bize ulaşmaktan çekinmeyin."
+
+#: : site.md:13
+msgid "Thank you for your continued support of Skrooge and the KDE community."
+msgstr ""
+"Varyemez'e ve KDE topluluğuna verdiğiniz sürekli destek için teşekkür ederiz."
+
+#: : Skrooge_2.24.6_released.md:0
+msgid "Skrooge 2.24.6 released"
+msgstr "Varyemez 2.24.6 yayımlandı"
+
+#: : Skrooge_2.24.6_released.md:8 Skrooge_2.26.1_released.md:8
+#: Skrooge_2.27.0_released.md:8 Skrooge_2.28.0_released.md:8
+msgid "Changelog"
+msgstr "Değişiklik günlüğü"
+
+#: : Skrooge_2.24.6_released.md:10
+msgid ""
+"Correction bug 424728: Skrooge reconciliation should play happy sounds when "
+"delta is 0 and when you validate pointed operations"
+msgstr ""
+"424728 numaralı hatanın düzeltmesi: Varyemez mutabakatı, delta 0 olduğunda "
+"ve noktalı işlemleri doğruladığınızda mutlu sesler çıkarmalıdır"
+
+#: : Skrooge_2.24.6_released.md:11
+msgid "Correction bug 425208: Import of .gnucash failed"
+msgstr "425208 numaralı hatanın düzeltmesi: .gnucash içe aktarması başarısızdı"
+
+#: : Skrooge_2.24.6_released.md:12
+msgid ""
+"Correction bug 421302: The ability to create aliases for accounts to assist "
+"with import"
+msgstr ""
+"421302 numaralı hatanın düzeltmesi: İçe aktarmaya yardımcı olmak için "
+"hesaplar için armalar oluşturma yeteneği"
+
+#: : Skrooge_2.24.6_released.md:13
+msgid ""
+"Correction: Ledger-cli export doesn't export negative values in the correct "
+"format"
+msgstr ""
+"Düzeltme: Ledger-cli dışa aktarma, negatif değerleri doğru biçimde dışa "
+"aktarmıyordu"
+
+#: : Skrooge_2.24.6_released.md:14
+msgid ""
+"Feature: DBUS is now optional (useful for MacOS)Feature: In monthly reports, "
+"the templates are now able to filter on the selected period"
+msgstr ""
+"Özellik: DBUS artık isteğe bağlıdır (macOS için kullanışlıdır), özellik: "
+"Aylık raporlarda şablonlar artık seçilen döneme göre süzgeç uygulayabilir"
+
+#: : Skrooge_2.24.6_released.md:15
+msgid "Feature: Import Ledger"
+msgstr "Özellik: Ledger içe aktarma"
+
+#: : Skrooge_2.26.1_released.md:0
+msgid "Skrooge 2.26.1 released"
+msgstr "Varyemez 2.26.1 yayımlandı"
+
+#: : Skrooge_2.26.1_released.md:10
+msgid "**Correction bug 436006: import not working with woob bank 3.0**"
+msgstr ""
+"**436006 numaralı hatanın düzeltmesi: İçe aktarma, woob bank 3.0 ile "
+"çalışmıyordu**"
+
+#: : Skrooge_2.26.1_released.md:11
+msgid "Correction bug 436081: Help text needs to be escaped"
+msgstr ""
+"436081 numaralı hatanın düzeltmesi: Yardım metninin kaçırılması gerekiyordu"
+
+#: : Skrooge_2.26.1_released.md:12
+msgid ""
+"Correction bug 436328: there's no word \"reconciliate\" in English, should "
+"be reconcile"
+msgstr ""
+"436328 numaralı hatanın düzeltmesi: İngilizcede \"reconciliate\" diye bir "
+"kelime yoktur, reconcile olmalı"
+
+#: : Skrooge_2.26.1_released.md:13
+msgid ""
+"**Correction bug 439494: Downloading currency using skrooge-yahoodl.py fails "
+"with UnicodeDecodeError**"
+msgstr ""
+"**439494 numaralı hatanın düzeltmesi: skrooge-yahoodl.py ile para birimi "
+"indirme UnicodeDecodeError ile başarısız**"
+
+#: : Skrooge_2.26.1_released.md:14
+msgid "Correction: Small fix for FEC monthly report"
+msgstr "Düzeltme: FEC aylık raporu için ufak bir düzeltme"
+
+#: : Skrooge_2.26.1_released.md:15
+msgid ""
+"Correction: Migration on new exchangeratesapi.io APIs. Need a API key now"
+msgstr ""
+"Düzeltme: Yeni exchangeratesapi.io API'lerine göç edildi; şimdi bir API "
+"anahtarı gerekli"
+
+#: : Skrooge_2.26.1_released.md:16
+msgid "Correction: Fix deprecated knsrc file location"
+msgstr "Düzeltme: Artık kullanılmayan knsrc konumu düzeltildi"
+
+#: : Skrooge_2.26.1_released.md:17
+msgid ""
+"Feature: Add confirmation message when an import is triggered by a double "
+"click on an imported file"
+msgstr ""
+"Özellik: İçe aktarılan bir dosyaya çift tıklanarak bir içe aktarma "
+"tetiklendiğinde onay iletisi ekle"
+
+#: : Skrooge_2.27.0_released.md:0
+msgid "Skrooge 2.27.0 released"
+msgstr "Varyemez 2.27.0 yayımlandı"
+
+#: : Skrooge_2.27.0_released.md:10
+msgid ""
+"Correction bug 440271: 2.26.1 still installs skrooge\\_unit.knsrc to "
+"depreciated /etc/xdg/ location"
+msgstr ""
+"440271 numaralı hatanın düzeltmesi: 2.26.1 hâlâ skrooge\\_unit.knsrc'yi "
+"artık kullanılmayan /etc/xdg/ konumuna kuruyor"
+
+#: : Skrooge_2.27.0_released.md:11
+msgid ""
+"Correction bug 446353: you can't tab to the number and duration fields in "
+"Operations \"Show\" table filter"
+msgstr ""
+"446353 numaralı hatanın düzeltmesi: İşlemler \"Göster\" tablo filtresindeki "
+"sayı ve süre alanlarına sekmeyle gidilemez"
+
+#: : Skrooge_2.27.0_released.md:12
+msgid "Correction bug 446915: Import from Woob using Ofx"
+msgstr "446915 numaralı hatanın düzeltmesi: Qfx kullanarak Woob'dan içe aktar"
+
+#: : Skrooge_2.27.0_released.md:13
+msgid "Correction: Weeks without operation are missing in reports"
+msgstr "Düzeltme: İşlemsiz haftalar raporlarda eksik"
+
+#: : Skrooge_2.27.0_released.md:14
+msgid "Correction: Crash when the dashboard is closed during animation"
+msgstr "Düzeltme: Pano canlandırma sırasında kapatıldığında kilitleniyor"
+
+#: : Skrooge_2.27.0_released.md:15
+msgid "Feature: New release process for appimage"
+msgstr "Özellik: Appimage için yeni sürüm süreci"
+
+#: : Skrooge_2.27.0_released.md:16
+msgid ""
+"Feature: Unit values can be negative now (see https://forum.kde.org/"
+"viewtopic.php?f=210&t=173318)"
+msgstr ""
+"Özellik: Birim değerleri artık negatif olabilir (bkz. https://forum.kde.org/"
+"viewtopic.php?f=210&t=173318)"
+
+#: : Skrooge_2.27.0_released.md:17
+msgid ""
+"Feature: Skrooge uses now the LC\\_MONETARY environement variable to use the "
+"specific locale for currency format"
+msgstr ""
+"Özellik: Varyemez, para birimi biçimi için belirli yerel ayarı kullanmak "
+"üzere artık LC_MONETARY çevre değişkenini kullanıyor"
+
+#: : Skrooge_2.28.0_released.md:0
+msgid "Skrooge 2.28.0 released"
+msgstr "Varyemez 2.28.0 yayımlandı"
+
+#: : Skrooge_2.28.0_released.md:10
+msgid "Correction: update gengetopt dependency in flatpak"
+msgstr "Düzeltme: flatpak'ta gengetopt bağımlılığını güncelle"
+
+#: : Skrooge_2.28.0_released.md:11 Skrooge_2.28.0_released.md:15
+msgid ""
+"Correction bug 452529: skrooge flatpak is using org.kde.Platform//5.15 which "
+"is end-of-life"
+msgstr ""
+"452529 numaralı hatanın düzeltmesi: Varyemez flatpak artık kullanılmayan org."
+"kde.Platform//5.15 kullanıyor"
+
+#: : Skrooge_2.28.0_released.md:12
+msgid "Correction bug 452531: Skrooge flatpak indicates old version"
+msgstr ""
+"452531 numaralı hatanın düzeltmesi: Varyemez flatpak eski sürümü belirtiyor"
+
+#: : Skrooge_2.28.0_released.md:13
+msgid ""
+"Correction: document the settings icon in a table's header to bring up its "
+"context menu"
+msgstr ""
+"Düzeltme: Tablonun bağlam menüsünü getirmek için bir tablonun başlığındaki "
+"ayarlar simgesini belgele"
+
+#: : Skrooge_2.28.0_released.md:14
+msgid ""
+"Correction bug 446352: field pop-ups located weirdly, \"##WARNING: Wayland "
+"does not support QWindow::requestActivate()\", sometimes hangs"
+msgstr ""
+"446352 numaralı hatanın düzeltmesi: Alan açılır pencereleri değişik "
+"davranıyor, \"##WARNING: Wayland does not support QWindow::"
+"requestActivate()\", bazen takılıyor"
+
+#: : Skrooge_2.28.0_released.md:16
+msgid ""
+"Correction bug 452695: Skrooge report (Line) having issues with values above "
+"several millions"
+msgstr ""
+"452695 numaralı hatanın düzeltmesi: Varyemez raporu (Line), birkaç milyonun "
+"üzerindeki değerlerle ilgili sorunlar yaşıyor"
+
+#: : Skrooge_2.28.0_released.md:17
+msgid "Feature: The \"Debug\" page allows to execute multi sql orders"
+msgstr ""
+"Özellik: \"Hata Ayıklama\" sayfası, çoklu sql isteklerini yürütmeye izin "
+"verir"
+
+#: : Skrooge_2.28.0_released.md:18
+msgid "Feature: Import .sta file as MT940"
+msgstr "Özellik: .sta dosyasını MT940 olarak içe aktar"
+
+#~ msgid "[Join the Game](http://jointhegame.kde.org/)"
+#~ msgstr "[Oyuna katıl](http://jointhegame.kde.org/)"

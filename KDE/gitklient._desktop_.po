@@ -1,0 +1,41 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-12 01:03+0000\n"
+"PO-Revision-Date: 2022-09-05 16:58+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.0\n"
+
+#: src/data/org.kde.gitklient.desktop:2
+msgctxt "Name"
+msgid "Git Klient"
+msgstr "Git Klient"
+
+#: src/data/org.kde.gitklient.desktop:23
+#: src/data/org.kde.gitklient.diff.desktop:22
+#: src/data/org.kde.gitklient.merge.desktop:22
+msgctxt "GenericName"
+msgid "Git client gui for KDE"
+msgstr "KDE için Git Grafik Kullanıcı Arayüzü"
+
+#: src/data/org.kde.gitklient.diff.desktop:2
+msgctxt "Name"
+msgid "Git Klient Diff"
+msgstr "Git Klient Diff"
+
+#: src/data/org.kde.gitklient.merge.desktop:2
+msgctxt "Name"
+msgid "Git Klient Merge"
+msgstr "Git Klient Birleştir"
+
+#~ msgctxt "Name"
+#~ msgid "My fancy action plugin"
+#~ msgstr "Janjanlı eylem eklentim"

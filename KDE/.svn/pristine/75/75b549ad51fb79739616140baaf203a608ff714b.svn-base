@@ -1,0 +1,47 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-10 02:47+0100\n"
+"PO-Revision-Date: 2022-12-01 16:47+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kookbook.appdata.xml:8
+msgid "Kookbook"
+msgstr "Kookbook"
+
+#. (itstool) path: component/summary
+#: org.kde.kookbook.appdata.xml:9
+msgid "Recipe manager"
+msgstr "Yemek Tarifi Yönetici"
+
+#. (itstool) path: component/developer_name
+#: org.kde.kookbook.appdata.xml:12
+msgid "Sune Vuorela"
+msgstr "Sune Vuorela"
+
+#. (itstool) path: description/p
+#: org.kde.kookbook.appdata.xml:14
+msgid ""
+"Kookbook is a simplistic recipe manager that will help you to maintain a "
+"collection of your favorite recipes."
+msgstr ""
+"Kookbook, favori yemek tarifleriniz koleksiyonunu yönetmenize yardımcı "
+"olacak gerçekçi bir tarif yöneticisidir."
+
+#. (itstool) path: description/p
+#: org.kde.kookbook.appdata.xml:15
+msgid ""
+"Recipes can be synced with others using external tools like git "
+"repositories, nextcloud or many other services."
+msgstr ""
+"Tarifler başka araçlarla eşzamanlanabilir; örneğin, git depoları, Nextcloud "
+"veya diğer hizmetler."

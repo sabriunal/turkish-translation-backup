@@ -1,0 +1,93 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-timeline-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-04-25 00:52+0000\n"
+"PO-Revision-Date: 2022-10-20 11:35+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.1\n"
+
+#: i18n/en.yaml:0
+msgid "Your names"
+msgstr "Emir SARI"
+
+#: i18n/en.yaml:0
+msgid "Translated by"
+msgstr "Çevirenler"
+
+#: i18n/en.yaml:0
+msgid "KDE Timeline"
+msgstr "KDE Zaman Akışı"
+
+#. %1 number of years
+#: i18n/en.yaml:0
+msgid "A %1 year timeline of KDE events"
+msgstr "KDE etkinliklerinin %1 yıllık geçmişi"
+
+#: i18n/en.yaml:0
+msgid "Languages"
+msgstr "Diller"
+
+#: i18n/en.yaml:0
+msgid "Select your language"
+msgstr "Dilinizi seçin"
+
+#. %1 number of years
+#: i18n/en.yaml:0
+msgid "%1 Years of KDE"
+msgstr "KDE'nin %1 Yılı"
+
+#. %1 number of years
+#: i18n/en.yaml:0
+msgid ""
+"A tour through the moments that marked the %1 years of community history, "
+"starting with the technologies that made possible its existence. See our KDE "
+"20 years <a style=\"text-decoration:underline;\" href=\"https://20years.kde."
+"org/book/index.html\">book</a>."
+msgstr ""
+"Topluluğun %1 yıllık tarihine damgasını vuran anlar içinde, varlığını "
+"olanaklı kılan teknolojilerden başlayarak bir gezinti. KDE'nin 20 yılı <a "
+"style=\"text-decoration:underline;\" href=\"https://20years.kde.org/book/"
+"index.html\">kitabına</a> da bir bakın."
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE<sup>®</sup> and [the K Desktop Environment<sup>®</sup> logo](https://kde."
+"org/media/images/trademark_kde_gear_black_logo.png) are registered "
+"trademarks of [KDE e.V.](https://ev.kde.org/ \"Homepage of the KDE non-"
+"profit Organization\")"
+msgstr ""
+"KDE<sup>®</sup> ve [K Masaüstü Ortamı<sup>®</sup>logosu](https://kde.org/"
+"media/images/trademark_kde_gear_black_logo.png), [KDE e.V.](https://ev.kde."
+"org/ \"KDE kâr amacı gütmeyen vakfının ana sayfası\")'nin kayıtlı tescilli "
+"markalarıdır"
+
+#: i18n/en.yaml:0
+msgid "Legal"
+msgstr "Yasal"
+
+#: i18n/en.yaml:0
+msgid ""
+"Found a bug? <a href=\"mailto:kde-www@kde.org\" target=\"_blank\">E-mail us</"
+"a>"
+msgstr ""
+"Bir hata mı buldunuz? <a href=\"mailto:kde-www@kde.org\" target=\"_blank\">E-"
+"posta gönderin</a>"
+
+#: i18n/en.yaml:0
+msgid "Tweet"
+msgstr "Tweetle"
+
+#: i18n/en.yaml:0
+msgid "Available in:"
+msgstr "Şu dillerde okunabilir:"

@@ -1,0 +1,1034 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-kontact-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-04-25 00:51+0000\n"
+"PO-Revision-Date: 2023-01-19 22:40+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: config.yaml:0
+msgid "Kontact Suite"
+msgstr "Kontak Takımı"
+
+#: config.yaml:0
+msgid ""
+"Kontact - handle your emails, calendars and contacts within a single window"
+msgstr ""
+"Kontak - e-postalarınızı, takvimlerinizi ve kişilerinizi tek bir pencereden "
+"yönetin"
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "Bağış Yap"
+
+#: content/_index.md:0 content/components/kontact.md:0 content/download.md:0
+#: content/get-involved.md:0 content/users.md:0
+msgid "Kontact"
+msgstr "Kontak"
+
+#: content/_index.md:0
+msgid "Kontact Features"
+msgstr "Kontak Özellikleri"
+
+#: content/_index.md:0 content/components/kmail.md:0
+msgid "KMail"
+msgstr "K Posta"
+
+#: content/_index.md:0 content/components/korganizer.md:0
+msgid "KOrganizer"
+msgstr "K Organizatör"
+
+#: content/_index.md:0 content/components/kaddressbook.md:0
+msgid "KAddressBook"
+msgstr "K Adres Defteri"
+
+#: content/_index.md:0 content/components/akregator.md:0
+msgid "Akregator"
+msgstr "Akregatör"
+
+#: content/_index.md:0 content/components/knotes.md:0
+msgid "KNotes"
+msgstr "K Notlar"
+
+#: content/_index.md:0 content/components/akonadi.md:0
+msgid "Akonadi"
+msgstr "Akonadi"
+
+#: content/_index.md:0
+msgid "Kontact Suite - The Powerful PIM Solution"
+msgstr "Kontak Takımı - Güçlü Kişisel Bilgi Yönetimi Çözümü"
+
+#: content/components/akonadi.md:12
+msgid ""
+"The Akonadi framework, named after the oracle goddess of justice in Ghana is "
+"responsible for providing applications with a centralized database to store, "
+"index and retrieve the user's personal information. This includes the user's "
+"emails, contacts, calendars, events, journals, alarms, notes, etc."
+msgstr ""
+"Adını Gana'nın kahin adalet tanrıçasından alan Akonadi çatısı, uygulamalara "
+"kullanıcının kişisel bilgisini depolamak, indekslemek ve getirmek ile "
+"yükümlü merkezi bir veritabanı sunar. Bu, kullanıcının e-postalarını, "
+"kişilerini, takvimlerini, etkinliklerini, günlüklerini, alarmlarını, "
+"notlarını vb. içerir."
+
+#: content/components/akonadi.md:18 content/components/akregator.md:19
+#: content/components/kaddressbook.md:20 content/components/knotes.md:15
+#: content/components/korganizer.md:25
+msgid "Features"
+msgstr "Özellikler"
+
+#: content/components/akonadi.md:19
+msgid "Common PIM data cache"
+msgstr "Ortak kişisel bilgi yönetimi önbelleği"
+
+#: content/components/akonadi.md:20
+msgid "Type agnostic design"
+msgstr "Türden bağımsız tasarım"
+
+#: content/components/akonadi.md:21
+msgid "Extensibility"
+msgstr "Genişletilebilirlik"
+
+#: content/components/akonadi.md:22
+msgid "Generic offline access, change recording and replay"
+msgstr "Genel çevrimdışı erişim, kayıt değiştirme ve yeniden oynatma"
+
+#: content/components/akonadi.md:23
+msgid "Generic conflict detection and resolution"
+msgstr "Genel çakışma algılaması ve çözümü"
+
+#: content/components/akonadi.md:24
+msgid "Resources are groupable by profile"
+msgstr "Özkaynaklar profile göre gruplandırılabilir"
+
+#: content/components/akonadi.md:25
+msgid "Items composed of independently retrievable multiple parts"
+msgstr ""
+"Ögeler, birbirinden bağımsız olarak getirilebilen çoklu kısımlardan oluşur"
+
+#: content/components/akonadi.md:26
+msgid "Zero-copy retrieval possible"
+msgstr "Sıfır kopyasız getirme olanaklıdır"
+
+#: content/components/akonadi.md:27
+msgid "Concurrent access allows background activity independent of UI client"
+msgstr ""
+"Eşzamanlı erişim, istemciden bağımsız olarak arka plan etkinliğine izin verir"
+
+#: content/components/akonadi.md:28
+msgid "Syncing mail, calendar, addressbooks to remote servers"
+msgstr "Posta, takvim, adres defterlerini uzak sunuculara eşitleyin"
+
+#: content/components/akonadi.md:29
+msgid "Permits semantic desktop infrastructure to access PIM data"
+msgstr ""
+"Kişisel bilgi yönetimi verisine erişmek için anlamsal masaüstü altyapısına "
+"izin verir"
+
+#: content/components/akonadi.md:30
+msgid "Archiving"
+msgstr "Arşivleme"
+
+#: content/components/akonadi.md:31
+msgid "Indexing"
+msgstr "İndeksleme"
+
+#: content/components/akonadi.md:32
+msgid "Out-of-process search"
+msgstr "Süreç dışı arama"
+
+#: content/components/akonadi.md:33
+msgid "Multi-process design"
+msgstr "Çoklu süreç tasarımı"
+
+#: content/components/akonadi.md:34
+msgid "Crash isolation"
+msgstr "Çökme koruması"
+
+#: content/components/akonadi.md:35
+msgid "Large items can't block whole system"
+msgstr "Büyük ögeler tüm sistemi bloklayamaz"
+
+#: content/components/akonadi.md:36
+msgid "Linkage by IPC allows proprietary components"
+msgstr "IPC ile bağlama müseccel bileşenlere izin verir"
+
+#: content/components/akregator.md:0
+msgid "Stay on top of the news with our RSS reader."
+msgstr "RSS okuyucumuz ile her şeyden haberiniz olsun."
+
+#: content/components/akregator.md:0
+msgid ""
+"Akregator is an RSS feed reader. It can automatically download RSS feeds "
+"from your favorite sites and allows you to read the articles even when you "
+"are offline. Also provides rich search functionality and archiving "
+"features.\n"
+msgstr ""
+"Akregatör, bir RSS beslemesi okuyucusudur. Sık kullanılan sitelerinizden RSS "
+"beslemelerini kendiliğinden indirebilir ve çevrimdışıyken bile yazıları "
+"okumanıza olanak sağlar. Ayrıca zengin arama işlevi ve arşivleme özellikleri "
+"de vardır.\n"
+
+#: content/components/akregator.md:15
+msgid ""
+"Akregator helps you to keep informed about new stories on websites like KDE "
+"Dot News and Planet KDE blogs. The technology used is RSS and many sites "
+"support it."
+msgstr ""
+"Akregatör, KDE Dot News ve KDE Gezegeni blogları gibi sitelerdeki yazılardan "
+"kolaylıkla haberdar olmanıza yardımcı olur. Kullanılan teknoloji RSS "
+"teknolojisidir ve birçok site bunu destekler."
+
+#: content/components/akregator.md:20
+msgid "Simple to use"
+msgstr "Kullanımı kolay"
+
+#: content/components/akregator.md:21
+msgid "Can accept dozens of feeds"
+msgstr "Düzinelerce beslemeyi işleyebilir"
+
+#: content/components/akregator.md:22
+msgid "Can notify you of unread feeds"
+msgstr "Okunmamış beslemelerden sizi haberdar eder"
+
+#: content/components/akregator.md:23
+msgid "Uses tabs to give access to internal reading of full stories"
+msgstr ""
+"Yazıların tamamını programın içinde kolaylıkla okumanızı sağlamak için "
+"sekmeler kullanır"
+
+#: content/components/akregator.md:24
+msgid "Feeds archive"
+msgstr "Beslemeler arşivi"
+
+#: content/components/akregator.md:25
+msgid "Import and export feeds"
+msgstr "Beslemeleri içe ve dışa aktar"
+
+#: content/components/kaddressbook.md:0
+msgid "Manage your contacts easily."
+msgstr "Kişilerinizi kolaylıkla yönetin."
+
+#: content/components/kaddressbook.md:0
+msgid ""
+"KAddressBook allows you to manage your contacts easily. It is deeply "
+"integrated with the rest of Kontact, allowing you to easily pick your "
+"contacts when sending an email or creating a meeting invitation.\n"
+msgstr ""
+"K Adres Defteri, kişilerinizi kolaylıkla yönetmenize izin verir. Kontak'ın "
+"geri kalanıyla tam olarak tümleşiktir ve bir e-posta gönderirken veya "
+"toplantı daveti hazırlarken kişilerinizi kolaylıkla seçebilirsiniz.\n"
+
+#: content/components/kaddressbook.md:15
+msgid ""
+"KAddressBook stores all the personal details of your family, friends and "
+"other contacts. It supports large variety of services, including NextCloud, "
+"Kolab, Google Contacts, Microsoft Exchange (EWS) or any standard CalDAV "
+"server."
+msgstr ""
+"K Adres Defteri; aileniz, arkadaşlarınız ve diğer kişilerin tüm kişisel "
+"verilerini depolayabilir. NexCloud, Kolab, Google Kişiler, Microsoft "
+"Exchange (EWS) veya herhangi bir CalDAV standardını kullanan sunucuyu "
+"destekler."
+
+#: content/components/kaddressbook.md:21
+msgid ""
+"**Powerful search.** KAddresbook has configurable filters and powerful "
+"search capabilities."
+msgstr ""
+"**Güçlü arama.** K Adres Defteri, yapılandırılabilir süzgeçler ve güçlü "
+"arama yeteneklerine sahiptir."
+
+#: content/components/kaddressbook.md:23
+msgid ""
+"**Duplicate detection and merging.** KAdressbook can find duplicated "
+"contacts from multiple sources can merge them into a single contact."
+msgstr ""
+"**Yinelenmişleri algılama ve birleştirme.** K Adres Defteri, birden çok "
+"kaynakta yinelenmiş kişileri bulabilir ve onları tek bir kişiye "
+"birleştirebilir."
+
+#: content/components/kaddressbook.md:25
+msgid ""
+"**Integration.** Integrates with other Kontact components, e.g. exporting "
+"Birthday reminders to [KOrganizer](../korganizer)."
+msgstr ""
+"**Tümleştirme.** Diğer Kontak bileşenleriyle tümleşiktir; örneğin, yaş günü "
+"anımsatıcılarını [K Organizatör](../korganizer)'a dışa aktarabilir."
+
+#: content/components/kaddressbook.md:27
+msgid ""
+"**QR codes.** KAddressbook can display a QR code for each contact to quickly "
+"scan it into your phone or send to someone."
+msgstr ""
+"**Kare Kodlar.** K Adres Defteri, her bir kişi için bir kare kod "
+"görüntüleyebilir; böylece onları kolaylıkla telefonunuzdan tarayabilir veya "
+"başkalarına gönderebilirsiniz."
+
+#: content/components/kaddressbook.md:29
+msgid ""
+"**Good standard support.** KAddresbook can import and export contacts from "
+"and to nearly every address book standard."
+msgstr ""
+"**Mükemmel standartlar desteği.** K Adres Defteri, neredeyse bütün adres "
+"defteri standartlarından kişileri içe veya dışa aktarabilir."
+
+#: content/components/kaddressbook.md:31
+msgid ""
+"**LDAP integration.** Can connect to multiple LDAP servers, which can then "
+"be used for contact autocompletion when composing emails in [KMail](../"
+"kmail)."
+msgstr ""
+"**LDAP tümleştirmesi.** Birden çok LDAP sunucusuna bağlanabilir; böylece "
+"onları [K Posta](../kmail)'de e-postalar oluştururken kişileri otomatik "
+"tamamlama için kullanabilirsiniz."
+
+#: content/components/kmail.md:0
+msgid "Boost your productivity with a feature-rich email application."
+msgstr "Üretkenliğinizi, çok işlevli bir e-posta uygulamasıyla yükseltin."
+
+#: content/components/kmail.md:0
+msgid ""
+"KMail is a state-of-the-art email client that integrates well with widely "
+"used email providers like GMail. It provides many tools and features to "
+"maximize your productivity and makes working with large email accounts easy "
+"and fast. KMail supports a large variety of email protocols - POP3, IMAP, "
+"Microsoft Exchange (EWS) and more.\n"
+msgstr ""
+"K Posta, tüm yaygın kullanılan e-posta sağlayıcılarıyla kolaylıkla tümleşen "
+"çağdaş bir e-posta istemcisidir. Üretkenliğinizi artırmak için birçok "
+"araçlar ve özellikler içerir ve büyük e-posta hesaplarıyla çalışmayı hızlı "
+"ve kolay yapar. K Posta, birçok e-posta protokolünü destekler - POP3, IMAP, "
+"Microsoft Exchange (EWS) ve çok daha fazlası.\n"
+
+#: content/components/kmail.md:17
+msgid ""
+"KMail is the email component of Kontact, the integrated personal information "
+"manager from KDE."
+msgstr ""
+"K Posta, KDE'nin tümleşik kişisel veri yönetimi uygulaması olan Kontak'ın e-"
+"posta bileşenidir."
+
+#: content/components/kmail.md:20 content/components/kontact.md:42
+msgid "Secure"
+msgstr "Güvenli"
+
+#: content/components/kmail.md:22
+msgid ""
+"**Secure Default.** Default settings rather compromise on features than "
+"security or privacy."
+msgstr ""
+"**Hep güvenli.** Öntanımlı ayarlar, daha çok özellik yerine daha güvenli ve "
+"gizli bir deneyime öncelik verir."
+
+#: content/components/kmail.md:24
+msgid ""
+"**End-to-end Encryption.** Support for OpenPGP and S/MIME is built-in, and a "
+"setup and key generation wizard aids users in getting started with this."
+msgstr ""
+"**Uçtan uca şifreleme.** OpenPGP ve S/MIME desteği gömülü olarak gelir ve "
+"bir ayarlama ve anahtar oluşturma sihirbazı kullanıcılara başlarken yardımcı "
+"olur."
+
+#: content/components/kmail.md:27
+msgid ""
+"**Transport Encryption.** SSL/TLS encrypted communication is of course "
+"supported, as are a number of authentication methods such as GSSAPI "
+"(Kerberos) or OAuth2."
+msgstr ""
+"**Taşıma şifreleme.** SSL/TLS şifrelenmiş iletişim yöntemleri (elbette) "
+"desteklenir; bunların dışında GSSAPI (Kerberos) veya OAuth2 desteği de "
+"vardır."
+
+#: content/components/kmail.md:30
+msgid ""
+"**Strong isolation of HTML content.** If HTML emails can't be avoided, KMail "
+"ensures no external references can be hidden in there to leak information or "
+"compromise your privacy. Additionally KMail's phishing protections warns "
+"about suspicious links in such emails."
+msgstr ""
+"**Güçlü HTML içeriği izolasyonu.** HTML e-postalardan kaçışınız yoksa K "
+"Posta, bilgi sızdırma veya gizliliğinizi bozma amaçlı hiçbir dış başvurunun "
+"olmadığından emin olur. Ek olarak, K Posta'nın oltalama koruması, bu tür e-"
+"postalarda olabilecek kuşkulu bağlantılarla ilgili sizi uyarır."
+
+#: content/components/kmail.md:34
+msgid ""
+"**Spam Protection.** If your email server doesn't take care of this already, "
+"KMail can integrate popular spam checkers such as SpamAssassin or Bogofilter "
+"locally."
+msgstr ""
+"**İstenmeyen posta koruması.** E-posta sunucunuz bununla ilgilenmiyorsa K "
+"Posta yerel olarak SpamAssassin veya Bogofilter gibi popüler istenmeyen "
+"posta denetleyicilerle tümleşebilir."
+
+#: content/components/kmail.md:38
+msgid "Powerful"
+msgstr "Güçlü"
+
+#: content/components/kmail.md:39
+msgid ""
+"**Offline Capable.** KMail allows you to operate entirely without network "
+"connectivity by (optionally) syncing your entire email locally."
+msgstr ""
+"**Çevrimdışı çalışabilir.** K Posta, tüm e-postalarınızı yerel olarak "
+"eşzamanlayarak tümüyle ağ bağlantısı olmadan çalışmanıza izin verir."
+
+#: content/components/kmail.md:41
+msgid ""
+"**Multiple Identities.** KMail separates identities from accounts, giving "
+"you a lot of flexibility when wearing different hats in multiple "
+"organizations."
+msgstr ""
+"**Çoklu kimlikler.** K Posta, kimlikleri hesaplardan ayrı tutar; böylece "
+"birden çok organizasyon için çok farklı kimliklere bürünebilirsiniz."
+
+#: content/components/kmail.md:43
+msgid ""
+"**Templates.** A flexible template and text snippet system support you in "
+"automating parts of your email writing."
+msgstr ""
+"**Şablonlar.** Esnek bir şablon ve metin kırpma sistemi, sizi e-posta "
+"yazımınızı otomatikleştirmeniz konusunda yardımcı olur."
+
+#: content/components/kmail.md:45
+msgid ""
+"**Multi-lingual.** Built-in content translation support and per-paragraph "
+"spell checking language auto-detection support you when dealing with content "
+"in multiple languages."
+msgstr ""
+"**Çok dilli.** Gömülü çeviri desteği ve paragraf başı yazım denetimi dili "
+"algılama desteği, siz birden çok dilde e-postalarla uğraşırken işinizi "
+"kolaylaştırır."
+
+#: content/components/kmail.md:48
+msgid ""
+"**Productive Composer.** KMail's email composer comes with many small "
+"helpers to make you more efficient, such as warning about forgotten "
+"attachments, inline attachment compression or resizing of attached images."
+msgstr ""
+"**Üretken e-posta yazıcı.** K Posta'nın e-posta yazıcısı, sizin daha efektif "
+"çalışmanızı sağlamak için birçok ufak yardımcıyla gelir; örneğin unutulmuş "
+"ekler, satır içi ek sıkıştırması veya eklenen görsellerin yeniden "
+"boyutlandırılması gibi."
+
+#: content/components/kmail.md:51
+msgid ""
+"**Powerful Filtering.** Besides automating the sorting of your emails by a "
+"multitude conditions, KMail's filtering system can also be used for "
+"implementing arbitrary workflows as it can integrate with external "
+"applications."
+msgstr ""
+"**Güçlü süzme.** K Posta'nın süzgeç sistemi, e-postalarınızı çok sayıda "
+"koşula göre otomatikleştirmenin yanı sıra, dış uygulamalarla "
+"tümleşebildiğinden, isteğe bağlı iş akışlarını uygulamak için de "
+"kullanılabilir."
+
+#: content/components/kmail.md:55
+msgid ""
+"**Searching and Tagging.** Flagging and tagging of messages aid in sorting "
+"and information recovery, and so do the powerful local and remote searching "
+"capabilities."
+msgstr ""
+"**Arama ve etiketleme.** İletilerin bayraklanması ve etiketlenmesi, güçlü "
+"yerel ve uzak arama yetenekleri; sıralamada ve bilgi kurtarmada size "
+"yardımcı olur."
+
+#: content/components/kmail.md:58
+msgid ""
+"**Mailing List Management.** Mailman mailing lists can be auto-detected and "
+"common mailing list management operations are directly available from within "
+"KMail."
+msgstr ""
+"**Posta listesi yönetimi.** Mailman posta listeleri otomatik olarak "
+"algılanabilir ve genel posta listesi yönetimi işlemleri doğrudan K Posta "
+"içinden kullanılabilir."
+
+#: content/components/kmail.md:61
+msgid ""
+"**Flexible Configuration.** Countless configurations options allow you to "
+"tweak many aspects of KMail to exactly your needs and wishes."
+msgstr ""
+"**Esnek yapılandırma.** Sayısız yapılandırma seçeneği, K Posta'nın birçok "
+"yönünü tam olarak gereksinim ve isteklerinize göre ayarlamanıza olanak tanır."
+
+#: content/components/kmail.md:64 content/components/kontact.md:52
+msgid "Integrated"
+msgstr "Tümleşik"
+
+#: content/components/kmail.md:65
+msgid ""
+"**iTip Invitations.** Meeting invitation emails are detected and offer in-"
+"place quick responses, and are of course fed into [KOrganizer](../"
+"korganizer)."
+msgstr ""
+"**iTip davetleri.** Toplantı daveti e-postaları algılanıp yerinde hızlı "
+"yanıtlar sunulur ve elbette [K Organizatör](../korganizer) içine beslenir."
+
+#: content/components/kmail.md:67
+msgid ""
+"**Addressbook.** Besides auto-completing address from [KAddressBook](../"
+"kaddressbook), KMail also uses avatars and crypto preferences from there."
+msgstr ""
+"**Adres defteri.** [K Adres Defteri](../kaddressbook) içinden adresleri "
+"otomatik tamamlama desteğinin yanı sıra, K Posta ayrıca avatarları ve "
+"şifreleme tercihlerini de oradan alır."
+
+#: content/components/kmail.md:69
+msgid ""
+"**Booking Emails.** KMail can detect flight or hotel reservations in emails "
+"from certain providers and offers to add them to your calendar."
+msgstr ""
+"**Rezervasyon e-postaları.** K Posta, çeşitli sağlayıcılardan olan uçuş veya "
+"otel rezervasyonlarını algılayabilir ve onları takviminize eklemeyi önerir."
+
+#: content/components/kmail.md:72
+msgid "Standard Compliant"
+msgstr "Standartlara Uygun"
+
+#: content/components/kmail.md:73
+msgid "Supports the standard mail protocols IMAP, POP3 and SMTP."
+msgstr "Standart IMAP, POP3 ve SMTP posta protokollerini destekler."
+
+#: content/components/kmail.md:74
+msgid "Supports push email (IMAP IDLE)."
+msgstr "Anlık e-posta iletmeyi destekler (IMAP IDLE)."
+
+#: content/components/kmail.md:75
+msgid "Searching in IMAP folders fully supported."
+msgstr "IMAP klasörleri içinde arama tümüyle desteklenir."
+
+#: content/components/kmail.md:76
+msgid "Native support for inline OpenPGP, PGP/MIME, and S/MIME."
+msgstr "Yerel satır içi OpenPGP, PGP/MIME ve S/MIME desteği."
+
+#: content/components/kmail.md:77
+msgid "Support for Sieve server-side filtering."
+msgstr "Sieve sunucu tarafı süzme desteği."
+
+#: content/components/knotes.md:11
+msgid ""
+"KNotes is a program that lets you write the computer equivalent of sticky "
+"notes. The notes are saved automatically when you exit the program, and they "
+"display when you open the program."
+msgstr ""
+"K Notlar, yapışkan notların bilgisayar eşleniğini yazmanızı sağlayan bir "
+"programdır. Notlar programdan çıktığınızda otomatik olarak kaydedilir ve "
+"açtığınızda görüntülenir."
+
+#: content/components/knotes.md:17
+msgid "Write notes in your choice of font and background color"
+msgstr "İstediğiniz yazıtipi ve arka plan renginde notlar yazın"
+
+#: content/components/knotes.md:18
+msgid "Use drag and drop to email your notes"
+msgstr "Notlarınızı e-posta ile göndermek için sürükleyin ve bırakın"
+
+#: content/components/knotes.md:19
+msgid "Can be dragged into Calendar to book a time-slot"
+msgstr "Bir zaman yuvası ayırmak için takvime sürüklenebilir"
+
+#: content/components/knotes.md:20
+msgid "Notes can be printed"
+msgstr "Notlar yazdırılabilirler"
+
+#: content/components/kontact.md:0
+msgid ""
+"Handle all your emails, calendars and contacts within a single window.\n"
+msgstr ""
+"Tüm e-postalarınızı, takvimlerinizi ve kişilerinizi tek bir pencerede "
+"yönetin.\n"
+
+#: content/components/kontact.md:0
+msgid ""
+"Kontact unifies all our PIM applications into a single window to give you "
+"the best possible experience and boost your productivity. With Kontact you "
+"can use all the tools of our powerful suite in one place. Unlike proprietary "
+"web applications we value your privacy and support open standards, which is "
+"why Kontact gives you full control over your data. You can of course also "
+"access your data offline if you want to.\n"
+msgstr ""
+"Kontak, size olanaklı olan en iyi deneyimi sunmak ve üretkenliğinizi "
+"artırmak için tüm kişisel veri yönetimi uygulamalarımızı tek bir pencerede "
+"birleştirir. Kontak ile, güçlü takımımızın tüm araçlarını tek bir yerde "
+"kullanabilirsiniz. Müseccel web uygulamalarının aksine, gizliliğinize değer "
+"veriyoruz ve açık standartları destekliyoruz, bu nedenle Kontak size "
+"verileriniz üzerinde tam denetim sağlar. Elbette isterseniz verilerinize "
+"çevrimdışı olarak da erişebilirsiniz.\n"
+
+#: content/components/kontact.md:19
+msgid ""
+"Kontact is a feature-rich personal information management suite created by "
+"[KDE](https://kde.org). Kontact unifies all our PIM applications into a "
+"single window so that you can deal with your emails, calendaring, news and "
+"other data even more efficiently. You can also run each of the components of "
+"Kontact as a standalone application."
+msgstr ""
+"Kontak, [KDE](https://kde.org) tarafından oluşturulmuş zengin özelliklere "
+"sahip bir kişisel veri yönetimi paketidir. Kontak, tüm kişisel veri yönetimi "
+"uygulamalarımızı tek bir pencerede birleştirir, böylece e-postalarınızı, "
+"takvimlerinizi, haberlerinizi ve diğer verilerinizi daha da verimli bir "
+"şekilde işleyebilirsiniz. Kontak bileşenlerinin her birini bağımsız bir "
+"uygulama olarak da çalıştırmak da olanaklıdır."
+
+#: content/components/kontact.md:25
+msgid "Feature-rich"
+msgstr "Çok Özellikli"
+
+#: content/components/kontact.md:26
+msgid ""
+"We believe that software should adapt to your workflows, instead of forcing "
+"you to adapt to theirs. Kontact is highly configurable and customizable so "
+"that you can set it up exactly the way that works for you. Check out the "
+"individual pages for Kontact's components to get an overview of some of the "
+"features each of them can offer."
+msgstr ""
+"Yazılımın, sizi onlarınkine uyum sağlamaya zorlamak yerine, sizin iş "
+"akışlarınıza uyum sağlaması gerektiğine inanıyoruz. Kontak, tam olarak sizin "
+"için çalışacak şekilde ayarlayabilmeniz için son derece yapılandırılabilir "
+"ve özelleştirilebilirdir. Tümünün sunabileceği çoğu özelliklere genel bir "
+"bakış için Kontak bileşenlerinin kendi sayfalarına göz atın."
+
+#: content/components/kontact.md:32
+msgid "Flexible"
+msgstr "Esnek"
+
+#: content/components/kontact.md:33
+msgid ""
+"Kontact supports a large variety of email, calendaring and addressbook "
+"services and protocols and can be easily extended to support additional "
+"services. You don't need to change your email provider or migrate your "
+"calendar elsewhere just to get it synced into Kontact. Just point Kontact at "
+"the service where your PIM data are and Kontact will display it and keep it "
+"synchronized."
+msgstr ""
+"Kontak, çok çeşitli e-posta, takvim ve adres defteri hizmetlerini ve "
+"protokollerini destekler ve ek hizmetleri desteklemek için kolayca "
+"genişletilebilir. Kontak ile eşzamanlamak için e-posta sağlayıcınızı "
+"değiştirmenize veya takviminizi başka bir yere taşımanıza gerek yoktur. "
+"Kontak'ı kişisel veri yönetimi verilerinizin bulunduğu hizmete "
+"yönlendirmeniz yeterlidir; Kontak bunu görüntüleyecek ve eşzamanlı bir "
+"biçimde tutacaktır."
+
+#: content/components/kontact.md:39
+msgid ""
+"Kontact can also import your PIM data and some settings from other PIM "
+"suites like Thunderbird and Evolution."
+msgstr ""
+"Kontak, aynı zamanda başka kişisel veri yönetimi uygulamalarından (örn. "
+"Thunderbird ve Evolution) verinizi ve bazı ayarlarınızı içe aktarabilir."
+
+#: content/components/kontact.md:43
+msgid ""
+"Kontact supports all modern security standards to protect your privacy. All "
+"communication with remote servers is encrypted by default using the industry "
+"standard SSL/TLS encryption. Kontact also has a built-in support for signing "
+"and encryption emails with GPG and S/MIME and it can automatically verify "
+"emails signatures."
+msgstr ""
+"Kontak, gizliliğinizi korumak için tüm çağdaş güvenlik standartlarını "
+"destekler. Uzak sunucularla tüm iletişim, öntanımlı olarak endüstri "
+"standardı SSL/TLS şifrelemesi kullanılarak şifrelenir. Kontak ayrıca e-"
+"postaları GPG ve S/MIME ile imzalamak ve şifrelemek için gömülü desteğe "
+"sahiptir ve e-posta imzalarını otomatik olarak doğrulayabilir."
+
+#: content/components/kontact.md:49
+msgid ""
+"Kontact is configured by default to protect your privacy by blocking loading "
+"external content, automatic responses and other tricks often used by "
+"scammers."
+msgstr ""
+"Kontak, öntanımlı olarak dış içeriğin yüklenmesini, otomatik yanıtları ve "
+"genellikle dolandırıcılar tarafından kullanılan diğer hileleri engelleyerek "
+"gizliliğinizi korumak için yapılandırılmıştır."
+
+#: content/components/kontact.md:53
+msgid ""
+"All components of Kontact are well integrated together. KOrganizer can send "
+"meeting invitations through email accounts configured in KMail. KMail will "
+"render meeting invitations and show you conflicts with events in your "
+"calendars. You can mix your Todos and regular events in KOrganizer's Agenda "
+"view."
+msgstr ""
+"Kontak'ın tüm bileşenleri birbirine olabilecek en iyi biçimde "
+"tümleştirilmiştir. K Organizatör, K Posta'da yapılandırılan e-posta "
+"hesapları aracılığıyla toplantı davetleri gönderebilir. K Posta, toplantı "
+"davetlerini işleyecek ve size takvimlerinizdeki etkinliklerle çakışanları "
+"gösterecektir. K Organizatör'ün Ajanda görünümünde Yapılacaklar ve düzenli "
+"etkinlikleri karıştırabilirsiniz."
+
+#: content/components/kontact.md:59
+msgid "Free and Open Source"
+msgstr "Ücretsiz ve Açık Kaynaklı"
+
+#: content/components/kontact.md:60
+msgid ""
+"Kontact is free (both as in free speech and free beer) and completely open "
+"source. It means that the [source code](https://invent.kde.org/pim/kontact) "
+"is out there for anyone to see, audit and improve."
+msgstr ""
+"Kontak ücretsizdir, özgür yazılımdır ve tümüyle açık kaynaklıdır. Bu, "
+"[kaynak kodunun](https://invent.kde.org/pim/kontact) herkesin görmesi, "
+"denetlemesi ve iyileştirmesi için kullanılabilir olduğu anlamına gelir."
+
+#: content/components/kontact.md:65
+msgid ""
+"We pride ourselves in our openness and our focus on protecting users' "
+"privacy. Kontact will not spy on you, won't show any advertisement, it will "
+"not store your sensitive data somewhere in a proprietary cloud or share them "
+"with anyone else. See the [KDE Software Privacy Policy](https://kde.org/"
+"privacypolicy-apps/) for more details."
+msgstr ""
+"Açıklığımız ve kullanıcıların gizliliğini korumaya odaklanmamızla gurur "
+"duyuyoruz. Kontak sizi gözetlemez, herhangi bir reklam göstermez, hassas "
+"verilerinizi başkasının bulutunda saklamaz veya başkalarıyla paylaşmaz. Daha "
+"fazla ayrıntı için [KDE Yazılım Gizlilik Politikasına](https://kde.org/"
+"privacypolicy-apps/) bakın."
+
+#: content/components/korganizer.md:0
+msgid ""
+"Organizer your time! Manage events, todos, schedule meetings and more.\n"
+msgstr ""
+"Zamanınızı düzenleyin! Etkinlikleri, yapılacakları yönetin, toplantıları "
+"planlayın ve daha fazlasını yapın.\n"
+
+#: content/components/korganizer.md:0
+msgid ""
+"KOrganizer is a powerful and feature-rich organizer, event and todo manager "
+"that integrates well with the rest of Kontact, especially with KMail.\n"
+msgstr ""
+"K Organizatör; Kontak'ın geri kalanıyla, özellikle K Posta ile iyi tümleşen, "
+"güçlü ve zengin özelliklere sahip bir düzenleyici, etkinlik ve yapılacaklar "
+"yöneticisidir.\n"
+
+#: content/components/korganizer.md:15
+msgid ""
+"KOrganizer is the calendar and scheduling component of Kontact. It provides "
+"management of events and tasks, alarm notification, web export, network "
+"transparent handling of data, group scheduling, import and export of "
+"calendar files and more. It is able to work together with a wide variety of "
+"calendaring services, including NextCloud, Kolab, Google Calendar and "
+"others. KOrganizer is fully customizable to your needs and is an integral "
+"part of the Kontact suite, which aims to be a complete solution for "
+"organizing your personal data. KOrganizer supports the two dominant "
+"standards for storing and exchanging calendar data, vCalendar and iCalendar."
+msgstr ""
+"K Organizatör, Kontak'ın takvim ve zamanlama bileşenidir. Olayların ve "
+"görevlerin yönetimini, alarm bildirimlerini, web'e dışa aktarmayı, verilerin "
+"ağa saydam bir biçimde işlenmesini, grup planlamasını, takvim dosyalarını "
+"içe ve dışa aktarmayı ve daha fazlasını sağlar. NextCloud, Kolab, Google "
+"Takvim ve diğerleri dahil olmak üzere çok çeşitli takvim hizmetleriyle "
+"birlikte çalışabilir. K Organizatör, gereksinimlerinize göre tümüyle "
+"özelleştirilebilir ve kişisel verilerinizi düzenlemek için eksiksiz bir "
+"çözüm olmayı amaçlayan Kontak paketinin ayrılmaz bir parçasıdır. K "
+"Organizatör, takvim verilerini depolamak ve değiş tokuş etmek için iki "
+"yaygın standardı, vCalendar ve iCalendar'ı destekler."
+
+#: content/components/korganizer.md:26
+msgid ""
+"**Support for multiple calendars and todo lists.** Korganizer can "
+"transparently merge calendar data from different files or other calendar "
+"data sources for example calendars on the web. They can conveniently be "
+"activated, deactivated, added and removed from the graphical user interface."
+msgstr ""
+"**Birden çok takvim ve yapılacaklar listesi desteği.** K Organizatör, farklı "
+"dosyalardan veya diğer takvim verisi kaynaklarından, örneğin web'deki "
+"takvimler gibi, takvim verilerini saydam bir şekilde birleştirebilir. "
+"Grafiksel kullanıcı arayüzünden kolayca etkinleştirilebilir, devre dışı "
+"bırakılabilir, eklenebilir ve kaldırılabilirler."
+
+#: content/components/korganizer.md:30
+msgid ""
+"**Kontact integration.** KOrganizer is fully integrated with Kontact, the "
+"complete personal information management application. Within Kontact some "
+"additional features are available like conversion of mails to events or "
+"todos by drag and drop."
+msgstr ""
+"**Kontak tümleştirmesi.** K Organizatör, eksiksiz kişisel bilgi yönetimi "
+"uygulaması olan Kontak ile tümüyle tümleşiktir. Kontak içinde, postaların "
+"sürükleyip bırakarak etkinliklere veya yapılacaklara dönüştürülmesi gibi "
+"bazı ek özellikler vardır."
+
+#: content/components/korganizer.md:34
+msgid ""
+"**Storage model.** KOrganizer has a persistent calendar. The user doesn't "
+"have to take care of loading or saving the calendar. Changes are immediately "
+"saved to disk. If the calendar is changed externally it is automatically "
+"loaded and updated in the view. A locking mechanism handles concurrent "
+"access to the calendar."
+msgstr ""
+"**Depolama modeli.** K Organizatör'ün kalıcı bir takvimi vardır. Kullanıcı, "
+"takvimi yüklemek veya kaydetmekle uğraşmak zorunda değildir. Değişiklikler "
+"hemen diske kaydedilir. Takvim dışarıdan değiştirilirse görünümde otomatik "
+"olarak yüklenir ve güncellenir. Bir kilitleme mekanizması, takvime eşzamanlı "
+"erişimi yönetir."
+
+#: content/components/korganizer.md:39
+msgid "**Undo and Redo.** KOrganizer supports unlimited undo and redo."
+msgstr ""
+"**Geri Al ve Yinele.** K Organizatör, sınırsız geri alma ve yinelemeyi "
+"destekler."
+
+#: content/components/korganizer.md:40
+msgid ""
+"**Todo integration with agenda view.** Todos are shown in the week and day "
+"views. Todos can be converted to events by dragging from the todo list and "
+"dropping on the agenda view."
+msgstr ""
+"**Ajanda görünümüyle yapılacaklar tümleştirmesi.** Yapılacaklar hafta ve gün "
+"görünümlerinde gösterilir. Yapılacaklar, yapılacaklar listesinden sürüklenip "
+"ajanda görünümüne bırakılarak etkinliklere dönüştürülebilir."
+
+#: content/components/korganizer.md:43
+msgid ""
+"**Attachments for events and todos.** References to web pages, local files "
+"or mails can be attached to events and todos. The attached data can easily "
+"be accessed by a single click from the event and todo views as well as the "
+"summary view or the editors"
+msgstr ""
+"**Etkinlikler ve yapılacak işler için ekler.** Web sayfalarına, yerel "
+"dosyalara veya postalara yapılan başvurular, etkinliklere ve yapılacak "
+"işlere eklenebilir. Eklenen verilere, etkinlik ve yapılacaklar "
+"görünümlerinin yanı sıra özet görünümden veya düzenleyicilerden tek bir "
+"tıklama ile kolaylıkla erişilebilir."
+
+#: content/components/korganizer.md:47
+msgid ""
+"**Quick todo entry.** A special input field allows to quickly create a todo "
+"without needing to open an editor. This is especially handy for creating "
+"multiple todos in a row."
+msgstr ""
+"**Hızlı yapılacaklar girişi.** Özel bir giriş alanı, bir düzenleyici açmaya "
+"gerek kalmadan hızlı bir şekilde yapılacaklar oluşturmaya olanak tanır. Bu "
+"özellikle art arda birden çok yapılacak işler oluşturmak için kullanışlıdır."
+
+#: content/components/korganizer.md:50
+msgid ""
+"**Quick event entry.** There are several ways to create events from the "
+"agenda view: Per type-ahead events can be created by selecting a time range "
+"and then simply starting to type. An editor will be opened and the type text "
+"will be go into the title. Optionally the event editor can be opened when "
+"the time selection is finished and in addition to the usual menu and toolbar "
+"entries there are key bindings and a context menu to start the editor dialog."
+msgstr ""
+"**Hızlı etkinlik girişi.** Gündem görünümünden etkinlik oluşturmanın birkaç "
+"yolu vardır: Yazı başına olaylar, bir zaman aralığı seçip ardından yazmaya "
+"başlayarak oluşturulabilir. Bir düzenleyici açılacak ve tür metni başlığa "
+"girilecektir. İsteğe bağlı olarak olay düzenleyici, zaman seçimi bittiğinde "
+"açılabilir ve olağan menü ve araç çubuğu girişlerine ek olarak, düzenleyici "
+"iletişim kutusunu başlatmak için düğme atamaları ve bir bağlam menüsü vardır."
+
+#: content/components/korganizer.md:56
+msgid ""
+"**Print support.** Calendars can be printed using various different styles. "
+"Printing also supports colors and overlapping events."
+msgstr ""
+"**Yazdırma desteği.** Takvimler, çeşitli biçemler kullanılarak "
+"yazdırılabilirler. Yazdırma aynı zamanda renkleri ve üst üste binen "
+"etkinlikleri de destekler."
+
+#: content/components/korganizer.md:58
+msgid ""
+"**KMail Integration.** KMail directly supports transfer of invitations and "
+"other calendar attachments to KOrganizer."
+msgstr ""
+"**K Posta tümleştirmesi.** K Posta, davetlerin ve diğer takvim ilişiklerinin "
+"K Organizatör'e doğrudan aktarımını destekler."
+
+#: content/download.md:0
+msgid "Download"
+msgstr "İndir"
+
+#: content/download.md:0
+msgid "Git"
+msgstr "Git"
+
+#: content/download.md:0
+msgid ""
+"Kontact is spread across a multitude of repositories. Check our [Getting "
+"Involved](/get-involved) page for detailed instructions how to get all "
+"Kontact repositories.\n"
+msgstr ""
+"Kontak kaynak kodu, çok sayıda depo arasında dağılmıştır. Tüm Kontak "
+"depolarını alabilmek için ne yapmanız gerektiğini öğrenmek için [Katkıda "
+"bulun](/get-involved) sayfasına göz atın.\n"
+
+#: content/download.md:0
+msgid "Windows"
+msgstr "Windows"
+
+#: content/download.md:0
+msgid ""
+"We are currently working on bringing Kontact to Windows. Do you want to help "
+"us? Check [how to get involved](/get-involved) and get in touch with us!\n"
+msgstr ""
+"Şu anda Kontak'ı Windows platformuna getirmekle uğraşıyoruz. Bize yardımcı "
+"olmak ister misiniz? [Nice katkıda bulunabileceğinize](/get-involved) bir "
+"bakın ve bizimle iletişime geçin!\n"
+
+#: content/get-involved.md:0
+msgid "Get Involved"
+msgstr "Katkıda Bulun"
+
+#: content/get-involved.md:0
+msgid ""
+"The Kontact developers generally hang around on the [#kontact](irc://irc."
+"libera.chat/kontact) and [#akonadi](irc://irc.libera.chat/akonadi) IRC "
+"channels on Libera Chat. Most development-related discussions take place on "
+"the [kde-pim mailing list](https://mail.kde.org/mailman/listinfo/kde-pim/). "
+"Just join in, say hi and tell us what you would like to help us with!"
+msgstr ""
+"Kontak geliştiricileri genelde Libera Chat üzerindeki [#kontact](irc://irc."
+"libera.chat/kontact) ve [#akonadi](irc://irc.libera.chat/akonadi) IRC "
+"kanallarında takılırlar. Geliştirme ile ilgili çoğu tartışma [kde-pim "
+"mailing list](https://mail.kde.org/mailman/listinfo/kde-pim/) posta "
+"listesinde gerçekleşir. Yapmanız gereken yalnızca katılmak, merhaba demek ve "
+"bize nice yardım etmek istediğinizi söylemektir!"
+
+#: content/get-involved.md:13
+msgid ""
+"Kontact's source code is spread across many components in many repositories "
+"- it is easy to get lost and overwhelmed if you are new to it. If you want "
+"to get involved in development of Kontact just read the materials linked "
+"from this page and get in touch with us - we will help you find your way "
+"around our codebase."
+msgstr ""
+"Kontak'ın kaynak kodu çok sayıda depoda sayısız bileşen arasında "
+"dağılmıştır; eğer yeniyseniz zorlanmanız veya daralmanız pek olasıdır. "
+"Kontak geliştirmesine katılmak istiyorsanız bu sayfadan bağlantı verilen "
+"malzemeleri okuyun ve bizimle iletişime geçin; kod tabanında yolunuzu "
+"bulmanıza biz yardımcı oluruz."
+
+#: content/get-involved.md:19
+msgid ""
+"**Please start by reading some information on the [KDE PIM Community wiki]"
+"(https://community.kde.org/KDE_PIM).**"
+msgstr ""
+"**Lütfen öncelikle [KDE PIM Topluluğu vikisini](https://community.kde.org/"
+"KDE_PIM) okuyarak başlayın.**"
+
+#: content/get-involved.md:21
+msgid "Junior Jobs"
+msgstr "Küçük İşler"
+
+#: content/get-involved.md:23
+msgid ""
+"Looking for some simple tasks to get started with improving Kontact? Then "
+"check out our [junior jobs](https://phabricator.kde.org/tag/"
+"kde_pim_junior_jobs/). We have collected a number of tasks that are fairly "
+"simple and isolated and don't require in-depth understanding of the entire "
+"codebase and architecture - perfect entry point into the beautiful world of "
+"Kontact."
+msgstr ""
+"Kontak'ı iyileştirmeye başlamak için birkaç basit görev mi arıyorsunuz? O "
+"zaman [küçük işlere](https://phabricator.kde.org/tag/kde_pim_junior_jobs/) "
+"bir bakın. Tüm kod tabanını ve mimariyi tümüyle anlamayı gerektirmeden "
+"kolayca çözülebilecek birkaç görevi bir araya topladık - Kontak'ın büyülü "
+"dünyasına giriş yapmak için bundan daha uygun bir nokta olamazdı."
+
+#: content/get-involved.md:29
+msgid ""
+"If you would like to start working on some task, feel free to assign it to "
+"yourself (unless it's already assigned to someone else) and let us know in "
+"the comments below the task."
+msgstr ""
+"Bir görev üzerinde çalışmak isterseniz onu kendinize atayabilirsiniz (eğer "
+"bir başkasına halihazırda atanmamışsa); sonrasında yorumlar kısmında bize "
+"bunu bildirin."
+
+#: content/users.md:0
+msgid "For Users"
+msgstr "Kullanıcılar İçin"
+
+#: i18n/en.yaml:0
+msgid ""
+"Handle your email, calendar, contacts and other personal data with Kontact. "
+"Kontact groups everything together in one place and helps you manage your "
+"communications, organize your day and work with your colleagues. Become more "
+"productive with Kontact."
+msgstr ""
+"E-posta, takvim, kişiler ve diğer kişisel verinizi Kontak ile yönetin. "
+"Kontak, her şeyi bir yerde toplar ve tüm iletişiminizi halletmenize, "
+"gününüzü organize etmenize ve iş arkadaşlarınızla verimli bir biçimde "
+"çalışmanıza yardımcı olur. Kontak ile daha üretken olun."
+
+#: i18n/en.yaml:0
+msgid "New to Kontact?"
+msgstr "Kontak'a yeni misiniz?"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kontact offers countless features and options. To find out about them you "
+"can read some of the handbooks:\n"
+"\n"
+"* [Kontact Handbook](https://docs.kde.org/stable5/en/kontact/kontact/index."
+"html)\n"
+"* [KMail Handbook](https://docs.kde.org/stable5/en/kmail/kmail2/index.html)\n"
+"* [KOrganizer Handbook](https://docs.kde.org/stable5/en/korganizer/"
+"korganizer/index.html)\n"
+"* [Akregator Handbook](https://docs.kde.org/stable5/en/akregator/akregator/"
+"index.html)\n"
+"* [More handbooks, also in other languages...](https://docs.kde.org/index."
+"php?language=en&amp;package=pim)\n"
+msgstr ""
+"Kontak sayısız özellikler ve seçenekler sunar. Bunları öğrenmek için el "
+"kitaplarını okuyabilirsiniz:\n"
+"\n"
+"* [Kontak El Kitabı](https://docs.kde.org/stable5/en/kontact/kontact/index."
+"html)\n"
+"* [K Posta El Kitabı](https://docs.kde.org/stable5/en/kmail/kmail2/index."
+"html)\n"
+"* [K Organizatör El Kitabı](https://docs.kde.org/stable5/en/korganizer/"
+"korganizer/index.html)\n"
+"* [Akregatör El Kitabı](https://docs.kde.org/stable5/en/akregator/akregator/"
+"index.html)\n"
+"* [Başka el kitapları, ayrıca başka dillerde de vardır...](https://docs.kde."
+"org/index.php?language=en&amp;package=pim)\n"
+
+#: i18n/en.yaml:0
+msgid ""
+"Check the Kontact &amp; PIM subforum on [KDE Forums](https://forum.kde.org/"
+"viewforum.php?f=215), maybe someone has already solved a similar problem. "
+"And if not, feel free to ask there!\n"
+"\n"
+"You can also ask on [#kontact](irc://irc.libera.chat/kontact) IRC channel on "
+"Libera Chat. If you prefer email communication, you can ask on the [kdepim-"
+"users](https://mail.kde.org/mailman/listinfo/kdepim-users) mailing list.\n"
+msgstr ""
+"KDE forumlarındaki [Kontak &amp; PIM](https://forum.kde.org/viewforum.php?"
+"f=215) alt forumuna bir göz atın, belki bir başkası benzer bir sorunu "
+"önceden çözmüş olabilir. Yoksa da, yeni bir konu oluşturmaktan çekinmeyin!\n"
+"\n"
+"Ek olarak, Libera Chat üzerindeki [#kontact](irc://irc.libera.chat/kontact) "
+"IRC kanalında da sorularınızı sorabilirsiniz. E-posta ile iletişimi "
+"yeğliyorsanız [kdepim-users](https://mail.kde.org/mailman/listinfo/kdepim-"
+"users) posta listesine yazın.\n"
+
+#: i18n/en.yaml:0
+msgid ""
+"Follow this [Guide how to get started with Kontact development](https://"
+"community.kde.org/KDE_PIM/Development/Start). It contains links to many "
+"other useful wiki pages with lots of information.\n"
+"\n"
+"We also have a [Docker environment](https://community.kde.org/KDE_PIM/"
+"Docker) so that you can develop and test Kontact in safe isolation from your "
+"production setup.\n"
+msgstr ""
+"Kontak geliştirmesine başlamak için [bu kılavuza bir göz atın](https://"
+"community.kde.org/KDE_PIM/Development/Start). Bu bağlantı, birçok yararlı "
+"veriyi içeren pek çok kullanışlı viki sayfasına gider.\n"
+"\n"
+"Aynı zamanda bir [Docker ortamımız](https://community.kde.org/KDE_PIM/"
+"Docker) da vardır; böylece Kontak'ı üretim kurulumunuzdan izole olarak "
+"güvenli bir biçimde geliştirebilir ve sınayabilirsiniz.\n"

@@ -1,0 +1,211 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2021.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-07-03 00:58+0000\n"
+"PO-Revision-Date: 2023-01-24 22:10+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: src/data/servicetypes/plasma-runner.desktop:8
+msgctxt "Comment"
+msgid "KRunner plugin"
+msgstr "K Çalıştır eklentisi"
+
+#: templates/runnerpython/runnerpy.kdevtemplate:2
+msgctxt "Name"
+msgid "Python KRunner Plugin"
+msgstr "Python K Çalıştır Eklentisi"
+
+#: templates/runnerpython/runnerpy.kdevtemplate:42
+msgctxt "Comment"
+msgid "Template for a KRunner Python Plugin using D-Bus"
+msgstr "D-Bus kullanan bir K Çalıştır Python Eklentisi için şablon"
+
+#: templates/runner/runner.kdevtemplate:3
+msgctxt "Name"
+msgid "C++"
+msgstr "C++"
+
+#: templates/runner/runner.kdevtemplate:50
+msgctxt "Comment"
+msgid "Plasma Runner Template. A plasma runner template"
+msgstr "Plasma Çalıştırıcı Şablonu. Bir Plasma çalıştırıcı şablonu"
+
+#~ msgctxt "Name"
+#~ msgid "%{APPNAME}"
+#~ msgstr "%{APPNAME}"
+
+#~ msgctxt "Comment"
+#~ msgid "%{APPNAME} runner"
+#~ msgstr "%{APPNAME} çalıştırıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Home Files"
+#~ msgstr "Ev Dosyaları"
+
+#~ msgctxt "Comment"
+#~ msgid "Part of a tutorial demonstrating how to create Runner plugins"
+#~ msgstr ""
+#~ "Runner eklentileri oluşturma adımlarını gösteren bir öğretici parçası"
+
+#~ msgctxt "Name"
+#~ msgid "Package metadata test file"
+#~ msgstr "Paket metadata test dosyası"
+
+#~ msgctxt "Comment"
+#~ msgid "A test desktop file to test the PackageMetaData class."
+#~ msgstr "PackageMetaData sınıfını test etmek için bir desktop dosyası."
+
+#~ msgctxt "Name"
+#~ msgid "Air"
+#~ msgstr "Air"
+
+#~ msgctxt "Comment"
+#~ msgid "A breath of fresh air"
+#~ msgstr "Temiz havadan bir nefes"
+
+#~ msgctxt "Name"
+#~ msgid "Application dashboard"
+#~ msgstr "Uygulama panosu"
+
+#~ msgctxt "Comment"
+#~ msgid "Intended as Application dashboard default"
+#~ msgstr "Uygulama kontrol paneli öntanımlısı olarak tasarlandı"
+
+#~ msgctxt "Name"
+#~ msgid "Oxygen"
+#~ msgstr "Oxygen"
+
+#~ msgctxt "Comment"
+#~ msgid "Theme done in the Oxygen style"
+#~ msgstr "Oxygen biçimi ile yapılmış tema"
+
+#~ msgctxt "Name"
+#~ msgid "hello world"
+#~ msgstr "Merhaba Dünya"
+
+#~ msgctxt "Name"
+#~ msgid "Configuration test"
+#~ msgstr "Yapılandırma Testi"
+
+#~ msgctxt "Name"
+#~ msgid "Autumn"
+#~ msgstr "Son Bahar"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-kpart"
+#~ msgstr "plasma-kpart"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma applet"
+#~ msgstr "Plasma programcığı"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma ContainmentActions"
+#~ msgstr "Plasma İçerici Eylemleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma applet container and background painter"
+#~ msgstr "Plasma programcık içerici ve arkaplan oluşturucu"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Data Engine"
+#~ msgstr "Plasma Veri Motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma package structure definition"
+#~ msgstr "Plasma paketi yapı tanımlaması"
+
+#~ msgctxt "Comment"
+#~ msgid "Scripting language extension for Plasma"
+#~ msgstr "Plasma için betik dili eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma service"
+#~ msgstr "Plasma servisi"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Test Data Engine"
+#~ msgctxt "Name"
+#~ msgid "Python data engine"
+#~ msgstr "Test Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Declarative widget"
+#~ msgstr "Bildirim parçacığı"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in QML and JavaScript"
+#~ msgstr "JavaScript ve QML ile yazılmış gerçek Plasma gereci"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma wallpaper"
+#~ msgstr "Plasma duvar kağıdı"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Native Plasma widget written in JavaScript"
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in Ruby"
+#~ msgstr "JavaScript ile yazılmış gerçek Plasma gereci"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Test"
+#~ msgstr "Test"
+
+#~ msgctxt "Comment"
+#~ msgid "A dummy plugin for testing"
+#~ msgstr "Denemek için sahte bir eklenti"
+
+#~ msgctxt "Name"
+#~ msgid "Test Data Engine"
+#~ msgstr "Test Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma JavaScript Addon"
+#~ msgstr "Plasma JavaScript Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Javascript Addon"
+#~ msgstr "Javascript Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Addons for Javascript Plasma plugins"
+#~ msgstr "Javascript Plasma eklentileri için ek araçlar"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Widget"
+#~ msgstr "JavaScript Gereci"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript DataEngine"
+#~ msgstr "JavaScript Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Runner"
+#~ msgstr "JavaScript Çalıştırıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "JavaScript Runner"
+#~ msgstr "JavaScript Çalıştırıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop"
+#~ msgstr "Masaüstü"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Look and Feel"
+#~ msgstr "Görünüm"

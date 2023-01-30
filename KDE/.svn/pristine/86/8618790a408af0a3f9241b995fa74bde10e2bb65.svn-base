@@ -1,0 +1,500 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2022.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-19 01:05+0000\n"
+"PO-Revision-Date: 2022-03-11 02:39+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:2
+msgctxt "Name"
+msgid "Test"
+msgstr "Sınama"
+
+#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:55
+msgctxt "Comment"
+msgid "A dummy plugin for testing"
+msgstr "Denemek için sahte bir eklenti"
+
+#: src/plasma/data/servicetypes/plasma-applet.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet"
+msgstr "Plasma uygulamacığı"
+
+#: src/plasma/data/servicetypes/plasma-containmentactions.desktop:5
+msgctxt "Comment"
+msgid "Plasma ContainmentActions"
+msgstr "Plasma İçerici Eylemleri"
+
+#: src/plasma/data/servicetypes/plasma-containment.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet container and background painter"
+msgstr "Plasma uygulamacık içerici ve arka plan oluşturucu"
+
+#: src/plasma/data/servicetypes/plasma-dataengine.desktop:5
+msgctxt "Comment"
+msgid "Plasma Data Engine"
+msgstr "Plasma Veri Motoru"
+
+#: src/plasma/data/servicetypes/plasma-generic.desktop:4
+msgctxt "Name"
+msgid "Plasma Package"
+msgstr "Plasma Paketi"
+
+#: src/plasma/data/servicetypes/plasma-generic.desktop:56
+msgctxt "Comment"
+msgid "Generic Plasma Package"
+msgstr "Genel Plasma Paketi"
+
+#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:4
+msgctxt "Name"
+msgid "Plasma Look and Feel"
+msgstr "Plasma Görünüm ve His"
+
+#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:55
+msgctxt "Comment"
+msgid "Defines the Visual Language for Plasma Shells"
+msgstr "Plasma Kabukları için Sanal Dili tanımlar"
+
+#: src/plasma/data/servicetypes/plasma-packagestructure.desktop:4
+msgctxt "Comment"
+msgid "Plasma package structure definition"
+msgstr "Plasma paketi yapısı tanımlaması"
+
+#: src/plasma/data/servicetypes/plasma-scriptengine.desktop:5
+msgctxt "Comment"
+msgid "Scripting language extension for Plasma"
+msgstr "Plasma için betik dili eklentisi"
+
+#: src/plasma/data/servicetypes/plasma-service.desktop:5
+msgctxt "Comment"
+msgid "Plasma service"
+msgstr "Plasma hizmeti"
+
+#: src/plasma/data/servicetypes/plasma-shell.desktop:4
+msgctxt "Name"
+msgid "Plasma Shell"
+msgstr "Plasma Kabuğu"
+
+#: src/plasma/data/servicetypes/plasma-shell.desktop:55
+msgctxt "Comment"
+msgid "Plasma Shell Components"
+msgstr "Plasma Kabuğu Bileşenleri"
+
+#: src/scriptengines/qml/data/plasma-wallpaper.desktop:5
+msgctxt "Comment"
+msgid "Plasma wallpaper"
+msgstr "Plasma duvar kağıdı"
+
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:3
+msgctxt "Name"
+msgid "Plasma QML/C++ Applet"
+msgstr "Plasma QML/C Uygulamacığı"
+
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:48
+msgctxt "Comment"
+msgid ""
+"A Plasma Applet template written in an hybrid mix of QML and C++: a Plasma "
+"applet template displaying a SVG picture and a text"
+msgstr ""
+"QML ve C'nin karma bir karışımı içinde yazılmış bir Plasma Uygulamacık "
+"şablonu: Bir SVG resmi ve metin gösteren bir Plasma uygulamacığı şablonu"
+
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:3
+msgctxt "Name"
+msgid "Simple Plasma Wallpaper"
+msgstr "Basit Plasma Duvar Kağıdı"
+
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:50
+msgctxt "Comment"
+msgid ""
+"Simple Plasma Wallpaper template: a Plasma wallpaper template displaying a "
+"text"
+msgstr ""
+"Basit Plasma Duvar Kağıdı şablonu: Metin görüntüleyen bir Plasma duvar "
+"kağıdı şablonu"
+
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:2
+msgctxt "Name"
+msgid "Simple Plasma Wallpaper with QML extension"
+msgstr "QML eklentisiyle Basit Plasma Duvar Kağıdı"
+
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:42
+msgctxt "Comment"
+msgid ""
+"A Plasma wallpaper which uses custom API provided by an own QML extension "
+"plugin"
+msgstr ""
+"Kendi QML uzantısı tarafından sağlanan özel bir API kullanan bir Plasma "
+"duvar kağıdı"
+
+#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:3
+msgctxt "Name"
+msgid "Plasma QML Applet"
+msgstr "Plasma QML Uygulamacığı"
+
+#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:50
+msgctxt "Comment"
+msgid ""
+"Plasma QML Applet template: a Plasma applet template displaying a SVG "
+"picture and a text"
+msgstr ""
+"Plasma QML Uygulamacığı şablonu: SVG resmi ve metin gösteren bir Plasma "
+"uygulamacığı şablonu"
+
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:2
+msgctxt "Name"
+msgid "Plasma QML Applet with QML extension"
+msgstr "QML eklentisi ile Plasma QML Uygulamacığı"
+
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:45
+msgctxt "Comment"
+msgid ""
+"A template for a Plasma applet which uses custom API provided by an own QML "
+"extension plugin"
+msgstr ""
+"Kendi QML eklentisi için sağlanan özel bir API kullanan Plasma uygulamacığı "
+"için bir şablon"
+
+#~ msgctxt "Comment"
+#~ msgid "Report a bug in Plasma"
+#~ msgstr "Plasma hatalarını rapor et"
+
+#~ msgctxt "Keywords"
+#~ msgid "plasma;bugzilla;bug;development;support;"
+#~ msgstr "plazma;bugzilla;hata;geliştirme;destek;plasma;"
+
+#~ msgctxt "Name"
+#~ msgid "Bug"
+#~ msgstr "Hata"
+
+#~ msgctxt "Name"
+#~ msgid "hello world"
+#~ msgstr "Merhaba Dünya"
+
+#~ msgctxt "Name"
+#~ msgid "Applet Test"
+#~ msgstr "Uygulamacık Sınaması"
+
+#~ msgctxt "Name"
+#~ msgid "Configuration test"
+#~ msgstr "Yapılandırma sınaması"
+
+#~ msgctxt "Comment"
+#~ msgid "Example applet that shows how to use Models embedded in DataEngines"
+#~ msgstr ""
+#~ "VeriMotorları içinde gömülü Modellerin nasıl kullanılacağını gösteren "
+#~ "uygulama programı örneği"
+
+#~ msgctxt "Name"
+#~ msgid "Dataengine model"
+#~ msgstr "Veri motoru modeli"
+
+#~ msgctxt "Comment"
+#~ msgid "Example on how to manage Drop data"
+#~ msgstr "Drop verisinin nasıl yönetileceği örneği"
+
+#~ msgctxt "Name"
+#~ msgid "Example notes"
+#~ msgstr "Örnek notlar"
+
+#~ msgctxt "Name"
+#~ msgid "Now playing (QML)"
+#~ msgstr "Şimdi çalıyor (QML)"
+
+#~ msgctxt "Comment"
+#~ msgid "A proof of concept media player controller qml"
+#~ msgstr "Bir ortam oynatıcısı denetçisi qml'in kavram kanıtı"
+
+#~ msgctxt "Name"
+#~ msgid "Poor Man's Tasks"
+#~ msgstr "Zavallı Adam Görevleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Example showing how to write your own tasks Widget"
+#~ msgstr "Kendi görev araç takımınızın nasıl yazılacağını gösteren örnek"
+
+#~ msgctxt "Name"
+#~ msgid "Same game (QML)"
+#~ msgstr "Aynı oyun (QML)"
+
+#~ msgctxt "Comment"
+#~ msgid "The Same game QML Qt demo converted as plasmoid"
+#~ msgstr "Aynı oyunun QML Qt plasmoid olarak çevrilmiş halinin tanıtımı"
+
+#~ msgctxt "Name"
+#~ msgid "Components Test"
+#~ msgstr "Bileşenler Sınaması"
+
+#~ msgctxt "Name"
+#~ msgid "Shader Test"
+#~ msgstr "Gölgelendirici Sınaması"
+
+#~ msgctxt "Comment"
+#~ msgid "Futzing with Visual Effects"
+#~ msgstr "Görsel Efektler ile Müdahale"
+
+#~ msgctxt "Name"
+#~ msgid "Theme Test"
+#~ msgstr "Tema Sınaması"
+
+#~ msgctxt "Name"
+#~ msgid "Widgets gallery"
+#~ msgstr "Araç takımları galerisi"
+
+#~ msgctxt "Comment"
+#~ msgid "gallery of widgets done with Plasma QtComponents"
+#~ msgstr "Plasma QtComponents ile yapılmış araç takımı galerisi"
+
+#~ msgctxt "Name"
+#~ msgid "Example window thumbnails list"
+#~ msgstr "Örnek pencere küçük resim listesi"
+
+#~ msgctxt "Comment"
+#~ msgid "Example showing how to display window thumbnails"
+#~ msgstr ""
+#~ "Pencere küçük resim listesinin nasıl görüntüleneceğini gösteren örnek"
+
+#~ msgctxt "Name"
+#~ msgid "Containment Test"
+#~ msgstr "Kapsama Sınaması"
+
+#~ msgctxt "Name"
+#~ msgid "Custom DataContainers"
+#~ msgstr "Özel Veri Kapları"
+
+#~ msgctxt "Comment"
+#~ msgid "A demonstration of how to subclass DataContainer"
+#~ msgstr "Veri haznesinin nasıl altı sınıf yapıldığının bir göstergesi"
+
+#~ msgctxt "Name"
+#~ msgid "Simple DataEngine Example"
+#~ msgstr "Basit VeriMotoru Örneği"
+
+#~ msgctxt "Comment"
+#~ msgid "A very basic DataEngine implementation"
+#~ msgstr "Çok basit bir VeriMotoru gerçekleştirimi"
+
+#~ msgctxt "Name"
+#~ msgid "Sources On Request"
+#~ msgstr "İsteğe Bağlı Kaynaklar"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "A DataEngine example showing how to respond to requests for source "
+#~ "creation and updates"
+#~ msgstr ""
+#~ "Kaynak oluşturma ve güncelleme için isteklere nasıl cevap verilmesi "
+#~ "gerektiğini gösteren bir veri-motoru örneği"
+
+#~ msgctxt "Comment"
+#~ msgid "Basic App"
+#~ msgstr "Temel Uygulama"
+
+#~ msgctxt "Name"
+#~ msgid "Autumn"
+#~ msgstr "Güz"
+
+#~ msgctxt "Name"
+#~ msgid "Air"
+#~ msgstr "Hava"
+
+#~ msgctxt "Comment"
+#~ msgid "A breath of fresh air"
+#~ msgstr "Temiz hava soluğu"
+
+#~ msgctxt "Name"
+#~ msgid "Breeze Dark"
+#~ msgstr "Esinti Koyu"
+
+#~ msgctxt "Comment"
+#~ msgid "Breeze Dark by the KDE VDG"
+#~ msgstr "KDE VDG tarafından yapılan Esinti Koyu"
+
+#~ msgctxt "Name"
+#~ msgid "Breeze Light"
+#~ msgstr "Esinti Açık"
+
+#~ msgctxt "Comment"
+#~ msgid "Breeze Light by the KDE VDG"
+#~ msgstr "KDE VDG tarafından yapılan Esinti Açık"
+
+#~ msgctxt "Name"
+#~ msgid "Breeze"
+#~ msgstr "Esinti"
+
+#~ msgctxt "Comment"
+#~ msgid "Breeze by the KDE VDG"
+#~ msgstr "KDE VDG tarafından yapılan Esinti"
+
+#~ msgctxt "Name"
+#~ msgid "Oxygen"
+#~ msgstr "Oxygen"
+
+#~ msgctxt "Comment"
+#~ msgid "Theme done in the Oxygen style"
+#~ msgstr "Oxygen biçimi ile yapılmış tema"
+
+#~ msgctxt "Name"
+#~ msgid "Declarative widget"
+#~ msgstr "Bildiren araç takımı"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in QML and JavaScript"
+#~ msgstr "JavaScript ve QML ile yazılmış gerçek Plasma araç takımı"
+
+#~ msgctxt "Name"
+#~ msgid "%{APPNAME}"
+#~ msgstr "%{APPNAME}"
+
+#~ msgctxt "Comment"
+#~ msgid "what your app does in a few words"
+#~ msgstr "birkaç sözcükle uygulamanızın ne yaptığı"
+
+#~ msgctxt "Name"
+#~ msgid "Python data engine"
+#~ msgstr "Python veri motoru"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma data engine support for Python"
+#~ msgstr "Python için Plasma veri motoru desteği"
+
+#~ msgctxt "Name"
+#~ msgid "Python Runner"
+#~ msgstr "Python Çalıştırıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Runner support for Python"
+#~ msgstr "Python için Plasma Çalıştırıcı desteği"
+
+#~ msgctxt "Name"
+#~ msgid "Ruby Widget"
+#~ msgstr "Ruby Gereci"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in Ruby"
+#~ msgstr "Ruby ile yazılmış gerçek Plasma gereci"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-kpart-shell"
+#~ msgstr "plasma-kpart-shell"
+
+#~ msgctxt "GenericName"
+#~ msgid "A KPart shell for Plasma"
+#~ msgstr "Plasma için bir KPart kabuğu"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-kpart"
+#~ msgstr "plasma-kpart"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript File Operations"
+#~ msgstr "JavaScript Dosya Operatörleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Demonstrates accessing data via HTTP in JavaScript"
+#~ msgstr "JavaScript HTTP üzerinden veri erişimini gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "Test Fallback Package"
+#~ msgstr "Yedek Paketi Denetle"
+
+#~ msgctxt "Name"
+#~ msgid "Test Package"
+#~ msgstr "Paketi Denetle"
+
+#~ msgctxt "Name"
+#~ msgid "Package metadata test file"
+#~ msgstr "Paket metadata test dosyası"
+
+#~ msgctxt "Comment"
+#~ msgid "A test desktop file to test the PackageMetaData class."
+#~ msgstr "PackageMetaData sınıfını test etmek için bir desktop dosyası."
+
+#~ msgctxt "Name"
+#~ msgid "Test Data Engine"
+#~ msgstr "Test Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "Platform Status"
+#~ msgstr "Platform Durumu"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Tracks the current shell package and the platform definition strings."
+#~ msgstr "Mevcut kabuk paketini ve düzlem tanımlama dizilerini izle"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Workspace"
+#~ msgstr "Plasma Çalışma Alanı"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma"
+#~ msgstr "Plazma"
+
+#~ msgctxt "Name"
+#~ msgid "Widget deleted"
+#~ msgstr "Uygulama silindi"
+
+#~ msgctxt "Comment"
+#~ msgid "A widget has been deleted"
+#~ msgstr "Bir uygulama silindi"
+
+#~ msgctxt "Name"
+#~ msgid "Application dashboard"
+#~ msgstr "Uygulama panosu"
+
+#~ msgctxt "Comment"
+#~ msgid "Intended as Application dashboard default"
+#~ msgstr "Uygulama kontrol paneli öntanımlısı olarak tasarlandı"
+
+#~ msgctxt "Comment"
+#~ msgid "KRunner plugin"
+#~ msgstr "KRunner eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma JavaScript Addon"
+#~ msgstr "Plasma JavaScript Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Javascript Addon"
+#~ msgstr "Javascript Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Addons for Javascript Plasma plugins"
+#~ msgstr "Javascript Plasma eklentileri için ek araçlar"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Widget"
+#~ msgstr "JavaScript Gereci"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript DataEngine"
+#~ msgstr "JavaScript Veri Motoru"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Runner"
+#~ msgstr "JavaScript Çalıştırıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "JavaScript Runner"
+#~ msgstr "JavaScript Çalıştırıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop"
+#~ msgstr "Masaüstü"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Look and Feel"
+#~ msgstr "Görünüm"

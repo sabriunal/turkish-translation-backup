@@ -1,0 +1,65 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-29 00:56+0000\n"
+"PO-Revision-Date: 2022-04-14 12:16+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: kongressac/kongressac.notifyrc:3
+msgctxt "Comment"
+msgid "Kongress"
+msgstr "Kongress"
+
+#: kongressac/kongressac.notifyrc:34 org.kde.kongress.desktop:5
+msgctxt "Name"
+msgid "Kongress"
+msgstr "Kongress"
+
+#: kongressac/kongressac.notifyrc:68
+msgctxt "Name"
+msgid "Incidence uid"
+msgstr "Olay kimliği"
+
+#: kongressac/kongressac.notifyrc:96
+msgctxt "Comment"
+msgid "The uid of the incidence of the alarm"
+msgstr "Alarm olayının kimliği"
+
+#: kongressac/kongressac.notifyrc:126
+msgctxt "Name"
+msgid "Alarm"
+msgstr "Alarm"
+
+#: kongressac/kongressac.notifyrc:158
+msgctxt "Comment"
+msgid "Alarm Notification"
+msgstr "Alarm Bildirimi"
+
+#: kongressac/org.kde.kongressac.desktop:6
+msgctxt "Name"
+msgid "Kongress Reminder Client"
+msgstr "Kongress Anımsatıcı İstemcisi"
+
+#: kongressac/org.kde.kongressac.desktop:39
+msgctxt "GenericName"
+msgid "Kongress Reminder Client"
+msgstr "Kongress Anımsatıcı İstemcisi"
+
+#: org.kde.kongress.desktop:37
+msgctxt "GenericName"
+msgid "Conference Companion"
+msgstr "Konferans Yardımcısı"
+
+#: org.kde.kongress.desktop:63
+msgctxt "Comment"
+msgid "Companion application for conferences made by KDE"
+msgstr "KDE tarafından yapılan konferanslar için bir yardımcı uygulama"

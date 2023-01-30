@@ -1,0 +1,50 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-06-21 00:54+0000\n"
+"PO-Revision-Date: 2022-04-16 17:44+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: org.kde.vvave.desktop:2
+msgctxt "Name"
+msgid "Vvave"
+msgstr "Vvave"
+
+#: org.kde.vvave.desktop:33
+msgctxt "Comment"
+msgid "Play your music collection"
+msgstr "Müzik koleksiyonunuzu çalın"
+
+#: org.kde.vvave.desktop:77
+msgctxt "GenericName"
+msgid "Audio Player"
+msgstr "Ses Çalar"
+
+#: src/assets/vvave.notifyrc:3
+msgctxt "Comment"
+msgid "Tiny Music Player"
+msgstr "Ufak Ses Çalar"
+
+#: src/assets/vvave.notifyrc:38
+msgctxt "Name"
+msgid "vvave"
+msgstr "vvave"
+
+#: src/assets/vvave.notifyrc:76
+msgctxt "Name"
+msgid "vvave..."
+msgstr "vvave..."
+
+#: src/assets/vvave.notifyrc:111
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "Aygıta bağlanılamadı"

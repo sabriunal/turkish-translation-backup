@@ -1,0 +1,87 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-08 02:27+0100\n"
+"PO-Revision-Date: 2022-05-02 13:55+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.amarok.appdata.xml:5
+msgid "Amarok"
+msgstr "Amarok"
+
+#. (itstool) path: component/summary
+#: org.kde.amarok.appdata.xml:6
+msgid "A powerful music player that lets you rediscover your music"
+msgstr "Müziği yeniden keşfetmenize olanak veren güçlü bir müzik çalar"
+
+#. (itstool) path: description/p
+#: org.kde.amarok.appdata.xml:8
+msgid ""
+"Amarok is a free, cross-platform, versatile, powerful and feature-rich music "
+"player and collection manager."
+msgstr ""
+"Amarok; ücretsiz, çapraz platformlu, çok amaçlı, güçlü ve çok özellikli bir "
+"müzik çalar ve koleksiyon yöneticisidir."
+
+#. (itstool) path: description/p
+#: org.kde.amarok.appdata.xml:9
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:11
+msgid "Dynamic playlists matching different criteria"
+msgstr "Farklı kriterlerle eşleşen devingen çalma listeleri"
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:12
+msgid "Collection managing with rating support"
+msgstr "Derecelendirme desteği ile koleksiyon yönetimi"
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:13
+msgid "Support for basic iPod, MTP and UMS music player devices"
+msgstr "Temel iPod, MTP ve UMS müzik çalar aygıtlar desteği"
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:14
+msgid ""
+"Integrated Internet services: last.fm, Magnatune, Jamendo, Ampache, mp3tunes "
+"and more."
+msgstr ""
+"Tümleştirilmiş İnternet hizmetleri: last.fm, Magnatune, Jamendo, Ampache, "
+"mp3tunes ve daha fazlası."
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:15
+msgid "Scripting support"
+msgstr "Betik yazımı desteği"
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:16
+msgid "Cover manager"
+msgstr "Kapak görseli yöneticisi"
+
+#. (itstool) path: ul/li
+#: org.kde.amarok.appdata.xml:17
+msgid "Replay gain support"
+msgstr "Yeniden çalma kazanım desteği"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.amarok.appdata.xml:25
+msgid "Playing music in Amarok"
+msgstr "Amarok'ta müzik çalma"
+
+#. (itstool) path: screenshot/caption
+#: org.kde.amarok.appdata.xml:29
+msgid "Amarok windows"
+msgstr "Amarok pencereleri"

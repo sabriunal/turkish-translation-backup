@@ -1,0 +1,72 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-10 03:14+0200\n"
+"PO-Revision-Date: 2022-04-13 10:16+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kmplayer.appdata.xml:6
+msgid "KMPlayer"
+msgstr "KMPlayer"
+
+#. (itstool) path: component/summary
+#: org.kde.kmplayer.appdata.xml:7
+msgid "Interface for MPlayer by KDE"
+msgstr "MPlayer için bir KDE arayüzü"
+
+#. (itstool) path: description/p
+#: org.kde.kmplayer.appdata.xml:9
+msgid "KMPlayer is a simple frontend for MPlayer/FFMpeg/Phonon."
+msgstr "KMPlayer, MPlayer/FFMpeg/Phonon için yalın bir ön yüzdür."
+
+#. (itstool) path: description/p
+#: org.kde.kmplayer.appdata.xml:10
+msgid "Some features:"
+msgstr "Bazı özellikleri:"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:12
+msgid "play DVD/VCD movies (from file or url and from a video device)"
+msgstr "DVD/VCD filmlerini izle (dosyadan, URL'den veya bir video aygıtından)"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:13
+msgid "embed inside konqueror (movie is played inside konqueror)"
+msgstr "konqueror içine göm (film, konqeror içinde oynatılır)"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:14
+msgid "embed inside khtml (movie playback inside a html page)"
+msgstr "khtml içine göm (film, bir html sayfası içinde oynatılır)"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:15
+msgid "Movie recording using mencoder (part of the mplayer package)"
+msgstr "mencoder kullanarak film kaydı (mplayer paketinin bir parçası)"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:16
+msgid ""
+"No video during recording, but you can always open a new window and play it"
+msgstr ""
+"Kayıt sırasında video yoktur; ancak her zaman yeni bir pencere açıp onu "
+"oynatabilirsiniz"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:17
+msgid "Broadcasting, http streaming, using ffserver/ffmpeg"
+msgstr "ffserver/ffmpeg kullanarak yayın yapma ve http akışı"
+
+#. (itstool) path: ul/li
+#: org.kde.kmplayer.appdata.xml:18
+msgid "For TV sources, you need v4lctl (part of the xawtv package)"
+msgstr "TV kaynakları için v4lctl gereklidir (xawtv paketinin bir parçası)"

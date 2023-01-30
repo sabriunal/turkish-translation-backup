@@ -1,0 +1,144 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2017, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-06 00:57+0000\n"
+"PO-Revision-Date: 2022-02-27 14:19+0100\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#: cuttlefish/org.kde.plasma.cuttlefish.desktop:3
+#: cuttlefish/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Cuttlefish"
+msgstr "Cuttlefish"
+
+#: cuttlefish/org.kde.plasma.cuttlefish.desktop:45
+msgctxt "GenericName"
+msgid "Icon Viewer"
+msgstr "Simge Görüntüleyici"
+
+#: cuttlefish/org.kde.plasma.cuttlefish.desktop:87
+msgctxt "Comment"
+msgid "Icon Previewer for Artists and Developers"
+msgstr "Sanatçılar ve Geliştiriciler için Simge Önizleyicisi"
+
+#: cuttlefish/org.kde.plasma.cuttlefish.desktop:128
+msgctxt "Keywords"
+msgid "design;icon;preview;symbol;"
+msgstr "tasarım;simge;önizleme;sembol"
+
+#: cuttlefish/package/metadata.desktop:44
+msgctxt "Comment"
+msgid "List and preview available icons"
+msgstr "Mevcut simgeleri listele ve önizle"
+
+#: cuttlefish/package/metadata.desktop:85
+msgctxt "GenericName"
+msgid "Icon Browser"
+msgstr "Simge Tarayıcı"
+
+#: cuttlefish/src/editorplugin/cuttlefishplugin.desktop:3
+msgctxt "Name"
+msgid "Icon Picker"
+msgstr "Simge Seçici"
+
+#: cuttlefish/src/editorplugin/cuttlefishplugin.desktop:44
+msgctxt "Comment"
+msgid "Invokes Cuttlefish icon picker"
+msgstr "Cuttlefish simge seçicisini çağırır"
+
+#: engineexplorer/org.kde.plasmaengineexplorer.desktop:3
+msgctxt "Name"
+msgid "Plasma Engine Explorer"
+msgstr "Plasma Motoru Gezgini"
+
+#: engineexplorer/org.kde.plasmaengineexplorer.desktop:40
+msgctxt "GenericName"
+msgid "Plasma Data Engines Viewing Tool"
+msgstr "Plasma Veri Motorları Görüntüleme Aracı"
+
+#: engineexplorer/org.kde.plasmaengineexplorer.desktop:77
+msgctxt "Comment"
+msgid "Explorer for the data published by Plasma DataEngines"
+msgstr "Plasma Veri Motorları tarafından yayımlanan veri için gezgin"
+
+#: lookandfeelexplorer/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Explore and edit your Plasma Global Themes"
+msgstr "Plasma Global Temalarınızı keşfedin ve düzenleyin"
+
+#: lookandfeelexplorer/package/metadata.desktop:40
+msgctxt "Name"
+msgid "Plasma Global Theme Explorer"
+msgstr "Plasma Global Tema Gezgini"
+
+#: plasmoidviewer/org.kde.plasmoidviewer.desktop:3
+msgctxt "Name"
+msgid "Plasmoidviewer"
+msgstr "Plasmoid Görüntüleyici"
+
+#: plasmoidviewer/org.kde.plasmoidviewer.desktop:41
+msgctxt "GenericName"
+msgid "Plasma Widget Testing Tool"
+msgstr "Plasma Araç Takımı Sınama Aracı"
+
+#: plasmoidviewer/org.kde.plasmoidviewer.desktop:79
+msgctxt "Comment"
+msgid "Testing tool for Plasma applets"
+msgstr "Plasma uygulamacıkları için sınama aracı"
+
+#: plasmoidviewer/qmlpackages/shell/metadata.desktop:2
+msgctxt "Comment"
+msgid "PlasmoidViewer Shell"
+msgstr "PlasmoidViewer Kabuğu"
+
+#: plasmoidviewer/qmlpackages/shell/metadata.desktop:44
+msgctxt "Name"
+msgid "PlasmoidViewerShell"
+msgstr "PlasmoidViewerShell"
+
+#: themeexplorer/package/metadata.desktop:2
+msgctxt "Comment"
+msgid "Explore and edit your Plasma themes"
+msgstr "Plasma temalarınızı keşfedin ve düzenleyin"
+
+#: themeexplorer/package/metadata.desktop:44
+msgctxt "Name"
+msgid "Plasma Theme Explorer"
+msgstr "Plasma Tema Gezgini"
+
+#~ msgctxt "Comment"
+#~ msgid "Explore and edit your Plasma Look And Feel themes"
+#~ msgstr "Plasma Bak And Hisset temalarınızı keşfedin ve düzenleyin"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Look And Feel Explorer"
+#~ msgstr "Plasma Bak ve Hisset Gezgini"
+
+#~ msgctxt "Name"
+#~ msgid "Plasmate"
+#~ msgstr "Plasmate"
+
+#~ msgctxt "GenericName"
+#~ msgid "Plasma Addon Creator"
+#~ msgstr "Plasma Eklenti Oluşturucu"
+
+#~ msgctxt "Comment"
+#~ msgid "Lets you manage your git repository."
+#~ msgstr "Git deponuzu yönetmenizi sağlar."
+
+#~ msgctxt "Name"
+#~ msgid "Save System View"
+#~ msgstr "Sistem Görüntüsünü Kaydet"
+
+#~ msgctxt "GenericName"
+#~ msgid "Save System View"
+#~ msgstr "Sistem Görüntüsünü Kaydet"

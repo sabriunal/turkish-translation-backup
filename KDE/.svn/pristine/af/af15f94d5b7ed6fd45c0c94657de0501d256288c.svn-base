@@ -1,0 +1,466 @@
+#
+# Translators:
+# Ayşe Genç <ayse@uludag.org.tr>, 2005.
+# Engin Çağatay <engincagatay@yahoo.com>, 2004.
+# Engin ÇAĞATAY <engincagatay@yahoo.com>, 2004.
+# Görkem Çetin <gorkem@kde.org>, 2002-2003.
+# Kunter Kutlu <kunterkutlu@gmail.com>, 2008.
+# Muhammet Kara <muhammetk@gmail.com>, 2009.
+# Necmettin Begiter <necmettin.begiter@gmail.com>, 2008.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Renan Cakirerk, 2010.
+# obsoleteman <tulliana@gmail.com>, 2007-2009.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Volkan Gezer <volkangezer@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeedu-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-08-26 00:54+0000\n"
+"PO-Revision-Date: 2018-02-26 13:35+0000\n"
+"Last-Translator: Ozge <ozgebarbaros@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: kstars/kstars.notifyrc:4
+msgctxt "Comment"
+msgid "KStars"
+msgstr "KStars"
+
+#: kstars/kstars.notifyrc:37
+msgctxt "Name"
+msgid "Focus started"
+msgstr "Odaklanma başladı"
+
+#: kstars/kstars.notifyrc:63
+msgctxt "Comment"
+msgid "Autofocus operation started"
+msgstr "Otomatik odaklama işlemi başladı"
+
+#: kstars/kstars.notifyrc:90
+msgctxt "Name"
+msgid "Autofocus Success"
+msgstr "Otomatik Odaklama Başarılı"
+
+#: kstars/kstars.notifyrc:116
+msgctxt "Comment"
+msgid "Autofocus operation completed successfully"
+msgstr "Otomatik odaklama işlemi başarıyla tamamlandı"
+
+#: kstars/kstars.notifyrc:145
+msgctxt "Name"
+msgid "Autofocus Failure"
+msgstr "Otomatik Odaklama Başarısız"
+
+#: kstars/kstars.notifyrc:171
+msgctxt "Comment"
+msgid "Autofocus operation failed with errors"
+msgstr "Otomatik odaklama işlemi başarısız oldu"
+
+#: kstars/kstars.notifyrc:200
+msgctxt "Name"
+msgid "Alignment Success"
+msgstr "Hizalama Başarılı"
+
+#: kstars/kstars.notifyrc:226
+msgctxt "Comment"
+msgid "Astrometry alignment completed successfully"
+msgstr "Gök ölçümü hizalaması başarıyla tamamlandı"
+
+#: kstars/kstars.notifyrc:256
+msgctxt "Name"
+msgid "Alignment Failure"
+msgstr "Hizalama Başarısız"
+
+#: kstars/kstars.notifyrc:283
+msgctxt "Comment"
+msgid "Astrometry alignment failed with errors"
+msgstr "Gök ölçümü hizalaması başarısız oldu"
+
+#: kstars/kstars.notifyrc:313
+msgctxt "Name"
+msgid "Calibration Success"
+msgstr "Kalibrasyon Başarılı"
+
+#: kstars/kstars.notifyrc:342
+msgctxt "Comment"
+msgid "Guiding calibration completed successfully"
+msgstr "Kalibrasyon işlemi başarıyla tamamlandı"
+
+#: kstars/kstars.notifyrc:371
+msgctxt "Name"
+msgid "Calibration Failure"
+msgstr "Kalibrasyon Başarısız"
+
+#: kstars/kstars.notifyrc:399
+msgctxt "Comment"
+msgid "Guiding calibration failed with errors"
+msgstr "Kalibrasyon işlemi başarısız oldu"
+
+#: kstars/kstars.notifyrc:427
+msgctxt "Name"
+msgid "Guiding Failure"
+msgstr "Kılavuz Başarısız"
+
+#: kstars/kstars.notifyrc:453
+msgctxt "Comment"
+msgid "Autoguiding failed with errors"
+msgstr "Otomatik kılavuzluk işlemi başarısız oldu"
+
+#: kstars/kstars.notifyrc:482
+msgctxt "Name"
+msgid "Capture Success"
+msgstr "Yakalama Başarılı"
+
+#: kstars/kstars.notifyrc:508
+msgctxt "Comment"
+msgid "CCD Capture completed successfully"
+msgstr "CCD Yakalama başarıyla tamamlandı"
+
+#: kstars/kstars.notifyrc:537
+msgctxt "Name"
+msgid "Capture Failure"
+msgstr "Yakalama Başarısız"
+
+#: kstars/kstars.notifyrc:563
+msgctxt "Comment"
+msgid "CCD capture failed with errors"
+msgstr "CCD yakalama işlemi başarısız oldu"
+
+#: kstars/kstars.notifyrc:592
+msgctxt "Name"
+msgid "FITS Received"
+msgstr "FITS Alındı"
+
+#: kstars/kstars.notifyrc:618
+msgctxt "Comment"
+msgid "FITS file is received"
+msgstr "FITS dosyası alındı"
+
+#: kstars/kstars.notifyrc:647
+msgctxt "Name"
+msgid "Weather Warning"
+msgstr "Hava Uyarısı"
+
+#: kstars/kstars.notifyrc:674
+msgctxt "Comment"
+msgid "Weather conditions in warning zone"
+msgstr "Hava koşulları uyarı bölgesinde"
+
+#: kstars/kstars.notifyrc:702
+msgctxt "Name"
+msgid "Weather Alert"
+msgstr "Hava İkazı"
+
+#: kstars/kstars.notifyrc:729
+msgctxt "Comment"
+msgid "Weather conditions are critical. Observatory shutdown is imminent"
+msgstr "Hava koşulları kritiktir. Gözlemevinin kapatılması yakındır."
+
+#: kstars/kstars.notifyrc:757
+msgctxt "Name"
+msgid "Observatory Startup"
+msgstr "Gözlemevi Açılışı"
+
+#: kstars/kstars.notifyrc:783
+msgctxt "Comment"
+msgid "Observatory is in the startup process"
+msgstr "Gözlemevi açılış sürecinde"
+
+#: kstars/kstars.notifyrc:810
+msgctxt "Name"
+msgid "Observatory Shutdown"
+msgstr "Gözlemevi Kapanışı"
+
+#: kstars/kstars.notifyrc:836
+msgctxt "Comment"
+msgid "Observatory is in the shutdown process"
+msgstr "Gözlemevi kapanış sürecinde"
+
+#: kstars/kstars.notifyrc:864
+msgctxt "Name"
+msgid "Scheduler Aborted"
+msgstr "Zamanlayıcı Kesildi"
+
+#: kstars/kstars.notifyrc:890
+msgctxt "Name"
+msgid "Slew Started"
+msgstr "Çevirme Başladı"
+
+#: kstars/kstars.notifyrc:914
+msgctxt "Comment"
+msgid "Mount is slewing to target location"
+msgstr "Kaide, hedef konuma çevriliyor"
+
+#: kstars/kstars.notifyrc:940
+msgctxt "Name"
+msgid "Slew Completed"
+msgstr "Çevirme Tamamlandı"
+
+#: kstars/kstars.notifyrc:964
+msgctxt "Comment"
+msgid "Mount arrived at target location"
+msgstr "Kaide, hedef konuma ulaştı"
+
+#: kstars/kstars.notifyrc:990
+msgctxt "Name"
+msgid "Mount Aborted"
+msgstr "Kaide İptal Edildi"
+
+#: kstars/kstars.notifyrc:1013
+msgctxt "Comment"
+msgid "Mount motion was aborted"
+msgstr "Kaide hareketi iptal edildi"
+
+#: kstars/kstars.notifyrc:1037
+msgctxt "Name"
+msgid "Mount Parking"
+msgstr "Kaide Park Etme"
+
+#: kstars/kstars.notifyrc:1059
+msgctxt "Comment"
+msgid "Mount parking is in progress"
+msgstr "Kaide parkı devam ediyor"
+
+#: kstars/kstars.notifyrc:1083
+msgctxt "Name"
+msgid "Parking Mount Completed"
+msgstr "Kaide Parke Etme Tamamlandı"
+
+#: kstars/kstars.notifyrc:1105
+msgctxt "Comment"
+msgid "Mount parked"
+msgstr "Kaide park edildi"
+
+#: kstars/kstars.notifyrc:1129
+msgctxt "Name"
+msgid "Mount parking failed"
+msgstr "Kaide parkı başarısız"
+
+#: kstars/kstars.notifyrc:1151
+msgctxt "Comment"
+msgid "Mount parking failed"
+msgstr "Kaide parkı başarısız"
+
+#: kstars/kstars.notifyrc:1175
+msgctxt "Name"
+msgid "Mount unparked"
+msgstr "Kaide park durumundan çıktı"
+
+#: kstars/kstars.notifyrc:1196
+msgctxt "Comment"
+msgid "Mount unparked"
+msgstr "Kaide park durumundan çıktı"
+
+#: kstars/kstars.notifyrc:1219
+msgctxt "Name"
+msgid "Dome Parking"
+msgstr "Kubbe Park Etme"
+
+#: kstars/kstars.notifyrc:1240
+msgctxt "Comment"
+msgid "Parking dome is in progress"
+msgstr "Kubbe park etme devam ediyor"
+
+#: kstars/kstars.notifyrc:1263
+msgctxt "Name"
+msgid "Dome Parked"
+msgstr "Kubbe Park Edilmiş"
+
+#: kstars/kstars.notifyrc:1284
+msgctxt "Comment"
+msgid "Parking dome is complete"
+msgstr "Kubbe park etme tamamlandı"
+
+#: kstars/kstars.notifyrc:1307
+msgctxt "Name"
+msgid "Dome Unparking"
+msgstr "Kubbe Park Durumundan Çıkma"
+
+#: kstars/kstars.notifyrc:1328
+msgctxt "Comment"
+msgid "Unparking dome is in progress"
+msgstr "Kubbe park durumundan çıkma devam ediyor"
+
+#: kstars/kstars.notifyrc:1351
+msgctxt "Name"
+msgid "Dome unparked"
+msgstr "Kubbe park durumundan çıkarılmış"
+
+#: kstars/kstars.notifyrc:1372
+msgctxt "Comment"
+msgid "Unparking dome is complete"
+msgstr "Kubbe park durumundan çıkma tamamlandı"
+
+#: kstars/kstars.notifyrc:1395
+msgctxt "Name"
+msgid "Filter Wheel Changed"
+msgstr "Filtre Tekeri Değişti"
+
+#: kstars/kstars.notifyrc:1420
+msgctxt "Name"
+msgid "Video Recording Started"
+msgstr "Video Kayıt Başladı"
+
+#: kstars/kstars.notifyrc:1446
+msgctxt "Name"
+msgid "Video Recording Stopped"
+msgstr "Video Kayıt Durduruldu"
+
+#: kstars/kstars.notifyrc:1472
+msgctxt "Name"
+msgid "Meridian Flip Started"
+msgstr "Boylam Dönüşü Başladı"
+
+#: kstars/kstars.notifyrc:1496
+msgctxt "Name"
+msgid "Meridian Flip Completed"
+msgstr "Boylam Dönüşü Tamamlandı"
+
+#: kstars/kstars.notifyrc:1520
+msgctxt "Name"
+msgid "Meridian Flip Failed"
+msgstr "Boylam Dönüşü Başarısız"
+
+#: kstars/kstars.notifyrc:1544
+msgctxt "Name"
+msgid "Motion Started"
+msgstr "Hareket Başladı"
+
+#: kstars/kstars.notifyrc:1567
+msgctxt "Comment"
+msgid "Mount manual motion started"
+msgstr "Kaide elle hareket başladı"
+
+#: kstars/kstars.notifyrc:1591
+msgctxt "Name"
+msgid "Motion Completed"
+msgstr "Haraket Tamamlandı"
+
+#: kstars/kstars.notifyrc:1614
+msgctxt "Comment"
+msgid "Mount manual motion completed"
+msgstr "Kaide elle hareket tamamlandı"
+
+#: kstars/kstars.notifyrc:1637
+msgctxt "Name"
+msgid "INDI Server Message"
+msgstr "INDI Sunucu Mesajı"
+
+#: kstars/kstars.notifyrc:1661
+msgctxt "Comment"
+msgid "INDI Server Message (it must be enabled in INDI section of Settings)"
+msgstr "INDI Sunucu Mesajı (Ayarların INDI bölümünden aktif hale getirilmeli)"
+
+#: kstars/kstars.notifyrc:1686
+msgctxt "Name"
+msgid "Scheduled Ekos job started"
+msgstr "Zamanlanmış Ekos işleri başladı"
+
+#: kstars/kstars.notifyrc:1708
+msgctxt "Comment"
+msgid "A scheduled Ekos job is started"
+msgstr "Zamanlanmış bir Ekos işi başlatıldı"
+
+#: kstars/kstars.notifyrc:1732
+msgctxt "Name"
+msgid "Scheduled Ekos job failed"
+msgstr "Zamanlanmış Ekos işi başarısız"
+
+#: kstars/kstars.notifyrc:1754
+msgctxt "Comment"
+msgid "A scheduled Ekos job is failed"
+msgstr "Zamanlanmış bir Ekos işi başarısız"
+
+#: kstars/kstars.notifyrc:1778
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job started"
+msgstr "Zamanlanmış Ekos işinde imajlama başladı"
+
+#: kstars/kstars.notifyrc:1797
+msgctxt "Comment"
+msgid "An image sequence capture is started in a scheduled Ekos job"
+msgstr "Zamanlanmış bir Ekos işinde, bir imaj dizisi yakalama başlatıldı"
+
+#: kstars/kstars.notifyrc:1818
+msgctxt "Name"
+msgid "Imaging in scheduled Ekos job finished"
+msgstr "Zamanlanmış Ekos işinde imajlama bitti"
+
+#: kstars/kstars.notifyrc:1837
+msgctxt "Comment"
+msgid "An image sequence capture is finished in a scheduled Ekos job"
+msgstr "Zamanlanmış Ekos işinde bir imaj dizisi yakalama bitti"
+
+#: kstars/kstars.notifyrc:1858
+msgctxt "Name"
+msgid "Telescope is synced in a scheduled Ekos job"
+msgstr "Zamanlanmış bir Ekos işinde Teleskop senkronize edildi"
+
+#: kstars/kstars.notifyrc:1878
+msgctxt "Comment"
+msgid ""
+"The telescope is synced before tracking a new target in a scheduled Ekos job"
+msgstr ""
+"Teleskop, zamanlanmış bir Ekos işinde yeni bir hedef kaydedilmeden "
+"senkronize edildi"
+
+#: kstars/kstars.notifyrc:1900
+msgctxt "Name"
+msgid "Captured image received"
+msgstr "Yakalanmış imaj alındı"
+
+#: kstars/kstars.notifyrc:1926
+msgctxt "Name"
+msgid "Known Issue"
+msgstr ""
+
+#: kstars/org.kde.kstars.desktop:8 snap/gui/org.kde.kstars.desktop:7
+msgctxt "Comment"
+msgid "Desktop Planetarium"
+msgstr "Masaüstü Yıldız Evi"
+
+#: kstars/org.kde.kstars.desktop:79 snap/gui/org.kde.kstars.desktop:78
+msgctxt "Name"
+msgid "KStars"
+msgstr "KStars"
+
+#: kstars/org.kde.kstars.desktop:148 snap/gui/org.kde.kstars.desktop:147
+msgctxt "GenericName"
+msgid "Desktop Planetarium"
+msgstr "Masaüstü Yıldız Evi"
+
+#: org.kde.kf5auth.kstars.actions:2
+msgctxt "Name"
+msgid "Save Astrometry Index File to a write protected directory"
+msgstr "Astrometry İndeks Dosyasını yazma korumalı dizine kaydet"
+
+#: org.kde.kf5auth.kstars.actions:24
+msgctxt "Description"
+msgid ""
+"KStars is attempting to save an Astrometry Index File to a directory owned "
+"by root"
+msgstr ""
+"KStars, bir Astrometry İndeks Dosyasını sahibi root olan bir dizine yazma "
+"girişiminde bulunuyor"
+
+#: org.kde.kf5auth.kstars.actions:50
+msgctxt "Name"
+msgid "Remove an Astrometry Index File Set"
+msgstr "Astrometry İndeks Dosya Kümesini Kaldır"
+
+#: org.kde.kf5auth.kstars.actions:73
+msgctxt "Description"
+msgid "KStars is attempting to remove Astrometry Index Files owned by root"
+msgstr ""
+"KStarts, sahibi root olan bir Astrometry İndeks Dosyasını silme girişiminde "
+"bulunuyor"
+
+#~ msgctxt "Name"
+#~ msgid "Breeze"
+#~ msgstr "Esinti"

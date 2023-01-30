@@ -1,0 +1,44 @@
+#
+# Translators:
+# Görkem Çetin <gorkem@kde.org>, 2002-2004
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011
+# Ömer Fadıl USTA <omer_fad@yahoo.com>, 2004
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000
+# Serdar Dalgıç <serdar@pardus.org.tr>, 2010
+# obsoleteman <tulliana@gmail.com>, 2008-2009
+# Volkan Gezer <volkangezer@gmail.com>, 2013
+# Yıldız Kardeşler <turkishprogram@xposta.com>, 2004
+msgid ""
+msgstr ""
+"Project-Id-Version: kdegames-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-12-01 00:55+0000\n"
+"PO-Revision-Date: 2017-05-16 09:07+0000\n"
+"Last-Translator: İşbaran <isbaran@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/kdegames-k-tr/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: pictures/theme.desktop:3
+msgctxt "Name"
+msgid "Kollision Default Theme"
+msgstr "Kollision Öntanımlı Teması"
+
+#: pictures/theme.desktop:53
+msgctxt "Description"
+msgid "Kollision Default Theme"
+msgstr "Kollision Öntanımlı Teması"
+
+#: src/org.kde.kollision.desktop:5
+msgctxt "Name"
+msgid "Kollision"
+msgstr "Kollision"
+
+#: src/org.kde.kollision.desktop:59
+msgctxt "GenericName"
+msgid "A simple ball dodging game"
+msgstr "Basit bir toptan kaçma oyunu"

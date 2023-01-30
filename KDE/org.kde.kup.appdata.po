@@ -1,0 +1,67 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-16 02:27+0200\n"
+"PO-Revision-Date: 2022-06-14 11:12+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.1\n"
+
+#. (itstool) path: component/name
+#: org.kde.kup.appdata.xml:8
+msgid "Kup"
+msgstr "Kup"
+
+#. (itstool) path: component/summary
+#: org.kde.kup.appdata.xml:9
+msgid "Backup scheduler for KDE's Plasma desktop"
+msgstr "KDE'nin Plasma Masaüstü için yedek zamanlayıcı"
+
+#. (itstool) path: description/p
+#: org.kde.kup.appdata.xml:11
+msgid ""
+"Kup can help you remember to keep up-to-date backups of your personal files. "
+"It provides:"
+msgstr ""
+"Kup, kişisel dosyalarınızın güncel yedeklerini tutmanıza yardımcı olur. "
+"Sunduğu özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:13
+msgid "Incremental backup archive with the use of \"bup\"."
+msgstr "\"bup\" kullanarak artan yedek arşivi desteği."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:14
+msgid "Synchronized folders with the use of \"rsync\"."
+msgstr "\"rsync\" kullararak eşzamanlanmış klasörler."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:15
+msgid "Support for local filesystem or external usb storage."
+msgstr "Yerel dosya sistemi veya dış USB depolama desteği."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:16
+msgid ""
+"Monitor availability of backup destinations, like for example a mounted "
+"network storage."
+msgstr ""
+"Yedek konumlarının uygunluğunu izleme; örneğin takılı bir ağ depolama aygıtı "
+"gibi."
+
+#. (itstool) path: ul/li
+#: org.kde.kup.appdata.xml:17
+msgid "Integration into KDE's Plasma desktop."
+msgstr "KDE Plasma Masaüstü ile tümleştirme."
+
+#. (itstool) path: component/developer_name
+#: org.kde.kup.appdata.xml:27
+msgid "Simon Persson &lt;simon.persson@mykolab.com&gt;"
+msgstr "Simon Persson &lt;simon.persson@mykolab.com&gt;"

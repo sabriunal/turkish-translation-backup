@@ -1,0 +1,564 @@
+#
+# Translators:
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Görkem Çetin <gorkem@kde.org>, 2002-2003.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2010-2011.
+# obsoleteman <tulliana@gmail.com>, 2008-2010,2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2017, 2019, 2022.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: applications-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-06 00:57+0000\n"
+"PO-Revision-Date: 2022-03-18 17:28+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: addons/snippets/ktexteditor_codesnippets_core.knsrc:2
+msgctxt "Name"
+msgid "Text Editor Snippets"
+msgstr "Metin Düzenleyici Parçacıkları"
+
+#: apps/kate/data/org.kde.kate.desktop:2
+msgctxt "GenericName"
+msgid "Advanced Text Editor"
+msgstr "Gelişmiş Metin Düzenleyici"
+
+#: apps/kate/data/org.kde.kate.desktop:66
+msgctxt "Name"
+msgid "Kate"
+msgstr "Kate"
+
+#: apps/kate/data/org.kde.kate.desktop:131
+msgctxt "Comment"
+msgid "KDE Advanced Text Editor"
+msgstr "KDE Gelişmiş Metin Düzenleyici"
+
+#: apps/kate/data/org.kde.kate.desktop:193
+msgctxt "Keywords"
+msgid "text;txt;editor;programming;programmer;development;developer;code;"
+msgstr "text;txt;düzenleyici;programlama;programcı;geliştirme;geliştirici;kod;"
+
+#: apps/kwrite/data/org.kde.kwrite.desktop:2
+msgctxt "GenericName"
+msgid "Text Editor"
+msgstr "Metin Düzenleyici"
+
+#: apps/kwrite/data/org.kde.kwrite.desktop:65
+msgctxt "Name"
+msgid "KWrite"
+msgstr "KWrite"
+
+#: apps/kwrite/data/org.kde.kwrite.desktop:127
+msgctxt "Comment"
+msgid "KDE Text Editor"
+msgstr "KDE Metin Düzenleyici"
+
+#: apps/kwrite/data/org.kde.kwrite.desktop:187
+msgctxt "Keywords"
+msgid "text;txt;editor;note;notepad;"
+msgstr "metin;txt;düzenleyici;not;not defteri;"
+
+#~ msgctxt "Name"
+#~ msgid "Kate Sessions"
+#~ msgstr "Kate Oturumları"
+
+#~ msgctxt "Comment"
+#~ msgid "Kate Session Launcher"
+#~ msgstr "Kate Oturum Başlatıcı"
+
+#~ msgctxt "Name"
+#~ msgid "Backtrace Browser"
+#~ msgstr "Geri İz Tarayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "C/C++ Backtrace navigation tool view"
+#~ msgstr "C/C++ geri iz tarayıcı aracı görünümü"
+
+#~ msgctxt "Name"
+#~ msgid "Close Except/Like"
+#~ msgstr "Hariç/Benzerlerini Kapat"
+
+#~ msgctxt "Comment"
+#~ msgid "Close group of documents based on a common path or file extension"
+#~ msgstr "Ortak yol veya dosya uzantısına bağlı belge gruplarını kapat"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Tool View"
+#~ msgctxt "Name"
+#~ msgid "External Tools"
+#~ msgstr "Uçbirim Araç Görünümü"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Terminal Tool View"
+#~ msgctxt "Comment"
+#~ msgid "External Tools"
+#~ msgstr "Uçbirim Araç Görünümü"
+
+#~ msgctxt "Name"
+#~ msgid "File System Browser"
+#~ msgstr "Dosya Sistemi Tarayıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "File system browser tool view"
+#~ msgstr "Dosya sistemi tarayıcısı görünümü"
+
+#~ msgctxt "Name"
+#~ msgid "Document Tree View"
+#~ msgstr "Belge Ağacı Görünümü"
+
+#~ msgctxt "Comment"
+#~ msgid "Displays the open documents in a file tree"
+#~ msgstr "Açık belgeleri bir dosya ağaç yapısı içinde gösterir"
+
+#~ msgctxt "Name"
+#~ msgid "GDB"
+#~ msgstr "GDB"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides a simple GDB frontend"
+#~ msgstr "Basit bir GDB önyüzü sağlar"
+
+#~ msgctxt "Name"
+#~ msgid "Build Plugin"
+#~ msgstr "Derleme Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Compile or Make and parse error messages"
+#~ msgstr "Derleme ya da Make ve ayrıştırma hata iletileri"
+
+#~ msgctxt "Name"
+#~ msgid "CTags"
+#~ msgstr "CTags"
+
+#~ msgctxt "Comment"
+#~ msgid "Look up definitions/declarations with CTags"
+#~ msgstr "CTags ile bildirimlerde ve tanımlamalarda ara"
+
+#~ msgctxt "Name"
+#~ msgid "SQL Plugin"
+#~ msgstr "SQL Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Execute query on SQL databases"
+#~ msgstr "SQL veritabanları üzerinde sorgu çalıştır"
+
+#~ msgctxt "Name"
+#~ msgid "Terminal Tool View"
+#~ msgstr "Uçbirim Araç Görünümü"
+
+#~ msgctxt "Comment"
+#~ msgid "Have a terminal at the ready, using KDE's Konsole widget"
+#~ msgstr "KDE'nin Konsole gerecini kullanarak hazır bir uçbirime sahip ol"
+
+#~ msgctxt "Name"
+#~ msgid "Project Plugin"
+#~ msgstr "Proje Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Integration with Git and other source control systems"
+#~ msgstr "Git ve diğer sürüm takibi sistemleriyle bütünleşme"
+
+#~ msgctxt "Name"
+#~ msgid "Replicode"
+#~ msgstr "Replicode"
+
+#~ msgctxt "Comment"
+#~ msgid "Replicode (constructivist AI language and runtime)"
+#~ msgstr "Replicode (yapılandırmacı YZ dili ve çalıştırma zamanı)"
+
+#~ msgctxt "GenericName"
+#~ msgid "Replicode"
+#~ msgstr "Replicode"
+
+#~ msgctxt "Name"
+#~ msgid "Search & Replace"
+#~ msgstr "Ara ve Değiştir"
+
+#~ msgctxt "Comment"
+#~ msgid "Search and replace in documents, folders, or projects"
+#~ msgstr "Belgelerde, dizin ve projelerde ara ve değiştir"
+
+#~ msgctxt "Name"
+#~ msgid "Snippets Tool View"
+#~ msgstr "Parçacık Araç Görünümü"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage your code snippets or download new ones"
+#~ msgstr "Kod parçacıklarını yönet veya yenilerini indir"
+
+#~ msgctxt "Name"
+#~ msgid "Symbol Viewer"
+#~ msgstr "Sembol Gösterici"
+
+#~ msgctxt "Comment"
+#~ msgid "Extract and show reference symbols from source"
+#~ msgstr "Referans sembollerini kaynaktan çıkar ve göster"
+
+#~ msgctxt "Name"
+#~ msgid "Document Switcher"
+#~ msgstr "Belge Değiştirici"
+
+#~ msgctxt "Comment"
+#~ msgid "Quick document switching with Alt+Tab behavior"
+#~ msgstr "ALT+Tab ile hızlı belge değitirme"
+
+#~ msgctxt "Name"
+#~ msgid "Text Filter"
+#~ msgstr "Metin Süzgeci"
+
+#~ msgctxt "Comment"
+#~ msgid "Process text using terminal commands"
+#~ msgstr "Uçbirim komutlarını kullanarak metni işle"
+
+#~ msgctxt "Name"
+#~ msgid "XML Validation"
+#~ msgstr "XML Doğrulama"
+
+#~ msgctxt "Comment"
+#~ msgid "Validates XML files using xmllint"
+#~ msgstr "XML dosyalarını xmllint kullanarak doğrular"
+
+#~ msgctxt "Name"
+#~ msgid "XML Completion"
+#~ msgstr "XML Tamamlama"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Lists XML elements, attributes, attribute values and entities allowed by "
+#~ "DTD"
+#~ msgstr ""
+#~ "XML ögelerini, özelliklerini, özellik değerlerini ve DTD tarafından izin "
+#~ "verilen varlıkları listeler"
+
+#~ msgctxt "Name"
+#~ msgid "Open Header"
+#~ msgstr "Başlığı Aç"
+
+#~ msgctxt "Comment"
+#~ msgid "Opens the corresponding .h/[.cpp|.c] file"
+#~ msgstr "Karşılık gelen .h/[.cpp|.c] dosyalarını açar"
+
+#~ msgctxt "Name"
+#~ msgid "Lumen"
+#~ msgstr "Lumen"
+
+#~ msgctxt "Comment"
+#~ msgid "Autocompletion Plugin for D, using the DCD autocompletion server"
+#~ msgstr ""
+#~ "D için DCD otomatik tamamlama sunucusu kullanan otomatik tamamlama "
+#~ "eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Rust code completion"
+#~ msgstr "Rust kod tamamlama"
+
+#~ msgctxt "Comment"
+#~ msgid "Code completion for Rust source code"
+#~ msgstr "Rust kaynak kodu için kod tamamlama"
+
+#~ msgctxt "Name"
+#~ msgid "Documents"
+#~ msgstr "Belgeler"
+
+#~ msgctxt "Comment"
+#~ msgid "Toolview embedding a terminal widget"
+#~ msgstr "Gömülü bir uçbirim parçacığı araç görünümü"
+
+#~ msgctxt "Comment"
+#~ msgid "Project plugin for Kate"
+#~ msgstr "Kate için proje eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Replicode"
+#~ msgstr "Replicode"
+
+#~ msgctxt "Comment"
+#~ msgid "Toolview embedding the snippets management"
+#~ msgstr "Gömülü bir uçbirim parçacığı araç görünümü"
+
+#~ msgctxt "Comment"
+#~ msgid "Easy text filtering"
+#~ msgstr "Kolay metin filtreleme"
+
+#~ msgctxt "Name"
+#~ msgid "File Tree"
+#~ msgstr "Dosya Ağacı"
+
+#~ msgctxt "Name"
+#~ msgid "File Templates"
+#~ msgstr "Dosya Şablonları"
+
+#~ msgctxt "Comment"
+#~ msgid "Create new files from templates"
+#~ msgstr "Şablondan yeni dosyalar oluştur"
+
+#~ msgctxt "Name"
+#~ msgid "Jovie Text-to-Speech"
+#~ msgstr "Jovie Metin Okuma"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds a menu entry for speaking the text"
+#~ msgstr "Metni okumak için bir menü girdisi oluşturur"
+
+#~ msgctxt "Name"
+#~ msgid "Mail files"
+#~ msgstr "Dosyaları e-posta ile gönder"
+
+#~ msgctxt "Comment"
+#~ msgid "Send files via email"
+#~ msgstr "Dosyaları e-posta ile gönder"
+
+#~ msgctxt "Comment"
+#~ msgid "Kate Python Plugin"
+#~ msgstr "Kate Python Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Python Plugins"
+#~ msgstr "Python eklentileri"
+
+#~ msgctxt "Comment"
+#~ msgid "Pâté host for Python plugins"
+#~ msgstr "Python eklentileri için Pâté sunucusu"
+
+#~ msgctxt "Name"
+#~ msgid "CMake Utilities"
+#~ msgstr "CMake Uygulamaları"
+
+#~ msgctxt "Comment"
+#~ msgid "Code completer, cache and help browser"
+#~ msgstr "Kod tamamlayıcı, önbellek ve yardım tarayıcısı"
+
+#~ msgctxt "Name"
+#~ msgid "User defined text expansions"
+#~ msgstr "Kullanıcı tanımlı metin açılımları"
+
+#~ msgctxt "Comment"
+#~ msgid "Execute expansion function and insert output into a document"
+#~ msgstr "Genişleme fonksiyonu uygulayın ve çıktıyı bir belgeye ekleyin"
+
+#~ msgctxt "Name"
+#~ msgid "GNU idutils plugin"
+#~ msgstr "GNU idutils eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Browse the tokens in a GNU idutils ID file"
+#~ msgstr "GNU idutils kimlik dosyasında belirteçlere göz at"
+
+#~ msgctxt "Name"
+#~ msgid "JavaScript Utilities"
+#~ msgstr "JavaScript Uygulamaları"
+
+#~ msgctxt "Comment"
+#~ msgid "JS and jQuery autocompletion, a jQuery ready snippet, JSLint/JSHint"
+#~ msgstr ""
+#~ "JS ve jQuery otomatik tamamlama, bir jQuery hazır kodu, JSLint/JSHint"
+
+#~ msgctxt "Name"
+#~ msgid "Block"
+#~ msgstr "Blok"
+
+#~ msgctxt "Comment"
+#~ msgid "Various actions to help code editing"
+#~ msgstr "Kod düzenlemeye yardımcı olmak için çeşitli eylemler"
+
+#~ msgctxt "Name"
+#~ msgid "Plugins to work with comments"
+#~ msgstr "Yorumlarla çalışmak için eklentiler"
+
+#~ msgctxt "Comment"
+#~ msgid "Supported languages are C++, JS, Python, CMake, Bash"
+#~ msgstr "Desteklenen diller C++, JS, Python, CMake, Bash"
+
+#~ msgctxt "Name"
+#~ msgid "Boost-like C++ Code Formatter"
+#~ msgstr "Boost benzeri C++ Kod Biçimlendirici"
+
+#~ msgctxt "Comment"
+#~ msgid "Help to format calls/templates in boost style"
+#~ msgstr "Çağrı ve şablonları boost biçeminde biçimlendirmek için yardım"
+
+#~ msgctxt "Name"
+#~ msgid "Python Autocompletion"
+#~ msgstr "Python Otomatik Tamamlama"
+
+#~ msgctxt "Comment"
+#~ msgid "Based on the Jedi library"
+#~ msgstr "Jedi kütüphanesine dayanmaktadır"
+
+#~ msgctxt "Name"
+#~ msgid "Easy file open/create"
+#~ msgstr "Kolay dosya açma/oluşturma"
+
+#~ msgctxt "Comment"
+#~ msgid "Try to open selected text as URI to a document"
+#~ msgstr "Seçilen metni bir belgeye adres olarak açmaya çalış"
+
+#~ msgctxt "Name"
+#~ msgid "XML Tools"
+#~ msgstr "XML Araçları"
+
+#~ msgctxt "Comment"
+#~ msgid "XML Pretty print"
+#~ msgstr "XML Güzel yazdırma"
+
+#~ msgctxt "Comment"
+#~ msgid "Beta, only for Python 2"
+#~ msgstr "Beta, sadece Python 2 için"
+
+#~ msgctxt "Name"
+#~ msgid "Simple Python Console"
+#~ msgstr "Basit Python Konsolu"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Interactive console for inspecting Kate's internals and playing about"
+#~ msgstr ""
+#~ "Kate'teki içsel şeyler ve ne üzerinde çalıştığını incelemek için "
+#~ "etkileşimli konsol"
+
+#~ msgctxt "Name"
+#~ msgid "IPython Console"
+#~ msgstr "IPython Konsolu"
+
+#~ msgctxt "Comment"
+#~ msgid "Interactive console for hacking kate and doing science"
+#~ msgstr "Kate'te geliştirme ve bilim yapmak için etkileşimli konsol"
+
+#~ msgctxt "Name"
+#~ msgid "Python Utilities"
+#~ msgstr "Python Yardımcı Programları"
+
+#~ msgctxt "Comment"
+#~ msgid "Parse Checker, PEP8 Checker, Pyflakes Checker, Snippets"
+#~ msgstr ""
+#~ "Ayıklama Denetleyici, PEP8 Denetleyici, Pyflakes Denetleyici, Kod "
+#~ "Parçacıkları"
+
+#~ msgctxt "Name"
+#~ msgid "Hello World Plugin"
+#~ msgstr "Merhaba Dünya Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Your short description about the plugin goes here"
+#~ msgstr "Eklenti hakkındaki kısa yorumunuzu buraya ekleyin"
+
+#~ msgctxt "Name"
+#~ msgid "Color Tools"
+#~ msgstr "Renk Araçları"
+
+#~ msgctxt "Comment"
+#~ msgid "Utilities to work with hexadecimal colors in documents"
+#~ msgstr "Belgelerde onaltılık renklerle çalışmak için yardımcılar"
+
+#~ msgctxt "Name"
+#~ msgid "Multiline Tab Bar"
+#~ msgstr "Çok Satırlı Sekme Çubuğu"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds a tab bar with multiple rows to Kate's main window"
+#~ msgstr ""
+#~ "Kate uygulamasının ana penceresine çok satırlı bir sekme çubuğu ekler"
+
+#~ msgctxt "Name"
+#~ msgid "Tab Bar"
+#~ msgstr "Sekme Çubuğu"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds a standard tab bar to Kate's main window"
+#~ msgstr "Kate uygulamasının ana penceresine standart bir sekme çubuğu ekler"
+
+#~ msgctxt "Name"
+#~ msgid "AutoBrace Configuration"
+#~ msgstr "AutoBrace Yapılandırması"
+
+#~ msgctxt "Name"
+#~ msgid "AutoBrace"
+#~ msgstr "AutoBrace"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert closing braces on pressing Enter"
+#~ msgstr "Enter'a basıldığında parantezi kapat"
+
+#~ msgctxt "Name"
+#~ msgid "Exporter"
+#~ msgstr "Dışa Aktarıcı"
+
+#~ msgctxt "Comment"
+#~ msgid "Export highlighted document to HTML"
+#~ msgstr "Vurgulanan belgeyi HTML olarak dışa aktar"
+
+#~ msgctxt "Name"
+#~ msgid "Highlight Selection"
+#~ msgstr "Seçimi Vurgula"
+
+#~ msgctxt "Comment"
+#~ msgid "Highlight all words based on the text selection"
+#~ msgstr "Metin seçimine bağlı tüm kelimeleri vurgula"
+
+#~ msgctxt "Name"
+#~ msgid "Insert File"
+#~ msgstr "Dosya Ekle"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert any readable file at cursor position"
+#~ msgstr "Okunabilir bir dosya içeriğini imleç konumuna ekle"
+
+#~ msgctxt "Comment"
+#~ msgid "Select an icon and use it as a KIcon in your source-code"
+#~ msgstr "Bir simge seçin ve kaynak kodunuzda KIcon olarak kullanın"
+
+#~ msgctxt "Name"
+#~ msgid "IconInserter"
+#~ msgstr "SimgeEkleyici"
+
+#~ msgctxt "GenericName"
+#~ msgid "Insert Code for KIcon-Creation"
+#~ msgstr "KIcon-Oluşturma için Kod Ekle"
+
+#~ msgctxt "Comment"
+#~ msgid "Kate Plugin"
+#~ msgstr "Kate Eklentisi"
+
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Embedded Text Editor"
+#~ msgstr "Gömülü Metin Düzenleyici"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The text editor service provides applications with a text viewer and "
+#~ "editor. KDE applications that provide text editing facilities should use "
+#~ "this service."
+#~ msgstr ""
+#~ "Metin düzenleyici hizmeti, uygulamalara bir metin gösterici ve "
+#~ "düzenleyicisi sağlar. Metin düzenleme olanakları sağlayan KDE "
+#~ "uygulamaları bu hizmeti kullanmalıdır."
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Text Editor Component (with Doc/View Separation)"
+#~ msgstr "Gömülebilir Metin Düzenleyici Bileşeni (Doc/View ayrımı ile)"
+
+#~ msgctxt "Comment"
+#~ msgid "KTextEditor load/save filter/check plugin"
+#~ msgstr "KTextEditor yükleme/kaydetme filtreleme/denetleme eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "KTextEditor Plugin"
+#~ msgstr "KTextEditor Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Advanced Text Editor"
+#~ msgstr "Gelişmiş Gömülü Metin Düzenleyici"

@@ -1,0 +1,40 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-05-24 00:54+0000\n"
+"PO-Revision-Date: 2022-04-16 17:49+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: plasmoid/metadata.desktop:3
+msgctxt "Name"
+msgid "MycroftPlasmoid"
+msgstr "MycroftPlasmoid"
+
+#: plasmoid/metadata.desktop:38
+msgctxt "Comment"
+msgid "Mycroft applet for plasma desktop"
+msgstr "Plasma Masaüstü için Mycroft uygulamacığı"
+
+#: plugin/mycroftPlasmoid.notifyrc:3
+msgctxt "Comment"
+msgid "Mycroft Plasmoid"
+msgstr "Mycroft Plasmoid"
+
+#: plugin/mycroftPlasmoid.notifyrc:40
+msgctxt "Name"
+msgid "Mycroft Response"
+msgstr "Mycroft Yanıt"
+
+#: plugin/mycroftPlasmoid.notifyrc:75
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr "Aygıt bağlantısı başarısız"

@@ -1,0 +1,210 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasmatube package.
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmatube\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-30 01:00+0000\n"
+"PO-Revision-Date: 2023-01-30 19:26+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: contents/ui/AccountPage.qml:14 contents/ui/AccountPage.qml:93
+#, kde-format
+msgid "Sign in"
+msgstr "Giriş Yap"
+
+#: contents/ui/AccountPage.qml:21
+#, kde-format
+msgid "Successfully logged in as %1."
+msgstr "%1 olarak başarıyla giriş yapıldı."
+
+#: contents/ui/AccountPage.qml:40
+#, kde-format
+msgid "Currently logged in as %1."
+msgstr "Şu anda %1 olarak giriş yapılı."
+
+#: contents/ui/AccountPage.qml:49
+#, kde-format
+msgid "Log out"
+msgstr "Çıkış Yap"
+
+#: contents/ui/AccountPage.qml:59
+#, kde-format
+msgid ""
+"Please visit the website to register with an invidious instance.\n"
+"There is currently no API for registering."
+msgstr ""
+"Bireysel olarak kaydolmak için lütfen web sayfasını ziyaret edin.\n"
+"Şu anda kayıt için bir uygulama arayüzü bulunmamaktadır."
+
+#: contents/ui/AccountPage.qml:76
+#, kde-format
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: contents/ui/ChannelPage.qml:82
+#, kde-format
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: contents/ui/components/BottomNavBar.qml:69
+#: contents/ui/components/Sidebar.qml:60
+#, kde-format
+msgid "Videos"
+msgstr "Videolar"
+
+#: contents/ui/components/BottomNavBar.qml:81
+#: contents/ui/components/Sidebar.qml:73 contents/ui/SearchPage.qml:17
+#: contents/ui/SearchPage.qml:174
+#, kde-format
+msgid "Search"
+msgstr "Ara"
+
+#: contents/ui/components/BottomNavBar.qml:92
+#: contents/ui/components/Sidebar.qml:94 contents/ui/SettingsPage.qml:13
+#: contents/ui/videoplayer/VideoControls.qml:175
+#, kde-format
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: contents/ui/SearchPage.qml:70
+#, kde-format
+msgid "Sort By:"
+msgstr "Şuna Göre Sırala:"
+
+#: contents/ui/SearchPage.qml:74
+#, kde-format
+msgid "Rating"
+msgstr "Derecelendirme"
+
+#: contents/ui/SearchPage.qml:85
+#, kde-format
+msgid "Relevance"
+msgstr "İlgi"
+
+#: contents/ui/SearchPage.qml:97
+#, kde-format
+msgid "Upload Date"
+msgstr "Yüklenme Tarihi"
+
+#: contents/ui/SearchPage.qml:108
+#, kde-format
+msgid "View Count"
+msgstr "Görüntülenme Sayısı"
+
+#: contents/ui/SearchPage.qml:174
+#, kde-format
+msgid "No results"
+msgstr "Sonuç yok"
+
+#: contents/ui/SettingsPage.qml:18
+#, kde-format
+msgid "Invidious"
+msgstr "Kırıcı"
+
+#: contents/ui/SettingsPage.qml:22
+#, kde-format
+msgid "Instance"
+msgstr "Örnek"
+
+#: contents/ui/SettingsPage.qml:34
+#, kde-format
+msgid "Account"
+msgstr "Hesap"
+
+#: contents/ui/SettingsPage.qml:38
+#, kde-format
+msgid "Open Account Settings"
+msgstr "Hesap Ayarlarını Aç"
+
+#: contents/ui/VideoGridItem.qml:149
+#, kde-format
+msgid "• %1 views • %2"
+msgstr "• %1 görüntülenme • %2"
+
+#: contents/ui/VideoListItem.qml:146
+#, kde-format
+msgid " • %1 views"
+msgstr " • %1 görüntülenme"
+
+#: contents/ui/VideoListItem.qml:154
+#, kde-format
+msgid " • %1"
+msgstr " • %1"
+
+#: contents/ui/videoplayer/VideoPlayer.qml:297
+#, kde-format
+msgid "Unsubscribe (%1)"
+msgstr "Abonelikten Çık (%1)"
+
+#: contents/ui/videoplayer/VideoPlayer.qml:299
+#, kde-format
+msgid "Subscribe (%1)"
+msgstr "Abone Ol (%1)"
+
+#: contents/ui/videoplayer/VideoPlayer.qml:309
+#, kde-format
+msgid "Please log in to subscribe to channels."
+msgstr "Kanallara abone olmak için giriş yapın."
+
+#: contents/ui/videoplayer/VideoPlayer.qml:329
+#, kde-format
+msgid "%1 views"
+msgstr "%1 görüntüleme"
+
+#: contents/ui/videoplayer/VideoPlayer.qml:336
+#, kde-format
+msgid "%1 Likes"
+msgstr "%1 beğeni"
+
+#: main.cpp:42
+#, kde-format
+msgid "PlasmaTube"
+msgstr "PlasmaTube"
+
+#: main.cpp:44 main.cpp:86
+#, kde-format
+msgid "YouTube client"
+msgstr "YouTube istemcisi"
+
+#: main.cpp:46
+#, kde-format
+msgid "© Linus Jahn"
+msgstr "© Linus Jahn"
+
+#: main.cpp:47
+#, kde-format
+msgid "Linus Jahn"
+msgstr "Linus Jahn"
+
+#: main.cpp:47
+#, kde-format
+msgid "Creator"
+msgstr "Yaratıcı"
+
+#: main.cpp:48
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Emir SARI"
+
+#: main.cpp:48
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "emir_sari@icloud.com"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Tam Ekran"
+
+#~ msgid "Restore"
+#~ msgstr "Geri Yükle"

@@ -1,0 +1,94 @@
+#
+# Translators:
+# Görkem Çetin <gorkem@kde.org>, 2002-2004
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011
+# Ömer Fadıl USTA <omer_fad@yahoo.com>, 2004
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000
+# Serdar Dalgıç <serdar@pardus.org.tr>, 2010
+# obsoleteman <tulliana@gmail.com>, 2008-2009
+# Volkan Gezer <volkangezer@gmail.com>, 2013
+# Yıldız Kardeşler <turkishprogram@xposta.com>, 2004
+msgid ""
+msgstr ""
+"Project-Id-Version: kdegames-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-12 00:55+0000\n"
+"PO-Revision-Date: 2014-06-08 13:55+0000\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/kdegames-k-tr/"
+"language/tr/)\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: pics/default_theme.desktop:3
+msgctxt "Name"
+msgid "KReversi Default Theme"
+msgstr "KReversi Öntanımlı Teması"
+
+#: sounds/kreversi.notifyrc:4
+msgctxt "Comment"
+msgid "KReversi Game"
+msgstr "Reversi Oyunu"
+
+#: sounds/kreversi.notifyrc:53
+msgctxt "Name"
+msgid "Click"
+msgstr "Tık"
+
+#: sounds/kreversi.notifyrc:122
+msgctxt "Comment"
+msgid "Click"
+msgstr "Tık"
+
+#: sounds/kreversi.notifyrc:194
+msgctxt "Name"
+msgid "Game Won"
+msgstr "Oyun Kazanıldı"
+
+#: sounds/kreversi.notifyrc:250
+msgctxt "Comment"
+msgid "Game won"
+msgstr "Oyun Kazanıldı"
+
+#: sounds/kreversi.notifyrc:320
+msgctxt "Name"
+msgid "Game Lost"
+msgstr "Oyun Kaybedildi"
+
+#: sounds/kreversi.notifyrc:376
+msgctxt "Comment"
+msgid "Game lost"
+msgstr "Oyun kaybedildi"
+
+#: sounds/kreversi.notifyrc:444
+msgctxt "Name"
+msgid "Draw"
+msgstr "Berabere"
+
+#: sounds/kreversi.notifyrc:509
+msgctxt "Comment"
+msgid "Draw"
+msgstr "Beraberlik"
+
+#: sounds/kreversi.notifyrc:577
+msgctxt "Name"
+msgid "Illegal Move"
+msgstr "Geçersiz Hamle"
+
+#: sounds/kreversi.notifyrc:639
+msgctxt "Comment"
+msgid "Illegal move"
+msgstr "Geçersiz hamle"
+
+#: src/org.kde.kreversi.desktop:3
+msgctxt "Name"
+msgid "KReversi"
+msgstr "KReversi"
+
+#: src/org.kde.kreversi.desktop:76
+msgctxt "GenericName"
+msgid "Reversi Board Game"
+msgstr "Reversi Tahta Oyunu"

@@ -1,0 +1,32 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-09 03:11+0200\n"
+"PO-Revision-Date: 2022-04-15 14:35+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.ffmpegthumbs.metainfo.xml:9
+msgid "FFmpeg Thumbnailer"
+msgstr "FFmpeg Küçük Görsel Oluşturucu"
+
+#. (itstool) path: component/summary
+#: org.kde.ffmpegthumbs.metainfo.xml:10
+msgid "Video thumbnail generator using FFmpeg"
+msgstr "FFmpeg kullanan video küçük görseli oluşturucu"
+
+#. (itstool) path: description/p
+#: org.kde.ffmpegthumbs.metainfo.xml:12
+msgid ""
+"FFmpeg Thumbnailer is a video thumbnail generator for KDE file managers."
+msgstr ""
+"FFmpeg Küçük Görsel Oluşturucu, KDE dosya yöneticileri için bir video küçük "
+"görseli oluşturucudur."

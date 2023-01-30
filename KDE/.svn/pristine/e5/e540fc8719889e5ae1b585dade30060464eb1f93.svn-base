@@ -1,0 +1,63 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-29 03:52+0200\n"
+"PO-Revision-Date: 2022-06-17 11:05+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#. (itstool) path: component/name
+#: kube.appdata.xml.in:6
+msgid "Kube"
+msgstr "Kube"
+
+#. (itstool) path: component/summary
+#: kube.appdata.xml.in:7
+msgid "E-mail client"
+msgstr "E-posta istemcisi"
+
+#. (itstool) path: description/p
+#: kube.appdata.xml.in:9
+msgid ""
+"Kube is a modern communication and collaboration client built with QtQuick "
+"on top of a high performance, low resource usage core. It provides online "
+"and offline access to all your mail, contacts, calendars, notes, todo's and "
+"more. With a strong focus on usability, the team works with designers and UX "
+"experts from the ground up, to build a product that is not only visually "
+"appealing but also a joy to use."
+msgstr ""
+"Kube, yüksek başarım, düşük kaynak kullanımı çekirdeği üzerine QtQuick ile "
+"oluşturulmuş çağdaş bir iletişim ve işbirliği istemcisidir. Tüm "
+"postalarınıza, kişilerinize, takvimlerinize, notlarınıza, yapılacaklara ve "
+"daha fazlasına çevrimiçi ve çevrimdışı erişim sağlar. Kullanılabilirliğe "
+"güçlü bir şekilde odaklanan takım, yalnızca görsel olarak çekici değil, aynı "
+"zamanda kullanımı keyifli bir ürün oluşturmak için tasarımcılar ve kullanım "
+"deneyimi uzmanlarıyla sıfırdan çalışır."
+
+#. (itstool) path: description/p
+#: kube.appdata.xml.in:10
+msgid ""
+"Communication and collaboration within large groups and spread over several "
+"time zones is complex and something of the norm in modern projects and the "
+"existing solutions available are not up to that challenge. Kube is a way to "
+"simplify and make communication elegant again by focusing on the key needs "
+"of users instead of filling it with any feature that comes to mind. Our "
+"strict focus on what is actually needed instead of what is wanted brings a "
+"new way of collaboration between group members and a simpler way of handling "
+"communication."
+msgstr ""
+"Büyük gruplar içinde ve birkaç zaman dilimine yayılmış olan iletişim ve "
+"işbirliği karmaşıktır ve çağdaş projelerde norm olan bir şeydir ve mevcut "
+"çözümler bu zorluğu kaldıramaz. Kube, akla gelen herhangi bir özellik ile "
+"doldurmak yerine, kullanıcıların temel gereksinimlerine odaklanarak "
+"iletişimi yalınlaştırmanın ve yeniden zarif hale getirmenin bir yoludur. "
+"İstenen şey yerine gerçekte neye gereksinim duyulduğuna sıkı bir şekilde "
+"odaklanmamız, grup üyeleri arasında yeni bir işbirliği yolu ve iletişimi ele "
+"almanın daha basit bir yolunu getirir."

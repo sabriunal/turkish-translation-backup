@@ -1,0 +1,137 @@
+# Ongun Kanat <ongun.kanat@gmail.com>, 2014.
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2017.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-07-27 01:01+0000\n"
+"PO-Revision-Date: 2022-07-27 12:39+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.json
+msgctxt "Name"
+msgid "Screen brightness"
+msgstr "Ekran parlaklığı"
+
+#: daemon/actions/bundled/powerdevildimdisplayaction.json
+msgctxt "Name"
+msgid "Dim screen"
+msgstr "Ekranı karart"
+
+#: daemon/actions/bundled/powerdevildpmsaction.json
+msgctxt "Name"
+msgid "Screen Energy Saving"
+msgstr "Ekran Enerji Tasarrufu"
+
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.json
+msgctxt "Name"
+msgid "Button events handling"
+msgstr "Düğme işlevleri"
+
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.json
+msgctxt "Name"
+msgid "Keyboard backlight"
+msgstr "Klavye arka ışığı"
+
+#: daemon/actions/bundled/powerdevilpowerprofileaction.json
+msgctxt "Name"
+msgid "Power management profile"
+msgstr "Güç yönetimi profili"
+
+#: daemon/actions/bundled/powerdevilrunscriptaction.json
+msgctxt "Name"
+msgid "Run script"
+msgstr "Betik çalıştır"
+
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.json
+msgctxt "Name"
+msgid "Suspend session"
+msgstr "Oturumu askıya al"
+
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.json
+msgctxt "Name"
+msgid "Wireless"
+msgstr "Kablosuz"
+
+#: kcmodule/activities/kcm_powerdevilactivitiesconfig.json
+msgctxt "Name"
+msgid "Activity Power Settings"
+msgstr "Etkinlik Güç Ayarları"
+
+#: kcmodule/global/kcm_powerdevilglobalconfig.json
+msgctxt "Name"
+msgid "Advanced Power Settings"
+msgstr "Gelişmiş Güç Ayarları"
+
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr "Güç Tasarrufu"
+
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.json
+msgctxt "Description"
+msgid "Basic Controls for brightness"
+msgstr "Parlaklık için temel denetimler"
+
+#: daemon/actions/bundled/powerdevildimdisplayaction.json
+msgctxt "Description"
+msgid "Dims gradually the display on a time basis"
+msgstr "Zamana bağlı olarak ekranı yavaşça karartır"
+
+#: daemon/actions/bundled/powerdevildpmsaction.json
+msgctxt "Description"
+msgid "Controls DPMS settings"
+msgstr "DPMS (Görüntü Güç Yönetimi Ayarları) ayarlarını denetler"
+
+#: daemon/actions/bundled/powerdevilhandlebuttoneventsaction.json
+msgctxt "Description"
+msgid "Performs an action whenever a button is pressed"
+msgstr "Bir düğmeye basıldığında bir işlem gerçekleştirir"
+
+#: daemon/actions/bundled/powerdevilkeyboardbrightnesscontrolaction.json
+msgctxt "Description"
+msgid "Basic Controls for the keyboard backlight brightness"
+msgstr "Klavye arka ışığı parlaklığı için temel denetimler"
+
+#: daemon/actions/bundled/powerdevilpowerprofileaction.json
+msgctxt "Description"
+msgid "Apply a power management profile"
+msgstr "Bir güç yönetimi profili uygula"
+
+#: daemon/actions/bundled/powerdevilrunscriptaction.json
+msgctxt "Description"
+msgid "Runs a custom script"
+msgstr "Özel bir betik çalıştırır"
+
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.json
+msgctxt "Description"
+msgid "Suspends the session"
+msgstr "Geçerli oturumu askıya alır"
+
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.json
+msgctxt "Description"
+msgid "Turns off signal-transmitting devices"
+msgstr "Sinyal ileten aygıtları kapatır"
+
+#: kcmodule/activities/kcm_powerdevilactivitiesconfig.json
+msgctxt "Description"
+msgid "Per-Activity Power Management"
+msgstr "Etkinlik Başı Güç Yönetimi"
+
+#: kcmodule/global/kcm_powerdevilglobalconfig.json
+msgctxt "Description"
+msgid "Advanced Power Management Settings"
+msgstr "Gelişmiş Güç Yönetimi Ayarları"
+
+#: kcmodule/profiles/kcm_powerdevilprofilesconfig.json
+msgctxt "Description"
+msgid "Energy Saving"
+msgstr "Güç Tasarrufu"

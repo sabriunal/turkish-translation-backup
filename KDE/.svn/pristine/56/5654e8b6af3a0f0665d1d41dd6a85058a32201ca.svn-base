@@ -1,0 +1,35 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-06 06:51+0200\n"
+"PO-Revision-Date: 2022-07-23 12:24+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.rust_qt_binding_generator.appdata.xml:6
+msgid "Rust Qt Binding Generator"
+msgstr "Rust Qt Bağıntı Oluşturucu"
+
+#. (itstool) path: component/summary
+#: org.kde.rust_qt_binding_generator.appdata.xml:7
+msgid "Generate bindings to use Rust code in Qt and QML"
+msgstr "Qt ve QML'de Rust kodu kullanmak için bağıntılar oluşturun"
+
+#. (itstool) path: description/p
+#: org.kde.rust_qt_binding_generator.appdata.xml:9
+msgid ""
+"Rust Qt Binding Generator is command-line program for using Rust code in Qt "
+"programs. It generates QObject types that give access to Rust code. The "
+"implementation of the QObject is written in a Rust trait."
+msgstr ""
+"Rust Qt Bağıntı Oluşturucu, Qt programlarında Rust kodu kullanmak için bir "
+"komut satırı programıdır. Rust koduna erişim sağlayan QObject türleri "
+"oluşturur. QObject'in uygulanması bir Rust niteliğinde yazılmıştır."

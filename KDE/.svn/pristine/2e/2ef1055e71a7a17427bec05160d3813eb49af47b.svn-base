@@ -1,0 +1,36 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-17 00:59+0000\n"
+"PO-Revision-Date: 2022-11-17 18:34+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#: src/pimcommontextgrammarcheck/plugins/grammalecte/plugin/kmail_grammalecteplugin.json
+msgctxt "Name"
+msgid "French Grammar Checker"
+msgstr "Fransızca Dilbilgisi Denetleyicisi"
+
+#: src/pimcommontextgrammarcheck/plugins/languagetool/plugin/kmail_languagetoolplugin.json
+msgctxt "Name"
+msgid "Grammar Checker (LanguageTool)"
+msgstr "Dilbilgisi Denetleyici (LanguageTool)"
+
+#: src/pimcommontextgrammarcheck/plugins/grammalecte/plugin/kmail_grammalecteplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check grammar in french only."
+msgstr ""
+"Bu eklenti, yalnızca Fransızca için dilbilgisi denetlemenize izin verir."
+
+#: src/pimcommontextgrammarcheck/plugins/languagetool/plugin/kmail_languagetoolplugin.json
+msgctxt "Description"
+msgid "This plugin allows you to check grammar using LanguageTool."
+msgstr "Bu sayfa, LanguageTool kullanarak dilbilgisi denetlemenize izin verir."

@@ -1,0 +1,938 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2017.
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-12 01:05+0000\n"
+"PO-Revision-Date: 2023-01-13 00:18+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: src/backends/x11/windowed/x11.json
+msgctxt "Name"
+msgid "x11"
+msgstr "x11"
+
+#: src/effects/backgroundcontrast/metadata.json
+msgctxt "Name"
+msgid "Background Contrast"
+msgstr "Arka Plan Karşıtlığı"
+
+#: src/effects/blendchanges/metadata.json
+msgctxt "Name"
+msgid "Blend Changes"
+msgstr "Değişiklikleri Harmanla"
+
+#: src/effects/blur/metadata.json
+msgctxt "Name"
+msgid "Blur"
+msgstr "Bulanıklaştır"
+
+#: src/effects/colorpicker/metadata.json
+msgctxt "Name"
+msgid "Color Picker"
+msgstr "Renk Seçici"
+
+#: src/effects/desktopgrid/metadata.json
+msgctxt "Name"
+msgid "Desktop Grid"
+msgstr "Masaüstü Izgarası"
+
+#: src/effects/dialogparent/package/metadata.json
+msgctxt "Name"
+msgid "Dialog Parent"
+msgstr "Üst İletişim Kutusu"
+
+#: src/effects/diminactive/metadata.json
+msgctxt "Name"
+msgid "Dim Inactive"
+msgstr "Etkin Olmayanları Karart"
+
+#: src/effects/dimscreen/package/metadata.json
+msgctxt "Name"
+msgid "Dim Screen for Administrator Mode"
+msgstr "Yönetici Kipi için Ekranı Karart"
+
+#: src/effects/eyeonscreen/package/metadata.json
+msgctxt "Name"
+msgid "Eye on Screen"
+msgstr "Göz Ekranda"
+
+#: src/effects/fadedesktop/package/metadata.json
+msgctxt "Name"
+msgid "Fade Desktop"
+msgstr "Masaüstünü Soldur"
+
+#: src/effects/fade/package/metadata.json
+msgctxt "Name"
+msgid "Fade"
+msgstr "Soldur"
+
+#: src/effects/fadingpopups/package/metadata.json
+msgctxt "Name"
+msgid "Fading Popups"
+msgstr "Solan Açılır Pencereler"
+
+#: src/effects/fallapart/metadata.json
+msgctxt "Name"
+msgid "Fall Apart"
+msgstr "Parçalara Ayır"
+
+#: src/effects/frozenapp/package/metadata.json
+msgctxt "Name"
+msgid "Desaturate Unresponsive Applications"
+msgstr "Yanıt Vermeyen Uygulamaları Solgunlaştır"
+
+#: src/effects/fullscreen/package/metadata.json
+msgctxt "Name"
+msgid "Full Screen"
+msgstr "Tam Ekran"
+
+#: src/effects/glide/metadata.json
+msgctxt "Name"
+msgid "Glide"
+msgstr "Süzül"
+
+#: src/effects/highlightwindow/metadata.json
+msgctxt "Name"
+msgid "Highlight Window"
+msgstr "Pencereyi Vurgula"
+
+#: src/effects/invert/metadata.json
+msgctxt "Name"
+msgid "Invert"
+msgstr "Ters Çevir"
+
+#: src/effects/kscreen/metadata.json
+msgctxt "Name"
+msgid "Kscreen"
+msgstr "Kscreen"
+
+#: src/effects/login/package/metadata.json
+msgctxt "Name"
+msgid "Login"
+msgstr "Giriş"
+
+#: src/effects/logout/package/metadata.json
+msgctxt "Name"
+msgid "Logout"
+msgstr "Çıkış"
+
+#: src/effects/magiclamp/metadata.json
+msgctxt "Name"
+msgid "Magic Lamp"
+msgstr "Sihirli Lamba"
+
+#: src/effects/magnifier/metadata.json
+msgctxt "Name"
+msgid "Magnifier"
+msgstr "Büyüteç"
+
+#: src/effects/maximize/package/metadata.json
+msgctxt "Name"
+msgid "Maximize"
+msgstr "Ekranı Kapla"
+
+#: src/effects/morphingpopups/package/metadata.json
+msgctxt "Name"
+msgid "Morphing Popups"
+msgstr "Dönüşen Açılır Pencereler"
+
+#: src/effects/mouseclick/metadata.json
+msgctxt "Name"
+msgid "Mouse Click Animation"
+msgstr "Fare Tıklama Canlandırması"
+
+#: src/effects/mousemark/metadata.json
+msgctxt "Name"
+msgid "Mouse Mark"
+msgstr "Fare İmi"
+
+#: src/effects/overview/metadata.json
+msgctxt "Name"
+msgid "Overview"
+msgstr "Genel Görünüm"
+
+#: src/effects/scale/package/metadata.json
+msgctxt "Name"
+msgid "Scale"
+msgstr "Ölçeklendir"
+
+#: src/effects/screenedge/metadata.json
+msgctxt "Name"
+msgid "Screen Edge"
+msgstr "Ekran Kenarı"
+
+#: src/effects/screenshot/metadata.json
+msgctxt "Name"
+msgid "Screenshot"
+msgstr "Ekran Görüntüsü"
+
+#: src/effects/screentransform/metadata.json
+msgctxt "Name"
+msgid "Transform"
+msgstr "Dönüştür"
+
+#: src/effects/sessionquit/package/metadata.json
+msgctxt "Name"
+msgid "Session Quit"
+msgstr "Oturum Çıkışı"
+
+#: src/effects/sheet/metadata.json
+msgctxt "Name"
+msgid "Sheet"
+msgstr "Sayfa"
+
+#: src/effects/showfps/metadata.json
+msgctxt "Name"
+msgid "Show FPS"
+msgstr "FPS'yi Göster"
+
+#: src/effects/showpaint/metadata.json
+msgctxt "Name"
+msgid "Show Paint"
+msgstr "Boyamayı Göster"
+
+#: src/effects/slideback/metadata.json
+msgctxt "Name"
+msgid "Slide Back"
+msgstr "Geri Kaydır"
+
+#: src/effects/slide/metadata.json
+msgctxt "Name"
+msgid "Slide"
+msgstr "Kaydır"
+
+#: src/effects/slidingpopups/metadata.json
+msgctxt "Name"
+msgid "Sliding Popups"
+msgstr "Kayan Açılır Pencereler"
+
+#: src/effects/snaphelper/metadata.json
+msgctxt "Name"
+msgid "Snap Helper"
+msgstr "Yapıştırma Yardımcısı"
+
+#: src/effects/squash/package/metadata.json
+msgctxt "Name"
+msgid "Squash"
+msgstr "Tıkıştır"
+
+#: src/effects/startupfeedback/metadata.json
+msgctxt "Name"
+msgid "Startup Feedback"
+msgstr "Başlangıç Geri Bildirimi"
+
+#: src/effects/thumbnailaside/metadata.json
+msgctxt "Name"
+msgid "Thumbnail Aside"
+msgstr "Küçük Görsel Kenarda"
+
+#: src/effects/tileseditor/metadata.json
+msgctxt "Name"
+msgid "Tiling Editor"
+msgstr "Döşeme Düzenleyici"
+
+#: src/effects/touchpoints/metadata.json
+msgctxt "Name"
+msgid "Touch Points"
+msgstr "Dokunma Noktaları"
+
+#: src/effects/trackmouse/metadata.json
+msgctxt "Name"
+msgid "Track Mouse"
+msgstr "Fareyi İzle"
+
+#: src/effects/translucency/package/metadata.json
+msgctxt "Name"
+msgid "Translucency"
+msgstr "Yarısaydamlık"
+
+#: src/effects/windowaperture/package/metadata.json
+msgctxt "Name"
+msgid "Window Aperture"
+msgstr "Pencere Açıklığı"
+
+#: src/effects/windowview/metadata.json
+msgctxt "Name"
+msgid "Present Windows"
+msgstr "Pencereleri Sun"
+
+#: src/effects/wobblywindows/metadata.json
+msgctxt "Name"
+msgid "Wobbly Windows"
+msgstr "Oynak Pencereler"
+
+#: src/effects/zoom/metadata.json
+msgctxt "Name"
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+#: src/kcms/compositing/kwincompositing.json
+msgctxt "Name"
+msgid "Compositor"
+msgstr "Bileşikleştirici"
+
+#: src/kcms/decoration/kcm_kwindecoration.json
+msgctxt "Name"
+msgid "Window Decorations"
+msgstr "Pencere Dekorasyonları"
+
+#: src/kcms/desktop/kcm_kwin_virtualdesktops.json
+msgctxt "Name"
+msgid "Virtual Desktops"
+msgstr "Sanal Masaüstleri"
+
+#: src/kcms/effects/kcm_kwin_effects.json
+msgctxt "Name"
+msgid "Desktop Effects"
+msgstr "Masaüstü Efektleri"
+
+#: src/kcms/options/kcm_kwinoptions.json
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr "Pencere Davranışı"
+
+#: src/kcms/rules/kcm_kwinrules.json
+msgctxt "Name"
+msgid "Window Rules"
+msgstr "Pencere Kuralları"
+
+#: src/kcms/screenedges/kcm_kwinscreenedges.json
+msgctxt "Name"
+msgid "Screen Edges"
+msgstr "Ekran Kenarları"
+
+#: src/kcms/screenedges/kcm_kwintouchscreen.json
+msgctxt "Name"
+msgid "Touchscreen Gestures"
+msgstr "Dokunmatik Ekran Hareketleri"
+
+#: src/kcms/scripts/kcm_kwin_scripts.json
+msgctxt "Name"
+msgid "KWin Scripts"
+msgstr "KWin Betikleri"
+
+#: src/kcms/tabbox/kcm_kwintabbox.json
+msgctxt "Name"
+msgid "Task Switcher"
+msgstr "Görev Değiştirici"
+
+#: src/kcms/virtualkeyboard/kcm_virtualkeyboard.json
+msgctxt "Name"
+msgid "Virtual Keyboard"
+msgstr "Sanal Klavye"
+
+#: src/kcms/xwayland/kcm_kwinxwayland.json
+msgctxt "Name"
+msgid "Legacy X11 App Support"
+msgstr "Eski X11 Uygulamaları Desteği"
+
+#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.json
+msgctxt "Name"
+msgid "Plastik"
+msgstr "Plastik"
+
+#: src/plugins/kpackage/aurorae/kwin-packagestructure-aurorae.json
+msgctxt "Name"
+msgid "KWin Aurorae"
+msgstr "Kwin Aurorae"
+
+#: src/plugins/kpackage/decoration/kwin-packagestructure-decoration.json
+msgctxt "Name"
+msgid "KWin Decoration"
+msgstr "KWin Dekorasyonu"
+
+#: src/plugins/kpackage/effect/kwin-packagestructure-effect.json
+msgctxt "Name"
+msgid "KWin Effect"
+msgstr "KWin Efekti"
+
+#: src/plugins/kpackage/scripts/kwin-packagestructure-scripts.json
+msgctxt "Name"
+msgid "KWin Script"
+msgstr "KWin Betiği"
+
+#: src/plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.json
+msgctxt "Name"
+msgid "KWin Window Switcher"
+msgstr "KWin Pencere Değiştirici"
+
+#: src/scripts/desktopchangeosd/metadata.json
+msgctxt "Name"
+msgid "Desktop Change OSD"
+msgstr "OSD Masaüstü Değişimi"
+
+#: src/scripts/minimizeall/metadata.json
+msgctxt "Name"
+msgid "MinimizeAll"
+msgstr "Tümünü Simge Durumuna Küçült"
+
+#: src/scripts/synchronizeskipswitcher/metadata.json
+msgctxt "Name"
+msgid "Synchronize Skip Switcher with Taskbar"
+msgstr "Değiştiricide Gösterilmeyenleri Çubukta da Gösterme"
+
+#: src/scripts/videowall/metadata.json
+msgctxt "Name"
+msgid "Video Wall"
+msgstr "Video Duvarı"
+
+#: src/backends/x11/windowed/x11.json
+msgctxt "Description"
+msgid "Render to a nested window on X11 windowing system."
+msgstr "X11 pencere sisteminde iç içe geçmiş bir pencereye sunun."
+
+#: src/effects/backgroundcontrast/metadata.json
+msgctxt "Description"
+msgid "Improve contrast and readability behind semi-transparent windows"
+msgstr ""
+"Yarısaydam pencerelerin ardında karşıtlığı ve okunabilirlilği iyileştir"
+
+#: src/effects/blendchanges/metadata.json
+msgctxt "Description"
+msgid "Animates system style changes"
+msgstr "Sistem biçemi değişikliklerini canlandırır"
+
+#: src/effects/blur/metadata.json
+msgctxt "Description"
+msgid "Blurs the background behind semi-transparent windows"
+msgstr "Yarısaydam pencerelerin ardını bulanıklaştır"
+
+#: src/effects/colorpicker/metadata.json
+msgctxt "Description"
+msgid "Supports picking a color"
+msgstr "Bir rent seçmeyi destekler"
+
+#: src/effects/desktopgrid/metadata.json
+msgctxt "Description"
+msgid "Zoom out so all desktops are displayed side-by-side in a grid"
+msgstr ""
+"Uzaklaştır, böylece tüm masaüstleri bir ızgarada yan yana görüntülenirler"
+
+#: src/effects/dialogparent/package/metadata.json
+msgctxt "Description"
+msgid "Darkens the parent window of the currently active dialog"
+msgstr "Geçerli etkin iletişim kutusunun üst penceresini karartır"
+
+#: src/effects/diminactive/metadata.json
+msgctxt "Description"
+msgid "Darken inactive windows"
+msgstr "Etkin olmayan pencereleri koyulaştır"
+
+#: src/effects/dimscreen/package/metadata.json
+msgctxt "Description"
+msgid "Darkens the entire screen when requesting root privileges"
+msgstr "Yönetici ayrıcalıkları isterken tüm ekranı karartır"
+
+#: src/effects/eyeonscreen/package/metadata.json
+msgctxt "Description"
+msgid "Suck windows into the desktop"
+msgstr "Pencereleri masaüstüne çek"
+
+#: src/effects/fadedesktop/package/metadata.json
+msgctxt "Description"
+msgid "Fade between virtual desktops when switching between them"
+msgstr "Sanal masaüstleri arasında pürüzsüzce geçiş yap"
+
+#: src/effects/fade/package/metadata.json
+msgctxt "Description"
+msgid "Make windows smoothly fade in and out when they are shown or hidden"
+msgstr ""
+"Pencereler gösterilirken veya gizlenirken pürüzsüzce geçiş yapmalarını sağlar"
+
+#: src/effects/fadingpopups/package/metadata.json
+msgctxt "Description"
+msgid "Make popups smoothly fade in and out when they are shown or hidden"
+msgstr ""
+"Açılır pencereler gösterilirken veya gizlenirken pürüzsüzce geçiş "
+"yapmalarını sağlar"
+
+#: src/effects/fallapart/metadata.json
+msgctxt "Description"
+msgid "Closed windows fall into pieces"
+msgstr "Kapanan pencereler parçalara ayrılırlar"
+
+#: src/effects/frozenapp/package/metadata.json
+msgctxt "Description"
+msgid "Desaturate windows of unresponsive (frozen) applications"
+msgstr "Yanıt vermeyen (donmuş) uygulamaların pencerelerini soldur"
+
+#: src/effects/fullscreen/package/metadata.json
+msgctxt "Description"
+msgid "Animation for a window going to and leaving full screen mode"
+msgstr "Tam ekran kipine giren ve çıkan pencere için canlandırma"
+
+#: src/effects/glide/metadata.json
+msgctxt "Description"
+msgid "Glide windows as they appear or disappear"
+msgstr "Pencereleri görünürken veya kaybolurken süzülmelerini sağla"
+
+#: src/effects/highlightwindow/metadata.json
+msgctxt "Description"
+msgid "Highlight the appropriate window when hovering over taskbar entries"
+msgstr "Görev çubuğu girdilere arasında gezinirken uygun pencereleri vurgula"
+
+#: src/effects/invert/metadata.json
+msgctxt "Description"
+msgid "Inverts the color of the desktop and windows"
+msgstr "Masaüstü ve pencerelerin renklerini ters çevirir"
+
+#: src/effects/kscreen/metadata.json
+msgctxt "Description"
+msgid "Helper Effect for KScreen"
+msgstr "KScreen için Yardımcı Etkisi"
+
+#: src/effects/login/package/metadata.json
+msgctxt "Description"
+msgid "Smoothly fade to the desktop when logging in"
+msgstr "Giriş yaparken masaüstüne pürüzsüzce geçiş yap"
+
+#: src/effects/logout/package/metadata.json
+msgctxt "Description"
+msgid "Smoothly fade to the logout screen"
+msgstr "Oturumdan çıkarken pürüzsüzce çık"
+
+#: src/effects/magiclamp/metadata.json
+msgctxt "Description"
+msgid "Simulate a magic lamp when minimizing windows"
+msgstr "Pencereleri küçültürken sihirli bir lambaya öykün"
+
+#: src/effects/magnifier/metadata.json
+msgctxt "Description"
+msgid "Magnify the section of the screen that is near the mouse cursor"
+msgstr "Fare imlecinin yakınındaki ekran bölümünü büyüt"
+
+#: src/effects/maximize/package/metadata.json
+msgctxt "Description"
+msgid "Animation for a window going to maximize/restore from maximize"
+msgstr "Ekranı kaplayan veya geri dönen bir pencere için canlandırma"
+
+#: src/effects/morphingpopups/package/metadata.json
+msgctxt "Description"
+msgid ""
+"Cross fade animation when Tooltips or Notifications change their geometry"
+msgstr ""
+"Araç ipuçları veya bildirimler boyutları değiştiğinde gösterilecek çapraz "
+"geçiş canlandırması"
+
+#: src/effects/mouseclick/metadata.json
+msgctxt "Description"
+msgid ""
+"Creates an animation whenever a mouse button is clicked. This is useful for "
+"screenrecordings/presentations"
+msgstr ""
+"Ne zaman bir fare düğmesi tıklansa bir canlandırma oluşturur. Bu ekran kaydı "
+"ve sunumlar için yararlıdır."
+
+#: src/effects/mousemark/metadata.json
+msgctxt "Description"
+msgid "Allows you to draw lines on the desktop"
+msgstr "Masaüstünde çizgiler çizmenize izin verir."
+
+#: src/effects/overview/metadata.json
+msgctxt "Description"
+msgid "Allows you to overview virtual desktops and windows"
+msgstr "Sanal masaüstlerini ve pencerelerin genel bir görünümünü sağlar"
+
+#: src/effects/scale/package/metadata.json
+msgctxt "Description"
+msgid "Make windows smoothly scale in and out when they are shown or hidden"
+msgstr ""
+"Pencereler gösterilirken veya gizlenirken pürüzsüzce ölçeklendirilmelerini "
+"sağlar"
+
+#: src/effects/screenedge/metadata.json
+msgctxt "Description"
+msgid "Highlights a screen edge when approaching"
+msgstr "Yaklaşırken bir ekran kenarını vurgular"
+
+#: src/effects/screenshot/metadata.json
+msgctxt "Description"
+msgid "Helper effect for screenshot tools"
+msgstr "Ekran görüntüsü araçları için yardımcı etkisi"
+
+#: src/effects/screentransform/metadata.json
+msgctxt "Description"
+msgid "Animates display transformations"
+msgstr "Görüntü dönüşümlerini canlandırır"
+
+#: src/effects/sessionquit/package/metadata.json
+msgctxt "Description"
+msgid "Keep the desktop background alive during logout until the end"
+msgstr "Çıkış sırasında en son aşamaya dek masaüstü arka planını göster"
+
+#: src/effects/sheet/metadata.json
+msgctxt "Description"
+msgid ""
+"Make modal dialogs smoothly fly in and out when they are shown or hidden"
+msgstr ""
+"Kipsel iletişim kutuları gösterilirken veya gizlenirken pürüzsüzce "
+"uçmalarını sağlar"
+
+#: src/effects/showfps/metadata.json
+msgctxt "Description"
+msgid "Display KWin's performance in the corner of the screen"
+msgstr "KWin başarımını pencerenin bir köşesinde görüntüle"
+
+#: src/effects/showpaint/metadata.json
+msgctxt "Description"
+msgid "Highlight areas of the desktop that have been recently updated"
+msgstr "Masaüstünün yeni güncellenen alanlarını vurgula"
+
+#: src/effects/slideback/metadata.json
+msgctxt "Description"
+msgid "Slide back windows when another window is raised"
+msgstr "Başka bir pencere yükseltildiğinde pencereleri geri kaydır"
+
+#: src/effects/slide/metadata.json
+msgctxt "Description"
+msgid "Slide desktops when switching virtual desktops"
+msgstr "Sanal masaüstleri değiştirilirken masaüstlerini kaydır"
+
+#: src/effects/slidingpopups/metadata.json
+msgctxt "Description"
+msgid "Sliding animation for Plasma popups"
+msgstr "Plasma açılır pencereleri için kayma canlandırması"
+
+#: src/effects/snaphelper/metadata.json
+msgctxt "Description"
+msgid "Help you locate the center of the screen when moving a window"
+msgstr "Bir pencereyi taşırken ekranın ortasını bulmanıza yardımcı olur"
+
+#: src/effects/squash/package/metadata.json
+msgctxt "Description"
+msgid "Squash windows when they are minimized"
+msgstr "Pencereler simge durumuna küçültüldüğünde onları tıkıştır"
+
+#: src/effects/startupfeedback/metadata.json
+msgctxt "Description"
+msgid "Helper effect for startup feedback"
+msgstr "Başlangıç geri bildirimi için yardımcı efekti"
+
+#: src/effects/thumbnailaside/metadata.json
+msgctxt "Description"
+msgid "Display window thumbnails on the edge of the screen"
+msgstr "Pencere küçük görsellerini ekranın kenarında görüntüle"
+
+#: src/effects/tileseditor/metadata.json
+msgctxt "Description"
+msgid "Editor for the tiling areas"
+msgstr "Döşeme alanları için düzenleyici"
+
+#: src/effects/touchpoints/metadata.json
+msgctxt "Description"
+msgid "Visualize touch points"
+msgstr "Dokunma noktalarını görselleştir"
+
+#: src/effects/trackmouse/metadata.json
+msgctxt "Description"
+msgid "Display a mouse cursor locating effect when activated"
+msgstr "Etkinleştirildiğinde bir fare imleci bulma efekti görüntüle"
+
+#: src/effects/translucency/package/metadata.json
+msgctxt "Description"
+msgid "Make windows translucent under different conditions"
+msgstr "Değişik koşullar altında pencereleri yarısaydam yap"
+
+#: src/effects/windowaperture/package/metadata.json
+msgctxt "Description"
+msgid "Move windows into screen corners"
+msgstr "Pencereleri ekran kenarlarına taşı"
+
+#: src/effects/windowview/metadata.json
+msgctxt "Description"
+msgid "Zoom out until all opened windows can be displayed side-by-side"
+msgstr "Tüm açık pencereler yan yana görüntülenebilene dek uzaklaştır"
+
+#: src/effects/wobblywindows/metadata.json
+msgctxt "Description"
+msgid "Deform windows while they are moving"
+msgstr "Pencereler taşınırken onları deforme et"
+
+#: src/effects/zoom/metadata.json
+msgctxt "Description"
+msgid "Magnify the entire desktop"
+msgstr "Tüm masaüstünü büyüt"
+
+#: src/kcms/compositing/kwincompositing.json
+msgctxt "Description"
+msgid "Compositor Settings for Desktop Effects"
+msgstr "Masaüstü Efektleri için Bileşikleştirici Ayarları"
+
+#: src/kcms/decoration/kcm_kwindecoration.json
+msgctxt "Description"
+msgid "Configure window titlebars and borders"
+msgstr "Masaüstü pencere başlık çubukları ve kenarlıklarını yapılandır"
+
+#: src/kcms/desktop/kcm_kwin_virtualdesktops.json
+msgctxt "Description"
+msgid "Configure navigation, number and layout of virtual desktops"
+msgstr "Dolaşımı, sanal masaüstlerinin sayısını ve yerleşimini yapılandır"
+
+#: src/kcms/effects/kcm_kwin_effects.json
+msgctxt "Description"
+msgid "Configure compositor settings for desktop effects"
+msgstr "Masaüstü efektleri için bileşikleştirici ayarlarını yapılandır"
+
+#: src/kcms/options/kcm_kwinoptions.json
+msgctxt "Description"
+msgid "Configure window actions and behavior"
+msgstr "Pencere eylemlerini ve davranışını yapılandır"
+
+#: src/kcms/rules/kcm_kwinrules.json
+msgctxt "Description"
+msgid "Individual Window Behavior"
+msgstr "Bireysel Pencere Davranışı"
+
+#: src/kcms/screenedges/kcm_kwinscreenedges.json
+msgctxt "Description"
+msgid "Configure active screen corners and edges"
+msgstr "Etkin ekran köşeleri ve kenarlarını yapılandır"
+
+#: src/kcms/screenedges/kcm_kwintouchscreen.json
+msgctxt "Description"
+msgid "Configure touch screen swipe gestures"
+msgstr "Dokunmatik ekran süpürme hareketlerini yapılandır"
+
+#: src/kcms/scripts/kcm_kwin_scripts.json
+msgctxt "Description"
+msgid "Manage KWin scripts"
+msgstr "KWin Betiklerini Yönet"
+
+#: src/kcms/tabbox/kcm_kwintabbox.json
+msgctxt "Description"
+msgid "Navigation Through Windows"
+msgstr "Pencereler Arası Dolaşım"
+
+#: src/kcms/virtualkeyboard/kcm_virtualkeyboard.json
+msgctxt "Description"
+msgid "Select which virtual keyboard to use"
+msgstr "Hangi sanal klavyenin kullanılacağını seçin"
+
+#: src/kcms/xwayland/kcm_kwinxwayland.json
+msgctxt "Description"
+msgid "Select which keys will be globally available to legacy X11 apps"
+msgstr ""
+"Eski X11 uygulamalarına hangi düğmelerin global olarak kullanılabilir "
+"olacağını seç"
+
+#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.json
+msgctxt "Description"
+msgid "The classic theme known from KDE 3"
+msgstr "KDE 3 zamanından klasik tema"
+
+#: src/scripts/desktopchangeosd/metadata.json
+msgctxt "Description"
+msgid "An on screen display indicating the desktop change"
+msgstr "Masaüstü değişikliğini belirten bir ekran üzeri görünümü"
+
+#: src/scripts/minimizeall/metadata.json
+msgctxt "Description"
+msgid "Adds a shortcut to minimize and restore all windows"
+msgstr ""
+"Tüm pencereleri simge durumuna küçültmek veya ekranı kaplamaları için bir "
+"kısayol ekler"
+
+#: src/scripts/synchronizeskipswitcher/metadata.json
+msgctxt "Description"
+msgid ""
+"Hides all windows marked as Skip Taskbar to be also excluded from window "
+"switchers (e.g. Alt+Tab)"
+msgstr ""
+"Görev Çubuğunu Atla olarak imlenen tüm pencerelerin, değiştiricilerden de "
+"(örn. Alt+Tab) saklanmasını sağlar"
+
+#: src/scripts/videowall/metadata.json
+msgctxt "Description"
+msgid ""
+"Spans fullscreen video player over all attached screens to create a Video "
+"Wall"
+msgstr ""
+"Tam ekran video oynatıcılarını tüm bağlı ekranlara genişleterek bir tür "
+"Video Duvarı oluşturur"
+
+#: src/effects/dialogparent/package/metadata.json
+msgctxt "Authors Name"
+msgid "Rivo Laks, Martin Gräßlin"
+msgstr "Rivo Laks, Martin Gräßlin"
+
+#: src/effects/dimscreen/package/metadata.json
+msgctxt "Authors Name"
+msgid "Martin Flöser, Vlad Zahorodnii"
+msgstr "Martin Flöser, Vlad Zahorodnii"
+
+#: src/effects/eyeonscreen/package/metadata.json
+#: src/effects/windowaperture/package/metadata.json
+#: src/scripts/minimizeall/metadata.json
+msgctxt "Authors Name"
+msgid "Thomas Lübking"
+msgstr "Thomas Lübking"
+
+#: src/effects/fadedesktop/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lucas Murray, Martin Gräßlin"
+msgstr "Lucas Murray, Martin Gräßlin"
+
+#: src/effects/fade/package/metadata.json
+msgctxt "Authors Name"
+msgid "Philip Falkner, Martin Gräßlin"
+msgstr "Philip Falkner, Martin Gräßlin"
+
+#: src/effects/fadingpopups/package/metadata.json
+#: src/effects/scale/package/metadata.json
+#: src/plugins/kpackage/effect/kwin-packagestructure-effect.json
+msgctxt "Authors Name"
+msgid "Vlad Zahorodnii"
+msgstr "Vlad Zahorodnii"
+
+#: src/effects/frozenapp/package/metadata.json
+msgctxt "Authors Name"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: src/effects/fullscreen/package/metadata.json
+#: src/effects/maximize/package/metadata.json
+#: src/plugins/kdecorations/aurorae/themes/plastik/package/metadata.json
+#: src/scripts/desktopchangeosd/metadata.json
+#: src/scripts/synchronizeskipswitcher/metadata.json
+#: src/scripts/videowall/metadata.json
+msgctxt "Authors Name"
+msgid "Martin Gräßlin"
+msgstr "Martin Gräßlin"
+
+#: src/effects/login/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin"
+msgstr "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin"
+
+#: src/effects/logout/package/metadata.json
+msgctxt "Authors Name"
+msgid "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin, Marco Martin"
+msgstr "Lubos Lunak, Kai Uwe Broulik, Martin Gräßlin, Marco Martin"
+
+#: src/effects/morphingpopups/package/metadata.json
+#: src/plugins/kpackage/scripts/kwin-packagestructure-scripts.json
+#: src/plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.json
+msgctxt "Authors Name"
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: src/effects/outputlocator/metadata.json
+msgctxt "Authors Name"
+msgid "David Redondo"
+msgstr "David Redondo"
+
+#: src/effects/sessionquit/package/metadata.json
+msgctxt "Authors Name"
+msgid "David Edmundson"
+msgstr "David Edmundson"
+
+#: src/effects/squash/package/metadata.json
+msgctxt "Authors Name"
+msgid "Rivo Laks, Vlad Zahorodnii"
+msgstr "Rivo Laks, Vlad Zahorodnii"
+
+#: src/effects/translucency/package/metadata.json
+msgctxt "Authors Name"
+msgid "Luboš Luňák, Martin Gräßlin"
+msgstr "Luboš Luňák, Martin Gräßlin"
+
+#: src/plugins/kpackage/aurorae/kwin-packagestructure-aurorae.json
+#: src/plugins/kpackage/decoration/kwin-packagestructure-decoration.json
+msgctxt "Authors Name"
+msgid "Demitrius Belai"
+msgstr "Demitrius Belai"
+
+#~ msgctxt "Name"
+#~ msgid "Touch Screen"
+#~ msgstr "Dokunmatik Ekran"
+
+#~ msgctxt "Name"
+#~ msgid "Looking Glass"
+#~ msgstr "Ayna"
+
+#~ msgctxt "Description"
+#~ msgid "A screen magnifier that looks like a fisheye lens"
+#~ msgstr "Bir balık gözlü lense benzeyen bir ekran büyüteci"
+
+#~ msgctxt "Name"
+#~ msgid "drm"
+#~ msgstr "drm"
+
+#~ msgctxt "Name"
+#~ msgid "virtual"
+#~ msgstr "sanal"
+
+#~ msgctxt "Name"
+#~ msgid "wayland"
+#~ msgstr "wayland"
+
+#~ msgctxt "Name"
+#~ msgid "x11-standalone"
+#~ msgstr "x11-standalone"
+
+#~ msgctxt "Description"
+#~ msgid "Render through drm node."
+#~ msgstr "Drm düğümü aracılığıyla gerçekle."
+
+#~ msgctxt "Description"
+#~ msgid "Render to a virtual framebuffer."
+#~ msgstr "Sanal bir çerçeve tamponuna gerçekle."
+
+#~ msgctxt "Description"
+#~ msgid "Render to a nested window on running Wayland compositor."
+#~ msgstr ""
+#~ "Wayland bileşikleştiricisi çalıştıran iç içe geçmiş bir pencerede "
+#~ "gerçekle."
+
+#~ msgctxt "Description"
+#~ msgid "Platform plugin for standalone x11 in kwin_x11."
+#~ msgstr "Kwin_x11'de bağımsız x11 için platform eklentisi."
+
+#~ msgctxt "Description"
+#~ msgid "Helper effect for the task manager"
+#~ msgstr "Görev yöneticisi için yardımcı etkisi"
+
+#~ msgctxt "Name"
+#~ msgid "framebuffer"
+#~ msgstr "çerçeve tampon"
+
+#~ msgctxt "Description"
+#~ msgid "Render to framebuffer."
+#~ msgstr "Çerçeve tamponuna gerçekle."
+
+#~ msgctxt "Name"
+#~ msgid "SceneOpenGL"
+#~ msgstr "SceneOpenGL"
+
+#~ msgctxt "Name"
+#~ msgid "SceneQPainter"
+#~ msgstr "SceneQPainter"
+
+#~ msgctxt "Description"
+#~ msgid "KWin Compositor plugin rendering through OpenGL"
+#~ msgstr "OpenGL üzerinden gerçekleme yapan KWin Dizgici eklentisi"
+
+#~ msgctxt "Description"
+#~ msgid "KWin Compositor plugin rendering through QPainter"
+#~ msgstr "QPainter üzerinden KWin Dizgici eklentisi oluşturma"
+
+#~ msgctxt "Name"
+#~ msgid "SceneXRender"
+#~ msgstr "SceneXRender"
+
+#~ msgctxt "Description"
+#~ msgid "KWin Compositor plugin rendering through XRender"
+#~ msgstr "XRender üzerinden KWin Dizgici eklentisi oluşturma"
+
+#~ msgctxt "Description"
+#~ msgid "Render through hwcomposer through libhybris."
+#~ msgstr "libhybris aracılığıyla hwcomposer içinden gerçekle."

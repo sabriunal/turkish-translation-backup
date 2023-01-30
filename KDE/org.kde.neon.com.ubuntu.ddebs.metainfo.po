@@ -1,0 +1,24 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-02 02:28+0100\n"
+"PO-Revision-Date: 2022-04-16 17:47+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.neon.com.ubuntu.ddebs.metainfo.xml:9
+msgid "Ubuntu Debug Symbols"
+msgstr "Ubuntu Hata Ayıklama Sembolleri"
+
+#. (itstool) path: component/summary
+#: org.kde.neon.com.ubuntu.ddebs.metainfo.xml:10
+msgid "Debug Symbols for Ubuntu"
+msgstr "Ubuntu için Hata Ayıklama Sembolleri"

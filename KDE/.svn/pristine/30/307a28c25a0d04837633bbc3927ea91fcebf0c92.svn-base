@@ -1,0 +1,35 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-04 00:53+0000\n"
+"PO-Revision-Date: 2022-12-01 16:48+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#: src/app/org.kde.kodaskanna.desktop:7
+msgctxt "Name"
+msgid "Kodaskanna"
+msgstr "Kodaskanna"
+
+#: src/app/org.kde.kodaskanna.desktop:30
+msgctxt "GenericName"
+msgid "A multi-format 1D/2D code scanner"
+msgstr "Çok Biçimli Bir 1B/2B Kod Tarayıcı"
+
+#: src/app/org.kde.kodaskanna.desktop:51
+msgctxt "Keywords"
+msgid "QR;Barcode;Code;Scanner;Decoder;Reader"
+msgstr "QR;kare kod;barkod;tarayıcı;çözücü;okuyucu"
+
+#: src/konqpopupmenu/kodaskanna_scan_image.desktop:11
+msgctxt "Name"
+msgid "Scan data code"
+msgstr "Veri kodu tarayın"

@@ -1,0 +1,85 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2017.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-07-27 01:01+0000\n"
+"PO-Revision-Date: 2022-07-18 16:22+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#: src/kcm_sddm.json
+msgctxt "Name"
+msgid "Login Screen (SDDM)"
+msgstr "Oturum Ekranı (SDDM)"
+
+#: src/kcm_sddm.json
+msgctxt "Description"
+msgid "Configure Login Manager"
+msgstr "Giriş Yöneticisini Yapılandır"
+
+#~ msgctxt "Name"
+#~ msgid "SDDM"
+#~ msgstr "SDDM"
+
+#~ msgctxt "Name"
+#~ msgid "Save Settings"
+#~ msgstr "Ayarları Kaydet"
+
+#~ msgctxt "Description"
+#~ msgid "Save Settings in SDDM"
+#~ msgstr "SDDM içerisinde Ayarları Kaydet"
+
+#~ msgctxt "Name"
+#~ msgid "Install an SDDM theme"
+#~ msgstr "Bir SDDM teması yükle"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Extracts a zip file containing an SDDM theme to the SDDM theme location"
+#~ msgstr "SDDM temasını içeren bir zip dosyasını SDDM tema konumuna ayıklar."
+
+#~ msgctxt "Name"
+#~ msgid "Uninstall an SDDM theme"
+#~ msgstr "Bir SDDM temasını kaldır"
+
+#~ msgctxt "Description"
+#~ msgid "Removes a previously installed SDDM theme"
+#~ msgstr "Daha önce yüklenmiş bir SDDM temasını kaldırır"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Save Settings"
+#~ msgctxt "Name"
+#~ msgid "Synchronize Settings"
+#~ msgstr "Ayarları Kaydet"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Save Settings"
+#~ msgctxt "Name"
+#~ msgid "Reset Settings"
+#~ msgstr "Ayarları Kaydet"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Login Screen (SDDM)"
+#~ msgctxt "Name"
+#~ msgid "Login Screen"
+#~ msgstr "Oturum Ekranı (SDDM)"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "sddm,display manager,theme"
+#~ msgstr "sddm, görüntü yöneticisi, tema"
+
+#~ msgctxt "Comment"
+#~ msgid "Select Login Theme"
+#~ msgstr "Oturum Açma Temasını Seçin"

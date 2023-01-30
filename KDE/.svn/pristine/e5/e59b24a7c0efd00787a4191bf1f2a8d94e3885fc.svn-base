@@ -1,0 +1,97 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-25 03:10+0200\n"
+"PO-Revision-Date: 2022-07-21 12:38+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#. (itstool) path: component/name
+#: org.kde.kopete.appdata.xml:6
+msgid "Kopete"
+msgstr "Kopete"
+
+#. (itstool) path: component/summary
+#: org.kde.kopete.appdata.xml:7
+msgid "Instant Messenger"
+msgstr "Anlık İletileşme"
+
+#. (itstool) path: description/p
+#: org.kde.kopete.appdata.xml:9
+msgid ""
+"Kopete is an instant messenger supporting AIM, ICQ, Jabber, Gadu-Gadu, "
+"Novell GroupWise Messenger, and more. It is designed to be a flexible and "
+"extensible multi-protocol system suitable for personal and enterprise use."
+msgstr ""
+"Kopete; AIM, ICQ, Jabber, Gadu-Gadu, Novell GroupWise Messenger ve çok daha "
+"fazla protokolü destekleyen bir anlık iletileşme uygulamasıdır. Kişisel ve "
+"kurumsal kullanıma uygun olarak esnek ve başka protokollerle "
+"genişletilebilir olarak tasarlanmıştır."
+
+#. (itstool) path: description/p
+#: org.kde.kopete.appdata.xml:12
+msgid ""
+"The goal of Kopete is to provide users with a single easy-to-use way to "
+"access all of their instant messaging systems. The interface puts people "
+"first, and is integrated with the system address book to let you access your "
+"contacts from other KDE applications."
+msgstr ""
+"Kopete'nin ereği, kullanıcılara tüm anlık iletileşme gereksinimleri için tek "
+"ve kolay bir çözüm sunmaktır. Arayüzü kullanıcı odaklıdır ve kişilerinize "
+"diğer KDE uygulamalarından erişmenize izin vermek için sistem adres "
+"defteriyle tümleşiktir."
+
+#. (itstool) path: description/p
+#: org.kde.kopete.appdata.xml:15
+msgid "Features:"
+msgstr "Özellikler:"
+
+#. (itstool) path: ul/li
+#: org.kde.kopete.appdata.xml:17
+msgid ""
+"Kopete features tools to enhance your instant messaging experience, such as "
+"message encryption, archiving, and many other fun and useful effects."
+msgstr ""
+"Kopete anlık iletileşme deneyiminizi geliştirmek için birçok araç sunar. "
+"Bunların arasında ileti şifreleme, arşivleme ve birçok eğlenceli ve "
+"kullanışlı efektler bulunur."
+
+#. (itstool) path: ul/li
+#: org.kde.kopete.appdata.xml:18
+msgid ""
+"Kopete supports all commonly used instant messaging protocols, and the "
+"Kopete team provides templates for developers to base new plugins on."
+msgstr ""
+"Kopete tüm yaygın kullanılan anlık iletileşme protokollerini destekler ve "
+"Kopete geliştiricileri, başkalarının yeni eklentileri kolaylıkla "
+"oluşturabilmeleri içini şablonlar sağlar."
+
+#. (itstool) path: ul/li
+#: org.kde.kopete.appdata.xml:19
+msgid ""
+"The API provides developers with many features to make it easy to support a "
+"new protocol."
+msgstr ""
+"API, geliştiricilerin yeni protokolleri kolaylıkla destekleyebilmeleri için "
+"birçok özellik sunar."
+
+#. (itstool) path: ul/li
+#: org.kde.kopete.appdata.xml:20
+msgid ""
+"All protocols are plugins and allow for modular installation, configuration, "
+"and usage."
+msgstr ""
+"Tüm protokoller eklentilerden ibarettir ve modüler kurulum, yapılandırma ve "
+"kullanıma izin verir."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kopete.appdata.xml:29
+msgid "Kopete chat"
+msgstr "Kopete sohbet"

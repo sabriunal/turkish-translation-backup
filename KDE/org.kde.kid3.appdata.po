@@ -1,0 +1,81 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-02-11 02:33+0100\n"
+"PO-Revision-Date: 2022-04-08 13:28+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kid3.appdata.xml:7
+msgid "Kid3"
+msgstr "Kid3"
+
+#. (itstool) path: component/summary
+#: org.kde.kid3.appdata.xml:8
+msgid "Edit audio file metadata"
+msgstr "Ses dosyası üstverisini düzenleyin"
+
+#. (itstool) path: description/p
+#: org.kde.kid3.appdata.xml:10
+msgid ""
+"With Kid3, an audio tag editor, you can edit tags in MP3, Ogg/Vorbis, DSF, "
+"FLAC, Opus, MPC, APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, "
+"AIFF and tracker files."
+msgstr ""
+"Kid3 ses etiketi düzenleyicisi ile MP3, Ogg/Vorbis, DSF, FLAC, Opus, MPC, "
+"APE, MP4/AAC, MP2, Speex, TrueAudio, WavPack, WMA, WAV, AIFF ve izleyici "
+"dosyalardaki etiketleri düzenleyebilirsiniz."
+
+#. (itstool) path: description/p
+#: org.kde.kid3.appdata.xml:15
+msgid ""
+"All frames in the ID3 tags of MP3 files can be edited, and it is possible to "
+"convert between ID3v1.1, ID3v2.3 and ID3v2.4. Synchronized lyrics can be "
+"edited, imported and exported to LRC Karaoke files."
+msgstr ""
+"MP3 dosyalarındaki ID3 etiketlerinin tüm kareleri düzenlenebilir ve ID3v1.1, "
+"ID3v2.3 and ID3v2.4 arasında dönüştürülebilir. Uyuşturulan şarkı sözleri "
+"düzenlenebilir ve LRC Karaoke dosyası olarak içe/dışa aktarılabilir."
+
+#. (itstool) path: description/p
+#: org.kde.kid3.appdata.xml:20
+msgid ""
+"The tags of multiple files can be set together. It is possible to generate "
+"tags from file names or the contents of other tag fields and to generate "
+"file names from tags and rename folders from tags. Automatic case conversion "
+"and string replacement help to keep tags consistent."
+msgstr ""
+"Birden çok dosyanın etiketi bir araya getirilebilir. Dosya adlarından, diğer "
+"etiket alanlarının içeriğinden etiket oluşturulabilir. Etiketlerden dosya "
+"adları oluşturmak olanaklıdır ve etiketlerden klasörler yeniden "
+"adlandırılabilir. Otomatik harf dönüşümü ve dizi değişimi etiketleri düzgün "
+"tutmaya yardımcı olur."
+
+#. (itstool) path: description/p
+#: org.kde.kid3.appdata.xml:26
+msgid ""
+"Album data can be imported from gnudb.org, MusicBrainz, Discogs, Amazon; "
+"automatic batch import is available for multiple folders. It is also "
+"possible to export data and generate play lists."
+msgstr ""
+"Albüm verisi gnudb.org, MusicBrainz, Discogs, Amazon konumlarından içe "
+"aktarılabilir; çoklu klasörler için otomatik toplu içe aktarım mevcuttur. "
+"Veri dışa aktarımı ve çalma listeleri oluşturma da olanaklıdır."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kid3.appdata.xml:35
+msgid "Kid3 main window"
+msgstr "Kid3 ana penceresi"
+
+#. (itstool) path: component/developer_name
+#: org.kde.kid3.appdata.xml:41
+msgid "Urs Fleisch"
+msgstr "Urs Fleisch"

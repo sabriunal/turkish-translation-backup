@@ -1,0 +1,630 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the vvave package.
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: vvave\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-27 00:57+0000\n"
+"PO-Revision-Date: 2023-01-27 18:31+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: src/main.cpp:102
+#, kde-format
+msgid "Vvave"
+msgstr "Vvave"
+
+#: src/main.cpp:102
+#, kde-format
+msgid "Organize and listen to your music."
+msgstr "Müziğini dinle ve organize et."
+
+#: src/main.cpp:102
+#, kde-format
+msgid "© 2019-%1 Maui Development Team"
+msgstr "© 2019-%1 Maui Geliştirme Takımı"
+
+#: src/main.cpp:104 src/main.cpp:105
+#, kde-format
+msgid "Developer"
+msgstr "Geliştirici"
+
+#: src/main.qml:272
+#, kde-format
+msgid "Missing file"
+msgstr "Eksik dosya"
+
+#: src/main.qml:334
+#, kde-format
+msgid "Remove %1 tracks"
+msgstr "%1 parçayı kaldır"
+
+#: src/main.qml:335
+#, kde-format
+msgid ""
+"Are you sure you want to remove these files? This action can not be undone."
+msgstr ""
+"Bu dosyaları kaldırmak istediğinize emin misiniz? Bu işlem geri alınamaz."
+
+#: src/main.qml:337 src/widgets/BabeTable/TableMenu.qml:135
+#, kde-format
+msgid "Delete"
+msgstr "Sil"
+
+#: src/main.qml:338 src/widgets/PlaylistsView/PlaylistsViewModel.qml:34
+#, kde-format
+msgid "Cancel"
+msgstr "İptal"
+
+#: src/main.qml:508 src/widgets/SettingsView/ShortcutsDialog.qml:13
+#, kde-format
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+#: src/main.qml:515
+#, kde-format
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: src/main.qml:522
+#, kde-format
+msgid "About"
+msgstr "Hakkında"
+
+#: src/main.qml:555
+#, kde-format
+msgid "Songs"
+msgstr "Şarkılar"
+
+#: src/main.qml:574 src/widgets/AlbumsView.qml:62
+#, kde-format
+msgid "Albums"
+msgstr "Albümler"
+
+#: src/main.qml:581
+#, kde-format
+msgid "No Albums!"
+msgstr "Albüm Yok!"
+
+#: src/main.qml:582 src/main.qml:606 src/widgets/TracksView.qml:169
+#, kde-format
+msgid "Add new music sources"
+msgstr "Yeni müzik kaynakları ekle"
+
+#: src/main.qml:598 src/widgets/AlbumsView.qml:62
+#, kde-format
+msgid "Artists"
+msgstr "Sanatçılar"
+
+#: src/main.qml:605
+#, kde-format
+msgid "No Artists!"
+msgstr "Sanatçı Yok!"
+
+#: src/main.qml:622 src/widgets/BabeTable/TableMenu.qml:44
+#: src/widgets/SelectionBar.qml:46
+#, kde-format
+msgid "Tags"
+msgstr "Etiketler"
+
+#: src/main.qml:629
+#, kde-format
+msgid "Folders"
+msgstr "Klasörler"
+
+#: src/main.qml:637
+#, kde-format
+msgid "Cloud"
+msgstr "Bulut"
+
+#: src/services/local/powermanagementinterface.cpp:173
+#: src/services/local/powermanagementinterface.cpp:223
+#, kde-format
+msgctxt "explanation for sleep inhibit during play of music"
+msgid "Playing music"
+msgstr "Müzik çalınıyor"
+
+#: src/widgets/AlbumsView.qml:35 src/widgets/FoldersView/FoldersView.qml:50
+#: src/widgets/TracksView.qml:174
+#, kde-format
+msgid "Add sources"
+msgstr "Kaynak ekle"
+
+#: src/widgets/AlbumsView.qml:56
+#, kde-format
+msgid "This list is empty"
+msgstr "Liste boş"
+
+#: src/widgets/BabeGrid/BabeGrid.qml:38 src/widgets/BabeTable/BabeTable.qml:98
+#: src/widgets/CloudView/CloudView.qml:50
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:92
+#, kde-format
+msgid "Filter"
+msgid_plural "Filter %1 albums"
+msgstr[0] "Süz"
+msgstr[1] "%1 albümü süz"
+
+#: src/widgets/BabeTable/BabeTable.qml:71 src/widgets/TracksGroup.qml:46
+#, kde-format
+msgid "Play All"
+msgstr "Tümünü Çal"
+
+#: src/widgets/BabeTable/BabeTable.qml:78 src/widgets/TracksGroup.qml:54
+#, kde-format
+msgid "Append All"
+msgstr "Tümünü İliştir"
+
+#: src/widgets/BabeTable/BabeTable.qml:139
+#, kde-format
+msgid "Remove track"
+msgstr "Parçayı kaldır"
+
+#: src/widgets/BabeTable/BabeTable.qml:140
+#, kde-format
+msgid ""
+"Are you sure you want to delete the file from your computer? This action can "
+"not be undone."
+msgstr ""
+"Bu dosyayı bilgisayarınızdan kaldırmak istediğinize emin misiniz? Bu eylem "
+"geri alınamaz."
+
+#: src/widgets/BabeTable/BabeTable.qml:142
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:61
+#: src/widgets/SelectionBar.qml:76
+#, kde-format
+msgid "Remove"
+msgstr "Kaldır"
+
+#: src/widgets/BabeTable/BabeTable.qml:168 src/widgets/TracksGroup.qml:67
+#, kde-format
+msgid "Go to Artist"
+msgstr "Sanatçıya Git"
+
+#: src/widgets/BabeTable/BabeTable.qml:175 src/widgets/TracksGroup.qml:74
+#, kde-format
+msgid "Go to Album"
+msgstr "Albüme Git"
+
+#: src/widgets/BabeTable/TableMenu.qml:35
+#, kde-format
+msgid "Fav it"
+msgstr "Sık Kullanılanlara Ekle"
+
+#: src/widgets/BabeTable/TableMenu.qml:35
+#, kde-format
+msgid "UnFav it"
+msgstr "Sık Kullanılanlardan Kaldır"
+
+#: src/widgets/BabeTable/TableMenu.qml:51 src/widgets/MetadataDialog.qml:17
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:53
+#, kde-format
+msgid "Edit"
+msgstr "Düzenle"
+
+#: src/widgets/BabeTable/TableMenu.qml:61 src/widgets/SelectionBar.qml:59
+#, kde-format
+msgid "Share"
+msgstr "Paylaş"
+
+#: src/widgets/BabeTable/TableMenu.qml:71
+#, kde-format
+msgid "Select..."
+msgstr "Seç..."
+
+#: src/widgets/BabeTable/TableMenu.qml:84
+#, kde-format
+msgid "Play next"
+msgstr "Sonrakini çal"
+
+#: src/widgets/BabeTable/TableMenu.qml:109
+#, kde-format
+msgid "Show in folder"
+msgstr "Klasörde göster"
+
+#: src/widgets/CloudView/CloudView.qml:65
+#, kde-format
+msgid "Opps!"
+msgstr "Ups!"
+
+#: src/widgets/CloudView/CloudView.qml:66
+#, kde-format
+msgid ""
+"You don't have an account set up.\n"
+"You can set up your account now by clicking here or under the Accounts "
+"options in the main menu"
+msgstr ""
+"Ayarlı bir hesabınız yok.\n"
+"Buraya tıklayarak veya ana menüdeki Hesaplar seçeneğine giderek "
+"hesaplarınızı ayarlayabilirsiniz"
+
+#: src/widgets/FocusView.qml:146
+#, kde-format
+msgid "Find"
+msgstr "Bul"
+
+#: src/widgets/FocusView.qml:190
+#, kde-format
+msgid "No Results!"
+msgstr "Sonuç yok!"
+
+#: src/widgets/FocusView.qml:191
+#, kde-format
+msgid "Try with something else"
+msgstr "Başka bir şey deneyin"
+
+#: src/widgets/FocusView.qml:233 src/widgets/MainPlaylist/MainPlaylist.qml:80
+#, kde-format
+msgid "Start putting together your playlist."
+msgstr "Çalma listenizi oluşturmaya başlayın."
+
+#: src/widgets/FoldersView/FoldersView.qml:32
+#, kde-format
+msgid "Filter %1 folder"
+msgid_plural "Filter %1 folders"
+msgstr[0] "%1 klasörü süz"
+msgstr[1] "%1 klasörü süz"
+
+#: src/widgets/FoldersView/FoldersView.qml:46
+#, kde-format
+msgid "No Folders!"
+msgstr "Klasör Yok!"
+
+#: src/widgets/FoldersView/FoldersView.qml:47
+#, kde-format
+msgid "Add new music to your sources to browse by folders"
+msgstr "Klasörleri tarayarak kaynaklarınıza müzik ekleyin"
+
+#: src/widgets/FoldersView/FoldersView.qml:134 src/widgets/TracksView.qml:168
+#, kde-format
+msgid "No Tracks!"
+msgstr "Parça Yok!"
+
+#: src/widgets/FoldersView/FoldersView.qml:135
+#, kde-format
+msgid "This source folder seems to be empty!"
+msgstr "Bu kaynak klasörü boş gibi görünüyor!"
+
+#: src/widgets/InfoView/InfoView.qml:45
+#, kde-format
+msgid "Artist Info"
+msgstr "Sanatçı Bilgisi"
+
+#: src/widgets/InfoView/InfoView.qml:73
+#, kde-format
+msgid "Album Info"
+msgstr "Albüm Bilgisi"
+
+#: src/widgets/MainPlaylist/MainPlaylist.qml:133
+#, kde-format
+msgid "Syncing to "
+msgstr "Eşzamanlanan konum:"
+
+#: src/widgets/MetadataDialog.qml:40
+#, kde-format
+msgid "Metadata"
+msgstr "Üst Veri"
+
+#: src/widgets/MetadataDialog.qml:41
+#, kde-format
+msgid "Embedded metadata info."
+msgstr "Gömülü üst veri bilgisi."
+
+#: src/widgets/MetadataDialog.qml:47
+#, kde-format
+msgid "Track Title"
+msgstr "Parça Başlığı"
+
+#: src/widgets/MetadataDialog.qml:61
+#, kde-format
+msgid "Artist"
+msgstr "Sanatçı"
+
+#: src/widgets/MetadataDialog.qml:76
+#, kde-format
+msgid "Album"
+msgstr "Albüm"
+
+#: src/widgets/MetadataDialog.qml:90
+#, kde-format
+msgid "Track"
+msgstr "Parça"
+
+#: src/widgets/MetadataDialog.qml:104
+#, kde-format
+msgid "Genre"
+msgstr "Tür"
+
+#: src/widgets/MetadataDialog.qml:118
+#, kde-format
+msgid "Year"
+msgstr "Yıl"
+
+#: src/widgets/MetadataDialog.qml:132
+#, kde-format
+msgid "Comment"
+msgstr "Açıklama"
+
+#: src/widgets/MetadataDialog.qml:145
+#, kde-format
+msgid "File Info"
+msgstr "Dosya Bilgisi"
+
+#: src/widgets/MetadataDialog.qml:146
+#, kde-format
+msgid "Local file info."
+msgstr "Yerel dosya bilgisi."
+
+#: src/widgets/PlaybackBar.qml:27
+#, kde-format
+msgid "Toogle SideBar"
+msgstr "Kenar Çubuğunu Aç/Kapat"
+
+#: src/widgets/PlaybackBar.qml:56
+#, kde-format
+msgid "Play and pause"
+msgstr "Çal ve duraklat"
+
+#: src/widgets/PlaybackBar.qml:66
+#, kde-format
+msgid "Next"
+msgstr "Sonraki"
+
+#: src/widgets/PlaylistsView/PlaylistsView.qml:65
+#, kde-format
+msgid "Remove from playlist"
+msgstr "Çalma listesinden kaldır"
+
+#: src/widgets/PlaylistsView/PlaylistsView.qml:94
+#, kde-format
+msgid "stars"
+msgstr "yıldız"
+
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:22
+#, kde-format
+msgid "No Playlists!"
+msgstr "Çalma Listesi Yok!"
+
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:23
+#, kde-format
+msgid "Start creating new custom playlists"
+msgstr "Yeni özel çalma listeleri oluşturmaya başlayın"
+
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:32
+#, kde-format
+msgid "Remove '%1'"
+msgstr "Kaldır: '%1'"
+
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:33
+#, kde-format
+msgid "Accept"
+msgstr "Kabul Et"
+
+#: src/widgets/PlaylistsView/PlaylistsViewModel.qml:36
+#, kde-format
+msgid ""
+"Are you sure you want to remove this tag? This operation can not be undone."
+msgstr ""
+"Bu etiketi kaldırmak istediğinize emin misiniz? Bu işlem geri alınamaz."
+
+#: src/widgets/SelectionBar.qml:28
+#, kde-format
+msgid "Play"
+msgstr "Çal"
+
+#: src/widgets/SelectionBar.qml:39
+#, kde-format
+msgid "Append"
+msgstr "İliştir"
+
+#: src/widgets/SelectionBar.qml:66
+#, kde-format
+msgid "Queue"
+msgstr "Kuyruk"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:53
+#, kde-format
+msgid "Behaviour"
+msgstr "Davranış"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:54
+#, kde-format
+msgid "Configure the app plugins and behavior."
+msgstr "Uygulama eklentilerini ve davranışını yapılandırın."
+
+#: src/widgets/SettingsView/SettingsDialog.qml:58
+#, kde-format
+msgid "Fetch Artwork"
+msgstr "Kapak Görselini Getir"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:59
+#, kde-format
+msgid ""
+"Gathers album and artists artworks from online services: LastFM, Spotify, "
+"MusicBrainz, iTunes, Genius, and others."
+msgstr ""
+"Çevrimiçi hizmetlerden albüm ve sanatçı görsellerini toplar: LastFM, "
+"Spotify, MusicBrainz, iTunes, Genius ve diğerleri."
+
+#: src/widgets/SettingsView/SettingsDialog.qml:71
+#, kde-format
+msgid "Auto Scan"
+msgstr "Otomatik Tara"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:72
+#, kde-format
+msgid ""
+"Scan all the music sources on startup to keep your collection up to date."
+msgstr ""
+"Müzik koleksiyonunuzu güncel tutmak için başlangıçta tüm müzik kaynaklarını "
+"tarayın."
+
+#: src/widgets/SettingsView/SettingsDialog.qml:84
+#, kde-format
+msgid "Auto Resume"
+msgstr "Otomatik Sürdür"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:85
+#, kde-format
+msgid "Resume the last session playlist."
+msgstr "Son oturumdaki listeyi sürdür."
+
+#: src/widgets/SettingsView/SettingsDialog.qml:97
+#, kde-format
+msgid "Focus View"
+msgstr "Odak Görünümü"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:98
+#, kde-format
+msgid "Make the focus view the default"
+msgstr "Odak görünümünü öntanımlı görünüm yap"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:114
+#, kde-format
+msgid "Dark Mode"
+msgstr "Koyu Kip"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:115
+#, kde-format
+msgid "Switch between light and dark colorscheme."
+msgstr "Açık ve koyu renk şemaları arasında geçiş yapın."
+
+#: src/widgets/SettingsView/SettingsDialog.qml:131
+#, kde-format
+msgid "Artwork"
+msgstr "Kapak Görseli"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:132
+#, kde-format
+msgid "Show the cover artwork for the tracks."
+msgstr "Parçalar için kapak görselini gösterin."
+
+#: src/widgets/SettingsView/SettingsDialog.qml:148
+#, kde-format
+msgid "Sources"
+msgstr "Kaynaklar"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:149
+#, kde-format
+msgid "Add or remove sources"
+msgstr "Kaynaklar ekle veya kaldır"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:192
+#, kde-format
+msgid "Add"
+msgstr "Ekle"
+
+#: src/widgets/SettingsView/SettingsDialog.qml:209
+#, kde-format
+msgid "Scan now"
+msgstr "Şimdi Tara"
+
+#: src/widgets/SettingsView/ShortcutsDialog.qml:24
+#: src/widgets/SettingsView/ShortcutsDialog.qml:37
+#, kde-format
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#: src/widgets/TracksView.qml:33
+#, kde-format
+msgid "Search collection"
+msgstr "Koleksiyonda ara"
+
+#: src/widgets/TracksView.qml:53
+#, kde-format
+msgid "Your Collection"
+msgstr "Koleksiyonunuz"
+
+#: src/widgets/TracksView.qml:54
+#, kde-format
+msgid "Random tracks from your collection."
+msgstr "Koleksiyonunuzdan rastgele parçalar."
+
+#: src/widgets/TracksView.qml:60
+#, kde-format
+msgid "View All"
+msgstr "Tümünü Görüntüle"
+
+#: src/widgets/TracksView.qml:83
+#, kde-format
+msgid "Popular Tracks"
+msgstr "Popüler Parçalar"
+
+#: src/widgets/TracksView.qml:84
+#, kde-format
+msgid "Play them again."
+msgstr "Onları yeniden çalın."
+
+#: src/widgets/TracksView.qml:108
+#, kde-format
+msgid "Recent Tracks"
+msgstr "Son Çalınan Parçalar"
+
+#: src/widgets/TracksView.qml:109
+#, kde-format
+msgid "Recently played."
+msgstr "Son çalınan parçalar."
+
+#: src/widgets/TracksView.qml:113 src/widgets/TracksView.qml:132
+#, kde-format
+msgid "More"
+msgstr "Daha Fazla"
+
+#: src/widgets/TracksView.qml:125
+#, kde-format
+msgid "Never Played"
+msgstr "Hiç Çalınmayanlar"
+
+#: src/widgets/TracksView.qml:126
+#, kde-format
+msgid "Give these tracks a first listen."
+msgstr "Bu parçaları ilk kez dinleyin."
+
+#: src/widgets/TracksView.qml:143
+#, kde-format
+msgid "Classics"
+msgstr "Klasikler"
+
+#: src/widgets/TracksView.qml:144
+#, kde-format
+msgid "Oldest released tracks from your collection."
+msgstr "Koleksiyonunuzdaki en eski tarihli parçalar."
+
+#: src/widgets/TracksView.qml:180
+#, kde-format
+msgid "Open file"
+msgstr "Dosya Aç"
+
+#~ msgid "Dust off."
+#~ msgstr "Tozunu al."
+
+#~ msgid "New Tracks"
+#~ msgstr "Yeni Parçalar"
+
+#~ msgid "Newly added."
+#~ msgstr "Yeni eklendi."
+
+#~ msgid "Recent Artists"
+#~ msgstr "Son Çalınan Sanatçılar"
+
+#~ msgid "Recent Albums"
+#~ msgstr "Son Çalınan Albümler"
+
+#~ msgid "Playlists"
+#~ msgstr "Çalma Listeleri"
+
+#~ msgid "Recent playlists"
+#~ msgstr "Son çalınan listeler"
+
+#~ msgid "Camilo Higuita"
+#~ msgstr "Camilo Higuita"
+
+#~ msgid "Contributor"
+#~ msgstr "Katkıcı"

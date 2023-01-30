@@ -1,0 +1,38 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-07 02:38+0100\n"
+"PO-Revision-Date: 2022-04-10 13:24+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#. (itstool) path: component/name
+#: org.kde.kio_s3.metainfo.xml:14
+msgid "KIO S3"
+msgstr "KIO S3"
+
+#. (itstool) path: component/summary
+#: org.kde.kio_s3.metainfo.xml:15
+msgid "Amazon S3 integration with KDE Plasma and KDE applications"
+msgstr "KDE Plasma ve KDE uygulamaları ile Amazon S3 tümleştirmesi"
+
+#. (itstool) path: description/p
+#: org.kde.kio_s3.metainfo.xml:17
+msgid ""
+"KIO S3 enables KIO-aware applications (such as Dolphin, Kate or Gwenview) to "
+"access and edit Amazon S3 buckets and objects."
+msgstr ""
+"KIO S3, KIO etkin uygulamalarda (Dolphin, Kate veya Gwenview gibi) Amazon S3 "
+"kovalarına ve nesnelerine erişim ve düzenleme olanağı verir."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.kio_s3.metainfo.xml:25
+msgid "Dolphin showing a picture uploaded on an Amazon S3 bucket."
+msgstr "Dolphin, bir Amazon S3 kovasına resim yüklerken."

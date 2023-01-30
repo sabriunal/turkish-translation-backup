@@ -1,0 +1,897 @@
+#
+# Translators:
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-20 01:01+0000\n"
+"PO-Revision-Date: 2023-01-20 23:06+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: content/search.en.md:0
+msgid "Search results"
+msgstr "Arama sonuçları"
+
+#: i18n/en.yaml:0
+msgid "Releases"
+msgstr "Sürümler"
+
+#: i18n/en.yaml:0
+msgid "RSS Feed"
+msgstr "RSS Beslemesi"
+
+#: i18n/en.yaml:0
+msgid "KDE Patrons"
+msgstr "KDE Düzenli Bağışçıları"
+
+#: i18n/en.yaml:0
+msgid "Canonical"
+msgstr "Canonical"
+
+#: i18n/en.yaml:0
+msgid "Google"
+msgstr "Google"
+
+#: i18n/en.yaml:0
+msgid "SUSE"
+msgstr "SUSE"
+
+#: i18n/en.yaml:0
+msgid "The Qt Company"
+msgstr "The Qt Company"
+
+#: i18n/en.yaml:0
+msgid "Blue System"
+msgstr "Blue System"
+
+#: i18n/en.yaml:0
+msgid "enioka Haute Couture"
+msgstr "enioka Haute Couture"
+
+#: i18n/en.yaml:0
+msgid "Slimbook"
+msgstr "Slimbook"
+
+#: i18n/en.yaml:0
+msgid "TUXEDO Computers"
+msgstr "TUXEDO Computers"
+
+#: i18n/en.yaml:0
+msgid "Donate to KDE"
+msgstr "KDE'ye Bağış Yapın"
+
+#: i18n/en.yaml:0
+msgid "Why Donate?"
+msgstr "Neden Bağış Yapmalı?"
+
+#: i18n/en.yaml:0
+msgid "Amount"
+msgstr "Tutar"
+
+#: i18n/en.yaml:0
+msgid "Donate via PayPal"
+msgstr "PayPal ile bağış yapın"
+
+#: i18n/en.yaml:0
+msgid "Other ways to donate"
+msgstr "Diğer bağış yapma yolları"
+
+#: i18n/en.yaml:0
+msgid "Visit the KDE MetaStore"
+msgstr "KDE MetaStore'u ziyaret edin"
+
+#: i18n/en.yaml:0
+msgid ""
+"Show your love for KDE! Purchase books, mugs, apparel, and more to support "
+"KDE."
+msgstr ""
+"KDE'ye olan sevginizi gösterin! KDE'yi desteklemek için kitap, kupa, giysi "
+"ve başka şeyler satın alın."
+
+#: i18n/en.yaml:0
+msgid "Browse"
+msgstr "Göz At"
+
+#: i18n/en.yaml:0
+msgid "Products"
+msgstr "Ürünler"
+
+#: i18n/en.yaml:0
+msgid "Plasma"
+msgstr "Plasma"
+
+#: i18n/en.yaml:0
+msgid "KDE Applications"
+msgstr "KDE Uygulamaları"
+
+#: i18n/en.yaml:0
+msgid "KDE Frameworks"
+msgstr "KDE Frameworks"
+
+#: i18n/en.yaml:0
+msgid "Plasma Mobile"
+msgstr "Plasma Mobile"
+
+#: i18n/en.yaml:0
+msgid "KDE Neon"
+msgstr "KDE neon"
+
+#: i18n/en.yaml:0
+msgid "WikiToLearn"
+msgstr "WikiToLearn"
+
+#: i18n/en.yaml:0
+msgid "Develop"
+msgstr "Geliştir"
+
+#: i18n/en.yaml:0
+msgid "Techbase Wiki"
+msgstr "Techbase Vikisi"
+
+#: i18n/en.yaml:0
+msgid "API Documentation"
+msgstr "API Belgelendirmesi"
+
+#: i18n/en.yaml:0
+msgid "Qt Documentation"
+msgstr "Qt Belgelendirmesi"
+
+#: i18n/en.yaml:0
+msgid "Inqlude Documentation"
+msgstr "Inqlude Belgelendirmesi"
+
+#: i18n/en.yaml:0
+msgid "KDE Goals"
+msgstr "KDE Hedefleri"
+
+#: i18n/en.yaml:0
+msgid "Source code"
+msgstr "Kaynak kodu"
+
+#: i18n/en.yaml:0
+msgid "News & Press"
+msgstr "Haberler ve Basın"
+
+#: i18n/en.yaml:0
+msgid "Announcements"
+msgstr "Duyurular"
+
+#: i18n/en.yaml:0
+msgid "KDE.news"
+msgstr "KDE.news"
+
+#: i18n/en.yaml:0
+msgid "Planet KDE"
+msgstr "Planet KDE"
+
+#: i18n/en.yaml:0
+msgid "Screenshots"
+msgstr "Ekran Görüntüleri"
+
+#: i18n/en.yaml:0
+msgid "Press Contacts"
+msgstr "Basın İletişim"
+
+#: i18n/en.yaml:0
+msgid "Miscellaneous Stuff"
+msgstr "Çeşitli Şeyler"
+
+#: i18n/en.yaml:0
+msgid "Resources"
+msgstr "Özkaynaklar"
+
+#: i18n/en.yaml:0
+msgid "Community Wiki"
+msgstr "Topluluk Vikisi"
+
+#: i18n/en.yaml:0
+msgid "UserBase Wiki"
+msgstr "UserBase Vikisi"
+
+#: i18n/en.yaml:0
+msgid "Support"
+msgstr "Destek"
+
+#: i18n/en.yaml:0
+msgid "Download KDE Software"
+msgstr "KDE Yazılımlarını İndir"
+
+#: i18n/en.yaml:0
+msgid "Code of Conduct"
+msgstr "Davranış Kuralları"
+
+#: i18n/en.yaml:0
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: i18n/en.yaml:0
+msgid "Applications Privacy Policy"
+msgstr "Uygulama Gizlilik Politikası"
+
+#: i18n/en.yaml:0
+msgid "Destinations"
+msgstr "Hedefler"
+
+#: i18n/en.yaml:0
+msgid "KDE Store"
+msgstr "KDE Mağazası"
+
+#: i18n/en.yaml:0
+msgid "KDE e.V."
+msgstr "KDE e.V."
+
+#: i18n/en.yaml:0
+msgid "KDE Free Qt Foundation"
+msgstr "KDE Özgür Qt Topluluğu"
+
+#: i18n/en.yaml:0
+msgid "KDE Timeline"
+msgstr "KDE Zaman Çizelgesi"
+
+#: i18n/en.yaml:0
+msgid "KDE Manifesto"
+msgstr "KDE Manifestosu"
+
+#: i18n/en.yaml:0
+msgid "International Websites"
+msgstr "Uluslararası Web Siteleri"
+
+#: i18n/en.yaml:0
+msgid ""
+"Maintained by <a href=\"mailto:kde-www@kde.org\">KDE Webmasters</a> (public "
+"mailing list)."
+msgstr ""
+"<a href=\"mailto:kde-www@kde.org\">KDE web</a> yöneticileri (genel posta "
+"listesi) tarafından desteklenmektedir."
+
+#. String at the very end of each page, telling which commit generates the
+#. page
+#: i18n/en.yaml:0
+msgid "Generated from %1."
+msgstr "%1 üzerinden oluşturulmuştur."
+
+#: i18n/en.yaml:0
+msgid "Homepage of the KDE non-profit Organization"
+msgstr "Kar amacı gütmeyen KDE organizasyonu anasayfası"
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid ""
+"KDE<sup>®</sup> and [the K Desktop Environment<sup>®</sup> logo](https://kde."
+"org/media/images/trademark_kde_gear_black_logo.png) are registered "
+"trademarks of [KDE e.V.](%1)"
+msgstr ""
+"KDE<sup>®</sup> ve [K Masaüstü Ortamı<sup>®</sup> logosu](https://kde.org/"
+"media/images/trademark_kde_gear_black_logo.png), [KDE e.V.](%1)'nin tescilli "
+"markalarıdır"
+
+#: i18n/en.yaml:0
+msgid "Legal"
+msgstr "Yasal"
+
+#: i18n/en.yaml:0
+msgid "Thanks"
+msgstr "Teşekkürler"
+
+#: i18n/en.yaml:0
+msgid ""
+"Your donation is smaller than 2€. This means that most of your donation\n"
+"will end up in processing fees. Do you want to continue?"
+msgstr ""
+"Bağışınız 2 €'dan az. Bağışınızın çoğu işlem ücretlerine gidecek.\n"
+"Sürdürmek istiyor musunuz?"
+
+#: i18n/en.yaml:0
+msgid "Development and communication of KDE software"
+msgstr "KDE yazılımlarının geliştirilmesi ve iletişimi"
+
+#: i18n/en.yaml:0
+msgid "Return to kde.org"
+msgstr "Kde.org'a dön"
+
+#: i18n/en.yaml:0
+msgid "Made by KDE"
+msgstr "Bir KDE ürünü"
+
+#: i18n/en.yaml:0
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: i18n/en.yaml:0
+msgid "Skip to content"
+msgstr "İçeriğe atla"
+
+#: i18n/en.yaml:0
+msgid "Languages"
+msgstr "Diller"
+
+#: i18n/en.yaml:0
+msgid "Select your language"
+msgstr "Dilinizi seçin"
+
+#: i18n/en.yaml:0
+msgid "%A, %d %B %Y"
+msgstr "%A, %d %B %Y"
+
+#: i18n/en.yaml:0
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: i18n/en.yaml:0
+msgid "Tuesday"
+msgstr "Salı"
+
+#: i18n/en.yaml:0
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: i18n/en.yaml:0
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: i18n/en.yaml:0
+msgid "Friday"
+msgstr "Cuma"
+
+#: i18n/en.yaml:0
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: i18n/en.yaml:0
+msgid "Sunday"
+msgstr "Pazar"
+
+#: i18n/en.yaml:0
+msgid "January"
+msgstr "Ocak"
+
+#: i18n/en.yaml:0
+msgid "February"
+msgstr "Şubat"
+
+#: i18n/en.yaml:0
+msgid "March"
+msgstr "Mart"
+
+#: i18n/en.yaml:0
+msgid "April"
+msgstr "Nisan"
+
+#: i18n/en.yaml:0
+msgid "May"
+msgstr "Mayıs"
+
+#: i18n/en.yaml:0
+msgid "June"
+msgstr "Haziran"
+
+#: i18n/en.yaml:0
+msgid "July"
+msgstr "Temmuz"
+
+#: i18n/en.yaml:0
+msgid "August"
+msgstr "Ağustos"
+
+#: i18n/en.yaml:0
+msgid "September"
+msgstr "Eylül"
+
+#: i18n/en.yaml:0
+msgid "October"
+msgstr "Ekim"
+
+#: i18n/en.yaml:0
+msgid "November"
+msgstr "Kasım"
+
+#: i18n/en.yaml:0
+msgid "December"
+msgstr "Aralık"
+
+#: i18n/en.yaml:0
+msgid "Learn More"
+msgstr "Daha Fazla Bilgi Edin"
+
+#: i18n/en.yaml:0
+msgid "Read More"
+msgstr "Daha Fazla Oku"
+
+#: i18n/en.yaml:0
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#. %1 language name. Please also consider using your team's own link to target
+#. new contributors.
+#: i18n/en.yaml:0
+msgid ""
+"This page is insufficiently translated. <a href=\"https://community.kde.org/"
+"Get_Involved/translation\" target=\"_blank\">Join the %1 team</a> and help "
+"us improve it!"
+msgstr ""
+"Bu sayfanın çevirisi tam değil. <a href=\"https://community.kde.org/"
+"Get_Involved/translation\" target=\"_blank\">%1 takımına katılın </a> ve "
+"çevirileri iyileştirmemize yardım edin!"
+
+#: i18n/en.yaml:0
+msgid "Linux"
+msgstr "Linux"
+
+#: i18n/en.yaml:0
+msgid "macOS"
+msgstr "macOS"
+
+#: i18n/en.yaml:0
+msgid "Windows"
+msgstr "Windows"
+
+#: i18n/en.yaml:0
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: i18n/en.yaml:0
+msgid "Snap"
+msgstr "Snap"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid "Screenshot of %1"
+msgstr "%1 ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Get it on F-Droid"
+msgstr "F-Droid'den edin"
+
+#: i18n/en.yaml:0
+msgid "Get it from Microsoft"
+msgstr "Microsoft'tan edin"
+
+#: i18n/en.yaml:0
+msgid "Get it from the Snap Store"
+msgstr "Snap Store'dan edin"
+
+#. Used in "Install on Linux" download badges, e.g. on
+#. https://apps.kde.org/gcompris/. Please make it as short as possible.
+#: i18n/en.yaml:0
+msgid "Install on"
+msgstr "Şuraya kur:"
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid ""
+"This button only works with [Discover](%1) and other AppStream application "
+"stores. You can also use your distribution's package manager."
+msgstr ""
+"Bu düğme, yalnızca [Keşfet](%1) ve diğer AppStream uygulama mağazalarıyla "
+"çalışır. Ayrıca kendi dağıtımınızın paket yöneticisini kullanabilirsiniz."
+
+#. Used in "Download on Flathub" download badges, e.g. on
+#. https://apps.kde.org/gcompris/. Please make it as short as possible.
+#: i18n/en.yaml:0
+msgid "Download on"
+msgstr "Şurada indir:"
+
+#: i18n/en.yaml:0
+msgid "Flathub"
+msgstr "Flathub"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE supports the FEEP and BE4FOSS programs to help free and open source "
+"communities produce more environmentally friendly software. The projects "
+"provide communities with guidelines and support to optimize software to be "
+"more energy efficient and have a longer life-span."
+msgstr ""
+"KDE, özgür ve açık kaynaklı toplulukların daha çevre dostu yazılımlar "
+"üretmesine yardımcı olmak için FEEP ve BE4FOSS programlarını destekliyor. "
+"Projeler, topluluklara yazılımları daha enerji verimli olacak ve daha uzun "
+"ömürlü olacak şekilde eniyilemek için yönergeler ve destek sağlıyor."
+
+#: i18n/en.yaml:0
+msgid ""
+"Let’s make energy efficient software and digital sustainability part of our "
+"community! We can live up to our responsibility for this and future "
+"generations!"
+msgstr ""
+"Enerji verimli yazılımları ve dijital sürdürülebilirliği topluluğumuzun bir "
+"parçası haline getirelim! Bu ve gelecek nesiller için sorumluluklarımızı "
+"yerine getirebiliriz!"
+
+#: i18n/en.yaml:0
+msgid "Funding"
+msgstr "Finansal Kaynaklar"
+
+#: i18n/en.yaml:0
+msgid ""
+"The BE4FOSS Project was funded by the Federal Environment Agency and the "
+"Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
+"and Consumer Protection (BMUV). The funds are made available by resolution "
+"of the German Bundestag."
+msgstr ""
+"BE4FOSS Projesi, Federal Çevre Ajansı ve Federal Çevre, Doğa Koruma, Nükleer "
+"Güvenlik ve Tüketicinin Korunması Bakanlığı (BMUV) tarafından finanse "
+"edildi. Fonlar Alman Federal Meclisi'nin kararıyla sağlandı."
+
+#: i18n/en.yaml:0
+msgid "The publisher is responsible for the content of this publication."
+msgstr "Yayımcı, bu yayının içeriğinden sorumludur."
+
+#: i18n/en.yaml:0
+msgid "Share on Matrix"
+msgstr "Matrix'te Paylaş"
+
+#: i18n/en.yaml:0
+msgid "Post on Facebook"
+msgstr "Facebook'ta yayımla"
+
+#: i18n/en.yaml:0
+msgid "Share on Twitter"
+msgstr "Twitter'da paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on Diaspora"
+msgstr "Diaspora'da paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on Reddit"
+msgstr "Reddit'te paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on YouTube"
+msgstr "YouTube'da paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on Mastodon"
+msgstr "Mastodon'da paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on LinkedIn"
+msgstr "LinkedIn'de paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on Peertube"
+msgstr "Peertube'de paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on VK"
+msgstr "VK'da paylaş"
+
+#: i18n/en.yaml:0
+msgid "Share on Instagram"
+msgstr "Instagram'da paylaş"
+
+#: i18n/en.yaml:0
+msgid "Get Involved!"
+msgstr "Katıl"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid "Build %1 from Sources"
+msgstr "%1 Kaynaklardan Derleme"
+
+#: i18n/en.yaml:0
+msgid ""
+"The [community wiki](https://community.kde.org/Get_Involved/development) "
+"provides resource about setting up your development environment."
+msgstr ""
+"[Topluluk Vikisi](https://community.kde.org/Get_Involved/development), "
+"geliştirme ortamınızı kurma üzerine özkaynaklar sağlar."
+
+#: i18n/en.yaml:0
+msgid "Get in Touch!"
+msgstr "İletişime geçin!"
+
+#: i18n/en.yaml:0
+msgid "Not a Programmer?"
+msgstr "Bir yazılımcı değil misiniz?"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"Not a problem! There are plenty of other tasks that you can help us with to "
+"make %1 better even if you don't know any programming languages!"
+msgstr ""
+"Sıkıntı yok! Hiçbir programlama dili bilmeseniz dahi %1 yazılımını daha iyi "
+"yapmak için her zaman birçok iş ve alan bulunmaktadır!"
+
+#: i18n/en.yaml:0
+msgid ""
+"[Bug triaging](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging) "
+"- help us find mis-filed, duplicated or invalid bug reports in Bugzilla\n"
+msgstr ""
+"[Hata triyajı](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging) "
+"- Bugzilla'da yanlışlıkla girilmiş, yinelenmiş veya geçersiz hata "
+"kayıtlarını bulmamıza yardımcı olun\n"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"[Localization](https://community.kde.org/Get_Involved/translation) - help to "
+"translate %1 into your language\n"
+msgstr ""
+"[Yerelleştirme](https://community.kde.org/Get_Involved/translation) - %1 "
+"yazılımını kendi dilinize çevirmeye yardım edin\n"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"[Documentation](https://community.kde.org/Get_Involved/documentation) - help "
+"us improve user documentation to make %1 more friendly for newcomers\n"
+msgstr ""
+"[Belgelendirme](https://community.kde.org/Get_Involved/documentation) - %1 "
+"yazılımını yeni başlayanlar için daha kolay yapmak için kullanıcı "
+"belgelendirmesini iyileştirmeye yardım edin\n"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"[Promotion](https://community.kde.org/Get_Involved/promotion) - help us "
+"promote %1 both online and offline\n"
+msgstr ""
+"[Promosyon](https://community.kde.org/Get_Involved/promotion) - %1 "
+"yazılımının çevrimiçi/çevrimdışı tanıtımını yapmaya yardımcı olun\n"
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid ""
+"[Updating wiki](%1) - help us update the information present in the wiki, "
+"add new tutorials, ... to make it easier for others to join!\n"
+msgstr ""
+"[Viki güncelleme](%1) - başkalarının daha kolay katılabilmesi için vikide "
+"var olan bilgiyi güncellememize ve yeni eğitmenler vb. eklememize yardımcı "
+"olun\n"
+
+#: i18n/en.yaml:0
+msgid "Do you have any other idea? Get in touch!"
+msgstr "Başka bir fikriniz mi var? İletişime geçin!"
+
+#. %1 app name, %2 link
+#: i18n/en.yaml:0
+msgid ""
+"%1 is already available on majority of Linux distributions. It can be "
+"installed directly from [Discover](%2), [GNOME Software](%2) or your "
+"distribution's [software store](%2)."
+msgstr ""
+"%1, halihazırda çoğu Linux dağıtımında vardır. [Keşfet](%1)'ten, [GNOME "
+"Yazılım](%2)'dan veya dağıtımınızın kendi [yazılım mağazasından](%3) "
+"indirilebilir."
+
+#: i18n/en.yaml:0
+msgid "Release Sources"
+msgstr "Sürüm Kaynakları"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"%1 is released regularly as part of KDE Gear. You can find %1 latest stable "
+"release among the [tarballs from the latest KDE Gear release](https://"
+"download.kde.org/stable/release-service).\n"
+"\n"
+"If you want to build %1 from sources, we recommend checking our [Getting "
+"Involved](/get-involved) page which contains links to full guide how to "
+"compile %1.\n"
+msgstr ""
+"%1, KDE Gear'ın bir parçası olarak düzenli olarak yayımlanır. Güncel kararlı "
+"%1 sürümünü [güncel KDE Gear sürüm tar paketleri arasında](https://download."
+"kde.org/stable/release-service) bulabilirsiniz.\n"
+"%1 yazılımını kaynaklardan yapmak isterseniz tam bir %1 derleme kılavuzu "
+"bağlantıları içeren [Katıl](/get-involved) sayfamıza bakmanızı öneririz.\n"
+
+#. %1 app name, %2 link, %3 link
+#: i18n/en.yaml:0
+msgid ""
+"You can install the latest [%1 flatpak](%2) from Flathub. Experimental "
+"flatpaks with nightly builds of %1 can be [installed from the KDE Flatpak "
+"repository](%3)."
+msgstr ""
+"Güncel [%1 flatpak](%2)'ını Flathub'dan indirebilirsiniz. %1 gecelik "
+"yapılarının deneysel flatpak'ları [KDE Flatpak deposundan](%3) indirilebilir."
+
+#: i18n/en.yaml:0
+msgid "Installation"
+msgstr "Kurulum"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"To install %1, follow the instructions of the platform you are using for how "
+"to install software. Most platforms have a graphical installer which can be "
+"used to install software packages. In many cases it will automatically be "
+"opened when clicking the download or install link for your platform. There "
+"is a [generic tutorial for installing KDE applications](https://userbase.kde."
+"org/Tutorials/Install_KDE_software) which also can be applied to %1."
+msgstr ""
+"%1 kurulumu için kullandığınız platformdaki yazılım kurulum yönergelerine "
+"başvurun. Çoğu platformda yazılım kurulumu için kullanılabilecek bir grafik "
+"arabirim vardır. Platformunuz için olan indirme bağlantısına tıkladığınızda "
+"çoğu kez kendiliğinden açılır. Aynı zamanda; %1 için de geçerli olan, [KDE "
+"uygulamaları kurulum eğitmeni](https://userbase.kde.org/Tutorials/"
+"Install_KDE_software) de kullanılabilir."
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"To install %1 or one of its components as a stand-alone application, follow "
+"the instructions of the platform you are using for how to install software. "
+"Most platforms have a graphical installer which can be used to install "
+"software packages. In many cases it will automatically be opened when "
+"clicking the download or install link for your platform. There is a [generic "
+"tutorial for installing KDE applications](https://userbase.kde.org/Tutorials/"
+"Install_KDE_software) which also can be applied to %1."
+msgstr ""
+"%1 yazılımını veya bir bileşenini tek başına kurmak istediğinizde, "
+"kullandığınız platformdaki yazılım kurulum yönergelerine başvurun. Çoğu "
+"platformda yazılım kurulumu için kullanılabilecek bir grafik arabirim "
+"vardır. Platformunuz için olan indirme bağlantısına tıkladığınızda çoğu kez "
+"kendiliğinden açılır. Aynı zamanda; %1 için de geçerli olan, [KDE "
+"uygulamaları kurulum eğitmeni](https://userbase.kde.org/Tutorials/"
+"Install_KDE_software) de kullanılabilir."
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"If you are using Linux, %1 might already be pre-installed on your system as "
+"part of a default selection. If not, you can install it with the package "
+"management tool of your Linux distribution. See its documentation for "
+"details."
+msgstr ""
+"Linux kullanıyorsanız %1 yazılımı sisteminizde halihazırda kurulu olabilir. "
+"Değilse Linux dağıtımınızın paket yönetim aracıyla indirebilirsiniz. "
+"Ayrıntılar için belgelendirmeye bakın."
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"In many cases you will have the opportunity to install %1 in a modular way, "
+"so you can decide to only install the set of components you actually want to "
+"use. Translations of the user interface often also will be available as "
+"separate module you can install according to your needs and preferences."
+msgstr ""
+"Çoğu durumda, %1 yazılımını modüler bir biçimde kurma şansınız olabilir, "
+"böylece yalnızca kullanmak istediğiniz bileşenleri kurmayı seçebilirsiniz. "
+"Kullanıcı arabirimi çevirileri de genelde kullanım tercihlerinize bağlı "
+"olarak ayrı bir modül olarak bulunur."
+
+#: i18n/en.yaml:0
+msgid "Uninstallation"
+msgstr "Kurulumu Kaldırma"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"To uninstall %1, follow the instructions of the package management tool you "
+"have used to install %1. This will remove the %1 application. It will not "
+"touch data you have viewed, created, or modified with %1."
+msgstr ""
+"%1 yazılımını kaldırmak için %1 yazılımını kurmak için kullandığınız paket "
+"yönetim aracınının yönergelerini izleyin. Bu, %1 uygulamasını kaldıracaktır. "
+"%1 ile görüntülediğiniz, oluşturduğunuz veya değiştirdiğiniz veriye dokunmaz."
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"To uninstall %1, follow the instructions of the package management tool you "
+"have used to install %1 and its components. This will remove the components "
+"of your choice. It will not touch data you have viewed, created, or modified "
+"with %1."
+msgstr ""
+"%1 yazılımını kaldırmak için %1 yazılımını ve bileşenlerini kurmak için "
+"kullandığınız paket yönetim aracınının yönergelerini izleyin. Bu, %1 "
+"uygulamasını kaldıracaktır. %1 ile görüntülediğiniz, oluşturduğunuz veya "
+"değiştirdiğiniz veriye dokunmaz."
+
+#: i18n/en.yaml:0
+msgid "Packaging status"
+msgstr "Paketleme durumu"
+
+#: i18n/en.yaml:0
+msgid "Handbook"
+msgstr "El Kitabı"
+
+#. %1 app name, %2 link
+#: i18n/en.yaml:0
+msgid ""
+"Lost in %1 settings or just looking to discover more features in %1? You can "
+"read the [%1 Handbook](%2) to find answers to your questions."
+msgstr ""
+"%1 ayarlarında kayıp mı oldunuz? %1 özelliklerini ayrıntılıca öğrenmek mi "
+"istiyorsunuz? Sorularınıza yanıt bulmak için [%1 El Kitabı](%2)'nı "
+"okuyabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Need Help?"
+msgstr "Yardıma mı gereksiniminiz var?"
+
+#. %1 app name, %2 link
+#: i18n/en.yaml:0
+msgid ""
+"Check %1 on [KDE Forum](%2), maybe someone has already solved a similar "
+"problem. And if not, feel free to ask there!"
+msgstr ""
+"[KDE Forum](%2)'una bir bakın; belki başka birisi benzer bir sorunu daha "
+"önce çözmüş olabilir. Benzer bir konu bulamazsanız sormaktan çekinmeyin!"
+
+#: i18n/en.yaml:0
+msgid "Found a Bug?"
+msgstr "Bir hata mı buldunuz?"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"Bugs in software happen. If you found some in %1, please report them into "
+"[our Bugzilla](https://bugs.kde.org). Please do not report bugs on forums or "
+"mailing lists - such reports will most likely be overlooked or forgotten by "
+"the developers quite soon. To make sure the bug gets noticed by developers "
+"and fixed as soon as possible, report it into Bugzilla."
+msgstr ""
+"Yazılımlarda hatalar olur. Eğer %1 içinde bir tanesini bulduysanız lütfen "
+"[Bugzilla](https://bugs.kde.org)'da bildirin. Hataları forumlarda veya posta "
+"listelerinde bildirmeyin; çünkü bu tür raporlar genelde gözden kaçabilir "
+"veya unutulabilir. Hataların geliştiriciler tarafından görüldüğünden emin "
+"olmak için Bugzilla'yı kullanın."
+
+#: i18n/en.yaml:0
+msgid "Missing a Feature?"
+msgstr "Bir özellik mi eksik?"
+
+#. %1 app name
+#: i18n/en.yaml:0
+msgid ""
+"%1 has a lot of features, but there's always a room for one or two more. If "
+"you have an idea for an improvement or you are missing a feature in %1, "
+"write your suggestion in our [Bugzilla](https://bugs.kde.org) so that the "
+"developers can find it and implement it."
+msgstr ""
+"%1 yazılımında birçok özellik vardır; ancak yine de yeni bir tanesi için her "
+"zaman yer bulunur. %1 için bir iyileştirme fikriniz varsa veya başka bir "
+"özelliğe gereksinim duyuyorsanız lütfen önerinizi [Bugzilla](https://bugs."
+"kde.org)'da bizlere iletin ki geliştiricilerimiz onu bulup ekleyebilsinler."
+
+#. %1 author name list, %2 license ID
+#: i18n/en.yaml:0
+msgid "Article contributed by %1 under the %2 license."
+msgstr "Yazı, %1 tarafından %2 lisansı altında katkıda bulunuldu."
+
+#. Used to separate items in a list, like "a, b, c, and d"
+#: i18n/en.yaml:0
+msgid ", "
+msgstr ", "
+
+#. Used to separate the last item in a list, like "a, b, c, and d"
+#: i18n/en.yaml:0
+msgid ", and "
+msgstr " ve "
+
+#: i18n/en.yaml:0
+msgid "Search"
+msgstr "Ara"
+
+#: i18n/en.yaml:0
+msgid "No results found"
+msgstr "Hiçbir sonuç bulunamadı"
+
+#: i18n/en.yaml:0
+msgid "Please provide a query with at least 3 characters"
+msgstr "Lütfen en az 3 karakter içeren bir sorgu sağlayın"
+
+#: i18n/en.yaml:0
+msgid "Searching..."
+msgstr "Aranıyor..."
+
+#: i18n/en.yaml:0
+msgid "Something went wrong while searching. Please try again."
+msgstr "Arama yaparken bir şeyler ters gitti. Lütfen yeniden deneyin."
+
+#: i18n/en.yaml:0
+msgid "Network error. Please try again."
+msgstr "Ağ hatası. Lütfen yeniden deneyin."

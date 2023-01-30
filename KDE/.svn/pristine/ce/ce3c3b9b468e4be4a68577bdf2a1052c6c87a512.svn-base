@@ -1,0 +1,117 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-18 00:54+0000\n"
+"PO-Revision-Date: 2022-07-13 09:47+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#: kcm_external_plasma-systemmonitor.desktop:14
+#: org.kde.plasma-systemmonitor.desktop:2
+msgctxt "Name"
+msgid "System Monitor"
+msgstr "Sistem Monitörü"
+
+#: kcm_external_plasma-systemmonitor.desktop:56
+msgctxt "X-KDE-Keywords"
+msgid "Memory,RAM,cpu,disk,gpu,network"
+msgstr "Bellek,RAM,cpu,disk,gpu,ağ"
+
+#: org.kde.plasma-systemmonitor.desktop:43
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr "Sistem Monitörü"
+
+#: org.kde.plasma-systemmonitor.desktop:88
+msgctxt "Keywords"
+msgid "task;manager;process;cpu;memory;"
+msgstr "görev;yönetici;süreç;işlemci;cpu;bellek;"
+
+#: src/faces/applicationstable/metadata.desktop:2
+msgctxt "Name"
+msgid "Applications Table"
+msgstr "Uygulamalar Tablosu"
+
+#: src/faces/processtable/metadata.desktop:2
+msgctxt "Name"
+msgid "Process Table"
+msgstr "Süreç Tablosu"
+
+#: src/pages/applications.page:10 src/pages/overview.page:475
+msgctxt "Title"
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: src/pages/history.page:34
+msgctxt "Title"
+msgid "History"
+msgstr "Geçmiş"
+
+#: src/pages/history.page:79 src/pages/overview.page:159
+msgctxt "Title"
+msgid "CPU"
+msgstr "CPU"
+
+#: src/pages/history.page:124 src/pages/history.page:222
+#: src/pages/history.page:320
+msgctxt "Title"
+msgid "false"
+msgstr "yanlış"
+
+#: src/pages/history.page:177 src/pages/overview.page:6
+msgctxt "Title"
+msgid "Memory"
+msgstr "Bellek"
+
+#: src/pages/history.page:275
+msgctxt "Title"
+msgid "Network"
+msgstr "Ağ"
+
+#: src/pages/overview.page:56
+msgctxt "Title"
+msgid "Networks"
+msgstr "Ağlar"
+
+#: src/pages/overview.page:109
+msgctxt "Title"
+msgid "Disk"
+msgstr "Disk"
+
+#: src/pages/overview.page:212
+msgctxt "Title"
+msgid "System"
+msgstr "Sistem"
+
+#: src/pages/overview.page:258
+msgctxt "Title"
+msgid "Network Rates"
+msgstr "Ağ Hız Verisi"
+
+#: src/pages/overview.page:313
+msgctxt "Title"
+msgid "Overview"
+msgstr "Genel Görünüm"
+
+#: src/pages/overview.page:394
+msgctxt "Title"
+msgid "Network & System"
+msgstr "Ağ ve Sistem"
+
+#: src/pages/processes.page:10
+msgctxt "Title"
+msgid "Processes"
+msgstr "Süreçler"
+
+#: src/plasma-systemmonitor.knsrc:4
+msgctxt "Name"
+msgid "Pages"
+msgstr "Sayfalar"

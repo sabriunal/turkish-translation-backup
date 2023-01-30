@@ -1,0 +1,90 @@
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-08 00:58+0000\n"
+"PO-Revision-Date: 2022-05-26 11:02+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: app/lattedock.notifyrc:2 app/org.kde.latte-dock.desktop.cmake:2
+msgctxt "Name"
+msgid "Latte Dock"
+msgstr "Latte Rıhtım"
+
+#: app/lattedock.notifyrc:37
+msgctxt "Comment"
+msgid "Latte Dock"
+msgstr "Latte Rıhtım"
+
+#: app/lattedock.notifyrc:75
+msgctxt "Name"
+msgid "Imported successfully"
+msgstr "Başarıyla içe aktarıldı"
+
+#: app/lattedock.notifyrc:114
+msgctxt "Name"
+msgid "Failed to import"
+msgstr "İçe aktarılamadı"
+
+#: app/lattedock.notifyrc:153
+msgctxt "Name"
+msgid "Exported successfully"
+msgstr "Başarıyla dışa aktarıldı"
+
+#: app/lattedock.notifyrc:192
+msgctxt "Name"
+msgid "Failed to export"
+msgstr "Dışa aktarılamadı"
+
+#: app/lattedock.notifyrc:232
+msgctxt "Name"
+msgid "Removed successfully"
+msgstr "Başarıyla kaldırıldı"
+
+#: app/lattedock.notifyrc:271
+msgctxt "Name"
+msgid "Failed to remove"
+msgstr "Kaldırılamadı"
+
+#: app/lattedock.notifyrc:311
+msgctxt "Name"
+msgid "Switch to layout"
+msgstr "Yerleşime geç"
+
+#: app/latte-indicators.knsrc:2
+msgctxt "Name"
+msgid "Latte Indicators"
+msgstr "Latte Göstergeleri"
+
+#: app/latte-layouts.knsrc:2
+msgctxt "Name"
+msgid "Latte Layouts"
+msgstr "Latte Yerleşimleri"
+
+#: app/org.kde.latte-dock.desktop.cmake:37
+msgctxt "Comment"
+msgid "Dock for the masses"
+msgstr "Kitleler için rıhtım"
+
+#: app/org.kde.latte-dock.desktop.cmake:73
+msgctxt "GenericName"
+msgid "Dock"
+msgstr "Rıhtım"
+
+#: app/packageplugins/indicator/latte-indicator.desktop:5
+msgctxt "Comment"
+msgid "Latte indicator"
+msgstr "Latte göstergesi"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma"
+#~ msgstr "Plasma"

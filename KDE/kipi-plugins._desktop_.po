@@ -1,0 +1,194 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2007-2009.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-graphics-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-07 00:56+0000\n"
+"PO-Revision-Date: 2022-04-11 11:32+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+
+#: dropbox/kipiplugin_dropbox.desktop.cmake:3
+msgctxt "Name"
+msgid "Dropbox Export"
+msgstr "Dropbox Aktarımı"
+
+#: dropbox/kipiplugin_dropbox.desktop.cmake:42
+msgctxt "Comment"
+msgid "A tool to export images to a remote Dropbox web service"
+msgstr "Görselleri uzak bir Dropbox web hizmetine aktarmak için bir araç"
+
+#: facebook/kipiplugin_facebook.desktop.cmake:3
+msgctxt "Name"
+msgid "Facebook Export"
+msgstr "Facebook Dışa Aktar"
+
+#: facebook/kipiplugin_facebook.desktop.cmake:39
+msgctxt "Comment"
+msgid "A tool to export images to a remote Facebook web service"
+msgstr "Görselleri uzak bir Facebook web hizmetine aktarmak için bir araç"
+
+#: flickr/kipiplugin_flickr.desktop.cmake:3
+msgctxt "Name"
+msgid "Flickr/23"
+msgstr "Flickr/23"
+
+#: flickr/kipiplugin_flickr.desktop.cmake:40
+msgctxt "Comment"
+msgid "A tool to export images to remote Flickr and 23 web services."
+msgstr "Görselleri Flickr ve 23 web servisine aktarmak için bir araç."
+
+#: googleservices/kipiplugin_googleservices.desktop.cmake:3
+msgctxt "Name"
+msgid "Google Services"
+msgstr "Google Servisleri"
+
+#: googleservices/kipiplugin_googleservices.desktop.cmake:40
+msgctxt "Comment"
+msgid "A tool to manage images with a remote Google web service"
+msgstr "Görselleri uzak bir Google Drive web hizmetine aktarmak için bir araç"
+
+#: imgur/kipiplugin_imgur.desktop.cmake:3
+msgctxt "Name"
+msgid "Imgur Export"
+msgstr "Imgur Aktarımı"
+
+#: imgur/kipiplugin_imgur.desktop.cmake:44
+msgctxt "Comment"
+msgid "A tool to export images to the imgur.com image hosting service"
+msgstr "Görselleri imgur.com resim barındırma hizmetine aktarmak için bir araç"
+
+#: printimages/templates/1_photo_10.5x14.8cm.desktop:2
+msgctxt "Name"
+msgid "10.5x14.8 cm (1 photo)"
+msgstr "10.5x14.8 cm (1 fotoğraf)"
+
+#: printimages/templates/1_photo_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm (1 photo)"
+msgstr "10x15 cm (1 fotoğraf)"
+
+#: printimages/templates/1_photo_20x25cm.desktop:2
+msgctxt "Name"
+msgid "20x25 cm (1 photo)"
+msgstr "20x25 cm (1 fotoğraf)"
+
+#: printimages/templates/1_photo_8x10.desktop:2
+msgctxt "Name"
+msgid "8 x 10\" (1 photo)"
+msgstr "8 x 10\" (1 fotoğraf)"
+
+#: printimages/templates/1_photo_9x13cm.desktop:2
+msgctxt "Name"
+msgid "9x13 cm (1 photo)"
+msgstr "9x13 cm (1 fotoğraf)"
+
+#: printimages/templates/2_photos_13x18cm.desktop:2
+msgctxt "Name"
+msgid "13x18 cm (2 photos)"
+msgstr "13x18 cm (2 fotoğraf)"
+
+#: printimages/templates/2_photos_5x7.desktop:2
+msgctxt "Name"
+msgid "5 x 7\" (2 photos)"
+msgstr "5 x 7\" (2 fotoğraf)"
+
+#: printimages/templates/3_photos_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm (3 photos)"
+msgstr "10x15 cm (3 fotoğraf)"
+
+#: printimages/templates/3_photos_4x6.desktop:2
+msgctxt "Name"
+msgid "4 x 6\" (3 photos)"
+msgstr "4 x 6\" (3 fotoğraf)"
+
+#: printimages/templates/4_photos_10x13.33cm.desktop:2
+msgctxt "Name"
+msgid "10x13.33 cm (4 photos)"
+msgstr "10x13.33 cm (4 fotoğraf)"
+
+#: printimages/templates/4_photos_3.5x5.desktop:2
+msgctxt "Name"
+msgid "3.5 x 5\" (4 photos)"
+msgstr "3.5 x 5\" (4 fotoğraf)"
+
+#: printimages/templates/4_photos_4.5x5cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos - 4.5x5cm (4 photos)"
+msgstr "Pasaport fotoğrafları - 4.5x5cm (4 fotoğraf)"
+
+#: printimages/templates/4_photos_9x13cm.desktop:2
+msgctxt "Name"
+msgid "9x13 cm (4 photos)"
+msgstr "9x13 cm (4 fotoğraf)"
+
+#: printimages/templates/4x6Album.desktop:2
+msgctxt "Name"
+msgid "4 x 6\" Album"
+msgstr "4 x 6\" Albüm"
+
+#: printimages/templates/6_photos_3.5x4.5cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos UK - 3.5x4.5cm (6 photos)"
+msgstr "Pasaport fotoğrafları Birleşik Krallık - 3.5x4.5cm (6 fotoğraf)"
+
+#: printimages/templates/6_photos_3.5x4cm.desktop:2
+msgctxt "Name"
+msgid "Passport photos - 3.5x4cm (6 photos)"
+msgstr "Pasaport fotoğrafları - 3.5x4cm (6 fotoğraf)"
+
+#: printimages/templates/8_photos_6x9cm.desktop:2
+msgctxt "Name"
+msgid "6x9 cm (8 photos)"
+msgstr "6 x 9cm (8 fotoğraf)"
+
+#: printimages/templates/Album_10x15cm.desktop:2
+msgctxt "Name"
+msgid "10x15 cm Album"
+msgstr "10 x 15 cm Albüm"
+
+#: printimages/templates/Album_11.5x15cm.desktop:2
+msgctxt "Name"
+msgid "11.5x15 cm Album"
+msgstr "11.5x15 cm Albüm"
+
+#: printimages/templates/Album-Collage1.desktop:2
+msgctxt "Name"
+msgid "Album Collage 2 (6 photos)"
+msgstr "Albüm Kolajı 2 (6 fotoğraf)"
+
+#: printimages/templates/Album-Collage.desktop:2
+msgctxt "Name"
+msgid "Album Collage 1 (9 photos)"
+msgstr "Albüm Kolajı 1 (9 fotoğraf)"
+
+#: printimages/templates/FullPage.desktop:2
+msgctxt "Name"
+msgid "Full page"
+msgstr "Tam sayfa"
+
+#: printimages/templates/Photoframe.desktop:2
+msgctxt "Name"
+msgid "Photoframe (5 photos)"
+msgstr "Fotoğraf çerçevesi (5 fotoğraf)"
+
+#: printimages/templates/Thumbnails_5x4.desktop:2
+msgctxt "Name"
+msgid "Thumbnails 5x4 photos"
+msgstr "5x4 küçük fotoğraf"
+
+#: printimages/templates/Thumbnails_6x5.desktop:2
+msgctxt "Name"
+msgid "Thumbnails 6x5 photos"
+msgstr "6x5 küçük fotoğraf"

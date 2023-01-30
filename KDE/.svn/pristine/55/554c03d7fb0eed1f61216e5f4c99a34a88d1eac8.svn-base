@@ -1,0 +1,435 @@
+# Ongun Kanat <ongun.kanat@gmail.com>, 2014.
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2017.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-06 00:57+0000\n"
+"PO-Revision-Date: 2022-12-11 19:53+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.0\n"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:2
+#: daemon/backends/upower/discretegpu_helper_actions.actions:2
+#: daemon/chargethreshold_helper_actions.actions:2
+msgctxt "Name"
+msgid "KDE"
+msgstr "KDE"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:58
+msgctxt "Name"
+msgid "Get maximum brightness value"
+msgstr "En yüksek parlaklık değerini al"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:110
+#: daemon/backends/upower/backlight_helper_actions.actions:217
+msgctxt "Description"
+msgid "System policies prevent you from getting the brightness level."
+msgstr "Sistem ilkeleri parlaklık düzeyini istemenizi engelliyor."
+
+#: daemon/backends/upower/backlight_helper_actions.actions:165
+msgctxt "Name"
+msgid "Get brightness"
+msgstr "Parlaklığı Göster"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:272
+msgctxt "Name"
+msgid "Set brightness"
+msgstr "Parlaklığı ayarla"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:324
+msgctxt "Description"
+msgid "System policies prevent you from setting the brightness level."
+msgstr "Sistem ilkeleri parlaklığı ayarlamanızı engelliyor."
+
+#: daemon/backends/upower/backlight_helper_actions.actions:378
+msgctxt "Name"
+msgid "Get syspath"
+msgstr "syspath Görüntüle"
+
+#: daemon/backends/upower/backlight_helper_actions.actions:427
+msgctxt "Description"
+msgid "System policies prevent you from getting the syspath"
+msgstr "Sistem ilkeleri syspath bilgisini istemenizi engelliyor."
+
+#: daemon/backends/upower/discretegpu_helper_actions.actions:58
+msgctxt "Name"
+msgid "Check existence of discrete gpu"
+msgstr "Ayrı GPU varlığını denetleyin"
+
+#: daemon/backends/upower/discretegpu_helper_actions.actions:105
+msgctxt "Description"
+msgid ""
+"System policies prevent you from checking the existence of discrete gpu."
+msgstr "Sistem politikaları, ayrı GPU varlığını denetlemenizi engelliyor."
+
+#: daemon/backends/upower/powerdevilupowerbackend.desktop:7
+msgctxt "Name"
+msgid "UPower PowerDevil Backend"
+msgstr "UPower PowerDevil Arka Ucu"
+
+#: daemon/backends/upower/powerdevilupowerbackend.desktop:56
+msgctxt "Comment"
+msgid "Use KDE Power Management system through freedesktop.org upower daemon"
+msgstr ""
+"KDE Güç Yönetim Sistemini freedesktop.org upower servisi üzerinden kullan."
+
+#: daemon/chargethreshold_helper_actions.actions:58
+msgctxt "Name"
+msgid "Get current battery charge limit"
+msgstr "Geçerli pil şarj limitini al"
+
+#: daemon/chargethreshold_helper_actions.actions:96
+msgctxt "Description"
+msgid ""
+"System policies prevent you from getting the current battery charge limit."
+msgstr "Sistem ilkeleri geçerli pil şarj limitini almanızı engelliyor."
+
+#: daemon/chargethreshold_helper_actions.actions:139
+msgctxt "Name"
+msgid "Set battery charge limit"
+msgstr "Pil şarj limiti ayarla"
+
+#: daemon/chargethreshold_helper_actions.actions:178
+msgctxt "Description"
+msgid "System policies prevent you from setting a battery charge limit."
+msgstr "Sistem ilkeleri bir pil şarj limiti ayarlamanızı engelliyor."
+
+#: daemon/powerdevil.desktop.cmake:4 powerdevil.notifyrc:2
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Güç Yönetimi"
+
+#: daemon/powerdevil.desktop.cmake:62
+msgctxt "Comment"
+msgid "Battery, Display and CPU power management and notification"
+msgstr "Pil, Görüntü ve İşlemci güç yönetimi ve bildirimleri"
+
+#: powerdevil.notifyrc:55
+msgctxt "Comment"
+msgid "Power Management System"
+msgstr "Güç Yönetimi Sistemi"
+
+#: powerdevil.notifyrc:110
+msgctxt "Name"
+msgid "Warning"
+msgstr "Uyarı"
+
+#: powerdevil.notifyrc:162
+msgctxt "Comment"
+msgid "Used for warning notifications"
+msgstr "Uyarı bildirimleri için kullanılır"
+
+#: powerdevil.notifyrc:216
+msgctxt "Name"
+msgid "Notification"
+msgstr "Bildirim"
+
+#: powerdevil.notifyrc:269
+msgctxt "Comment"
+msgid "Used for standard notifications"
+msgstr "Standart bildirimler için kullanılır"
+
+#: powerdevil.notifyrc:323
+msgctxt "Name"
+msgid "Critical notification"
+msgstr "Kritik Bildirim"
+
+#: powerdevil.notifyrc:375
+msgctxt "Comment"
+msgid "Notifies a critical event"
+msgstr "Kritik bir durumu bildirir"
+
+#: powerdevil.notifyrc:429
+msgctxt "Name"
+msgid "Battery Low"
+msgstr "Pil Düşük"
+
+#: powerdevil.notifyrc:481
+msgctxt "Comment"
+msgid "Your battery has reached low level"
+msgstr "Piliniz düşük düzeye indi"
+
+#: powerdevil.notifyrc:539
+msgctxt "Name"
+msgid "Battery Critical"
+msgstr "Pil Kritik"
+
+#: powerdevil.notifyrc:591
+msgctxt "Comment"
+msgid ""
+"Your battery has reached critical level. This notification triggers a "
+"countdown before doing the configured action, hence it is strongly advised "
+"to leave that on."
+msgstr ""
+"Piliniz kritik düzeye indi. Bu bildirim yapılandırılmış bir işlemi "
+"gerçekleştirecek bir sayacı tetikler; bu nedenle etkin bırakmanız önerilir."
+
+#: powerdevil.notifyrc:649
+msgctxt "Name"
+msgid "Charge Complete"
+msgstr "Şarj Doldu"
+
+#: powerdevil.notifyrc:700
+msgctxt "Comment"
+msgid "The battery is fully charged"
+msgstr "Piliniz tümüyle şarj edildi."
+
+#: powerdevil.notifyrc:757
+msgctxt "Name"
+msgid "Peripheral Battery Low"
+msgstr "Çevre Birimi Pili Düşük"
+
+#: powerdevil.notifyrc:806
+msgctxt "Comment"
+msgid "The battery in a connected device, such as mouse or keyboard, is low"
+msgstr "Fare veya klavye gibi bağlı bir aygıttaki pil düşük"
+
+#: powerdevil.notifyrc:861
+msgctxt "Name"
+msgid "Power source connected"
+msgstr "Güç kaynağı bağlandı"
+
+#: powerdevil.notifyrc:901
+msgctxt "Comment"
+msgid "The power source has been connected"
+msgstr "Güç kaynağı bağlandı"
+
+#: powerdevil.notifyrc:947
+msgctxt "Name"
+msgid "Power source disconnected"
+msgstr "Güç kaynağı bağlantısı kesildi"
+
+#: powerdevil.notifyrc:987
+msgctxt "Comment"
+msgid "The power source has been disconnected"
+msgstr "Güç kaynağı bağlantısı kesildi"
+
+#~ msgctxt "Comment"
+#~ msgid "Power Management Action Extension"
+#~ msgstr "Güç Yönetimi Eylemi Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Screen brightness"
+#~ msgstr "Ekran parlaklığı"
+
+#~ msgctxt "Comment"
+#~ msgid "Basic Controls for brightness"
+#~ msgstr "Parlaklık için temel denetimler"
+
+#~ msgctxt "Name"
+#~ msgid "Dim screen"
+#~ msgstr "Ekranı karart"
+
+#~ msgctxt "Comment"
+#~ msgid "Dims gradually the display on a time basis"
+#~ msgstr "Zamana bağlı olarak ekranı yavaşça karartır"
+
+#~ msgctxt "Name"
+#~ msgid "Screen Energy Saving"
+#~ msgstr "Ekran Enerji Tasarrufu"
+
+#~ msgctxt "Comment"
+#~ msgid "Controls DPMS settings"
+#~ msgstr "DPMS (Görüntü Güç Yönetimi Ayarları) tercihlerini denetler"
+
+#~ msgctxt "Name"
+#~ msgid "Button events handling"
+#~ msgstr "Düğme işlevleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Performs an action whenever a button is pressed"
+#~ msgstr "Bir düğmeye basıldığında bir işlem gerçekleştirir"
+
+#~ msgctxt "Name"
+#~ msgid "Keyboard backlight"
+#~ msgstr "Klavye arka ışığı"
+
+#~ msgctxt "Comment"
+#~ msgid "Basic Controls for the keyboard backlight brightness"
+#~ msgstr "Klavye arka ışığı parlaklığı için temel denetimler"
+
+#~ msgctxt "Name"
+#~ msgid "Power management profile"
+#~ msgstr "Güç yönetimi profili"
+
+#~ msgctxt "Comment"
+#~ msgid "Apply a power management profile"
+#~ msgstr "Bir güç yönetimi profili uygula"
+
+#~ msgctxt "Name"
+#~ msgid "Run script"
+#~ msgstr "Betik çalıştır"
+
+#~ msgctxt "Comment"
+#~ msgid "Runs a custom script"
+#~ msgstr "Özel bir betik çalıştırır"
+
+#~ msgctxt "Name"
+#~ msgid "Suspend session"
+#~ msgstr "Oturumu askıya al"
+
+#~ msgctxt "Comment"
+#~ msgid "Suspends the session"
+#~ msgstr "Geçerli oturumu askıya alır"
+
+#~ msgctxt "Name"
+#~ msgid "Wireless"
+#~ msgstr "Kablosuz"
+
+#~ msgctxt "Comment"
+#~ msgid "Turns off signal-transmitting devices"
+#~ msgstr "Sinyal ileten aygıtları kapatır"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Power Settings"
+#~ msgstr "Etkinlik Güç Ayarları"
+
+#~ msgctxt "Comment"
+#~ msgid "Per-Activity Power Management"
+#~ msgstr "Etkinlik Başı Güç Yönetimi"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+#~ "suspending,hibernating,hibernate,brightness,performance,lid,power saving,"
+#~ "charging,charge,discharge,discharging,dim screen,sleep,lock screen,"
+#~ "lockscreen,turn screen off,turn off,power button,power buttons,low "
+#~ "battery,plug,unplug,activity,activities,workspaces,workspace,special "
+#~ "behavior"
+#~ msgstr ""
+#~ "sistem,güç,güç yönetimi,enerji,dizüstü,pil,askıya alma,AC,askıya al,"
+#~ "askıya alınıyor,hazırda bekletiliyor, hazırda beklet,parlaklık,başarım,"
+#~ "kapak,güç tasarrufu,şarj oluyor,şarj,şarj boşalıyor,boşalıyor,ekranı "
+#~ "karart, uyut,ekranı kilitle,kilit ekranı,ekranı kapat,gücü kapat,güç "
+#~ "düğmesi,güç düğmeleri,düşük pil,tak,çıkar, etkinlik,etkinlikler,çalışma "
+#~ "alanları,çalışma alanı,özel davranış"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced Power Settings"
+#~ msgstr "Gelişmiş Güç Ayarları"
+
+#~ msgctxt "Comment"
+#~ msgid "Advanced Power Management Settings"
+#~ msgstr "Gelişmiş Güç Yönetimi Ayarları"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "system,power,power management,advanced,energy,laptop,battery,suspension,"
+#~ "AC,suspend,hibernate,lid,charge,charging,limit,charge limit,charging "
+#~ "limit,suspending,hibernating,discharge,discharging,turn off,battery "
+#~ "levels,low battery,low level,critical level,power notifications"
+#~ msgstr ""
+#~ "sistem,güç,güç yönetimi,gelişmiş,enerji,dizüstü,pil,askıya alma,AC,askıya "
+#~ "al,hazırda beklet, kapak,şarj,şarj oluyor,limit,şarj limiti,askıya "
+#~ "alınıyor,hazırda bekletiliyor,şarj boşalıyor,boşalım, kapat,pil düzeyleri,"
+#~ "düşük pil,düşük düzey,kritik düzey,güç bildirimleri"
+
+#~ msgctxt "Name"
+#~ msgid "Energy Saving"
+#~ msgstr "Güç Tasarrufu"
+
+#~ msgctxt "Comment"
+#~ msgid "Energy Saving"
+#~ msgstr "Güç Tasarrufu"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+#~ "suspending,hibernating,hibernate,brightness,performance,lid,power saving,"
+#~ "charging,charge,discharge,discharging,dim screen,sleep,lock screen,"
+#~ "lockscreen,turn screen off,turn off,power button,power buttons,low "
+#~ "battery,plug,unplug"
+#~ msgstr ""
+#~ "sistem,güç,güç yönetimi,enerji,dizüstü,pil,askıya alma,AC,askıya al,"
+#~ "askıya alınıyor,hazırda bekletiliyor, hazırda beklet,parlaklık,başarım,"
+#~ "kapak,güç tasarrufu,şarj oluyor,şarj,şarj boşalıyor,boşalıyor,ekranı "
+#~ "karart, uyut,ekranı kilitle,ekranı kapat,kapat,güç düğmesi,güç düğmeleri,"
+#~ "düşük pil,tak,çıkar"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+#~ "hibernate,brightness,performance,lid,activity,activities"
+#~ msgstr ""
+#~ "sistem, güç, güç yönetimi, enerji, dizüstü, laptop, pil, askıya alma, "
+#~ "uyutma, AC, parlaklık, performans, ışık, etkinlik, etkinlikler"
+
+#, fuzzy
+#~| msgctxt "X-KDE-Keywords"
+#~| msgid ""
+#~| "system,power,power management,energy,laptop,battery,suspension,AC,"
+#~| "suspend,hibernate,brightness,performance,lid"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
+#~ "hibernate,brightness,performance,lid,screen"
+#~ msgstr ""
+#~ "sistem,güç,güç yönetimi,enerji,dizüstü,laptop,pil,askıya alma,uyutma,AC,"
+#~ "fişte,parlaklık,performans,ışık"
+
+#~ msgctxt "Name"
+#~ msgid "AC adaptor plugged in"
+#~ msgstr "Güç adaptörü takıldı"
+
+#~ msgctxt "Comment"
+#~ msgid "The power adaptor has been plugged in"
+#~ msgstr "Güç adaptörü bilgisayara takıldı"
+
+#~ msgctxt "Name"
+#~ msgid "AC adaptor unplugged"
+#~ msgstr "Güç adaptörü çıkarıldı"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Power Management System"
+#~ msgstr "KDE Güç Yönetimi Sistemi"
+
+#~ msgctxt "Name"
+#~ msgid "Internal Error"
+#~ msgstr "İç Hata"
+
+#~ msgctxt "Comment"
+#~ msgid "The KDE Power Management System has triggered an internal error"
+#~ msgstr "KDE Güç Yönetimi Sistemi bir iç hata ile karşılaştı"
+
+#~ msgctxt "Name"
+#~ msgid "HAL PowerDevil Backend"
+#~ msgstr "HAL (Donanım Ayırma Katmanı) PowerDevil Arkayüzü"
+
+#~ msgctxt "Comment"
+#~ msgid "Use KDE Power Management system through freedesktop.org HAL daemon"
+#~ msgstr ""
+#~ "KDE Güç Yönetimi sistemini freedesktop.org'un HAL servisi üzerinden kullan"
+
+#~ msgctxt "Name"
+#~ msgid "Broken battery notification"
+#~ msgstr "Bozuk Pil Bildirimi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "KDE Power Management System has detected some troubles with one of your "
+#~ "batteries"
+#~ msgstr ""
+#~ "KDE Güç Yönetimi Sistemi pillerinizin birinde bazı problemler tespit etti"
+
+#~ msgctxt "Name"
+#~ msgid "Suspension inhibited"
+#~ msgstr "Uyutma Engellendi"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The suspension has been inhibited because an application requested it"
+#~ msgstr ""
+#~ "Bir uygulamanın isteği üzerine bilgisayarınızı askıya alma süreci "
+#~ "engellendi"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure Energy Saving"
+#~ msgstr "Güç Tasarrufunu Yapılandır"

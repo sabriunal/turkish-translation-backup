@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-30 01:06+0000\n"
+"PO-Revision-Date: 2017-06-16 11:56+0000\n"
+"Last-Translator: Mete <metebilgin48@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1497614172.000000\n"
+
+#: src/helper/samba-mounter.actions:2
+msgctxt "Name"
+msgid "Mount a cifs file system"
+msgstr "Cifs dosya sistemi bağla"
+
+#: src/helper/samba-mounter.actions:36
+msgctxt "Description"
+msgid "Executes mount with the needed arguments to mount samba shares"
+msgstr ""
+"Samba paylaşımlarını bağlamak için gerekli değişkenlerle birlikte bağlamayı "
+"yürütür"
+
+#: src/helper/samba-mounter.actions:73
+msgctxt "Name"
+msgid "Umount a cifs file system"
+msgstr "Cifs dosya sistemi ayır"
+
+#: src/helper/samba-mounter.actions:106
+msgctxt "Description"
+msgid "Executes umount with the needed arguments to umount a samba share"
+msgstr ""
+"Samba paylaşımlarını ayırmak için gerekli değişkenlerle birlikte ayırmayı "
+"yürütür"
+
+#: src/onstart/sambamounter.desktop:2
+msgctxt "Name"
+msgid "Samba Mounter"
+msgstr "Samba Bağlayıcı"
+
+#: src/onstart/sambamounter.desktop:36
+msgctxt "GenericName"
+msgid "Mounts Samba shares"
+msgstr "Sampa paylaşımlarını bağlar"
+
+#: src/onstart/sambamounter.desktop:79
+msgctxt "Comment"
+msgid "Mounts Samba shares at startup time"
+msgstr "Samba paylaşımlarını, başlangıçta bağlar"
+
+#: src/sambamount.desktop:13 src/sambamounterapp.desktop:4
+msgctxt "Name"
+msgid "Network Drives"
+msgstr "Ağ Sürücüleri"
+
+#: src/sambamount.desktop:48
+msgctxt "Comment"
+msgid "Configure mounts managed by Plasma instead of fstab"
+msgstr "Bağlamaları, fstab yerine Plasma tarafından yönetilmesini yapılandırır"
+
+#: src/sambamount.desktop:82
+msgctxt "X-KDE-Keywords"
+msgid "Samba,Mount,Fstab"
+msgstr "Samba,Bağlama,Fstab"
+
+#: src/sambamounterapp.desktop:38
+msgctxt "GenericName"
+msgid "Network Drives"
+msgstr "Ağ Sürücüleri"
+
+#: src/sambamounterapp.desktop:73
+msgctxt "Comment"
+msgid "Network Samba Drives"
+msgstr "Ağ Sabma Sürücüleri"
+
+#~ msgctxt "Name"
+#~ msgid "Network Drivers"
+#~ msgstr "Ağ Sürücüleri"

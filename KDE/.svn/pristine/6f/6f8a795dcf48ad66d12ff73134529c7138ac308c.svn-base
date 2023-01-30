@@ -1,0 +1,65 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-12-01 00:55+0000\n"
+"PO-Revision-Date: 2022-05-09 17:36+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: calindac/calindac.notifyrc:4
+msgctxt "Comment"
+msgid "Plasma Mobile Calendar"
+msgstr "Plasma Mobile Takvim"
+
+#: calindac/calindac.notifyrc:34 org.kde.calindori.desktop:5
+msgctxt "Name"
+msgid "Calindori"
+msgstr "Calindori"
+
+#: calindac/calindac.notifyrc:68
+msgctxt "Name"
+msgid "Incidence uid"
+msgstr "Olay kimliği"
+
+#: calindac/calindac.notifyrc:97
+msgctxt "Comment"
+msgid "The uid of the incidence of the alarm"
+msgstr "Alarm olayının kimliği"
+
+#: calindac/calindac.notifyrc:128
+msgctxt "Name"
+msgid "Alarm"
+msgstr "Alarm"
+
+#: calindac/calindac.notifyrc:161
+msgctxt "Comment"
+msgid "Alarm Notification"
+msgstr "Alarm Bildirimi"
+
+#: calindac/org.kde.calindac.desktop:6
+msgctxt "Name"
+msgid "Calindori Reminder Client"
+msgstr "Calindori Anımsatıcı İstemcisi"
+
+#: calindac/org.kde.calindac.desktop:40
+msgctxt "GenericName"
+msgid "Calindori Reminder Daemon Client"
+msgstr "Calindori Anımsatıcı Ardalan Süreci İstemcisi"
+
+#: org.kde.calindori.desktop:37
+msgctxt "GenericName"
+msgid "Calendar"
+msgstr "Takvim"
+
+#: org.kde.calindori.desktop:66
+msgctxt "Comment"
+msgid "Organize events and tasks"
+msgstr "Etkinlikleri ve görevleri düzenleyin"

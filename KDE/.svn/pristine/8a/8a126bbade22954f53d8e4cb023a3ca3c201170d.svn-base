@@ -1,0 +1,51 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-11 00:55+0000\n"
+"PO-Revision-Date: 2022-03-29 12:39+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.12.3\n"
+"X-POOTLE-MTIME: 1497607751.000000\n"
+
+#: mobile/sailfishos/harbour-bibsearch.desktop:6
+msgctxt "Name"
+msgid "BibSearch"
+msgstr "BibSearch"
+
+#: src/parts/kbibtexpart.desktop:7
+msgctxt "Name"
+msgid "BibTeX Viewer and Editor"
+msgstr "BibTeX Görüntüleyici ve Düzenleyici"
+
+#: src/parts/kbibtexpart.desktop:40
+msgctxt "Comment"
+msgid "KParts component to view and edit bibliographic files"
+msgstr "Kaynakça dosyalarını görüntülemek ve düzenlemek için KParts bileşeni"
+
+#: src/program/org.kde.kbibtex.desktop:6
+msgctxt "Name"
+msgid "KBibTeX"
+msgstr "KBibTeX"
+
+#: src/program/org.kde.kbibtex.desktop:39
+msgctxt "Comment"
+msgid "KDE-based editor for bibliographic files"
+msgstr "Kaynakça dosyaları için KDE tabanlı düzenleyici"
+
+#: src/program/org.kde.kbibtex.desktop:71
+msgctxt "GenericName"
+msgid "BibTeX Editor"
+msgstr "BibTeX Düzenleyici"
+
+#: src/program/org.kde.kbibtex.desktop:113
+msgctxt "Keywords"
+msgid "BibTeX;bibliography;editor;LaTeX;"
+msgstr "BibTeX;kaynakça;düzenleyici;LaTeX;"

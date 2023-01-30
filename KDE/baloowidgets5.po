@@ -1,0 +1,259 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# zeugma <sunder67@hotmail.com>, 2013.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014, 2015.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-09-26 00:43+0000\n"
+"PO-Revision-Date: 2022-07-18 09:49+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.2\n"
+
+#: src/filemetadataprovider.cpp:133
+#, kde-format
+msgctxt "width × height"
+msgid "%1 × %2"
+msgstr "%1 × %2"
+
+#: src/filemetadataprovider.cpp:167 src/filemetadataprovider.cpp:173
+#: src/filemetadataprovider.cpp:271 src/filemetadataprovider.cpp:274
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 öge"
+msgstr[1] "%1 öge"
+
+#: src/filemetadataprovider.cpp:445 src/filemetadataprovider.cpp:462
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "Açıklama"
+
+#: src/filemetadataprovider.cpp:446
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "Oluşturma"
+
+#: src/filemetadataprovider.cpp:447
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "Erişim"
+
+#: src/filemetadataprovider.cpp:448
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "Değiştirildi"
+
+#: src/filemetadataprovider.cpp:449
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "Sahibi"
+
+#: src/filemetadataprovider.cpp:450
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr "Grup"
+
+#: src/filemetadataprovider.cpp:451
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "İzinler"
+
+#: src/filemetadataprovider.cpp:452 src/filemetadataprovider.cpp:461
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "Beğeni"
+
+#: src/filemetadataprovider.cpp:453
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "Boyut"
+
+#: src/filemetadataprovider.cpp:454 src/filemetadataprovider.cpp:460
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "Etiketler"
+
+#: src/filemetadataprovider.cpp:455
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr "Toplam Boyut"
+
+#: src/filemetadataprovider.cpp:456
+#, kde-format
+msgctxt "@label"
+msgid "Hidden items"
+msgstr "Gizli ögeler"
+
+#: src/filemetadataprovider.cpp:457
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "Tür"
+
+#: src/filemetadataprovider.cpp:458
+#, kde-format
+msgctxt "@label"
+msgid "Link to"
+msgstr "Şuraya bağla:"
+
+#: src/filemetadataprovider.cpp:459
+#, kde-format
+msgctxt "@label"
+msgid "Points to"
+msgstr "Puanlar:"
+
+#: src/filemetadataprovider.cpp:463
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "İndirme Adresi"
+
+#: src/filemetadataprovider.cpp:464
+#, kde-format
+msgctxt "@label"
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+#: src/filemetadataprovider.cpp:465
+#, kde-format
+msgctxt "@label"
+msgid "GPS Location"
+msgstr "GPS Konumu"
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:61
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr "&Ayrıntılar"
+
+#: src/kcommentwidget.cpp:47 src/tagwidget.cpp:65
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr "Ekle..."
+
+#: src/kcommentwidget.cpp:53 src/tagwidget.cpp:65
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr "Düzenle..."
+
+#: src/kcommentwidget.cpp:99
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr "Yorumu Düzenle"
+
+#: src/kcommentwidget.cpp:99
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr "Yorum Ekle"
+
+#: src/keditcommentdialog.cpp:33 src/kedittagsdialog.cpp:32
+#, kde-format
+msgid "Save"
+msgstr "Kaydet"
+
+#: src/kedittagsdialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr "Etiketleri Düzenle"
+
+#: src/kedittagsdialog.cpp:28
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "Etiketler Ekle"
+
+#: src/kedittagsdialog.cpp:42
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr "Uygulanacak etiketleri yapılandır."
+
+#: src/kedittagsdialog.cpp:51
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr "Yeni etiket oluştur:"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:28
+#, kde-format
+msgid "Assign Tags"
+msgstr "Etiket Ata"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:62
+#, kde-format
+msgid "Create New..."
+msgstr "Yeni Oluştur..."
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:66
+#, kde-format
+msgid "New tag"
+msgstr "Yeni etiket"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:66
+#, kde-format
+msgid "New tag:"
+msgstr "Yeni etiket:"
+
+#: src/widgetfactory.cpp:69 src/widgetfactory.cpp:80
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ", "
+
+#: src/widgetfactory.cpp:112
+#, kde-format
+msgctxt "Latitude (South)"
+msgid "%1°S"
+msgstr "%1°G"
+
+#: src/widgetfactory.cpp:112
+#, kde-format
+msgctxt "Latitude (North)"
+msgid "%1°N"
+msgstr "%1°K"
+
+#: src/widgetfactory.cpp:113
+#, kde-format
+msgctxt "Longitude (West)"
+msgid "%1°W"
+msgstr "%1°B"
+
+#: src/widgetfactory.cpp:113
+#, kde-format
+msgctxt "Longitude (East)"
+msgid "%1°E"
+msgstr "%1°D"
+
+#: src/widgetfactory.cpp:122
+#, kde-format
+msgctxt "@info:tooltip Show location in map viewer"
+msgid "Show location in %1"
+msgstr "%1 konumunu göster"

@@ -1,0 +1,30 @@
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-06-04 00:57+0000\n"
+"PO-Revision-Date: 2022-06-07 12:51+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.1\n"
+
+#: kcm/akonadicontact_actions.json
+msgctxt "Name"
+msgid "Contact Actions"
+msgstr "Kişi Eylemleri"
+
+#: src/akonadi-contacts/plugins/categorieseditwidgetplugin.json
+msgctxt "Name"
+msgid "Categories Editor"
+msgstr "Kategori Düzenleyici"
+
+#: kcm/akonadicontact_actions.json
+msgctxt "Description"
+msgid "Configure the Contact Actions"
+msgstr "Kişi Eylemlerini Yapılandır"

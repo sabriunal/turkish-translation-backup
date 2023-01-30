@@ -1,0 +1,910 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-kate-editor-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-18 01:01+0000\n"
+"PO-Revision-Date: 2023-01-19 22:40+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: config.yaml:0 content/_index.md:0 i18n/en.yaml:0
+msgid "Kate"
+msgstr "Kate"
+
+#: config.yaml:0
+msgid "Kate is a modern text editor built on the KDE Frameworks and Qt."
+msgstr ""
+"Kate, KDE Frameworks ve Qt üzerine yapılmış çağdaş bir metin düzenleyicidir."
+
+#: config.yaml:0
+msgid "Build It"
+msgstr "Yap"
+
+#: config.yaml:0
+msgid "Blog"
+msgstr "Blog"
+
+#: config.yaml:0
+msgid "Posts"
+msgstr "Gönderiler"
+
+#: config.yaml:0
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: config.yaml:0
+msgid "Tags"
+msgstr "Etiketler"
+
+#: config.yaml:0
+msgid "More"
+msgstr "Daha Fazla"
+
+#: config.yaml:0
+msgid "Get Help"
+msgstr "Yardım Al"
+
+#: config.yaml:0
+msgid "Join Us"
+msgstr "Bize Katıl"
+
+#: config.yaml:0
+msgid "VI Mode"
+msgstr "Vi Kipi"
+
+#: config.yaml:0
+msgid "The Team"
+msgstr "Takım"
+
+#: config.yaml:0
+msgid "Merge Requests"
+msgstr "Birleştirme İstekleri"
+
+#: config.yaml:0 content/about-kate.md:40
+msgid "Syntax Highlighting"
+msgstr "Sözdizim Vurgulama"
+
+#: config.yaml:0
+msgid "Color Themes"
+msgstr "Renk Temaları"
+
+#: content/_index.md:0
+msgid "Kate - Get an Edge in Editing"
+msgstr "Kate - Gelişmiş Metin Düzenleme"
+
+#: content/_index.md:0
+msgid "Get an Edge in Editing"
+msgstr "Gelişmiş Metin Düzenleme"
+
+#: content/about-kate.md:0 i18n/en.yaml:0
+msgid "Features"
+msgstr "Özellikler"
+
+#: content/about-kate.md:0 content/get-it.md:0 content/mascot.md:0
+msgid "Christoph Cullmann"
+msgstr "Christoph Cullmann"
+
+#: content/about-kate.md:11
+msgid "Application Features"
+msgstr "Uygulama Özellikleri"
+
+#: content/about-kate.md:13
+msgid ""
+"![Screenshot showing Kate window splitting feature and search & replace "
+"plugin](/images/kate-window.webp)"
+msgstr ""
+"![Kate pencere bölme ve bul-değiştir eklentisi ekran görüntüsü](/images/kate-"
+"window.webp)"
+
+#: content/about-kate.md:15
+msgid ""
+"View and edit multiple documents at the same time, by splitting horizontally "
+"and vertically the window"
+msgstr ""
+"Pencereyi yatay ve dikey olarak bölerek aynı anda birden çok belgeyi "
+"düzenleyin"
+
+#: content/about-kate.md:16
+msgid ""
+"Lot of plugins: [Embedded terminal](https://konsole.kde.org), SQL plugin, "
+"build plugin, GDB plugin, Replace in Files, and more"
+msgstr ""
+"Tonla eklenti: [Gömülü uçbirim](https://konsole.kde.org), SQL eklentisi, "
+"yapı eklentisi, GDB eklentisi, Dosyalarda Değiştir ve çok daha fazlası"
+
+#: content/about-kate.md:17
+msgid "Multi-document interface (MDI)"
+msgstr "Çok belgeli arabirim (MDI)"
+
+#: content/about-kate.md:18
+msgid "Session support"
+msgstr "Oturum desteği"
+
+#: content/about-kate.md:20
+msgid "General Features"
+msgstr "Genel Özellikler"
+
+#: content/about-kate.md:22
+msgid ""
+"![Screenshot showing Kate search and replace feature](/images/kate-search-"
+"replace.png)"
+msgstr ""
+"![Kate bul-değiştir özelliğini gösteren ekran görüntüsü](/images/kate-search-"
+"replace.png)"
+
+#: content/about-kate.md:24
+msgid "Encoding support (Unicode and lots of others)"
+msgstr "Kodlama desteği (Unicode ve çok daha fazlası)"
+
+#: content/about-kate.md:25
+msgid "Bi-directional text rendering support"
+msgstr "İki yönlü metin sunum desteği"
+
+#: content/about-kate.md:26
+msgid "Line ending support (Windows, Unix, Mac), including auto detection"
+msgstr "Otomatik algılamayı da içeren satır sonu desteği (Windows, Unix, Mac)"
+
+#: content/about-kate.md:27
+msgid "Network transparency (open remote files)"
+msgstr "Ağ saydamlığı (uzak dosyaları açma)"
+
+#: content/about-kate.md:28
+msgid "Extensible through scripting"
+msgstr "Betik yazımı ile genişletilebilir"
+
+#: content/about-kate.md:30
+msgid "Advanced Editor Features"
+msgstr "Gelişmiş Düzenleyici Özellikleri"
+
+#: content/about-kate.md:32
+msgid ""
+"![Screenshot of Kate border with line number and bookmark](/images/kate-"
+"border.png)"
+msgstr ""
+"![Satır numarası ve yer imi ile Kate kenarlığı](/images/kate-border.png)"
+
+#: content/about-kate.md:34
+msgid "Bookmarking system (also supported: break points etc.)"
+msgstr "Yer imi sistemi (kesme noktaları vb. de desteklenir)"
+
+#: content/about-kate.md:35
+msgid "Scroll bar marks"
+msgstr "Sarma çubuğu imleri"
+
+#: content/about-kate.md:36
+msgid "Line modification indicators"
+msgstr "Satır değiştirme göstergeleri"
+
+#: content/about-kate.md:37
+msgid "Line numbers"
+msgstr "Satır numaraları"
+
+#: content/about-kate.md:38
+msgid "Code folding"
+msgstr "Kod katlama"
+
+#: content/about-kate.md:42
+msgid ""
+"![Screenshot of Kate syntax highlighting features](/images/kate-syntax.png)"
+msgstr ""
+"![Kate sözdizim vurgulama özelliklerinin ekran görüntüsü](/images/kate-"
+"syntax.png)"
+
+#: content/about-kate.md:44
+msgid "Highlighting support for over 300 languages"
+msgstr "300'den çok dil için vurgulama desteği"
+
+#: content/about-kate.md:45
+msgid "Bracket matching"
+msgstr "Ayraç eşleştirme"
+
+#: content/about-kate.md:46
+msgid "Smart on-the-fly spell checking"
+msgstr "Akıllı yazım denetimi"
+
+#: content/about-kate.md:47
+msgid "Highlighting of selected words"
+msgstr "Seçili sözcükleri vurgulama"
+
+#: content/about-kate.md:49
+msgid "Multi-select and multi-cursor features"
+msgstr "Çoklu seçim ve çoklu imleç özellikleri"
+
+#: content/about-kate.md:51
+msgid ""
+"![Animation of Kate multi-select and multi-cursor features](/images/kate-"
+"multicursor.gif)"
+msgstr ""
+"![Kate çoklu seçin ve çoklu imleç özelliklerinin canlandırması](/images/kate-"
+"multicursor.gif)"
+
+#: content/about-kate.md:53
+msgid "Create multiple cursors with your mouse or keyboard shortcuts"
+msgstr "Fare veya klavye kısayollarıyla birden çok imleçler oluşturun"
+
+#: content/about-kate.md:54
+msgid ""
+"Supports interactive edit, transformations (upper/lower case) and [much more]"
+"(/post/2022/2022-03-10-ktexteditor-multicursor/)"
+msgstr ""
+"Etkileşimli düzenlemeyi, dönüşümleri (BÜYÜK/küçük harf) ve [çok daha "
+"fazlasını](/post/2022/2022-03-10-ktexteditor-multicursor/) destekler"
+
+#: content/about-kate.md:56
+msgid "Programming Features"
+msgstr "Programlama Özellikleri"
+
+#: content/about-kate.md:58
+msgid ""
+"![Screenshot of Kate programming features](/images/kate-programming.png)"
+msgstr ""
+"![Kate programlama özelliklerinin ekran görüntüsü](/images/kate-programming."
+"png)"
+
+#: content/about-kate.md:60
+msgid "Scriptable auto indentation"
+msgstr "Betik ile denetlenebilen otomatik girintileme"
+
+#: content/about-kate.md:61
+msgid "Smart comment and uncomment handling"
+msgstr "Akıllı yorum ve yorum kaldırma işlemesi"
+
+#: content/about-kate.md:62
+msgid "Auto completion with argument hints"
+msgstr "Argüman ipuçlarıyla otomatik tamamlama"
+
+#: content/about-kate.md:63
+msgid "Vi input mode"
+msgstr "Vi giriş kipi"
+
+#: content/about-kate.md:64
+msgid "Rectangular block selection mode"
+msgstr "Dörtgen blok seçim kipi"
+
+#: content/about-kate.md:66
+msgid "Search & Replace"
+msgstr "Bul ve Değiştir"
+
+#: content/about-kate.md:68
+msgid ""
+"![Screenshot of Kate incremental search feature](/images/kate-search.png)"
+msgstr ""
+"![Kate artımlı arama özelliğinin ekran görüntüsü](/images/kate-search.png)"
+
+#: content/about-kate.md:70
+msgid "Incremental search, also known as &#8220;find as you type&#8221;"
+msgstr ""
+"Artımlı arama, aynı zamanda &#8220;yazarken bul&#8221; olarak da bilinir"
+
+#: content/about-kate.md:71
+msgid "Support for multiline search & replace"
+msgstr "Çoklu satır bul ve değiştir desteği"
+
+#: content/about-kate.md:72
+msgid "Regular expression support"
+msgstr "Düzenli ifade desteği"
+
+#: content/about-kate.md:73
+msgid "Search & replace in multiple opened files or files on disk"
+msgstr "Dıskteki dosyalar veya birden çok açık dosya için bul ve değiştir"
+
+#: content/about-kate.md:75
+msgid "Backup and Restore"
+msgstr "Yedekleme ve Geri Yükleme"
+
+#: content/about-kate.md:77
+msgid ""
+"![Screenshot of Kate recover from crash feature](/images/kate-crash.png)"
+msgstr ""
+"![Kate çökme kurtarma özelliği ekran görüntüsü](/images/kate-crash.png)"
+
+#: content/about-kate.md:79
+msgid "Backups on save"
+msgstr "Kaydederken yedekleme"
+
+#: content/about-kate.md:80
+msgid "Swap files to recover data on system crash"
+msgstr "Sistem çökmesi sonrası veri kurtarmak için takas dosyaları"
+
+#: content/about-kate.md:81
+msgid "Undo / redo system"
+msgstr "Geri alma/yineleme sistemi"
+
+#: content/get-it.md:0
+msgid "Get Kate"
+msgstr "Kate'i Edin"
+
+#: content/get-it.md:15
+msgid "Linux"
+msgstr "Linux"
+
+#: content/get-it.md:17
+msgid ""
+"Install [Kate](https://apps.kde.org/en/kate) or [KWrite](https://apps.kde."
+"org/en/kwrite) from [your distribution](https://kde.org/distributions/)."
+msgstr ""
+"[Kate](https://apps.kde.org/en/kate) veya [KWrite](https://apps.kde.org/en/"
+"kwrite) uygulamalarını [dağıtımınızdan kurun](https://kde.org/"
+"distributions/)."
+
+#: content/get-it.md:21
+msgid ""
+"Install [Kate's Snap package from Snapcraft](https://snapcraft.io/kate)."
+msgstr ""
+"Snapcraft'tan [Kate'in Snap paketini](https://snapcraft.io/kate) indirin."
+
+#: content/get-it.md:25
+msgid ""
+"Download [the release 64-bit AppImage for Kate](https://binary-factory.kde."
+"org/job/Kate_Release_appimage-centos7/). *"
+msgstr ""
+"Kate'in [64 bit AppImage'ini](https://binary-factory.kde.org/job/"
+"Kate_Release_appimage-centos7/) indirin. *"
+
+#: content/get-it.md:26
+msgid ""
+"Download [the nightly 64-bit AppImage for Kate](https://binary-factory.kde."
+"org/job/Kate_Nightly_appimage-centos7/). **"
+msgstr ""
+"Kate'in [64 bit gecelik AppImage'ini](https://binary-factory.kde.org/job/"
+"Kate_Nightly_appimage-centos7/) indirin. **"
+
+#: content/get-it.md:32
+msgid "Windows"
+msgstr "Windows"
+
+#: content/get-it.md:34
+msgid ""
+"Install [Kate from the Microsoft Store](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW)."
+msgstr ""
+"Kate'i [Microsoft Store'dan](https://www.microsoft.com/store/"
+"apps/9NWMW7BB59HW) kurun."
+
+#: content/get-it.md:39
+msgid ""
+"Download [the nightly Kate 64-bit installer](https://binary-factory.kde.org/"
+"view/Windows%2064-bit/job/Kate_Nightly_win64/). **"
+msgstr ""
+"Kate'in [gecelik 64 bit kurucusunu](https://binary-factory.kde.org/view/"
+"Windows%2064-bit/job/Kate_Nightly_win64/) indirin. **"
+
+#: content/get-it.md:40
+msgid ""
+"Install [Kate via Chocolatey](https://chocolatey.org/packages/kate). \\*\\*"
+"\\*"
+msgstr ""
+"Kate'i [Chocolatey](https://chocolatey.org/packages/kate) aracılığıyla "
+"kurun. \\*\\*\\*"
+
+#: content/get-it.md:46
+msgid "macOS"
+msgstr "macOS"
+
+#: content/get-it.md:48
+msgid ""
+"Download the [Kate release installer](https://binary-factory.kde.org/view/"
+"MacOS/job/Kate_Release_macos/). *"
+msgstr ""
+"Kate [kararlı sürüm kurucusunu](https://binary-factory.kde.org/view/MacOS/"
+"job/Kate_Release_macos/) indirin. *"
+
+#: content/get-it.md:49
+msgid ""
+"Download the [Kate nightly installer](https://binary-factory.kde.org/view/"
+"MacOS/job/Kate_Nightly_macos/). **"
+msgstr ""
+"Kate [gecelik sürüm kurucusunu](https://binary-factory.kde.org/view/MacOS/"
+"job/Kate_Nightly_macos/) indirin. **"
+
+#: content/get-it.md:55
+msgid "Source Code"
+msgstr "Kaynak Kodu"
+
+#: content/get-it.md:57
+msgid ""
+"The [source code for Kate](https://invent.kde.org/utilities/kate) is "
+"available on KDE’s GitLab instance. For detailed instructions on how to "
+"build Kate from source, check the [Build it](/build-it) page."
+msgstr ""
+"Kate'in kaynak kodu, [KDE'nin Gitlab örneğinde](https://invent.kde.org/"
+"utilities/kate) bulunur. Kate'in kaynaktan yapımı için ayrıntılı yönergeleri "
+"[Yap](/build-it) sayfasında görebilirsiniz."
+
+#: content/get-it.md:64
+msgid ""
+"**About the releases:** <br> [Kate](https://apps.kde.org/en/kate) and "
+"[KWrite](https://apps.kde.org/en/kwrite) are part of [KDE Applications]"
+"(https://apps.kde.org), which are [released typically 3 times a year en-"
+"masse](https://community.kde.org/Schedules). The [text editing](https://api."
+"kde.org/frameworks/ktexteditor/html/) and the [syntax highlighting](https://"
+"api.kde.org/frameworks/syntax-highlighting/html/) engines are provided by "
+"[KDE Frameworks](https://kde.org/announcements/kde-frameworks-5.0/), which "
+"is [updated monthly](https://community.kde.org/Schedules/Frameworks). New "
+"releases are announced [here](https://kde.org/announcements/)."
+msgstr ""
+"**Yayımlar hakkında:** <br> [Kate](https://apps.kde.org/en/kate) ve [KWrite]"
+"(https://apps.kde.org/en/kwrite), yılda genelde [3 kez toplu olarak "
+"yayımlanan](https://community.kde.org/Schedules) [KDE Uygulamaları](https://"
+"apps.kde.org) topluluğunun bir parçasıdır. [Metin düzenleme](https://api.kde."
+"org/frameworks/ktexteditor/html/) ve [sözdizim vurgulama](https://api.kde."
+"org/frameworks/syntax-highlighting/html/) işletkeleri, [her ay](https://"
+"community.kde.org/Schedules/Frameworks) güncellenen [KDE Frameworks](https://"
+"kde.org/announcements/kde-frameworks-5.0/)'ün bir parçasıdır. Yeni sürümler "
+"[buradan](https://kde.org/announcements/) duyurulur."
+
+#: content/get-it.md:67
+msgid ""
+"\\* The **release** packages contain the latest version of Kate and KDE "
+"Frameworks."
+msgstr ""
+"\\* **Kararlı** paketler, Kate ve KDE Frameworks'ün en son sürümlerini "
+"içerirler."
+
+#: content/get-it.md:69
+msgid ""
+"\\*\\* The **nightly** packages are automatically compiled daily from source "
+"code, therefore they may be unstable and contain bugs or incomplete "
+"features. These are only recommended for testing purposes."
+msgstr ""
+"\\*\\* **Gecelik** paketler, kaynak kodundan her gün otomatik olarak "
+"derlenirler, dolayısıyla kararlılık sorunları ve hatalar içerebilir veya "
+"özelliklerin bazıları tam olmayabilir. Bunlar, yalnızca sınama amacıyla "
+"önerilirler."
+
+#: content/get-it.md:71
+msgid ""
+"\\*\\*\\* The Chocolatey packages are developed independently from KDE. It "
+"may or may not be up to date."
+msgstr ""
+"\\*\\*\\* Chocolatey paketleri KDE'den bağımsız olarak geliştirilirler. "
+"Tümüyle güncel olmayabilir."
+
+#: content/mascot.md:0
+msgid "Kate's Mascot"
+msgstr "Kate'in Maskotu"
+
+#: content/mascot.md:12
+msgid ""
+"Kate's mascot, Kate the Cyber Woodpecker, was designed by [Tyson Tan]"
+"(https://www.tysontan.com/)."
+msgstr ""
+"Kate'in maskotu olan Siber Ağaçkakan Kate, [Tyson Tan](https://www.tysontan."
+"com/) tarafından tasarlanmıştır."
+
+#: content/mascot.md:14
+msgid ""
+"The current evolution of our mascot was first unveiled [in April 2021](/"
+"post/2021/2021-04-28-lets-welcome-kate-the-cyber-woodpecker/)."
+msgstr ""
+"Maskotumuzun geçerli hali, ilk olarak [Nisan 2021](/post/2021/2021-04-28-"
+"lets-welcome-kate-the-cyber-woodpecker/)'de ortaya çıktı."
+
+#: content/mascot.md:16
+msgid "Kate the Cyber Woodpecker"
+msgstr "Siber Ağaçkakan Kate"
+
+#: content/mascot.md:18
+msgid ""
+"![Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+msgstr ""
+"![Siber Ağaçkakan Kate](/images/mascot/electrichearts_20210103_kate_normal."
+"png)"
+
+#: content/mascot.md:20
+msgid "Version without footer text"
+msgstr "Alt metin olmayan sürüm"
+
+#: content/mascot.md:22
+msgid ""
+"![Kate the Cyber Woodpecker - Without Text](/images/mascot/"
+"electrichearts_20210103_kate_notext.png)"
+msgstr ""
+"![Siber Ağaçkakan Kate - Metinsiz](/images/mascot/"
+"electrichearts_20210103_kate_notext.png)"
+
+#: content/mascot.md:24
+msgid "Version without background"
+msgstr "Arka plan olmayan sürüm"
+
+#: content/mascot.md:26
+msgid ""
+"![Kate the Cyber Woodpecker - Without Background](/images/mascot/"
+"electrichearts_20210103_kate_transparent.png)"
+msgstr ""
+"![Siber Ağaçkakan Kate - Arka Plansız](/images/mascot/"
+"electrichearts_20210103_kate_transparent.png)"
+
+#: content/mascot.md:28
+msgid "Licensing"
+msgstr "Lisanslama"
+
+#: content/mascot.md:30
+msgid "For the licensing, to quote Tyson:"
+msgstr "Lisans bilgisi için Tyson'ı dinleyelim:"
+
+#: content/mascot.md:32
+msgid ""
+"I hereby donate the new Kate the Cyber Woodpecker to Kate Editor project. "
+"The artworks are dual licensed under LGPL (or whatever the same as Kate "
+"Editor) and Creative Commons BY-SA. In this way you don't need to ask me for "
+"permission before using/modifying the mascot."
+msgstr ""
+"Siber Ağaçkakan Kate'i Kate Düzenliyici projesine bağışlıyorum. Sanat "
+"ögeleri LGPL (veya Kate Düzenleyici ile aynı) ve Creative Commons BY-SA ile "
+"çifte lisanslıdır. Böylece, maskotu kullanmadan/değiştirmeden önce bana "
+"sormanız gerekmez."
+
+#: content/mascot.md:36
+msgid "Kate the Cyber Woodpecker's design history"
+msgstr "Siber Ağaçkakan Kate'in tasarım geçmişi"
+
+#: content/mascot.md:38
+msgid ""
+"I asked Tyson if I can share the intermediate versions we exchanged to show "
+"the evolution and he agreed and even wrote some short summaries about the "
+"individual steps. This includes the initial mascot and the icon that fit "
+"into this design evolution. I therefore just quote what he wrote about the "
+"different steps below."
+msgstr ""
+"Tyson'a evrimi göstermek için değiştirdiğimiz ara sürümleri paylaşıp "
+"paylaşamayacağımı sordum ve o da kabul etti ve hatta bireysel adımlar "
+"hakkında bazı kısa özetler yazdı. Bu, ilk maskotu ve bu tasarım evrimine "
+"uyan simgeyi içerir. Bu nedenle, aşağıdaki farklı adımlar hakkında "
+"yazdıklarından alıntı yapıyorum."
+
+#: content/mascot.md:42
+msgid "2014 - Kate the Woodpecker"
+msgstr "2014 - Ağaçkakan Kate"
+
+#: content/mascot.md:44
+msgid ""
+"![2014 version - Kate the Woodpecker](/images/mascot/history/"
+"Kate_editor_mascot_woodpecker.png)"
+msgstr ""
+"![2014 sürümü - Ağaçkakan Kate](/images/mascot/history/"
+"Kate_editor_mascot_woodpecker.png)"
+
+#: content/mascot.md:46
+msgid ""
+"The 2014 version was done perhaps during my lowest point as an artist. I had "
+"not been drawing much in years, and was on the verge of giving up "
+"completely. There were some interesting ideas in this version, namely the {} "
+"brackets on her chest, and the color scheme inspired by doxygen code "
+"highlighting. However, the execution was very simplistic -- at that time, I "
+"deliberately stop using any fancy techniques to expose my inadequate base "
+"skills. In the followed years, I would be going through an arduous process "
+"to rebuild my broken, self-taught art foundation from the ground up. I'm "
+"grateful that the Kate team still kept this one on their website for many "
+"years."
+msgstr ""
+"2014 sürümü, belki de bir sanatçı olarak en düşük noktamda yapıldı. "
+"Yıllardır pek çizim yapmıyordum ve tümüyle vazgeçmek üzereydim. Bu sürümde, "
+"göğsündeki {} köşeli ayraçlar ve doxygen kodu vurgulamadan ilham alan renk "
+"şeması gibi bazı ilginç fikirler vardı. Bununla birlikte, yürütme çok "
+"basitti - o zaman, yetersiz temel becerilerimi ortaya çıkarmak için herhangi "
+"bir fantezi tekniği kullanmayı kasten bırakıyordum. İlerleyen yıllarda, "
+"kırılmış, kendi kendime öğrendiğim sanat temelimi sıfırdan yeniden yapmak "
+"için zorlu bir süreçten geçiyor olacaktım. Kate takımının bunu yıllardır web "
+"sitelerinde tutmasına minnettarım."
+
+#: content/mascot.md:53
+msgid "2020 - The new Kate icon"
+msgstr "2020 - Yeni Kate simgesi"
+
+#: content/mascot.md:55
+msgid "![2020 - The new Kate icon](/images/mascot/history/kate-3000px.png)"
+msgstr "![2020 - Yeni Kate simgesi](/images/mascot/history/kate-3000px.png)"
+
+#: content/mascot.md:57
+msgid ""
+"The new Kate icon was the only time I attempted real vector art. It was at "
+"that time I began to develop some faint artistic sense. I had no previous "
+"experience of icon design, there was zero discipline like math-guided "
+"proportion. Every shape and curve was tweaked using my instinct as an "
+"artist. The concept was very simple: it's a bird shaped like the letter \"K"
+"\", and it has to be sharp. The bird was chunkier until Christoph pointed it "
+"out, I later turned it into a more sleek shape."
+msgstr ""
+"Yeni Kate simgesi, gerçek vektör sanatını denediğim tek zamandı. O sıralarda "
+"biraz sanatsal anlamda gelişmeye başladım. Daha önce simge tasarımı "
+"deneyimim yoktu, matematik güdümlü orantı gibi sıfır disiplin vardı. Her "
+"şekle ve eğriye, bir sanatçı olarak içgüdülerimi kullanarak ince ayar "
+"yaptım. Konsept çok basitti: \"K\" harfine benzeyen bir kuş ve keskin olması "
+"gerekiyor. Christoph işaret edene kadar kuş daha tıknazdı, daha sonra onu "
+"daha şık bir şekle dönüştürdüm."
+
+#: content/mascot.md:64
+msgid "2021 - Mascot sketch"
+msgstr "2021 - Maskot eskizi"
+
+#: content/mascot.md:66
+msgid ""
+"![2021 version - Sketch of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_sketch.png)"
+msgstr ""
+"![2021 sürümü - Yeni maskotun eskizi](/images/mascot/history/"
+"electrichearts_20210103_kate_sketch.png)"
+
+#: content/mascot.md:68
+msgid ""
+"In this initial sketch, I was tempted to ditch the robotic concept and just "
+"draw a cute good looking bird instead."
+msgstr ""
+"Bu ilk taslakta, robotik konsepti bir kenara bırakıp onun yerine sevimli ve "
+"güzel bir kuş çizmeye karar verdim."
+
+#: content/mascot.md:70
+msgid "2021 - Mascot design"
+msgstr "2021 - Maskot tasarımı"
+
+#: content/mascot.md:72
+msgid ""
+"![2021 version - Redesign of the new mascot](/images/mascot/history/"
+"electrichearts_20210103_kate_design.png)"
+msgstr ""
+"![2021 sürümü - Yeni maskotun sonraki tasarımı](/images/mascot/history/"
+"electrichearts_20210103_kate_design.png)"
+
+#: content/mascot.md:74
+msgid ""
+"Kate's mascot re-design resumed after I finished drawing the new splash "
+"picture for the upcoming Krita 5.0. I was able to push myself to do more "
+"each time I attempted a new picture at that time, so I was determined to "
+"keep the robotic concept. Although the proportion was off, the mech design "
+"elements was more or less coined in this one."
+msgstr ""
+"Yaklaşan Krita 5.0 için yeni açılış resmini çizmeyi bitirdikten sonra "
+"Kate'in maskotu yeniden tasarımı sürdü. O zamanlar yeni bir resim denediğim "
+"her seferinde kendimi daha fazlasını yapmaya zorlayabildim, bu yüzden "
+"robotik konsepti korumaya kararlıydım. Orantısız olmasına rağmen, mekanik "
+"tasarım ögeleri az ya da çok bunda icat edildi."
+
+#: content/mascot.md:78
+msgid "2021 - Final Mascot"
+msgstr "2021 - Güncel Maskot"
+
+#: content/mascot.md:80
+msgid ""
+"![2021 version - Final Kate the Cyber Woodpecker](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+msgstr ""
+"![2021 sürümü - Güncel Siber Ağaçkakan Kate](/images/mascot/"
+"electrichearts_20210103_kate_normal.png)"
+
+#: content/mascot.md:82
+msgid ""
+"The proportion was adjusted after Christoph pointed it out. The pose was "
+"adjusted to feel more comfortable. The wings were re-drawn after studying on "
+"real bird wings. A cool-looking, detailed keyboard was hand-drawn to "
+"emphasize the main usage of the application. An abstract background was "
+"added with a proper 2D typography design. The general idea is: unmistakably "
+"cutting edge and artificial, but also unmistakably full of life and humanity."
+msgstr ""
+"Oran, Christoph'un işaret etmesinden sonra ayarlandı. Poz daha rahat "
+"hissetmek için ayarlandı. Gerçek kuş kanatları üzerinde çalışıldıktan sonra "
+"kanatlar yeniden çizildi. Uygulamanın ana kullanımını vurgulamak için havalı "
+"görünümlü, ayrıntılı bir klavye elle çizildi. Uygun bir 2D tipografi "
+"tasarımı ile soyut bir arka plan eklendi. Genel fikir şuydu: Kuşkuya yer "
+"bırakmayacak şekilde son teknoloji ve yapay ama aynı zamanda kesinlikle "
+"yaşam ve insanlıkla dolu."
+
+#: i18n/en.yaml:0
+msgid "Also available in:"
+msgstr "Ayrıca şurada kullanılabilir:"
+
+#: i18n/en.yaml:0
+msgid "Get it"
+msgstr "Edin"
+
+#: i18n/en.yaml:0
+msgid "Kate is a Feature-Packed Text Editor"
+msgstr "Kate, Özelliklerle Dolu Bir Metin Düzenleyicidir"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate is packed with features that will make it easier for you to view and "
+"edit all your text files. Kate lets you to edit and view many files at the "
+"same time, both in tabs and split views, and comes with a wide variety of "
+"plugins, including an embedded terminal that lets you launch console "
+"commands directly from Kate, powerful search and replace plugins, and a "
+"preview plugin that can show you what your MD, HTML and even SVG will look "
+"like."
+msgstr ""
+"Kate, tüm metin dosyalarınızı görüntülemeyi ve düzenlemeyi sizin için daha "
+"kolay yapan bir sürü özellikle doludur. Kate, aynı anda hem sekmeler hem de "
+"bölünmüş görünümlerde çok sayıda dosyayı düzenlemeye izin verir ve konsol "
+"komutlarını doğrudan Kate içinde çalıştırmanızı sağlayan gömülü bir uçbirim, "
+"güçlü bul-değiştir eklentileri ve MD, HTML ve hatta SVG dosyalarınızın nice "
+"görüneceğini önizleyen eklentiler de dahil olmak üzere geniş bir eklenti "
+"ailesiyle gelir."
+
+#: i18n/en.yaml:0
+msgid "All Features"
+msgstr "Tüm Özellikler"
+
+#: i18n/en.yaml:0
+msgid "Make Your Code Pretty With [Syntax Highlighting](/syntax)"
+msgstr "[Sözdizim Vurgulama](/syntax) ile Kodunuzu Güzelleştirin"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate supports highlighting for over 300 languages making it easier to read "
+"code in almost all programming languages. Kate also understands how brackets "
+"works and will help you navigate inside complex code blocks hierarchies. On-"
+"the-fly spellchecking is also included and will help you check your text "
+"before publishing."
+msgstr ""
+"Kate, 300'den fazla dil için sözdizim vurgulamayı destekler ve neredeyse tüm "
+"programlama dillerinde kodunuzu okumayı kolaylaştırır. Kate, aynı zamanda "
+"ayraçların nice çalıştığını da anlar ve karmaşık kod bloku hiyerarşilerinde "
+"kodunuz içinde dolaşmanıza yardımcı olur. Canlı yazım denetimi de vardır ve "
+"yayımlamadan önce metinlerinizi denetlemenizi sağlar."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate with syntax highlighting"
+msgstr "Sözdizim vurgulama ile Kate ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate syntax chooser"
+msgstr "Kate sözdizim seçici ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Multi-cursor editing"
+msgstr "Çok İmleçli Düzenleme"
+
+#: i18n/en.yaml:0
+msgid ""
+"Boost your productivity with a help of multi-cursor and multi-selection "
+"features. Kate now has it! Switching from other proprietary text editors and "
+"missing your hotkey bindings you used to? You can configure every hotkey in "
+"Kate so you don't even have to retrain yourself"
+msgstr ""
+"Üretkenliğinizi çoklu imleç ve çoklu seçim özelliklerinin yardımıyla "
+"artırın. Bunlar artık Kate'de var! Başka tescilli metin düzenleyicilerden "
+"geçiş yaptınız ve alışık olduğunuz düğme bağıntılarını mı özlüyorsunuz? "
+"Kate'in tüm düğme bağıntılarını kendiniz ayarlayabilirsiniz; böylece "
+"kendinizi yeniden çalıştırmanıza gerek kalmaz. "
+
+#: i18n/en.yaml:0
+msgid "Animation of Kate multi-cursor features"
+msgstr "Kate'in çoklu imleç özelliklerinin bir canlandırması"
+
+#: i18n/en.yaml:0
+msgid "Work on Complex Projects Efficiently"
+msgstr "Karmaşık Projelerde Etkilice Çalışın"
+
+#: i18n/en.yaml:0
+msgid ""
+"Work on multiple files at the same time with split views. Use the project "
+"sidebar to navigate your project directory structures and use Kate's smart "
+"tabs to quickly access your recently opened documents. The powerful search "
+"and replace tool lets you quickly search inside your entire projects."
+msgstr ""
+"Bölünmüş görünümlerle, birden çok dosya üzerinde aynı anda çalışın. Proje "
+"kenar çubuğunu kullanarak proje dizin yapınıza göz atın ve son açılan "
+"belgelerinize hemen ulaşmak için Kate'in akıllı sekmelerini kullanın. Güçlü "
+"bul-değiştir aracı, bütün projenizin içinde tez aramalar yapmanıza izin "
+"verir."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate search and replace tool"
+msgstr "Kate bul-değiştir aracının ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Kate project sidebar"
+msgstr "Kate proje kenar çubuğunun ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Develop your Next Application with Kate"
+msgstr "Bir Sonraki Uygulamanızı Kate ile Geliştirin"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate is the perfect tool for programming as it includes autocompletion for "
+"many languages with the help of the [Language Server Protocol (LSP)](https://"
+"microsoft.github.io/language-server-protocol/). The editor has been "
+"optimized for editing code and provide scriptable auto indentation, VI input "
+"mode, rectangular block selection mode, smart comment and uncomment handling "
+"and much more."
+msgstr ""
+"Kate, programlama için mükemmel bir araçtır; [Dil Sunucusu Protokolü (LSP)]"
+"(https://microsoft.github.io/language-server-protocol/) desteği ile çok "
+"sayıda dil için otomatik tamamlama desteği içerir. Düzenleyici, kod "
+"düzenleme için eniyilenmiştir ve betik ile yönetilebilen otomatik "
+"girintileme, Vi giriş kipi, dörtgen blok seçim kipi, akıllı yorum aç/kapat "
+"ve çok daha fazlasını içerir."
+
+#: i18n/en.yaml:0
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kate contains many plugins installed by defaults, making it more powerful "
+"than any other text editor. Use the integrated terminal emulator to run "
+"commands directly from Kate, execute SQL queries with the SQL extension, use "
+"GDB to debug your program, build projects with just one click, and much, "
+"much more."
+msgstr ""
+"Kate, onu herhangi bir başka metin düzenleyiciden çok daha güçlü kılan çok "
+"sayıda eklentiyi öntanımlı olarak içerir. Tümleşik uçbirim öykünücüsünü "
+"kullanarak Kate'den doğrudan komutlar çalıştırın, SQL uzantısıyla SQL "
+"sorguları yürütün, programınızda hata ayıklamak için GDB'yi kullanın, tek "
+"tıkla projelerinizi yapın. Çok daha fazlası Kate ile geliyor."
+
+#: i18n/en.yaml:0
+msgid "Konsole inside Kate"
+msgstr "Kate içinde Konsole"
+
+#: i18n/en.yaml:0
+msgid "News"
+msgstr "Haberler"
+
+#: i18n/en.yaml:0
+msgid "View all news"
+msgstr "Tüm haberleri görüntüle"
+
+#: i18n/en.yaml:0
+msgid "Available for Linux, Windows and macOS"
+msgstr "Linux, Windows ve macOS için kullanılabilir"
+
+#. %1 link, %2 link
+#: i18n/en.yaml:0
+msgid ""
+"These buttons only work with [Discover](%1) and other AppStream application "
+"stores, such as [GNOME Software](https://wiki.gnome.org/Apps/Software). You "
+"can also use your distribution's package manager, such as [Muon](%2) or "
+"[Synaptic](https://wiki.debian.org/Synaptic)."
+msgstr ""
+"Bu düğmeler, yalnızca [Keşfet](%1) ve diğer AppStream uygulama mağazalarıyla "
+"(örn. [GNOME Software](https://wiki.gnome.org/Apps/Software)) çalışır. "
+"Ayrıca kendi dağıtımınızın paket yöneticisini (örn. [Muon](%2) veya "
+"[Synaptic](https://wiki.debian.org/Synaptic)) kullanabilirsiniz."
+
+#. Used in the download badge on https://kate-editor.org/get-it/. Please make
+#. it as short as possible.
+#: i18n/en.yaml:0
+msgid "Install Kate on"
+msgstr "Kate'i şuraya kur:"
+
+#. Used in the download badge on https://kate-editor.org/get-it/. Please make
+#. it as short as possible.
+#: i18n/en.yaml:0
+msgid "Install KWrite on"
+msgstr "KWrite'ı şuraya kur:"
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid "[Download the release Kate 64-bit installer](%1)"
+msgstr "[Kate 64 bit kararlı sürüm kurucusunu indirin](%1)"
+
+#~ msgid "Linux & Unices"
+#~ msgstr "Linux"
+
+#~ msgid "[Build it](/build-it/#linux) from source."
+#~ msgstr "Kaynaktan [yapın](/build-it/#linux)."
+
+#~ msgid "[Build it](/build-it/#windows) from source."
+#~ msgstr "Kaynaktan [yapın](/build-it/#windows)."
+
+#~ msgid "[Build it](/build-it/#mac) from source."
+#~ msgstr "Kaynaktan [yapın](/build-it/#mac)."
+
+#~ msgid ""
+#~ "[Kate release (64bit) installer](https://download.kde.org/stable/release-"
+#~ "service/22.08.1/windows/kate-22.08.1-windows-msvc2019_64-cl.exe) *"
+#~ msgstr ""
+#~ "[Kate kararlı (64bit) kurulum paketi](https://download.kde.org/stable/"
+#~ "release-service/22.08.1/windows/kate-22.08.1-windows-msvc2019_64-cl.exe) *"

@@ -1,0 +1,53 @@
+#
+# Translators:
+# obsoleteman <tulliana@gmail.com>, 2012.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdemultimedia-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-02 00:55+0000\n"
+"PO-Revision-Date: 2022-05-10 11:20+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.0\n"
+
+#: misc/dragonplayer-openaudiocd.desktop:7
+msgctxt "Name"
+msgid "Play Audio CD using Dragon Player"
+msgstr "Müzik CD'sini Dragon ile Oynat"
+
+#: misc/dragonplayer-opendvd.desktop:7
+msgctxt "Name"
+msgid "Open with Video Player (Dragon Player)"
+msgstr "Video Oynatıcı ile Aç (Dragon)"
+
+#: misc/dragonplayer_part.desktop.in:4
+msgctxt "Name"
+msgid "Dragon Player Part"
+msgstr "Dragon Parçası"
+
+#: misc/dragonplayer_part.desktop.in:58
+msgctxt "Comment"
+msgid "Embeddable Video Player"
+msgstr "Gömülebilir Video Oynatıcı"
+
+#: misc/dragonplayer_play_dvd.desktop:8
+msgctxt "Name"
+msgid "Play DVD with Dragon Player"
+msgstr "DVD Ortamını Dragon ile Oynat"
+
+#: misc/org.kde.dragonplayer.desktop:3
+msgctxt "Name"
+msgid "Dragon Player"
+msgstr "Dragon"
+
+#: misc/org.kde.dragonplayer.desktop:57
+msgctxt "GenericName"
+msgid "Video Player"
+msgstr "Video Oynatıcı"

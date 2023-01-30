@@ -1,0 +1,457 @@
+#
+# Translators:
+# Görkem Çetin <gorkem@kde.org>, 2002-2004.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
+# Ömer Fadıl USTA <omer_fad@yahoo.com>, 2004.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Serdar Dalgıç <serdar@pardus.org.tr>, 2010.
+# obsoleteman <tulliana@gmail.com>, 2008-2009.
+# Yıldız Kardeşler <turkishprogram@xposta.com>, 2004.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdegames-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-02 00:55+0000\n"
+"PO-Revision-Date: 2022-12-01 16:39+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#: levels/default_levels.dat:2
+msgctxt "Name"
+msgid "Original levels"
+msgstr "Özgün düzeyler"
+
+#: levels/default_levels.dat:45
+msgctxt "Description"
+msgid "This is the original collection of KAtomic levels."
+msgstr "Bu, KAtomic düzeylerinin özgün bir koleksiyonudur. "
+
+#: levels/default_levels.dat:91
+msgctxt "Name"
+msgid "Water"
+msgstr "Su"
+
+#: levels/default_levels.dat:163
+msgctxt "Name"
+msgid "Formic Acid"
+msgstr "Formik Asit"
+
+#: levels/default_levels.dat:234
+msgctxt "Name"
+msgid "Acetic Acid"
+msgstr "Asetik asit"
+
+#: levels/default_levels.dat:308
+msgctxt "Name"
+msgid "trans-Butene"
+msgstr "Trans-Büten"
+
+#: levels/default_levels.dat:380
+msgctxt "Name"
+msgid "cis-Butene"
+msgstr "Cis-Büten"
+
+#: levels/default_levels.dat:451
+msgctxt "Name"
+msgid "Dimethyl ether"
+msgstr "Dimetil eter"
+
+#: levels/default_levels.dat:520
+msgctxt "Name"
+msgid "Butanol"
+msgstr "Bütanol"
+
+#: levels/default_levels.dat:594
+msgctxt "Name"
+msgid "2-Methyl-2-Propanol"
+msgstr "2-Metil-2-Propanol"
+
+#: levels/default_levels.dat:668
+msgctxt "Name"
+msgid "Glycerin"
+msgstr "Gliserin"
+
+#: levels/default_levels.dat:742
+msgctxt "Name"
+msgid "Poly-Tetra-Fluoro-Ethene"
+msgstr "Poli-Tetra-Floro-Eten"
+
+#: levels/default_levels.dat:808
+msgctxt "Name"
+msgid "Oxalic Acid"
+msgstr "Okzalik Asit"
+
+#: levels/default_levels.dat:878
+msgctxt "Name"
+msgid "Methane"
+msgstr "Metan"
+
+#: levels/default_levels.dat:950
+msgctxt "Name"
+msgid "Formaldehyde"
+msgstr "Formaldehit"
+
+#: levels/default_levels.dat:1020
+msgctxt "Name"
+msgid "Crystal 1"
+msgstr "Kristal 1"
+
+#: levels/default_levels.dat:1095
+msgctxt "Name"
+msgid "Acetic acid ethyl ester"
+msgstr "Asetik asit etil ester"
+
+#: levels/default_levels.dat:1165
+msgctxt "Name"
+msgid "Ammonia"
+msgstr "Amonyak"
+
+#: levels/default_levels.dat:1235
+msgctxt "Name"
+msgid "3-Methyl-Pentane"
+msgstr "2-Metil-Pentan"
+
+#: levels/default_levels.dat:1307
+msgctxt "Name"
+msgid "Propanal"
+msgstr "Propanal"
+
+#: levels/default_levels.dat:1378 levels/default_levels.dat:3069
+msgctxt "Name"
+msgid "Propyne"
+msgstr "Propin"
+
+#: levels/default_levels.dat:1449
+msgctxt "Name"
+msgid "Furanal"
+msgstr "Furanal"
+
+#: levels/default_levels.dat:1526
+msgctxt "Name"
+msgid "Pyran"
+msgstr "Pyran"
+
+#: levels/default_levels.dat:1602
+msgctxt "Name"
+msgid "Cyclo-Pentane"
+msgstr "Siklo Pentan"
+
+#: levels/default_levels.dat:1677
+msgctxt "Name"
+msgid "Methanol"
+msgstr "Metanol"
+
+#: levels/default_levels.dat:1749
+msgctxt "Name"
+msgid "Nitro-Glycerin"
+msgstr "Nitrogliserin"
+
+#: levels/default_levels.dat:1834
+msgctxt "Name"
+msgid "Ethane"
+msgstr "Etan"
+
+#: levels/default_levels.dat:1910
+msgctxt "Name"
+msgid "Crystal 2"
+msgstr "Kristal 2"
+
+#: levels/default_levels.dat:1986
+msgctxt "Name"
+msgid "Ethylene-Glycol"
+msgstr "Etilen-Glikol"
+
+#: levels/default_levels.dat:2057
+msgctxt "Name"
+msgid "L-Alanine"
+msgstr "L-Alanin"
+
+#: levels/default_levels.dat:2134
+msgctxt "Name"
+msgid "Cyanoguanidine"
+msgstr "Siyanoguanidin"
+
+#: levels/default_levels.dat:2208
+msgctxt "Name"
+msgid "Prussic Acid (Cyanic Acid)"
+msgstr "Prusik Asit (Siyanik Asit)"
+
+#: levels/default_levels.dat:2274
+msgctxt "Name"
+msgid "Anthracene"
+msgstr "Antrasen"
+
+#: levels/default_levels.dat:2358
+msgctxt "Name"
+msgid "Thiazole"
+msgstr "Tiyazol"
+
+#: levels/default_levels.dat:2432
+msgctxt "Name"
+msgid "Saccharin"
+msgstr "Sakkarin"
+
+#: levels/default_levels.dat:2516
+msgctxt "Name"
+msgid "Ethylene"
+msgstr "Etilen"
+
+#: levels/default_levels.dat:2587
+msgctxt "Name"
+msgid "Styrene"
+msgstr "Stiren"
+
+#: levels/default_levels.dat:2669
+msgctxt "Name"
+msgid "Melamine"
+msgstr "Melamin"
+
+#: levels/default_levels.dat:2748
+msgctxt "Name"
+msgid "Cyclobutane"
+msgstr "Siklobütan"
+
+#: levels/default_levels.dat:2818
+msgctxt "Name"
+msgid "Nicotine"
+msgstr "Nikotin"
+
+#: levels/default_levels.dat:2906
+msgctxt "Name"
+msgid "Acetyle salicylic acid"
+msgstr "Asetil salisilik asit"
+
+#: levels/default_levels.dat:2992
+msgctxt "Name"
+msgid "Meta-Di-Nitro-Benzene"
+msgstr "Meta-Di-Nitro-Benzen"
+
+#: levels/default_levels.dat:3142 levels/default_levels.dat:5976
+msgctxt "Name"
+msgid "Malonic Acid"
+msgstr "Malonik Asit"
+
+#: levels/default_levels.dat:3215
+msgctxt "Name"
+msgid "2,2-Dimethylpropane"
+msgstr "2,2-Dimetilpropan"
+
+#: levels/default_levels.dat:3292
+msgctxt "Name"
+msgid "Ethyl-Benzene"
+msgstr "Etil-Benzen"
+
+#: levels/default_levels.dat:3372
+msgctxt "Name"
+msgid "Propene"
+msgstr "Propan"
+
+#: levels/default_levels.dat:3445
+msgctxt "Name"
+msgid "L-Asparagine"
+msgstr "L-Asparajin"
+
+#: levels/default_levels.dat:3525
+msgctxt "Name"
+msgid "1,3,5,7-Cyclooctatetraene"
+msgstr "1,3,5,7-Siklooktatetraen"
+
+#: levels/default_levels.dat:3598
+msgctxt "Name"
+msgid "Vanillin"
+msgstr "Vanillin"
+
+#: levels/default_levels.dat:3684
+msgctxt "Name"
+msgid "Crystal 3"
+msgstr "Kristal 3"
+
+#: levels/default_levels.dat:3758
+msgctxt "Name"
+msgid "Uric Acid"
+msgstr "Ürik Asit"
+
+#: levels/default_levels.dat:3841
+msgctxt "Name"
+msgid "Thymine"
+msgstr "Timin"
+
+#: levels/default_levels.dat:3921
+msgctxt "Name"
+msgid "Aniline"
+msgstr "Aniline"
+
+#: levels/default_levels.dat:4002
+msgctxt "Name"
+msgid "Chloroform"
+msgstr "Kloroform"
+
+#: levels/default_levels.dat:4071
+msgctxt "Name"
+msgid "Carbonic acid"
+msgstr "Karbonik Asit"
+
+#: levels/default_levels.dat:4142
+msgctxt "Name"
+msgid "Crystal 4"
+msgstr "Kristal 4"
+
+#: levels/default_levels.dat:4225
+msgctxt "Name"
+msgid "Ethanol"
+msgstr "Ethanol"
+
+#: levels/default_levels.dat:4297
+msgctxt "Name"
+msgid "Acrylo-Nitril"
+msgstr "Akrilo-Nitril"
+
+#: levels/default_levels.dat:4367
+msgctxt "Name"
+msgid "Furan"
+msgstr "Furan"
+
+#: levels/default_levels.dat:4441
+msgctxt "Name"
+msgid "l-Lactic acid"
+msgstr "l-Laktik Asit"
+
+#: levels/default_levels.dat:4514
+msgctxt "Name"
+msgid "Maleic Acid"
+msgstr "Maleik Asit"
+
+#: levels/default_levels.dat:4590
+msgctxt "Name"
+msgid "meso-Tartaric acid"
+msgstr "meso-Tartaric acid"
+
+#: levels/default_levels.dat:4666
+msgctxt "Name"
+msgid "Crystal 5"
+msgstr "Kristal 5"
+
+#: levels/default_levels.dat:4749
+msgctxt "Name"
+msgid "Formic acid ethyl ester"
+msgstr "Formik Asit Etil Ester"
+
+#: levels/default_levels.dat:4822
+msgctxt "Name"
+msgid "1,4-Cyclohexadiene"
+msgstr "1,4-Sikloheksadien"
+
+#: levels/default_levels.dat:4893
+msgctxt "Name"
+msgid "Squaric acid"
+msgstr "Skuarik asit"
+
+#: levels/default_levels.dat:4967
+msgctxt "Name"
+msgid "Ascorbic acid"
+msgstr "Askorbik asit"
+
+#: levels/default_levels.dat:5050
+msgctxt "Name"
+msgid "Isopropanol"
+msgstr "Isopropanol"
+
+#: levels/default_levels.dat:5122
+msgctxt "Name"
+msgid "Phosgene"
+msgstr "Fosgen"
+
+#: levels/default_levels.dat:5189
+msgctxt "Name"
+msgid "Thiophene"
+msgstr "Tiofen"
+
+#: levels/default_levels.dat:5262
+msgctxt "Name"
+msgid "Urea"
+msgstr "Üre"
+
+#: levels/default_levels.dat:5335
+msgctxt "Name"
+msgid "Pyruvic Acid"
+msgstr "Piruvik Asit"
+
+#: levels/default_levels.dat:5408
+msgctxt "Name"
+msgid "Ethylene oxide"
+msgstr "Etilen oksit"
+
+#: levels/default_levels.dat:5479
+msgctxt "Name"
+msgid "Phosphoric Acid"
+msgstr "Fosforik Asit"
+
+#: levels/default_levels.dat:5550
+msgctxt "Name"
+msgid "Diacetyl"
+msgstr "Diasetil"
+
+#: levels/default_levels.dat:5623
+msgctxt "Name"
+msgid "trans-Dichloroethene"
+msgstr "trans-Dikloroeten"
+
+#: levels/default_levels.dat:5691
+msgctxt "Name"
+msgid "Allylisothiocyanate"
+msgstr "Alilizotiyosiyanad"
+
+#: levels/default_levels.dat:5761
+msgctxt "Name"
+msgid "Diketene"
+msgstr "Diketen"
+
+#: levels/default_levels.dat:5835
+msgctxt "Name"
+msgid "Ethanal"
+msgstr "Etanal"
+
+#: levels/default_levels.dat:5905
+msgctxt "Name"
+msgid "Acroleine"
+msgstr "Akrolein"
+
+#: levels/default_levels.dat:6049
+msgctxt "Name"
+msgid "Uracil"
+msgstr "Urasil"
+
+#: levels/default_levels.dat:6127
+msgctxt "Name"
+msgid "Caffeine"
+msgstr "Kafein"
+
+#: levels/default_levels.dat:6217
+msgctxt "Name"
+msgid "Acetone"
+msgstr "Aseton"
+
+#: src/org.kde.katomic.desktop:2
+msgctxt "Name"
+msgid "KAtomic"
+msgstr "KAtomic"
+
+#: src/org.kde.katomic.desktop:77
+msgctxt "GenericName"
+msgid "Sokoban-like Logic Game"
+msgstr "Sokoban Benzeri Mantık Oyunu"
+
+#~ msgctxt "Name"
+#~ msgid "KAtomic Default Theme"
+#~ msgstr "KAtomic Öntanımlı Teması"
+
+#~ msgctxt "Description"
+#~ msgid "KAtomic Default Theme."
+#~ msgstr "KAtomic Öntanımlı Teması."

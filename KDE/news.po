@@ -1,0 +1,3614 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-krita-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-11-26 00:50+0000\n"
+"PO-Revision-Date: 2023-01-28 19:23+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:0
+msgid "First Beta for Krita 5.1.0 Released"
+msgstr "Krita 5.1.0'in ilk betası yayımlandı!"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:0
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:0
+#: content/en/posts/2022/krita-5-1-beta-2.md:0
+msgid "development-builds"
+msgstr "geliştirme-sürümleri"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:0
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:0
+#: content/en/posts/2022/google-summer-of-code-2022-edition.md:0
+#: content/en/posts/2022/krita-5-0-5-released.md:0
+#: content/en/posts/2022/krita-5-0-6-released.md:0
+#: content/en/posts/2022/krita-5-1-0-released.md:0
+#: content/en/posts/2022/krita-5-1-1-released.md:0
+#: content/en/posts/2022/krita-5-1-beta-2.md:0
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:0
+msgid "news"
+msgstr "haberler"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:9
+msgid ""
+"We're releasing the first beta for Krita 5.1.0 today. Krita 5.1.0 is packed "
+"with new features! For the full list, check out the work-in-progress full "
+"[release notes](https://krita.org/en/krita-5-1-release-notes/)!"
+msgstr ""
+"Krita 5.1.0'in ilk betasını bugün yayımlıyoruz. Krita 5.1.0, tonla yeni "
+"özelliklerle geliyor. Tam liste için, henüz yazılmakta olan [sürüm notlarına]"
+"(https://krita.org/en/krita-5-1-release-notes/) bir göz atın!"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:13
+#: content/en/posts/2022/krita-5-1-0-released.md:11
+msgid "Highlights"
+msgstr "Öne Çıkanlar"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:15
+msgid "Even more operations can handle multiple selected layers"
+msgstr "Daha da çok işlem artık birden çok seçili katmanı işleyebiliyor"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:16
+msgid ""
+"We've improved support for the WebP, Photoshop layered TIFF and Photoshop "
+"files, and there's new support for the JPEG-XL file format. (See the warning "
+"below, though!)"
+msgstr ""
+"WebP, Photoshop katmanlı TIFF ve Photoshop dosyaları için desteği "
+"iyileştirdik ve JPEG-XL biçimi için destek ekledik. (Aşağıdaki uyarıya bir "
+"göz atın!)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:17
+#: content/en/posts/2022/krita-5-1-0-released.md:15
+msgid ""
+"We're now using XSIMD instead of VC, improving painting performance, "
+"especially on Android where vectorization now is used for the first time."
+msgstr ""
+"Artık VC yerine XSIMD kullanıyoruz; bu, özellikle vektörlemenin ilk kez "
+"kullanıldığı Android'te başarımı artırıyor."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:18
+#: content/en/posts/2022/krita-5-1-0-released.md:16
+msgid ""
+"The fill tools have been extended with continuous fill and a new Enclose and "
+"fill tool."
+msgstr ""
+"Dolgu araçları, sürekli dolgu ve yeni bir Çevrele ve Doldur aracı ile "
+"genişletildi."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:19
+#: content/en/posts/2022/krita-5-1-0-released.md:17
+msgid ""
+"For Windows, we're using a newer version of Angle to improve compatibility "
+"with video drivers and improve performance."
+msgstr ""
+"Windows için, video sürücüleri ile uyumluluğu artırmak ve başarımı "
+"iyileştirmek için Angle'ın yeni bir sürümünü kullanıyoruz."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:20
+#: content/en/posts/2022/krita-5-1-0-released.md:18
+msgid ""
+"You can now configure touch controls in canvas input settings, like \"Tap to "
+"Undo\"."
+msgstr ""
+"Artık dokunma denetimlerini tuval giriş ayarlarında yapılandırabilirsiniz; "
+"örneğin, \"Geri Al için Dokun\" gibi."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:22
+msgid ""
+"And of course, there are hundreds of bug fixes, performance improvements, "
+"user interface refinements, improvements to the animation system (though the "
+"revamped audio system sadly didn't make it, that's for 5.2)."
+msgstr ""
+"Ve elbette yüzlerce hata düzeltmesi, başarım iyileştirmeleri, kullanıcı "
+"arayüzü ince ayarları, canlandırma sistemine iyileştirmeler (ne yazık ki "
+"yeniden elden geçirilen ses sistemi bu sürüme yetişmedi; artık 5.2 için) "
+"yapıldı."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:24
+msgid "Known Issues"
+msgstr "Bilinen Hatalar"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:26
+msgid ""
+"Touch gestures can be customized now, however if you were previously using "
+"touch gestures, you will now have to add them to the canvas input settings "
+"before they work again."
+msgstr ""
+"Dokunma hareketleri artık özelleştirilebilir; ancak önceden dokunma "
+"hareketlerini kullanıyordu iseniz onları yeniden çalışmaları için tuval "
+"girişi ayarlarına eklemeniz gerekiyor."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:27
+msgid ""
+"Though this release add support for the new JPEG-XL format, which supports "
+"animation, exporting and importing animations in this format gives incorrect "
+"results. A fix is pending."
+msgstr ""
+"Bu sürüm, canlandırmaları destekleyen yeni JPEG-XL biçimi içi destek eklese "
+"de, bu biçim ile canlandırmaları içe/dışa aktarmak şu an için yanlış "
+"sonuçlar veriyor. Düzeltme yolda."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:29
+msgid ""
+"![Screenshot of 5.1.0-beta1](images/posts/2022/5.1.0-beta1-1024x562.webp)"
+msgstr ""
+"![5.1.0-beta1 ekran görüntüsü](images/posts/2022/5.1.0-beta1-1024x562.webp)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:31
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:51
+#: content/en/posts/2022/krita-5-0-5-released.md:99
+#: content/en/posts/2022/krita-5-0-6-released.md:16
+#: content/en/posts/2022/krita-5-1-0-released.md:34
+#: content/en/posts/2022/krita-5-1-1-released.md:31
+#: content/en/posts/2022/krita-5-1-beta-2.md:71
+msgid "Download"
+msgstr "İndir"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:33
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:53
+#: content/en/posts/2022/krita-5-0-5-released.md:101
+#: content/en/posts/2022/krita-5-0-6-released.md:18
+#: content/en/posts/2022/krita-5-1-0-released.md:36
+#: content/en/posts/2022/krita-5-1-1-released.md:33
+#: content/en/posts/2022/krita-5-1-beta-2.md:73
+msgid "Windows"
+msgstr "Windows"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:35
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:55
+#: content/en/posts/2022/krita-5-0-5-released.md:103
+#: content/en/posts/2022/krita-5-1-0-released.md:38
+#: content/en/posts/2022/krita-5-1-1-released.md:35
+#: content/en/posts/2022/krita-5-1-beta-2.md:75
+msgid ""
+"If you're using the portable zip files, just open the zip file in Explorer "
+"and drag the folder somewhere convenient, then double-click on the krita "
+"icon in the folder. This will not impact an installed version of Krita, "
+"though it will share your settings and custom resources with your regular "
+"installed version of Krita. For reporting crashes, also get the debug "
+"symbols folder."
+msgstr ""
+"Taşınabilir zip dosyasını kullanıyorsanız yalnızca Windows Gezgini'nde .zip "
+"dosyasını açın ve klasörü uygun bir yere sürükleyin. Sonrasında klasördeki "
+"Krita simgesine çift tıklayın. Bu, Krita'nın kurulu bir sürümünü etkilemez; "
+"ancak kurulu sürümle aynı ayarları ve özel özkaynakları paylaşır. Çökmeleri "
+"bildirmek için ayrıca hata ayıklama sembolleri klasörünü de indirin."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:37
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:57
+#: content/en/posts/2022/krita-5-0-5-released.md:105
+#: content/en/posts/2022/krita-5-0-6-released.md:22
+#: content/en/posts/2022/krita-5-1-0-released.md:40
+#: content/en/posts/2022/krita-5-1-1-released.md:37
+#: content/en/posts/2022/krita-5-1-beta-2.md:77
+msgid "Note that we are not making 32 bits Windows builds anymore."
+msgstr "Artık Windows için 32 bit yapılar yapmıyoruz."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:39
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.1.0-beta1-setup.exe](https://"
+"download.kde.org/unstable/krita/5.1.0-beta1/krita-x64-5.1.0-beta1-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.1.0-beta1-setup.exe](https://download.kde."
+"org/unstable/krita/5.1.0-beta1/krita-x64-5.1.0-beta1-setup.exe)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:40
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.1.0-beta1.zip](https://download.kde."
+"org/unstable/krita/5.1.0-beta1/krita-x64-5.1.0-beta1.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.1.0-beta1.zip](https://download.kde."
+"org/unstable/krita/5.1.0-beta1/krita-x64-5.1.0-beta1.zip)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:41
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/unstable/krita/5.1.0-beta1/krita-x64-5.1.0-beta1-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/unstable/krita/5.1.0-beta1/krita-x64-5.1.0-beta1-dbg.zip)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:43
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:63
+#: content/en/posts/2022/krita-5-0-5-released.md:111
+#: content/en/posts/2022/krita-5-0-6-released.md:28
+#: content/en/posts/2022/krita-5-1-0-released.md:46
+#: content/en/posts/2022/krita-5-1-1-released.md:43
+#: content/en/posts/2022/krita-5-1-beta-2.md:83
+msgid "Linux"
+msgstr "Linux"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:45
+msgid ""
+"64 bits Linux: [krita-5.1.0-beta1-x86\\_64.appimage](https://download.kde."
+"org/unstable/krita/5.1.0-beta1/krita-5.1.0-beta1-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.1.0-beta1-x86\\_64.appimage](https://download.kde.org/"
+"unstable/krita/5.1.0-beta1/krita-5.1.0-beta1-x86_64.appimage)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:47
+msgid ""
+"The separate gmic-qt appimage is no longer needed. Note: If, for some "
+"reason, Firefox thinks it needs to load this as text: to download, right-"
+"click on the link."
+msgstr ""
+"Ayrı gmic-qt Appimage'i artık gerekli değildir: Not: Bir nedenden dolayı "
+"Firefox bunu metin olarak indirmesi gerektiğini düşünüyor, indirmek için sağ "
+"tıklayıp kaydet'i seçin."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:49
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:71
+#: content/en/posts/2022/krita-5-0-5-released.md:119
+#: content/en/posts/2022/krita-5-0-6-released.md:36
+#: content/en/posts/2022/krita-5-1-0-released.md:54
+#: content/en/posts/2022/krita-5-1-1-released.md:51
+#: content/en/posts/2022/krita-5-1-beta-2.md:91
+msgid "macOS"
+msgstr "macOS"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:51
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:73
+#: content/en/posts/2022/krita-5-0-5-released.md:121
+#: content/en/posts/2022/krita-5-0-6-released.md:38
+#: content/en/posts/2022/krita-5-1-0-released.md:56
+#: content/en/posts/2022/krita-5-1-1-released.md:53
+#: content/en/posts/2022/krita-5-1-beta-2.md:93
+msgid ""
+"Note: if you use macOS Sierra or High Sierra, please [check this video]"
+"(https://www.youtube.com/watch?v=3py0kgq95Hk) to learn how to enable "
+"starting developer-signed binaries, instead of just Apple Store binaries."
+msgstr ""
+"Not: Eğer macOS Sierra veya High Sierra kullanıyorsanız Apple Store "
+"ikilileri yerine geliştirici tarafından imzalanan ikililerin nasıl "
+"açılacağını öğrenmek için lütfen [bu videoya](https://www.youtube.com/watch?"
+"v=3py0kgq95Hk) bir bakın."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:53
+msgid ""
+"macOS disk image: [krita-5.1.0-beta1.dmg](https://download.kde.org/unstable/"
+"krita/5.1.0-beta1/krita-5.1.0-beta1.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.1.0-beta1.dmg](https://download.kde.org/unstable/"
+"krita/5.1.0-beta1/krita-5.1.0-beta1.dmg)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:55
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:77
+#: content/en/posts/2022/krita-5-0-5-released.md:125
+#: content/en/posts/2022/krita-5-0-6-released.md:42
+#: content/en/posts/2022/krita-5-1-0-released.md:60
+#: content/en/posts/2022/krita-5-1-1-released.md:57
+#: content/en/posts/2022/krita-5-1-beta-2.md:97
+msgid "Android"
+msgstr "Android"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:57
+#: content/en/posts/2022/krita-5-1-beta-2.md:99
+msgid ""
+"The Android releases are made from the release tarball, so there are "
+"translations. We consider Krita on ChromeOS and Android still **_beta_**."
+msgstr ""
+"Android sürümleri tar paketlerinden yapılır, dolayısıyla çevirileri içermez. "
+"Krita, Android ve ChromeOS üzerinde halen **_beta_** kalitededir."
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:59
+msgid ""
+"[64 bits Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-x86_64-5.1.0-beta1-release-signed.apk)"
+msgstr ""
+"[64 bit Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-x86_64-5.1.0-beta1-release-signed.apk)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:60
+msgid ""
+"[32 bits Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-x86-5.1.0-beta1-release-signed.apk)"
+msgstr ""
+"[32 bit Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-x86-5.1.0-beta1-release-signed.apk)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:61
+msgid ""
+"[64 bits Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-arm64-v8a-5.1.0-beta1-release-signed.apk)"
+msgstr ""
+"[64 bit Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-arm64-v8a-5.1.0-beta1-release-signed.apk)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:62
+msgid ""
+"[32 bits Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-armeabi-v7a-5.1.0-beta1-release-signed.apk)"
+msgstr ""
+"[32 bit Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta1/"
+"krita-armeabi-v7a-5.1.0-beta1-release-signed.apk)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:64
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:81
+#: content/en/posts/2022/krita-5-0-5-released.md:134
+#: content/en/posts/2022/krita-5-0-6-released.md:51
+#: content/en/posts/2022/krita-5-1-0-released.md:69
+#: content/en/posts/2022/krita-5-1-1-released.md:66
+#: content/en/posts/2022/krita-5-1-beta-2.md:106
+msgid "Source code"
+msgstr "Kaynak Kodu"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:66
+msgid ""
+"[krita-5.1.0-beta1.tar.gz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta1/krita-5.1.0-beta1.tar.gz)"
+msgstr ""
+"[krita-5.1.0-beta1.tar.gz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta1/krita-5.1.0-beta1.tar.gz)"
+
+#: content/en/posts/2022/first-beta-for-krita-5-1-0-released.md:67
+msgid ""
+"[krita-5.1.0-beta1.tar.xz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta1/krita-5.1.0-beta1.tar.xz)"
+msgstr ""
+"[krita-5.1.0-beta1.tar.xz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta1/krita-5.1.0-beta1.tar.xz)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:0
+msgid "First Release Candidate of Krita 5.1.0 is out"
+msgstr "Krita 5.1.0'ın ilk sürüm adayı çıktı"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:9
+msgid ""
+"Today we're releasing the first release candidate for Krita 5.1! For the "
+"full list, check out the work-in-progress full [release notes](https://krita."
+"org/en/krita-5-1-release-notes/)! Or check out Wojtek Trybus' release video:"
+msgstr ""
+"Bugün, Krita 5.1'in ilk sürüm adayını yayımlıyoruz! Tam liste için, henüz "
+"yazılmakta olan [sürüm notlarını](https://krita.org/en/krita-5-1-release-"
+"notes/) okuyun veya Wojtek Trybus'un sürüm videosunu izleyin:"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:16
+#: content/en/posts/2022/krita-5-1-beta-2.md:16
+msgid ""
+"Warning: beta 1 had a bug where brush presets were saved incorrectly, "
+"leading to crashes when trying to load those presets in other versions of "
+"Krita. [Here is a Python script](https://invent.kde.org/tymond/brushes-"
+"metadata-fixer) that can fix those presets."
+msgstr ""
+"Uyarı: 1. betada, fırça önayarlarının düzgün kaydolmamasına ve bu fırça "
+"önayarlarını Krita'nın başka sürümlerinde açmaya kalkınca çökmelere neden "
+"olan bir hata vardı. Bu önayarları onarmak için kullanabileceğiniz [bir "
+"Python betiğini burada bulabilirsiniz](https://invent.kde.org/tymond/brushes-"
+"metadata-fixer)."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:18
+msgid ""
+"Since [the second beta](https://krita.org/en/item/krita-5-1-beta-2/), the "
+"following bugs have been fixed:"
+msgstr ""
+"[İkinci betadan bu yana](https://krita.org/en/item/krita-5-1-beta-2/), "
+"aşağıdaki hatalar düzeltildi:"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:20
+msgid ""
+"Several issues with renaming existing and system tags for resources have "
+"resolved. [BUG:453831](https://bugs.kde.org/show_bug.cgi?id=453831)"
+msgstr ""
+"Özkaynakların var olan ve sistem etiketlerini yeniden adlandırma ile ilgili "
+"birkaç hata düzeltildi. [HATA:453831](https://bugs.kde.org/show_bug.cgi?"
+"id=453831)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:21
+msgid "Python: make it possible to get all pattern resources."
+msgstr "Python: Tüm desen özkaynaklarına ulaşmayı olanaklı kıl."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:22
+msgid ""
+"Fix a slowdown when attaching a dynamic sensor to the ration option in the "
+"brush preset editor. [BUG:456668](https://bugs.kde.org/show_bug.cgi?"
+"id=456668)"
+msgstr ""
+"Fırça önayar düzenleyicisinde oran seçeneğine bir devingen algılayıcı "
+"iliştirirken oluşan yavaşlamayı düzelt. [HATA:456668](https://bugs.kde.org/"
+"show_bug.cgi?id=456668)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:23
+msgid ""
+"Fix scaling of the colorspace selector when display scaling. [BUG:456929]"
+"(https://bugs.kde.org/show_bug.cgi?id=456929)"
+msgstr ""
+"Ekran ölçekleme sırasında renk uzayı seçicisinin ölçeklemesini düzelt. "
+"[HATA:456929](https://bugs.kde.org/show_bug.cgi?id=456929)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:24
+msgid ""
+"Fix a memory leak in the storyboard docker. [BUG:456998](https://bugs.kde."
+"org/show_bug.cgi?id=456998)"
+msgstr ""
+"Görsel taslak rıhtımcısındaki bir bellek sızıntısını düzelt. [HATA:456998]"
+"(https://bugs.kde.org/show_bug.cgi?id=456998)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:25
+msgid ""
+"Fix a memory leak in the tile engine. [BUG:456998](https://bugs.kde.org/"
+"show_bug.cgi?id=457998)"
+msgstr ""
+"Döşeme işletkesindeki bir bellek sızıntısını düzelt. [HATA:456998](https://"
+"bugs.kde.org/show_bug.cgi?id=457998)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:26
+msgid "Make the Alpha mode the default generator for the Halftone filter."
+msgstr "Yarım ton süzgeci için Alfa kipini öntanımlı üreteç yap."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:27
+msgid ""
+"Improve handling of switching between exporting just the frames or just the "
+"video for an animation. [BUG:443105](https://bugs.kde.org/show_bug.cgi?"
+"id=443105)"
+msgstr ""
+"Bir canlandırma için yalnızca karelerin mi yoksa videonun mu dışa "
+"aktarılacağını seçme ayarını iyileştir. [HATA:443105](https://bugs.kde.org/"
+"show_bug.cgi?id=443105)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:28
+msgid ""
+"Clean up files when exporting an animation to frames is canceled. "
+"[BUG:443105](https://bugs.kde.org/show_bug.cgi?id=443105)"
+msgstr ""
+"Bir canlandırmayı karelere dışa aktarma iptal edilirse dosyaları temizle. "
+"[HATA:443105](https://bugs.kde.org/show_bug.cgi?id=443105)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:29
+msgid ""
+"Fix the Elliptic are to Bezier curve function in SVG so certain files can be "
+"loaded without Krita running out of memory. [BUG:456922](https://bugs.kde."
+"org/show_bug.cgi?id=456922), [BUG:439145](https://bugs.kde.org/show_bug.cgi?"
+"id=439145)"
+msgstr ""
+"Belirli dosyaların Krita'nın belleği tükenmeden yüklenebilmesi için SVG'de "
+"Elliptic are to Bezier eğri işlevini düzelt. [HATA:456922](https://bugs.kde."
+"org/show_bug.cgi?id=456922), [HATA:439145](https://bugs.kde.org/show_bug.cgi?"
+"id=439145)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:30
+msgid ""
+"Fix issues handling gradient fills for vector objects. [BUG:456807](https://"
+"bugs.kde.org/show_bug.cgi?id=456807)"
+msgstr ""
+"Vektör nesneleri için gradyan dolguları işleme sorunlarını düzelt. "
+"[HATA:456807](https://bugs.kde.org/show_bug.cgi?id=456807)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:31
+msgid ""
+"Make sure the mimetype selector Ok and Cancel buttons can be translated. "
+"[BUG:448343](https://bugs.kde.org/show_bug.cgi?id=448343)"
+msgstr ""
+"MIME türü seçici Tamam ve İptal düğmelerinin çevrilebildiğinden emin ol. "
+"[HATA:448343](https://bugs.kde.org/show_bug.cgi?id=448343)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:32
+msgid ""
+"Fix a crash when cloning a document through the scripting API. [BUG:457080]"
+"(https://bugs.kde.org/show_bug.cgi?id=457080)"
+msgstr ""
+"Betik yazımı API'si üzerinden bir belgeyi klonlarken oluşan çökmeyi düzelt. "
+"[HATA:457080](https://bugs.kde.org/show_bug.cgi?id=457080)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:33
+msgid ""
+"Reset the file path when creating a copy of an existing image. [BUG:457081]"
+"(https://bugs.kde.org/show_bug.cgi?id=457081)"
+msgstr ""
+"Var olan bir görselin bir kopyasını oluştururken dosya yolunu sıfırla. "
+"[HATA:457081](https://bugs.kde.org/show_bug.cgi?id=457081)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:34
+msgid ""
+"Fix a crash when copy-pasting a group with vector layers. [BUG:457154]"
+"(https://bugs.kde.org/show_bug.cgi?id=457154)"
+msgstr ""
+"Vektör katmanlı bir grubu kopyalayıp yapıştırırken oluşan bir çökmeyi "
+"düzelt. [HATA:457154](https://bugs.kde.org/show_bug.cgi?id=457154)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:35
+msgid ""
+"Fix saving a image with a text object to PSD. [BUG:455988](https://bugs.kde."
+"org/show_bug.cgi?id=455988)"
+msgstr ""
+"PSD'ye bir metin nesnesi olan görseli kaydetmeyi düzelt. [HATA:455988]"
+"(https://bugs.kde.org/show_bug.cgi?id=455988)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:36
+msgid ""
+"Fix a crash when undoing creating a text shape. [BUG:457125](https://bugs."
+"kde.org/show_bug.cgi?id=457125)"
+msgstr ""
+"Bir metin şekli oluşturmayı geri alırken oluşan çökmeyi düzelt. [HATA:457125]"
+"(https://bugs.kde.org/show_bug.cgi?id=457125)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:37
+msgid ""
+"Fix a crash when loading a thumbnail for a PSD file with embedded resources. "
+"[BUG:457123](https://bugs.kde.org/show_bug.cgi?id=456123)"
+msgstr ""
+"Gömülü özkaynakları olan bir PSD dosyasının küçük görselini yüklerken oluşan "
+"bir çökmeyi düzelt. [HATA:457123](https://bugs.kde.org/show_bug.cgi?"
+"id=456123)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:38
+msgid ""
+"Improve the performance of creating a thumbnail from a PSD file for the "
+"recent files list. [BUG:456907](https://bugs.kde.org/show_bug.cgi?id=456907)"
+msgstr ""
+"Son kullanılan dosyalar listesindeki bir PSD dosyasının küçük görselini "
+"oluşturma başarımını iyileştir. [HATA:456907](https://bugs.kde.org/show_bug."
+"cgi?id=456907)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:39
+msgid "Fix loading PSD files with embedded patterns."
+msgstr "Gömülü desenleri olan PSD dosyalarını yüklemeyi düzelt."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:40
+msgid ""
+"Fix undeleting tags that have been removed. [BUG:440337](https://bugs.kde."
+"org/show_bug.cgi?id=440337)"
+msgstr ""
+"Kaldırılan etiketleri silmeyi düzelt. [HATA:440337](https://bugs.kde.org/"
+"show_bug.cgi?id=440337)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:41
+msgid ""
+"Make it possible to open some invalid PSD files. [BUG:444844](https://bugs."
+"kde.org/show_bug.cgi?id=444844)"
+msgstr ""
+"Kimi geçersiz PSD dosyalarını açmayı olanaklı kıl. [HATA:444844](https://"
+"bugs.kde.org/show_bug.cgi?id=444844)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:42
+msgid ""
+"Fix positioning of layers returned from the G'Mic plugin. [BUG:456950]"
+"(https://bugs.kde.org/show_bug.cgi?id=456950)"
+msgstr ""
+"G'Mic eklentisinden döndürülen katmanların konumlandırmasını düzelt. "
+"[HATA:456950](https://bugs.kde.org/show_bug.cgi?id=456950)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:43
+msgid ""
+"Fix loading JPEG-XL images created by Substance Designer. [BUG:456738]"
+"(https://bugs.kde.org/show_bug.cgi?id=456738)"
+msgstr ""
+"Substance Designer tarafından oluşturulan JPEG-XL görsellerinin yüklemesini "
+"düzelt. [HATA:456738](https://bugs.kde.org/show_bug.cgi?id=456738)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:44
+msgid "Fix showing the alpha channel in the color picker tool options widget."
+msgstr ""
+"Renk seçici araç seçenekleri araç takımında alfa kanalını göstermeyi düzelt."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:45
+msgid ""
+"Fix a crash when there is a corrupt in image on the clipboard. [BUG:456778]"
+"(https://bugs.kde.org/show_bug.cgi?id=456778)"
+msgstr ""
+"Panoda hasar görmüş bir görsel varken oluşan çökmeyi düzelt. [HATA:456778]"
+"(https://bugs.kde.org/show_bug.cgi?id=456778)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:46
+msgid ""
+"Fix the positioning when pasting multiple reference images. [BUG:456382]"
+"(https://bugs.kde.org/show_bug.cgi?id=456382)"
+msgstr ""
+"Birden çok başvuru görseli yapıştırırken konumlandırmayı düzelt. "
+"[HATA:456382](https://bugs.kde.org/show_bug.cgi?id=456382)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:47
+msgid ""
+"Fix Krita hanging when double-clicking too fast with the contiguous "
+"selection tool. [BUG:450577](https://bugs.kde.org/show_bug.cgi?id=450577)"
+msgstr ""
+"Sürekli seçim aracıyla pek hızlıca çift tıklarken Krita'nin takılmasını "
+"düzelt. [HATA:450577](https://bugs.kde.org/show_bug.cgi?id=450577)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:48
+msgid ""
+"Fix updating the current palette when selecting a color with the color "
+"picker. [BUG:455203](https://bugs.kde.org/show_bug.cgi?id=455203)"
+msgstr ""
+"Renk seçici ile bir renk seçerken geçerli paletin güncellenmemesini düzelt. "
+"[HATA:455203](https://bugs.kde.org/show_bug.cgi?id=455203)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:49
+msgid ""
+"Improve the calculation of the brush speed sensor. [BUG:453401](https://bugs."
+"kde.org/show_bug.cgi?id=453401)"
+msgstr ""
+"Fırça hızı algılayıcısı hesaplamasını iyileştir. [HATA:453401](https://bugs."
+"kde.org/show_bug.cgi?id=453401)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:59
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.1.0-RC1-setup.exe](https://download."
+"kde.org/unstable/krita/5.1.0-RC1/krita-x64-5.1.0-RC1-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.1.0-RC1-setup.exe](https://download.kde.org/"
+"unstable/krita/5.1.0-RC1/krita-x64-5.1.0-RC1-setup.exe)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:60
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.1.0-RC1.zip](https://download.kde.org/"
+"unstable/krita/5.1.0-RC1/krita-x64-5.1.0-RC1.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.1.0-RC1.zip](https://download.kde."
+"org/unstable/krita/5.1.0-RC1/krita-x64-5.1.0-RC1.zip)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:61
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/unstable/krita/5.1.0-RC1/krita-x64-5.1.0-RC1-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/unstable/krita/5.1.0-RC1/krita-x64-5.1.0-RC1-dbg.zip)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:65
+msgid ""
+"64 bits Linux: [krita-5.1.0-RC1-x86\\_64.appimage](https://download.kde.org/"
+"unstable/krita/5.1.0-RC1/krita-5.1.0-RC1-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.1.0-RC1-x86\\_64.appimage](https://download.kde.org/"
+"unstable/krita/5.1.0-RC1/krita-5.1.0-RC1-x86_64.appimage)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:67
+#: content/en/posts/2022/krita-5-0-5-released.md:115
+#: content/en/posts/2022/krita-5-0-6-released.md:32
+#: content/en/posts/2022/krita-5-1-0-released.md:50
+#: content/en/posts/2022/krita-5-1-1-released.md:47
+#: content/en/posts/2022/krita-5-1-beta-2.md:87
+msgid "The separate gmic-qt appimage is no longer needed."
+msgstr "Ayrı olan gmic-qt AppImage artık gerekli değildir."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:69
+#: content/en/posts/2022/krita-5-0-5-released.md:117
+#: content/en/posts/2022/krita-5-0-6-released.md:34
+#: content/en/posts/2022/krita-5-1-0-released.md:52
+#: content/en/posts/2022/krita-5-1-1-released.md:49
+#: content/en/posts/2022/krita-5-1-beta-2.md:89
+msgid ""
+"(If, for some reason, Firefox thinks it needs to load this as text: to "
+"download, right-click on the link.)"
+msgstr ""
+"(Bir nedenden dolayı Firefox bunu bir metin olarak yüklemesi gerektiğini "
+"düşünürse sağ tıklayıp indirin.)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:75
+msgid ""
+"macOS disk image: [krita-5.1.0-RC1.dmg](https://download.kde.org/unstable/"
+"krita/5.1.0-RC1/krita-5.1.0-RC1.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.1.0-RC1.dmg](https://download.kde.org/unstable/"
+"krita/5.1.0-RC1/krita-5.1.0-RC1.dmg)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:79
+msgid ""
+"Due to changes in Google's SDK requirements, we could not make 5.1.0-RC1 "
+"APK's this time. They will return in the final release."
+msgstr ""
+"Google'ın SDK zorunluluklarındaki değişiklikler nedeniyle bu kez 5.1.0-RC1 "
+"APK'leri yapamadık. Final sürümde geri gelecekler."
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:83
+msgid ""
+"[krita-5.1.0-RC1.tar.gz](https://download.kde.org/unstable/krita/5.1.0-RC1/"
+"krita-5.1.0-RC1.tar.gz)"
+msgstr ""
+"[krita-5.1.0-RC1.tar.gz](https://download.kde.org/unstable/krita/5.1.0-RC1/"
+"krita-5.1.0-RC1.tar.gz)"
+
+#: content/en/posts/2022/first-release-candidate-of-krita-5-1-0-is-out.md:84
+msgid ""
+"[krita-5.1.0-RC1.tar.xz](https://download.kde.org/unstable/krita/5.1.0-RC1/"
+"krita-5.1.0-RC1.tar.xz)"
+msgstr ""
+"[krita-5.1.0-RC1.tar.xz](https://download.kde.org/unstable/krita/5.1.0-RC1/"
+"krita-5.1.0-RC1.tar.xz)"
+
+#: content/en/posts/2022/get-started-making-your-own-brush-presets.md:0
+msgid "Get started making your own brush presets!"
+msgstr "Kendinizin fırça önayarlarını yapmaya başlayın!"
+
+#: content/en/posts/2022/get-started-making-your-own-brush-presets.md:6
+msgid ""
+"Get started crafting your own brush presets! Join Ramon for the first of a "
+"set of comprehensive videos!"
+msgstr ""
+"Kendi fırça önayarlarınızı oluşturmaya başlayın! Bir dizi kapsamlı videonun "
+"ilki için Ramon'a katılın!"
+
+#: content/en/posts/2022/google-summer-of-code-2022-edition.md:0
+msgid "Google Summer of Code, 2022 edition!"
+msgstr "Google Summer of Code, 2022 edisyonu!"
+
+#: content/en/posts/2022/google-summer-of-code-2022-edition.md:8
+msgid ""
+"This year's Google Summer of Code is different from previous editions: there "
+"are both larger and smaller projects possible, and it's no longer limited to "
+"students. We have two participants this year: Reinold Rojas and Xu Che."
+msgstr ""
+"Bu yılki Google Summer of Code önceki sürümlerden farklı: Hem daha büyük hem "
+"de daha küçük projeler olanaklı ve artık öğrencilerle sınırlı değil. Bu yıl "
+"iki katılımcımız var: Reinold Rojas ve Xu Che."
+
+#: content/en/posts/2022/google-summer-of-code-2022-edition.md:10
+msgid ""
+"Reinold Rojas previous cleaned up and improved the recorder docker, added "
+"color sample preview to the color sampler and fixed a number of bugs. This "
+"time, he will be working on exporting a Krita image to an SVG file. You can "
+"already save a vector layer as an SVG file, but not a complete Krita image. "
+"The plan is to preserve the layer structure of the Krita image, with vector "
+"layers staying vector layers and raster layers becoming embedded PNG images. "
+"Of course, not everything you can do in a Krita image can be saved to SVG, "
+"and Krita will warn you if you will lose information."
+msgstr ""
+"Reinold Rojas daha önce kaydedici rıhtımcısını temizledi ve geliştirdi, renk "
+"örnekleyiciye renk örneği önizlemesi ekledi ve bir dizi hatayı düzeltti. Bu "
+"kez, bir Krita görselini bir SVG dosyasına aktarma üzerinde çalışacak. Zaten "
+"bir vektör katmanını bir SVG dosyası olarak kaydedebiliyorsunuz; ancak tam "
+"bir Krita görseli olarak kaydetmek olanaklı değil. Plan, Krita görüntüsünün "
+"katman yapısını korumaktır, vektör katmanları vektör katmanları olarak kalır "
+"ve tarama katmanları gömülü PNG görüntüleri haline gelir. Elbette bir Krita "
+"görüntüsünde yapabileceğiniz her şey SVG'ye kaydedilemez ve bilgileri "
+"kaybederseniz Krita sizi uyarır."
+
+#: content/en/posts/2022/google-summer-of-code-2022-edition.md:12
+msgid ""
+"Xu Che has already started a proof of concept of his project: implementing "
+"pixel-perfect ellipses for raster layers, making this tool suitable for "
+"pixel art. This is something many people have asked for before, as in this "
+"[feature request](https://bugs.kde.org/show_bug.cgi?id=387242), so it's very "
+"exciting to see this happening now!"
+msgstr ""
+"Xu Che, projesinin konsept kanıtını çoktan başlattı: Raster katmanları için "
+"mükemmel piksel elipsleri uygulamak ve bu aracı piksel sanatı için uygun "
+"hale getirmek. Bu [özellik isteğinde](https://bugs.kde.org/show_bug.cgi?"
+"id=387242) olduğu gibi, birçok kişinin daha önce istediği bir şeydi, bu "
+"yüzden bunun şimdi olduğunu görmek çok heyecan verici!"
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:0
+msgid "Intel Becomes First Krita Development Fund Corporate Gold Patron"
+msgstr "Intel ilk Krita Geliştirme Fonu Kurumsal Altın Düzenli Bağışçısı oldu"
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:6
+msgid ""
+"The Krita Foundation is very happy to announce that Intel is the first "
+"Patron Member of the Foundation's Development Fund Intel and Krita have a "
+"long history together of successful collaboration on projects like Krita "
+"Sketch, improving multithreading and HDR painting."
+msgstr ""
+"Krita Vakfı; Intel'in, Vakfın Geliştirme Fonu'nun ilk Düzenli Bağışçı Üyesi "
+"olduğunu duyurmaktan büyük mutluluk duyar. Intel ve Krita, Krita Sketch gibi "
+"projelerde, çoklu iş parçacığı ve HDR boyamayı geliştirmede başarılı bir "
+"işbirliğine dayalı uzun bir geçmişe sahiptir."
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:8
+msgid ""
+"This strategic collaboration will deliver a series of new painting "
+"capabilities, making full use of the 12th and future Gen’s Intel Core Hybrid "
+"technology using powerful P-cores and E-cores, as well as the Intel Arc "
+"GPUs, all resulting into a more powerful painting experience with less lag. "
+"We are also excited about the support for JPEG XL, offering significantly "
+"better HDR experience and higher compression ratios, hereby meeting the "
+"needs of image delivery on the web and professional photography.’ Jerry "
+"Tsao, VP/GM of Intel CCG Mobile Enthusiast & Creator Segment."
+msgstr ""
+"Bu stratejik işbirliği, güçlü P-çekirdekleri ve E-çekirdekleri ile Intel Arc "
+"GPU'ları kullanan 12. ve gelecekteki Nesil Intel Core Hybrid teknolojisinden "
+"tam olarak yararlanarak bir dizi yeni boyama yeteneği sunacak ve daha az "
+"gecikme sunan bir deneyim ile tümü daha güçlü bir tabloyla sonuçlanacak. "
+"Ayrıca, önemli ölçüde daha iyi HDR deneyimi ve daha yüksek sıkıştırma "
+"oranları sunan ve böylece web üzerinde görüntü sağlama ve profesyonel "
+"fotoğrafçılık ihtiyaçlarını karşılayan JPEG XL desteği konusunda da "
+"heyecanlıyız.” Jerry Tsao, Intel CCG Mobil Tutkunları ve Yaratıcı Segment "
+"Başkan Yardımcısı/GM."
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:10
+msgid ""
+"With Intel’s support, Krita can build a more stable developer foundation, "
+"allowing to hire and retain the best developers in the industry."
+msgstr ""
+"Intel'in desteğiyle Krita, sektördeki en iyi geliştiricilerin işe alınmasına "
+"ve elde tutulmasına olanak tanıyan daha istikrarlı bir geliştirici temeli "
+"oluşturabilir."
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:12
+msgid ""
+"With this new Intel partnership, we are already seeing improvements. A "
+"recent result is in the Krita 5.1 release: full support for the new JPEG-XL "
+"file format. JPEG-XL is a new image format that offers significantly better "
+"compression and image quality than normal JPG images. The file format is "
+"currently behind experimental flags in most web browsers, so it is an "
+"upcoming format that we want to support. Together with Intel we are working "
+"with the JPEG-XL developers and the Chrome developers to ensure "
+"interoperability."
+msgstr ""
+"Bu yeni Intel ortaklığıyla şimdiden iyileştirmeler görüyoruz. Yakın tarihli "
+"bir sonuç Krita 5.1 sürümünde: Yeni JPEG-XL dosya biçimi için tam destek. "
+"JPEG-XL, olağan JPG görüntülerinden çok daha iyi sıkıştırma ve görüntü "
+"kalitesi sunan yeni bir görsel biçimidir. Dosya biçimi şu anda çoğu web "
+"tarayıcısında deneysel özellik olarak sunulmakta, bu nedenle desteklemek "
+"istediğimiz yakında çıkacak bir biçimdir. Birlikte çalışabilirliği sağlamak "
+"için Intel ile birlikte JPEG-XL geliştiricileri ve Chrome geliştiricileri "
+"ile birlikte çalışıyoruz."
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:14
+msgid ""
+"In the future, the Krita community will collaborate with Intel in the "
+"creation of technical documentation in the form of white papers. These white "
+"papers will explore new art and painting technologies. Krita will add the "
+"new ideas and features in the application, and assist Intel in writing the "
+"white paper explaining the new technologies."
+msgstr ""
+"Gelecekte, Krita topluluğu teknik belgeler şeklinde teknik belgelerin "
+"oluşturulmasında Intel ile işbirliği yapacak. Bu tanıtım yazıları, yeni "
+"sanat ve resim teknolojilerini keşfedecek. Krita, uygulamaya yeni fikirler "
+"ve özellikler ekleyecek ve Intel'e yeni teknolojileri açıklayan tanıtım "
+"belgesinin yazılmasında yardımcı olacaktır."
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:16
+msgid "What is the Krita Development Fund?"
+msgstr "Krita Geliştirme Fonu Nedir?"
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:18
+msgid ""
+"The Krita Development Fund accepts donations to support sponsored developers "
+"to work on exciting new features, performance improvements and stability "
+"improvements, as well as outreach to users in the form of manuals, tutorials "
+"and resources for painters."
+msgstr ""
+"Krita Geliştirme Fonu, sponsorlu geliştiricilerin heyecan verici yeni "
+"özellikler, başarım iyileştirmeleri ve kararlılık iyileştirmeleri üzerinde "
+"çalışmasının yanı sıra kılavuzlar, öğreticiler ve boyacılar için kaynaklar "
+"şeklinde kullanıcılara ulaşmalarını desteklemek için bağış kabul eder."
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:20
+msgid "Learn more at [fund.krita.org](https://fund.krita.org)"
+msgstr ""
+"[fund.krita.org](https://fund.krita.org) adresinden daha fazla bilgi alın"
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:23
+msgid "![](images/posts/2022/Intel_logo-classicblue-3000px-300x122.png)"
+msgstr "![](images/posts/2022/Intel_logo-classicblue-3000px-300x122.png)"
+
+#: content/en/posts/2022/intel-becomes-first-krita-development-fund-corporate-gold-patron.md:25
+msgid "![](images/posts/2022/krita_logo_extra-300x137.png)"
+msgstr "![](images/posts/2022/krita_logo_extra-300x137.png)"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:0
+msgid "Interview with J2J-Art"
+msgstr "J2J-Art ile Röportaj"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:0
+msgid "artist-interview"
+msgstr "sanatçı-röportajı"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:0
+msgid "Girl-Redraw.webp"
+msgstr "Girl-Redraw.webp"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:9
+msgid "![](images/posts/2022/Vision.webp)"
+msgstr "![](images/posts/2022/Vision.webp)"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:11
+msgid "Could you tell us something about yourself?"
+msgstr "Bize biraz kendinden söz edebilir misin?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:13
+msgid ""
+"My name is Jessica, but my art name is J2J-Art. I am a self-taught artist, I "
+"was born in 2004 in South Africa and I have only been creating art for 4 "
+"years now."
+msgstr ""
+"Benim adım Jessica, ama takma adım J2J-Art. Ben kendi kendini yetiştirmiş "
+"bir sanatçıyım, 2004'te Güney Afrika'da doğdum ve yalnızca 4 yıldır çizim "
+"yapıyorum."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:15
+msgid "I draw both digitally and with graphite pencils on paper."
+msgstr ""
+"Hem sayısal olarak hem de grafit kalemlerle kağıt üzerine çizim yapıyorum."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:17
+msgid "Do you paint professionally, as a hobby artist, or both?"
+msgstr ""
+"Profesyonel olarak mı, hobi sanatçısı olarak mı yoksa her ikisini birden mi "
+"yapıyorsunuz?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:19
+msgid ""
+"So far I am a hobby artist because I am still in school, so I only draw in "
+"my spare time, but one day I plan to sell my art on my own website."
+msgstr ""
+"Şu ana kadar hobi olarak uğraşıyorum; çünkü öğrenimim hâlâ sürüyor. Bu "
+"yüzden yalnızca boş vakitlerimde resim yapıyorum; ancak bir gün kendi "
+"çizimlerimi web sayfamda satmayı tasarlıyorum."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:21
+msgid "What genre(s) do you work in?"
+msgstr "Hangi tür(ler)de çizim yapıyorsunuz?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:23
+msgid ""
+"I don't think I have a fixed genre, but if I had to choose it would be a mix "
+"between fantasy art and semi-realism."
+msgstr ""
+"Sabit bir tarzım olduğunu düşünmüyorum; ancak bir tanesini seçmem gerekseydi "
+"fantezi ve yarı-gerçeklik üzerinde karar kılardım."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:25
+msgid "Whose work inspires you most -- who are your role models as an artist?"
+msgstr ""
+"Kimden en fazla esinleniyorsunuz -- sanatçı olarak rol modelleriniz kimler?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:27
+msgid ""
+"I don't have many art role models, but I have been inspired by Rossdraws, "
+"Jessica Smith Art and Bowman Art."
+msgstr ""
+"Pek fazla rol modelim yok; ancak Rossdraws, Jessica Smith Art ve Bowman Art "
+"esinlendiğim sanatçılar."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:29
+msgid "How and when did you get to try digital painting for the first time?"
+msgstr "Sayısal boyamaya ilk kez nasıl ve ne zaman başladınız?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:31
+msgid ""
+"I started digital art only 7 months ago, so I am still very much a beginner, "
+"but before that I only drew on paper. Now I digitally paint with an old "
+"laptop and a built in mouse - I don't have a drawing tablet. At first I used "
+"Microsoft Paint, but that didn't last long because it isn't that great and "
+"it limited me."
+msgstr ""
+"Sayısal sanata yalnızca 7 ay önce başladım, bu yüzden hâlâ çok acemiyim; "
+"ancak ondan önce sadece kağıt üzerine çizim yapıyordum. Şimdi eski bir "
+"dizüstü bilgisayar ve yerleşik bir fare ile sayısal olarak resim yapıyorum - "
+"çizim tabletim yok. İlk başta Microsoft Paint'i kullandım; ancak bu uzun "
+"sürmedi; çünkü o kadar iyi değildi ve beni sınırladı."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:33
+msgid "![](images/posts/2022/Ephraim-study.webp)"
+msgstr "![](images/posts/2022/Ephraim-study.webp)"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:35
+msgid "What makes you choose digital over traditional painting?"
+msgstr "Geleneksel çizime kıyasla sayısal çizimi seçmenize ne neden oldu?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:37
+msgid ""
+"I don't paint traditionally, but I love to draw on paper with my graphite "
+"pencils. Both digital drawing and traditional drawing has their pros and "
+"cons, one of the advantages of digital art is the undo button and the "
+"liquify tool, which I use often."
+msgstr ""
+"Geleneksel olarak resim yapmıyorum; ancak grafit kalemlerimle kağıda çizim "
+"yapmayı seviyorum. Hem sayısal çizimin hem de geleneksel çizimin artıları ve "
+"eksileri var, sayısal sanatın avantajlarından biri de sık kullandığım geri "
+"alma düğmesi ve sıvılaştırma aracı."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:39
+msgid "How did you find out about Krita?"
+msgstr "Krita'yı nereden öğrendiniz?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:41
+msgid ""
+"Microsoft Paint was a real pain to use and I could barely draw anything "
+"because of the lack of functionality and tools, so I went on the internet "
+"and looked up free painting software and Krita was one of the first ones "
+"that popped up. It sounded really great to me and after doing more research "
+"I decided to give it a try."
+msgstr ""
+"Microsoft Paint'i kullanmak gerçekten zordu; işlevsellik ve bana gerekli "
+"araçların olmaması nedeniyle neredeyse hiçbir şey çizemiyordum, bu yüzden "
+"internete baktım ve ücretsiz çizim yazılımlarından ilk çıkanlardan biri "
+"Krita oldu. Bana gerçekten harika geldi ve daha fazla araştırma yaptıktan "
+"sonra denemeye karar verdim."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:43
+msgid "What was your first impression?"
+msgstr "İlk izleniminiz neydi?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:45
+msgid ""
+"At first it was a little overwhelming with all the tools and settings, but "
+"once I started to understand everything it became so much easier."
+msgstr ""
+"İlk başta, tüm araçlar ve ayarlarla biraz bunaltıcıydı, ancak her şeyi "
+"anlamaya başladığımda çok daha kolay hale geldi."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:47
+msgid "![](images/posts/2022/Portrait.webp)"
+msgstr "![](images/posts/2022/Portrait.webp)"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:49
+msgid "What do you love about Krita?"
+msgstr "Krita'nın en çok neyini seviyorsunuz?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:51
+msgid ""
+"I love almost everything about Krita, it is amazing user friendly software "
+"with so many tools! Personally, I love the liquify tool and of course all "
+"the brushes. Krita is the best software for digital painting I have seen so "
+"far and it really lets you explore your creativity and pushes you past your "
+"comfort zone. The blending modes are fantastic and that combined with the "
+"HSV/HSL Adjustment really brings any drawing to life."
+msgstr ""
+"Krita ile ilgili hemen hemen her şeyi seviyorum, pek çok araç içeren, "
+"harika, kullanıcı dostu bir yazılım! Kişisel olarak sıvılaştırma aracını ve "
+"tabii ki tüm birlikte gelen fırçaları seviyorum. Krita, şimdiye kadar "
+"gördüğüm en iyi sayısal boyama yazılımı ve gerçekten yaratıcılığınızı "
+"keşfetmenize izin veriyor ve sizi rahatlık alanınızı aşmaya itiyor. "
+"Harmanlama kipleri gerçekten harika ve HSV/HSL ayarı ile birleştiğinde her "
+"türlü çizime hayat veriyor."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:53
+msgid "What do you think needs improvement in Krita?"
+msgstr "Sizce Krita'da geliştirilmesi gereken şeyler neler?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:55
+msgid ""
+"The text tool is a little hard to navigate and the lasso tool could be a bit "
+"smoother and less jagged. On top of that, personally, I battle with picking "
+"the right skin colors so maybe the developers could add a category under the "
+"help section in Krita were they give RGB codes of real skin colours to help "
+"beginners such as myself."
+msgstr ""
+"Metin aracında gezinmek biraz zor ve kement aracı biraz daha düzgün ve daha "
+"az pürüzlü olabilirdi. Bunun da ötesinde, kişisel olarak, doğru cilt "
+"renklerini seçmekle mücadele ediyorum, böylece geliştiriciler, benim gibi "
+"yeni başlayanlara yardımcı olmak için gerçek ten renklerinin RGB kodlarını "
+"Krita'daki yardım bölümünün altına bir kategori olarak ekleyebilirler."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:57
+msgid "Is there anything that really annoys you?"
+msgstr "Sizi gerçekten rahatsız eden bir şey var mı?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:59
+msgid ""
+"Sometimes if I have a file that's too big Krita tends to crash a lot and lag."
+msgstr ""
+"Bazen çok büyük bir dosyam varsa, Krita çok fazla takılma ve çökme eğilimi "
+"gösteriyor."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:61
+msgid "What sets Krita apart from the other tools that you use?"
+msgstr "Krita'yı çalıştığınız diğer araçlardan ayıran şey nedir?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:63
+msgid ""
+"Well, it's a million times better than Microsoft Paint and it's an amazing "
+"program. I have looked into paid drawing software in the past, but I "
+"couldn't afford any of them and their reviews are not as great as the ones I "
+"have seen on Krita. Most of Krita's reviews are very positive."
+msgstr ""
+"Microsoft Paint'ten milyon kat daha iyi ve harika bir program. Geçmişte "
+"ücretli çizim yazılımlarına baktım ama hiçbirine param yetmedi ve "
+"incelemeleri Krita'da gördüğüm kadar iyi değil. Krita'nın incelemelerinin "
+"çoğu çok olumlu."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:65
+msgid ""
+"If you had to pick one favorite of all your work done in Krita so far, what "
+"would it be, and why?"
+msgstr ""
+"Şimdiye kadar Krita'da yaptığınız tüm işlerden birini favori olarak seçmek "
+"zorunda olsaydınız, bu ne olurdu ve neden?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:67
+msgid ""
+"![](images/posts/2022/Girl-Redraw.webp)This is my favorite so far because "
+"this is when I started to establish my painting technique and when I started "
+"to understand colour theory better. After this piece my digital art improved "
+"quite a bit as well."
+msgstr ""
+"![](images/posts/2022/Girl-Redraw.webp)Şimdiye kadarki favorim bu çünkü "
+"boyama tekniğimi oluşturmaya başladığım ve renk teorisini daha iyi anlamaya "
+"başladığım zamandı. Bu parçadan sonra sayısal çizimlerim de oldukça gelişti."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:69
+msgid "What techniques and brushes did you use in it?"
+msgstr "Hangi teknikleri ve fırçaları kullandınız?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:71
+msgid ""
+"I used the \\_Ink-1\\_Precision to make the lineart and the \\_Airbrush"
+"\\_Soft, \\_Basic-5\\_Size and the \\_Basic-6\\_Details for the shading. For "
+"the hair I used the \\_Chalk\\_Grainy brush and for the subtle details on "
+"the face I used the \\_Texture\\_Spray brush."
+msgstr ""
+"Satır sanatı yapmak için \\_Mürekkep-1\\_Kesinlik ve gölgeleme için \\_Hava "
+"Spreyi\\_Yumuşak, \\_Temel-5\\_Boyut ve \\_Temel-6\\_Ayrıntılar kullandım. "
+"Saç için \\_Tebeşir\\_Grenli fırçayı ve yüzdeki ince ayrıntılar için \\_Doku"
+"\\_Spreyi fırçasını kullandım."
+
+#: content/en/posts/2022/interview-with-j2j-art.md:73
+msgid "Where can people see more of your work?"
+msgstr "İnsanlar sizin çalışmalarınızı nerede görebilirler?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:75
+msgid ""
+"They can check out my Facebook page via this link: [https://www.facebook.com/"
+"J2J-Art-103096568981291](https://www.facebook.com/J2J-Art-103096568981291). "
+"And my krita-artists account via this link: [https://krita-artists.org/u/j2j-"
+"art/activity/portfolio](https://krita-artists.org/u/j2j-art/activity/"
+"portfolio)"
+msgstr ""
+"Bu bağlantıdan Facebook sayfama bakabilirler: [https://www.facebook.com/J2J-"
+"Art-103096568981291](https://www.facebook.com/J2J-Art-103096568981291). "
+"Krita-artists hesabım da bu bağlantının ardında: [https://krita-artists.org/"
+"u/j2j-art/activity/portfolio](https://krita-artists.org/u/j2j-art/activity/"
+"portfolio)"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:77
+msgid "![](images/posts/2022/woman-with-yellow-hair.webp)"
+msgstr "![](images/posts/2022/woman-with-yellow-hair.webp)"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:79
+msgid "Anything else you'd like to share?"
+msgstr "Paylaşmak istediğiniz başka bir şey var mı?"
+
+#: content/en/posts/2022/interview-with-j2j-art.md:81
+msgid ""
+"I would like to thank [krita-artists.org](https://krita-artists.org) for "
+"their support and warm welcome. I would also like to thank the developers/"
+"moderators who have spent countless hours to create this amazing drawing "
+"software. Krita has really helped me as an artist and not only has it opened "
+"doors for me concerning digital art, but it has also encouraged me to "
+"improve my traditional art as well. Thanks to Krita my art is looking much "
+"better and I will never look back! Krita has to be the best free drawing "
+"software out there and I strongly believe it could be the next Photoshop!"
+msgstr ""
+"Destekleri ve sıcak karşılamaları için [krita-artists.org](https://krita-"
+"artists.org)'a teşekkür etmek istiyorum. Bu harika çizim yazılımını "
+"oluşturmak için sayısız saat harcayan geliştiricilere/moderatörlere de "
+"teşekkür etmek isterim. Krita bana bir sanatçı olarak gerçekten yardımcı "
+"oldu ve bana sadece sayısal sanatla ilgili kapılar açmakla kalmadı, aynı "
+"zamanda geleneksel sanatımı da geliştirmem için beni cesaretlendirdi. Krita "
+"sayesinde sanatım çok daha iyi görünüyor ve asla arkama bakmayacağım! Krita, "
+"piyasadaki en iyi ücretsiz çizim yazılımı olmalı ve bunun bir sonraki "
+"Photoshop olabileceğine kesinlikle inanıyorum!"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:0
+msgid "Krita 5.0.5 released"
+msgstr "Krita 5.0.5 yayımlandı!"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:0
+#: content/en/posts/2022/krita-5-0-6-released.md:0
+#: content/en/posts/2022/krita-5-1-0-released.md:0
+#: content/en/posts/2022/krita-5-1-1-released.md:0
+msgid "officialrelease"
+msgstr "resmiyayım"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:9
+msgid ""
+"Today we release Krita 5.0.5, probably the last release before Krita 5.1.0 "
+"comes out, hopefully in June. Note on the numbering: you didn't miss 5.0.3 "
+"and 5.0.4. Some stores, if they think a certain package isn't good enough, "
+"insist you upload a package with an increased version number, and that "
+"happened twice with 5.0.2..."
+msgstr ""
+"Bugün Krita 5.0.5'i yayımlıyoruz, büyük olasılıkla Haziran'da Krita 5.1.0 "
+"çıkmadan önceki son sürüm olacak. Numaralandırmayla ilgili not: 5.0.3 ve "
+"5.0.4'ü kaçırmadınız. Bazı mağazalar, belirli bir paketin yeterince iyi "
+"olmadığını düşünürlerse sürüm numarası artırılmış bir paket yüklemeniz "
+"konusunda ısrar ederler ve bu, 5.0.2 ile iki kez oldu..."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:11
+msgid "Anyway, we worked hard and fixed a bunch of things!"
+msgstr "Her neyse, çok çalıştık ve bir sürü şeyi düzelttik!"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:13
+msgid ""
+"Fix artefacts when using the color smudge brush on CMYK images. [BUG:447211]"
+"(https://bugs.kde.org/show_bug.cgi?id=447211)"
+msgstr ""
+"CMYK görsellerinde renk lekesi fırçasını kullanırken oluşan kalıntıları "
+"düzelt. [HATA:447211](https://bugs.kde.org/show_bug.cgi?id=447211)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:14
+msgid ""
+"Fix blurry results in 4-point perspective transform. [BUG:447255](https://"
+"bugs.kde.org/show_bug.cgi?id=447255)"
+msgstr ""
+"4 noktalı perspektif dönüşümünde bulanık sonuçları düzelt. [HATA:447255]"
+"(https://bugs.kde.org/show_bug.cgi?id=447255)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:15
+msgid ""
+"Fix undo of liquify transform properties. [BUG:447314](https://bugs.kde.org/"
+"show_bug.cgi?id=447314)"
+msgstr ""
+"Sıvılaştırma dönüştürme özelliklerinin geri alınması düzeltildi. "
+"[HATA:447314](https://bugs.kde.org/show_bug.cgi?id=447314)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:16
+msgid "Fix the size of the About Krita dialog."
+msgstr "Krita Hakkında iletişim kutusunun boyutu düzeltildi."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:17
+msgid ""
+"Fix a crash when changing the Instant Preview settings of a brush preset."
+msgstr ""
+"Bir fırça hazır ayarının Anında Önizleme ayarlarını değiştirirken oluşan "
+"kilitlenmeyi düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:18
+msgid ""
+"Fix use of layer names when using the G'Mic plugin. [BUG:447293](https://"
+"bugs.kde.org/show_bug.cgi?id=447293), [BUG:429851](https://bugs.kde.org/"
+"show_bug.cgi?id=429851)"
+msgstr ""
+"G'Mic eklentisini kullanırken katman adlarının kullanımını düzelt. "
+"[HATA:447293](https://bugs.kde.org/show_bug.cgi?id=447293), [HATA:429851]"
+"(https://bugs.kde.org/show_bug.cgi?id=429851)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:19
+msgid ""
+"Add missing blending modes for G'Mic filters. [BUG:447293](https://bugs.kde."
+"org/show_bug.cgi?id=447293)"
+msgstr ""
+"G'Mic süzgeçleri için eksik karıştırma kiplerini ekle. [HATA:447293](https://"
+"bugs.kde.org/show_bug.cgi?id=447293)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:20
+msgid ""
+"Fix issues with resource libraries with upper-case filename extensions. "
+"[BUG:447454](https://bugs.kde.org/show_bug.cgi?id=447454)"
+msgstr ""
+"Büyük harfli dosya adı uzantılarına sahip özkaynak kitaplıklarıyla ilgili "
+"sorunları düzelt. [HATA:447454](https://bugs.kde.org/show_bug.cgi?id=447454)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:21
+msgid "Enable the OS file dialog on macOS by default."
+msgstr ""
+"macOS'te öntanımlı olarak işletim sistemi dosya iletişim kutusunu "
+"etkinleştir."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:22
+msgid "Fix broken macOS Arm64 canvas rendering for 16 bit/integer images."
+msgstr ""
+"macOS Arm64'te, 16 bit/tamsayı görseller için bozuk tuval sunumunu düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:23
+msgid ""
+"Fix crashes when undoing multiple layer operations too quickly. [BUG:447462]"
+"(https://bugs.kde.org/show_bug.cgi?id=447462)"
+msgstr ""
+"Birden çok katman işlemini çok hızlı geri alırken oluşan çökmeleri düzelt. "
+"[HATA:447462](https://bugs.kde.org/show_bug.cgi?id=447462)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:24
+msgid ""
+"Work around a crash in the transform mask applied to a passthrough group. "
+"[BUG:447506](https://bugs.kde.org/show_bug.cgi?id=447506)"
+msgstr ""
+"Bir geçiş grubuna uygulanan dönüşüm maskesindeki bir kilitlenme sorununu "
+"gider. [HATA:447506](https://bugs.kde.org/show_bug.cgi?id=447506)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:25
+msgid ""
+"Fix the photoshop compatible shortcuts. [BUG:447771](https://bugs.kde.org/"
+"show_bug.cgi?id=447771)"
+msgstr ""
+"Photoshop uyumlu kısayolları düzelt. [HATA:447771](https://bugs.kde.org/"
+"show_bug.cgi?id=447771)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:26
+msgid ""
+"Fix AppimageUpdate. [BUG:446757](https://bugs.kde.org/show_bug.cgi?id=446757)"
+msgstr ""
+"AppimageUpdate'i düzelt. [HATA:446757](https://bugs.kde.org/show_bug.cgi?"
+"id=446757)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:27
+msgid ""
+"Show the correct number of layers in the Image Properties dialog. Patch by "
+"Dan McCarthy, thanks!"
+msgstr ""
+"Görsel Özellikleri iletişim kutusunda doğru katman sayısını göster. Yama "
+"için Dan McCarthy'e teşekkürler!"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:28
+msgid "Fix the layout of the docker titlebars."
+msgstr "Rıhtımcı başlık çubuklarının yerleşimini düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:29
+msgid "Disable automatically assigning accelerator keys for selecting dockers."
+msgstr ""
+"Rıhtımcıları seçmek için otomatik olarak hızlandırıcı düğmeler atamayı devre "
+"dışı bırak."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:30
+msgid "Fix a memory leak in the color history display."
+msgstr "Renk geçmişi görüntülemedeki bir bellek sızıntısını gider."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:31
+msgid "Fix a race condiction in the metadata system initialization."
+msgstr "Üst veri sistem ilklendirmesindeki bir yarış koşulunu düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:32
+msgid ""
+"Fix animation playback when having multiple views on an animation. "
+"[BUG:450425](https://bugs.kde.org/buglist.cgi?quicksearch=450425)"
+msgstr ""
+"Bir canlandırma üzerinde birden çok görünüm varken canlandırmayı oynatmayı "
+"düzelt. [HATA:450425](https://bugs.kde.org/buglist.cgi?quicksearch=450425)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:33
+msgid ""
+"Fix dataloss when scaling an image with animated transform masks. "
+"[BUG:450781](https://bugs.kde.org/show_bug.cgi?id=450781)"
+msgstr ""
+"Canlandırmalı dönüştürme maskeleriyle bir görseli ölçeklerken veri kaybını "
+"düzelt. [HATA:450781](https://bugs.kde.org/show_bug.cgi?id=450781)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:34
+msgid ""
+"Fix incorrect basename for an animation when filepath or filename changes. "
+"[BUG:451654](https://bugs.kde.org/show_bug.cgi?id=451654)"
+msgstr ""
+"Dosya yolu veya dosya adı değiştiğinde bir canlandırma için yanlış temel adı "
+"düzelt. [HATA:451654](https://bugs.kde.org/show_bug.cgi?id=451654)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:35
+msgid ""
+"Fix restoring the default values for canvas input settings. [BUG:396064]"
+"(https://bugs.kde.org/show_bug.cgi?id=396064)"
+msgstr ""
+"Tuval giriş ayarları için öntanımlı değerlerin geri yüklenmesini düzelt. "
+"[HATA:396064](https://bugs.kde.org/show_bug.cgi?id=396064)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:36
+msgid ""
+"Update gradient colors correctly in layer styles. [BUG:452066](https://bugs."
+"kde.org/show_bug.cgi?id=452066)"
+msgstr ""
+"Katman biçemlerindeki gradyan renkleri doğru biçimde güncelle. [HATA:452066]"
+"(https://bugs.kde.org/show_bug.cgi?id=452066)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:37
+msgid "Fix a crash when handling touch events."
+msgstr "Dokunma olaylarını işlerken oluşan bir çökmeyi onar."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:38
+msgid "Fix a large number of defects found by Coverity."
+msgstr "Coverity tarafından bulunan yüksek sayıdaki kusurları düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:39
+msgid ""
+"Fix the hitboxes in the curve widget being too small on HiDPI screens. "
+"[BUG:446755](https://bugs.kde.org/show_bug.cgi?id=446755)"
+msgstr ""
+"Eğri araç takımlarındaki isabet kutularının HiDPI ekranlarında çok küçük "
+"olmasını düzelt. [HATA:446755](https://bugs.kde.org/show_bug.cgi?id=446755)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:40
+msgid "Fix saving over deactivated resources."
+msgstr "Devre dışı bırakılan kaynaklar üzerinden kaydetmeyi düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:41
+msgid ""
+"Fix the Advanced Color Selector's hsySH square element. [BUG:452422](https://"
+"bugs.kde.org/show_bug.cgi?id=452422)"
+msgstr ""
+"Gelişmiş Renk Seçici'nin hsySH kare ögesini düzeltin. [HATA:452422](https://"
+"bugs.kde.org/show_bug.cgi?id=452422)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:42
+msgid ""
+"Fix issues with cursors being too small on HiDPI screens. [BUG:448107]"
+"(https://bugs.kde.org/show_bug.cgi?id=448107), [BUG:447314](https://bugs.kde."
+"org/show_bug.cgi?id=447314)"
+msgstr ""
+"HiDPI ekranlarda imleçlerin çok küçük olmasıyla ilgili sorunları düzelt. "
+"[HATA:448107](https://bugs.kde.org/show_bug.cgi?id=448107), [HATA:447314]"
+"(https://bugs.kde.org/show_bug.cgi?id=447314)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:43
+msgid ""
+"Fix problems with animating transparency and filter masks. [BUG:452170]"
+"(https://bugs.kde.org/show_bug.cgi?id=452170)"
+msgstr ""
+"Hareketli saydamlık ve süzgeç maskeleriyle ilgili sorunları düzelt. "
+"[HATA:452170](https://bugs.kde.org/show_bug.cgi?id=452170)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:44
+msgid ""
+"Opacity now loads correctly for animated vector layers. [BUG:452144](https://"
+"bugs.kde.org/show_bug.cgi?id=452144)"
+msgstr ""
+"Matlık, artık canlandırmalı vektör katmanları için doğru biçimde yükleniyor. "
+"[HATA:452144](https://bugs.kde.org/show_bug.cgi?id=452144)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:45
+msgid ""
+"Stop the storyboard docker creating frames on locked layers. [BUG:447396]"
+"(https://bugs.kde.org/show_bug.cgi?id=447396)"
+msgstr ""
+"Görsel taslak penceresinin kilitli katmanlarda çerçeveler oluşturmasını "
+"durdur. [HATA:447396](https://bugs.kde.org/show_bug.cgi?id=447396)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:46
+msgid "Storyboards: add the ability to duplicate existing scenes."
+msgstr "Görsel taslaklar: Var olan sahneleri çoğaltma yeteneğini ekle."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:47
+msgid ""
+"Improve the interaction with ffmpeg when rendering animations or recordings."
+msgstr ""
+"Canlandırmaları veya kayıtları işlerken ffmpeg ile etkileşimi iyileştir."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:48
+msgid "Improve detection of broken video sequences on import as animation."
+msgstr ""
+"Canlandırma olarak içe aktarma sırasında bozuk video sıralamalarının "
+"algılanmasını iyileştir."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:49
+msgid ""
+"Work around a problem where not all pixels got copied when copying a mask. "
+"[BUG:453164](https://bugs.kde.org/show_bug.cgi?id=453164)"
+msgstr ""
+"Bir maske kopyalanırken tüm piksellerin kopyalanmaması sorununu gider. "
+"[HATA:453164](https://bugs.kde.org/show_bug.cgi?id=453164)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:50
+msgid ""
+"Make it possible to save and load gradients on non-UTF8 locales. [BUG:447730]"
+"(https://bugs.kde.org/show_bug.cgi?id=447730)"
+msgstr ""
+"UTF8 olmayan yerel ayarlarda gradyanları kaydetmeyi ve yüklemeyi olanaklı "
+"kıl. [HATA:447730](https://bugs.kde.org/show_bug.cgi?id=447730)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:51
+msgid ""
+"Fix issue with masks and layers being broken after changing the colorspace."
+msgstr ""
+"Renk uzayını değiştirdikten sonra maskelerin ve katmanların bozulması "
+"sorununu düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:52
+msgid ""
+"Update to LittleCMS 2.13.1 to fix a bug in the grayscale colorspace and fix "
+"conversion between 8 bits and 16 bits grayscale images. [BUG:447484](https://"
+"bugs.kde.org/show_bug.cgi?id=447484)"
+msgstr ""
+"Gri tonlamalı renk alanındaki bir hatayı düzeltmek ve 8 bit ile 16 bit gri "
+"tonlamalı görüntüler arasındaki dönüşümü düzeltmek için LittleCMS'i 2.13.1 "
+"sürümüne güncelle. [HATA:447484](https://bugs.kde.org/show_bug.cgi?id=447484)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:53
+msgid ""
+"Fix a delay on autobrush strokes with randomness: [BUG:446663](https://bugs."
+"kde.org/show_bug.cgi?id=446663)"
+msgstr ""
+"Rastgele otomatik fırça darbelerindeki gecikmeyi düzelt: [HATA:446663]"
+"(https://bugs.kde.org/show_bug.cgi?id=446663)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:54
+msgid ""
+"Improve performance when moving a layer in a layer group. [BUG:450957]"
+"(https://bugs.kde.org/show_bug.cgi?id=450957)"
+msgstr ""
+"Bir katman grubundaki bir katmanı taşırken başarımı artır. [HATA:450957]"
+"(https://bugs.kde.org/show_bug.cgi?id=450957)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:55
+msgid ""
+"Fix brush outline precision for pixel-art brushes. [BUG:447466](https://bugs."
+"kde.org/show_bug.cgi?id=447466)"
+msgstr ""
+"Piksel sanat fırçaları için fırça taslağı hassasiyetini düzelt. [HATA:447466]"
+"(https://bugs.kde.org/show_bug.cgi?id=447466)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:56
+msgid ""
+"Improve the brush outline for low-density brushes. [BUG:447045](https://bugs."
+"kde.org/show_bug.cgi?id=447045)"
+msgstr ""
+"Düşük yoğunluklu fırçalar için fırça dış hatını geliştir. [HATA:447045]"
+"(https://bugs.kde.org/show_bug.cgi?id=447045)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:57
+msgid ""
+"Set .apng as the default file extension for APNG files instead of PNG. "
+"[BUG:451473](https://bugs.kde.org/show_bug.cgi?id=451473)"
+msgstr ""
+"APNG dosyaları için PNG yerine öntanımlı dosya uzantısı olarak .apng'yi "
+"ayarla. [HATA:451473](https://bugs.kde.org/show_bug.cgi?id=451473)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:58
+msgid ""
+"Fix crash when using the smart patch tool on HDR images. [BUG:451912]"
+"(https://bugs.kde.org/show_bug.cgi?id=451912)"
+msgstr ""
+"HDR görsellerde akıllı yama aracını kullanırken kilitlenmeyi onar. "
+"[HATA:451912](https://bugs.kde.org/show_bug.cgi?id=451912)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:59
+msgid ""
+"Make it possible to set Weighted Distance to values larger than 100. "
+"[BUG:451874](https://bugs.kde.org/show_bug.cgi?id=451874)"
+msgstr ""
+"Ağırlıklı Uzaklık'ı 100'den büyük değerlere ayarlamayı olanaklı kıl. "
+"[HATA:451874](https://bugs.kde.org/show_bug.cgi?id=451874)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:60
+msgid ""
+"Fix the the fuzziness setting for the contiguous selection tool. [BUG:447524]"
+"(https://bugs.kde.org/show_bug.cgi?id=447524)"
+msgstr ""
+"Bitişik seçim aracı için bulanıklık ayarını düzelt. [HATA:447524](https://"
+"bugs.kde.org/show_bug.cgi?id=447524)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:61
+msgid ""
+"Fix the default eraser preset. [BUG:447650](https://bugs.kde.org/show_bug."
+"cgi?id=447650)"
+msgstr ""
+"Öntanımlı silgi önayarını düzelt. [HATA:447650](https://bugs.kde.org/"
+"show_bug.cgi?id=447650)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:62
+msgid ""
+"Add missing shortcuts for the following filters: slope/offset/power, cross-"
+"channel adjustment curves, halftone, gaussian high pass, height to normal "
+"map, gradient map, normalize and palettize. [BUG:451337](https://bugs.kde."
+"org/show_bug.cgi?id=451337)"
+msgstr ""
+"Şu süzgeçler için eksik kısayolları ekley: eğim/ofset/güç, kanallar arası "
+"ayarlama eğrileri, yarı ton, gauss yüksek geçiş, normale yükseklik haritası, "
+"gradyan haritası, normalleştir ve paletleştir. [HATA:451337](https://bugs."
+"kde.org/show_bug.cgi?id=451337)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:63
+msgid ""
+"Fix saving new workspaces. [BUG:446985](https://bugs.kde.org/show_bug.cgi?"
+"id=446985)"
+msgstr ""
+"Yeni çalışma alanlarını kaydetmeyi düzelt. [HATA:446985](https://bugs.kde."
+"org/show_bug.cgi?id=446985)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:64
+msgid "Correctly handle the ICC profile blacklist."
+msgstr "ICC profili kara listesini doğru bir şekilde işle."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:65
+msgid ""
+"Fix the \"Photoshop signature verification failed!\" warning if there are "
+"zero sized blocks in the PSD file. [BUG:450983](https://bugs.kde.org/"
+"show_bug.cgi?id=450983)"
+msgstr ""
+"\"Photoshop imza doğrulaması başarısız!\" hatasını düzelt. PSD dosyasında "
+"sıfır boyutlu bloklar varsa uyarı verir. [HATA:450983](https://bugs.kde.org/"
+"show_bug.cgi?id=450983)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:66
+msgid ""
+"Make starting Krita more robust if the configuration file is corrupted. "
+"[BUG:449983](https://bugs.kde.org/show_bug.cgi?id=449983)"
+msgstr ""
+"Yapılandırma dosyası bozuksa Krita'yı başlatmayı daha sağlam hale getir. "
+"[HATA:449983](https://bugs.kde.org/show_bug.cgi?id=449983)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:67
+msgid "Add pressure and rotation to touch support."
+msgstr "Dokunma desteğine için basınç ve döndürme ekle."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:68
+msgid ""
+"Fix translation issues on Android. [BUG:448343](https://bugs.kde.org/"
+"show_bug.cgi?id=448343)"
+msgstr ""
+"Android'de çeviri sorunlarını düzelt. [HATA:448343](https://bugs.kde.org/"
+"show_bug.cgi?id=448343)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:69
+msgid "Fix autosaving on Android."
+msgstr "Android'de otomatik kaydetmeyi düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:70
+msgid ""
+"Handle flags in SVG paths in vector layers correctly: [BUG:447417](https://"
+"bugs.kde.org/show_bug.cgi?id=447417)"
+msgstr ""
+"Vektör katmanlarındaki SVG yollarındaki bayrakları doğru şekilde işle: "
+"[HATA:447417](https://bugs.kde.org/show_bug.cgi?id=447417)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:71
+msgid ""
+"Fix crash when the selected gradient isn't shown in the gradient selector in "
+"the Layer Style dialog. Similar for patterns. [BUG:448296](https://bugs.kde."
+"org/show_bug.cgi?id=448296), [BUG:445922](https://bugs.kde.org/show_bug.cgi?"
+"id=445922)"
+msgstr ""
+"Seçilen gradyan, Katman Biçemi iletişim kutusundaki gradyan seçicide "
+"gösterilmediğinde oluşan çökmeyi düzelt. Desenler için de benzer durumu "
+"düzelt. [HATA:448296](https://bugs.kde.org/show_bug.cgi?id=448296), "
+"[HATA:445922](https://bugs.kde.org/show_bug.cgi?id=445922)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:72
+msgid ""
+"Fix an issue in the brush preset selector if no brush preset has been "
+"selected. [BUG:449226](https://bugs.kde.org/show_bug.cgi?id=449226), "
+"[BUG:450121](https://bugs.kde.org/show_bug.cgi?id=450121)"
+msgstr ""
+"Hiçbir fırça önayarı seçilmemişse fırça önayarı seçicide oluşan bir sorunu "
+"düzelt. [HATA:449226](https://bugs.kde.org/show_bug.cgi?id=449226), "
+"[HATA:450121](https://bugs.kde.org/show_bug.cgi?id=450121)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:73
+msgid ""
+"Fix a bug in Qt's accessibility handling. [BUG:449122](https://bugs.kde.org/"
+"show_bug.cgi?id=449122)"
+msgstr ""
+"Qt'nin erişilebilirlik işlemesindeki bir hatayı düzelt. [HATA:449122]"
+"(https://bugs.kde.org/show_bug.cgi?id=449122)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:74
+msgid ""
+"Fix the menubar height in MDI mode with maximized subwindow on HiDPI "
+"screens. [BUG:449118](https://bugs.kde.org/show_bug.cgi?id=449118)"
+msgstr ""
+"HiDPI ekranlarda büyütülmüş alt pencere ile MDI kipinde menü çubuğu "
+"yüksekliğini düzelt. [HATA:449118](https://bugs.kde.or/show_bug.cgi?"
+"id=449118)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:75
+msgid ""
+"Fix the speed sensor in the line tool. [BUG:434488](https://bugs.kde.org/"
+"show_bug.cgi?id=434488)"
+msgstr ""
+"Çizgi aracındaki hız algılayıcıyı sabitle. [HATA:434488](https://bugs.kde."
+"org/show_bug.cgi?id=434488)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:76
+msgid ""
+"Fix a crash in the raindrops filter when applied to an empty layer. "
+"[BUG:449408](https://bugs.kde.org/show_bug.cgi?id=449408)"
+msgstr ""
+"Boş bir katmana uygulandığında yağmur damlası süzgecinde oluşan çökmeyi "
+"düzelt. [HATA:449408](https://bugs.kde.org/show_bug.cgi?id=449408)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:77
+msgid ""
+"Fix a race condition in Select All. [BUG:449122](https://bugs.kde.org/"
+"show_bug.cgi?id=449122)"
+msgstr ""
+"Tümünü Seç'teki bir yarış koşulunu düzelt. [HATA:449122](https://bugs.kde."
+"org/show_bug.cgi?id=449122)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:78
+msgid ""
+"Improve thread handling when painting, improving performance and energy "
+"efficiency. [BUG:367901](https://bugs.kde.org/show_bug.cgi?id=367901), "
+"[BUG:360677](https://bugs.kde.org/show_bug.cgi?id=360677)"
+msgstr ""
+"Boyama sırasında iş parçacığı kullanımını iyileştir, başarımı ve enerji "
+"verimliliğini artır. [HATA:367901](https://bugs.kde.org/show_bug.cgi?"
+"id=367901), [HATA:360677](https://bugs.kde.org/show_bug.cgi?id=360677)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:79
+msgid ""
+"Improve the performance of the resource selectors if there are many resource "
+"libraries installed."
+msgstr ""
+"Yüklü çok sayıda kaynak kitaplığı varsa kaynak seçicilerin başarımını "
+"iyileştir."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:80
+msgid "Fix issues with saving tags when updating the database schema."
+msgstr ""
+"Veritabanı şemasını güncellerken etiketleri kaydetmeyle ilgili sorunları "
+"düzelt."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:81
+msgid "Make it possible to tag and untag multiple resources at once."
+msgstr ""
+"Aynı anda birden çok kaynağı etiketlemeyi ve etiketini kaldırmayı olanaklı "
+"kıl."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:82
+msgid ""
+"Reset the painting assistant after each stroke. [BUG:448187](https://bugs."
+"kde.org/show_bug.cgi?id=448187)"
+msgstr ""
+"Her vuruştan sonra boyama yardımcısını sıfırla. [HATA:448187](https://bugs."
+"kde.org/show_bug.cgi?id=448187)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:83
+msgid ""
+"Fix issues witht he color smudge radius range. [BUG:441682](https://bugs.kde."
+"org/show_bug.cgi?id=441682)"
+msgstr ""
+"Renk lekesi yarıçapı erimiyle ilgili sorunları düzelt. [HATA:441682](https://"
+"bugs.kde.org/show_bug.cgi?id=441682)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:84
+msgid ""
+"Remove broken resource files after importing them fails. [BUG:446279]"
+"(https://bugs.kde.org/show_bug.cgi?id=446279)"
+msgstr ""
+"Bozuk özkaynak dosyalarını içe aktarma işlemi başarısız olduktan sonra "
+"kaldır. [HATA:446279](https://bugs.kde.org/show_bug.cgi?id=446279)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:85
+msgid ""
+"Fix reference image update on resizing in HiDPI. [BUG:430988](https://bugs."
+"kde.org/show_bug.cgi?id=430988)"
+msgstr ""
+"HiDPI'de yeniden boyutlandırmada başvuru görsel güncellemesini düzelt. "
+"[HATA:430988](https://bugs.kde.org/show_bug.cgi?id=430988)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:86
+msgid ""
+"Fix issue with MyPaint presets when Slow Tracking interacts with the "
+"Stabilizer. [BUG:447562](https://bugs.kde.org/show_bug.cgi?id=447562)"
+msgstr ""
+"Yavaş İzleme, Dengeleyici ile etkileşime girdiğinde MyPaint önayarlarıyla "
+"ilgili oluşan sorunu düzelt. [HATA:447562](https://bugs.kde.org/show_bug.cgi?"
+"id=447562)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:87
+msgid ""
+"Fix banding when rendering in HDR mode. [BUG:445672](https://bugs.kde.org/"
+"show_bug.cgi?id=445672)"
+msgstr ""
+"HDR kipinde sunarken şeritlenmeyi düzelt. [HATA:445672](https://bugs.kde.org/"
+"show_bug.cgi?id=445672)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:88
+msgid ""
+"Fix rendering SVG file layers. [BUG:448256](https://bugs.kde.org/show_bug."
+"cgi?id=448256)"
+msgstr ""
+"SVG dosya katmanlarını oluşturmayı düzelt. [HATA:448256](https://bugs.kde."
+"org/show_bug.cgi?id=448256)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:89
+msgid ""
+"Fix the small color selector on OpenGL 2.1. [BUG:447868](https://bugs.kde."
+"org/show_bug.cgi?id=447868)"
+msgstr ""
+"OpenGL 2.1'de küçük renk seçiciyi düzelt. [HATA:447868](https://bugs.kde.org/"
+"show_bug.cgi?id=447868)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:90
+msgid ""
+"Fix using the default theme if there is no theme configured. [BUG:448483]"
+"(https://bugs.kde.org/show_bug.cgi?id=448483)"
+msgstr ""
+"Yapılandırılmış tema yoksa öntanımlı temayı kullanarak düzelt. [HATA:448483]"
+"(https://bugs.kde.org/show_bug.cgi?id=448483)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:91
+msgid ""
+"Fix sizing of preview images in the non-native file dialog. [BUG:447805]"
+"(https://bugs.kde.org/show_bug.cgi?id=447805)"
+msgstr ""
+"Yerel olmayan dosya iletişim kutusunda önizleme görsellerinin "
+"boyutlandırmasını düzelt. [HATA:447805](https://bugs.kde.org/show_bug.cgi?"
+"id=447805)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:92
+msgid ""
+"Improve handling of the CTRL modifier key. [BUG:438784](https://bugs.kde.org/"
+"show_bug.cgi?id=438784)"
+msgstr ""
+"CTRL değiştirici düğmesinin işlenmesini iyileştir. [HATA:438784](https://"
+"bugs.kde.org/show_bug.cgi?id=438784)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:93
+msgid ""
+"Fix update of brush outline when switching brush preset or tool. [BUG:428988]"
+"(https://bugs.kde.org/show_bug.cgi?id=428988), [BUG:442343](https://bugs.kde."
+"org/show_bug.cgi?id=442343)"
+msgstr ""
+"Fırça önayarı veya aracı değiştirilirken fırça taslağı güncellemesini "
+"düzelt. [HATA:428988](https://bugs.kde.org/show_bug.cgi?id=428988), "
+"[HATA:442343](https://bugs.kde.org/show_bug.cgi?id=442343)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:94
+msgid "Improve handling the thumbnails for the recent files list."
+msgstr ""
+"Son kullanılan dosyalar listesi için küçük görsellerin işlenmesini iyileştir."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:95
+msgid ""
+"Fix setting the configuration of a fill layer from the scripting API. "
+"[BUG:447807](https://bugs.kde.org/show_bug.cgi?id=447807)"
+msgstr ""
+"Komut dosyası oluşturma API'sinden bir dolgu katmanının yapılandırmasını "
+"ayarlayarak düzelt. [HATA:447807](https://bugs.kde.org/show_bug.cgi?"
+"id=447807)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:107
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.0.5-setup.exe](https://download.kde."
+"org/stable/krita/5.0.5/krita-x64-5.0.5-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.0.5-setup.exe](https://download.kde.org/"
+"stable/krita/5.0.5/krita-x64-5.0.5-setup.exe)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:108
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.0.5.zip](https://download.kde.org/"
+"stable/krita/5.0.5/krita-x64-5.0.5.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.0.5.zip](https://download.kde.org/"
+"stable/krita/5.0.5/krita-x64-5.0.5.zip)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:109
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/stable/krita/5.0.5/krita-x64-5.0.5-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/stable/krita/5.0.5/krita-x64-5.0.5-dbg.zip)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:113
+msgid ""
+"64 bits Linux: [krita-5.0.5-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.0.5/krita-5.0.5-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.0.5-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.0.5/krita-5.0.5-x86_64.appimage)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:123
+msgid ""
+"macOS disk image: [krita-5.0.5.dmg](https://download.kde.org/stable/"
+"krita/5.0.5/krita-5.0.5.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.0.5.dmg](https://download.kde.org/stable/"
+"krita/5.0.5/krita-5.0.5.dmg)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:127
+#: content/en/posts/2022/krita-5-0-6-released.md:44
+#: content/en/posts/2022/krita-5-1-0-released.md:62
+#: content/en/posts/2022/krita-5-1-1-released.md:59
+msgid ""
+"We consider Krita on ChromeOS as ready for production. Krita on Android is "
+"still **_beta_**. Krita is not available for Android phones, only for "
+"tablets, because the user interface needs a large screen."
+msgstr ""
+"Krita'yı ChromeOS üzerinde üretime hazır olarak değerlendiriyoruz. "
+"Android'de Krita hala **_betadır_**. Krita, Android telefonlar için yoktur, "
+"yalnızca tabletler için vardır; çünkü kullanıcı arayüzü büyük bir ekrana "
+"gereksinim duyar."
+
+#: content/en/posts/2022/krita-5-0-5-released.md:129
+msgid ""
+"[64 bits Intel CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"x86_64-5.0.5-release-signed.apk)"
+msgstr ""
+"[64 bit Intel CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"x86_64-5.0.5-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:130
+msgid ""
+"[32 bits Intel CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"x86-5.0.5-release-signed.apk)"
+msgstr ""
+"[32 bit Intel CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"x86-5.0.5-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:131
+msgid ""
+"[64 bits Arm CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"arm64-v8a-5.0.5-release-signed.apk)"
+msgstr ""
+"[64 bit Arm CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-arm64-"
+"v8a-5.0.5-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:132
+msgid ""
+"[32 bits Arm CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"armeabi-v7a-5.0.5-release-signed.apk)"
+msgstr ""
+"[32 bit Arm CPU APK](https://download.kde.org/stable/krita/5.0.5/krita-"
+"armeabi-v7a-5.0.5-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:136
+msgid ""
+"[krita-5.0.5.tar.gz](https://download.kde.org/stable/krita/5.0.5/krita-5.0.5."
+"tar.gz)"
+msgstr ""
+"[krita-5.0.5.tar.gz](https://download.kde.org/stable/krita/5.0.5/krita-5.0.5."
+"tar.gz)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:137
+msgid ""
+"[krita-5.0.5.tar.xz](https://download.kde.org/stable/krita/5.0.5/krita-5.0.5."
+"tar.xz)"
+msgstr ""
+"[krita-5.0.5.tar.xz](https://download.kde.org/stable/krita/5.0.5/krita-5.0.5."
+"tar.xz)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:139
+#: content/en/posts/2022/krita-5-0-6-released.md:56
+#: content/en/posts/2022/krita-5-1-0-released.md:74
+#: content/en/posts/2022/krita-5-1-1-released.md:71
+msgid "md5sum"
+msgstr "md5sum"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:141
+#: content/en/posts/2022/krita-5-0-6-released.md:58
+msgid "For all downloads:"
+msgstr "Tüm indirmeler için:"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:143
+msgid "[md5sum.txt](https://download.kde.org/stable/krita/5.0.5/md5sum.txt)"
+msgstr "[md5sum.txt](https://download.kde.org/stable/krita/5.0.5/md5sum.txt)"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:145
+#: content/en/posts/2022/krita-5-0-6-released.md:62
+#: content/en/posts/2022/krita-5-1-0-released.md:78
+#: content/en/posts/2022/krita-5-1-1-released.md:75
+msgid "Key"
+msgstr "Anahtar"
+
+#: content/en/posts/2022/krita-5-0-5-released.md:147
+msgid ""
+"The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. "
+"You can retrieve the public key [here](https://files.kde.org/"
+"krita/4DA79EDA231C852B). The signatures are [here](https://download.kde.org/"
+"stable/krita/5.0.5/) (filenames ending in .sig)."
+msgstr ""
+"Linux AppImage ve kaynak .tar.gz ve .tar.xz tarball'ları imzalanır. Genel "
+"anahtarı [buradan](https://files.kde.org/Krita/4DA79EDA231C852B) "
+"alabilirsiniz. İmzalar [buradadır](https://download.kde.org/stable/"
+"krita/5.0.5/) (.sig ile biten dosya adları)."
+
+#: content/en/posts/2022/krita-5-0-6-released.md:0
+msgid "Krita 5.0.6 Released"
+msgstr "Krita 5.0.6 yayımlandı!"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:9
+msgid ""
+"Today we release Krita 5.0.6. This is a bug fix release with two crash fixes:"
+msgstr ""
+"Bugün, Krita 5.0.6'yı yayımlıyoruz. Bu, iki adet çökme düzeltmesi içeren bir "
+"hata düzeltme sürümüdür:"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:11
+msgid ""
+"A crash when working with vector layers or vector selections and using undo "
+"a lot: [BUG:447985](https://bugs.kde.org/show_bug.cgi?id=447985)"
+msgstr ""
+"Vektör katmanlarıyla veya vektör seçimleriyle çalışırken ve çok fazla geri "
+"alma kullanılırken bir çökme: [HATA:447985](https://bugs.kde.org/show_bug."
+"cgi?id=447985)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:12
+msgid ""
+"A crash deleting a vector layer with an animated transparency mask: "
+"[BUG:452396](https://bugs.kde.org/show_bug.cgi?id=452396)"
+msgstr ""
+"Canlandırmalı saydamlık maskesine sahip bir vektör katmanını silme hatası: "
+"[HATA:452396](https://bugs.kde.org/show_bug.cgi?id=452396)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:20
+msgid ""
+"If you're using the portable zip files, just open the zip file in Explorer "
+"and drag the folder somewhere convenient, then double-click on the Krita "
+"icon in the folder. This will not impact an installed version of Krita, "
+"though it will share your settings and custom resources with your regular "
+"installed version of Krita. For reporting crashes, also get the debug "
+"symbols folder."
+msgstr ""
+"Taşınabilir zip dosyasını kullanıyorsanız yalnızca Windows Gezgini'nde .zip "
+"dosyasını açın ve klasörü uygun bir yere sürükleyin. Sonrasında klasördeki "
+"Krita simgesine çift tıklayın. Bu, Krita'nın kurulu bir sürümünü etkilemez; "
+"ancak kurulu sürümle aynı ayarları ve özel özkaynakları paylaşır. Çökmeleri "
+"bildirmek için ayrıca hata ayıklama sembolleri klasörünü de indirin."
+
+#: content/en/posts/2022/krita-5-0-6-released.md:24
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.0.6-setup.exe](https://download.kde."
+"org/stable/krita/5.0.6/krita-x64-5.0.6-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.0.6-setup.exe](https://download.kde.org/"
+"stable/krita/5.0.6/krita-x64-5.0.6-setup.exe)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:25
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.0.6.zip](https://download.kde.org/"
+"stable/krita/5.0.6/krita-x64-5.0.6.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.0.6.zip](https://download.kde.org/"
+"stable/krita/5.0.6/krita-x64-5.0.6.zip)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:26
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/stable/krita/5.0.6/krita-x64-5.0.6-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/stable/krita/5.0.6/krita-x64-5.0.6-dbg.zip)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:30
+msgid ""
+"64 bits Linux: [krita-5.0.6-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.0.6/krita-5.0.6-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.0.6-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.0.6/krita-5.0.6-x86_64.appimage)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:40
+msgid ""
+"macOS disk image: [krita-5.0.6.dmg](https://download.kde.org/stable/"
+"krita/5.0.6/krita-5.0.6.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.0.6.dmg](https://download.kde.org/stable/"
+"krita/5.0.6/krita-5.0.6.dmg)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:46
+msgid ""
+"[64 bits Intel CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"x86_64-5.0.6-release-signed.apk)"
+msgstr ""
+"[64 bit Intel CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"x86_64-5.0.6-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:47
+msgid ""
+"[32 bits Intel CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"x86-5.0.6-release-signed.apk)"
+msgstr ""
+"[32 bit Intel CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"x86-5.0.6-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:48
+msgid ""
+"[64 bits Arm CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"arm64-v8a-5.0.6-release-signed.apk)"
+msgstr ""
+"[64 bit Arm CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-arm64-"
+"v8a-5.0.6-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:49
+msgid ""
+"[32 bits Arm CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"armeabi-v7a-5.0.6-release-signed.apk)"
+msgstr ""
+"[32 bit Arm CPU APK](https://download.kde.org/stable/krita/5.0.6/krita-"
+"armeabi-v7a-5.0.6-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:53
+msgid ""
+"[krita-5.0.6.tar.gz](https://download.kde.org/stable/krita/5.0.6/krita-5.0.6."
+"tar.gz)"
+msgstr ""
+"[krita-5.0.6.tar.gz](https://download.kde.org/stable/krita/5.0.6/krita-5.0.6."
+"tar.gz)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:54
+msgid ""
+"[krita-5.0.6.tar.xz](https://download.kde.org/stable/krita/5.0.6/krita-5.0.6."
+"tar.xz)"
+msgstr ""
+"[krita-5.0.6.tar.xz](https://download.kde.org/stable/krita/5.0.6/krita-5.0.6."
+"tar.xz)"
+
+#: content/en/posts/2022/krita-5-0-6-released.md:60
+msgid ""
+"[https://download.kde.org/stable/krita/5.0.6/](https://download.kde.org/"
+"stable/krita/5.0.6) and click on Details to get the hashes."
+msgstr ""
+"[https://download.kde.org/stable/krita/5.0.6/](https://download.kde.org/"
+"stable/krita/5.0.6), sonrasında sağlamaları almak için Details'a tıklayın."
+
+#: content/en/posts/2022/krita-5-0-6-released.md:64
+msgid ""
+"The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. "
+"You can retrieve the public key [here](https://files.kde.org/"
+"krita/4DA79EDA231C852B). The signatures are [here](https://download.kde.org/"
+"stable/krita/5.0.6/) (filenames ending in .sig)."
+msgstr ""
+"Linux AppImage ve kaynak .tar.gz ve .tar.xz tarball'ları imzalanır. Genel "
+"anahtarı [buradan](https://files.kde.org/Krita/4DA79EDA231C852B) "
+"alabilirsiniz. İmzalar [buradadır](https://download.kde.org/stable/"
+"krita/5.0.6/) (.sig ile biten dosya adları)."
+
+#: content/en/posts/2022/krita-5-1-0-released.md:0
+msgid "Krita 5.1.0 Released!"
+msgstr "Krita 5.1.0 yayımlandı!"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:9
+msgid "Today we're releasing Krita 5.1.0, a major new feature release!"
+msgstr "Bugün, majör bir özellik sürümü olan Krita 5.1.0'ı yayımlıyoruz!"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:13
+msgid "Even more operations can handle multiple selected layers."
+msgstr "Daha da fazla işlem, birden çok seçili katmanı işleyebilir."
+
+#: content/en/posts/2022/krita-5-1-0-released.md:14
+msgid ""
+"We've improved support for the WebP, Photoshop layered TIFF and Photoshop "
+"files, and there's new support for the JPEG-XL file format."
+msgstr ""
+"WebP, Photoshop katmanlı TIFF ve Photoshop dosyaları için desteği "
+"geliştirdik ve JPEG-XL dosya formatı için yeni destek ekledik."
+
+#: content/en/posts/2022/krita-5-1-0-released.md:20
+msgid ""
+"And there are, of course, a lot of bug fixes, performance improvements and "
+"all kinds of little user interface polishing. For the full list, check out "
+"the full [release notes](https://krita.org/en/krita-5-1-release-notes/)!"
+msgstr ""
+"Ve elbette pek çok hata düzeltmesi, başarım iyileştirmesi ve her türlü küçük "
+"kullanıcı arayüzü cilalaması var. Tam liste için tam [sürüm notlarına]"
+"(https://krita.org/en/krita-5-1-release-notes/) göz atın!"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:32
+msgid ""
+"[![Screenshot of 5.1.0-beta1](images/posts/2022/5.1.0-beta1-1024x562.webp)]"
+"(https://krita.org/wp-content/uploads/2022/06/5.1.0-beta1.png)"
+msgstr ""
+"[![5.1.0-beta1 ekran görüntüsü](images/posts/2022/5.1.0-beta1-1024x562.webp)]"
+"(https://krita.org/wp-content/uploads/2022/06/5.1.0-beta1.png)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:42
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.1.0-setup.exe](https://download.kde."
+"org/stable/krita/5.1.0/krita-x64-5.1.0-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.1.0-setup.exe](https://download.kde.org/"
+"stable/krita/5.1.0/krita-x64-5.1.0-setup.exe)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:43
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.1.0.zip](https://download.kde.org/"
+"stable/krita/5.1.0/krita-x64-5.1.0.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.1.0.zip](https://download.kde.org/"
+"stable/krita/5.1.0/krita-x64-5.1.0.zip)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:44
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/stable/krita/5.1.0/krita-x64-5.1.0-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/stable/krita/5.1.0/krita-x64-5.1.0-dbg.zip)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:48
+msgid ""
+"64 bits Linux: [krita-5.1.0-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.1.0/krita-5.1.0-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.1.0-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.1.0/krita-5.1.0-x86_64.appimage)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:58
+msgid ""
+"macOS disk image: [krita-5.1.0.dmg](https://download.kde.org/stable/"
+"krita/5.1.0/krita-5.1.0.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.1.0.dmg](https://download.kde.org/stable/"
+"krita/5.1.0/krita-5.1.0.dmg)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:64
+msgid ""
+"[64 bits Intel CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"x86_64-5.1.0-release-signed.apk)"
+msgstr ""
+"[64 bit Intel CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"x86_64-5.1.0-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:65
+msgid ""
+"[32 bits Intel CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"x86-5.1.0-release-signed.apk)"
+msgstr ""
+"[32 bit Intel CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"x86-5.1.0-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:66
+msgid ""
+"[64 bits Arm CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"arm64-v8a-5.1.0-release-signed.apk)"
+msgstr ""
+"[64 bit Arm CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-arm64-"
+"v8a-5.1.0-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:67
+msgid ""
+"[32 bits Arm CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"armeabi-v7a-5.1.0-release-signed.apk)"
+msgstr ""
+"[32 bit Arm CPU APK](https://download.kde.org/stable/krita/5.1.0/krita-"
+"armeabi-v7a-5.1.0-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:71
+msgid ""
+"[krita-5.1.0.tar.gz](https://download.kde.org/stable/krita/5.1.0/krita-5.1.0."
+"tar.gz)"
+msgstr ""
+"[krita-5.1.0.tar.gz](https://download.kde.org/stable/krita/5.1.0/krita-5.1.0."
+"tar.gz)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:72
+msgid ""
+"[krita-5.1.0.tar.xz](https://download.kde.org/stable/krita/5.1.0/krita-5.1.0."
+"tar.xz)"
+msgstr ""
+"[krita-5.1.0.tar.xz](https://download.kde.org/stable/krita/5.1.0/krita-5.1.0."
+"tar.xz)"
+
+#: content/en/posts/2022/krita-5-1-0-released.md:76
+msgid ""
+"For all downloads, visit [https://download.kde.org/stable/krita/5.1.0/]"
+"(https://download.kde.org/stable/krita/5.1.0) and click on Details to get "
+"the hashes."
+msgstr ""
+"Tüm indirmeler için [https://download.kde.org/stable/krita/5.1.0/](https://"
+"download.kde.org/stable/krita/5.1.0) adresini ziyaret edin ve sağlamaları "
+"almak için Details'e tıklayın."
+
+#: content/en/posts/2022/krita-5-1-0-released.md:80
+msgid ""
+"The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. "
+"You can retrieve the public key [here](https://files.kde.org/"
+"krita/4DA79EDA231C852B). The signatures are [here](https://download.kde.org/"
+"stable/krita/5.1.0/) (filenames ending in .sig)."
+msgstr ""
+"Linux AppImage ve kaynak .tar.gz ve .tar.xz tarball'ları imzalanır. Genel "
+"anahtarı [buradan](https://files.kde.org/Krita/4DA79EDA231C852B) "
+"alabilirsiniz. İmzalar [buradadır](https://download.kde.org/stable/"
+"krita/5.0.7/) (.sig ile biten dosya adları)."
+
+#: content/en/posts/2022/krita-5-1-1-released.md:0
+msgid "Krita 5.1.1 Released"
+msgstr "Krita 5.1.1 yayımlandı!"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:9
+msgid ""
+"Today we're releasing Krita 5.1.1. This is strictly a bug fix release. Two "
+"serious problems are fixed in this release: a slowdown in start-up time "
+"experienced by some people, and a crash when copying a vector layer."
+msgstr ""
+"Bugün Krita 5.1.1'i yayımlıyoruz. Bu kesinlikle bir hata düzeltme sürümüdür. "
+"Bu sürümde iki ciddi sorun giderildi: Bazı kişilerin başlatma süresinde "
+"yaşadığı yavaşlama ve bir vektör katmanını kopyalarken yaşanan çökme."
+
+#: content/en/posts/2022/krita-5-1-1-released.md:11
+msgid "Other fixes are:"
+msgstr "Diğer düzeltmeler:"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:13
+msgid ""
+"Native macOS touchpad gestures should now work properly. [BUG:456446]"
+"(https://bugs.kde.org/show_bug.cgi?id=456446)"
+msgstr ""
+"Yerel macOS dokunmatik yüzey hareketleri artık düzgün çalışıyor. "
+"[HATA:456446](https://bugs.kde.org/show_bug.cgi?id=456446)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:14
+msgid ""
+"On Android, the application size no longer increases because swap files did "
+"not get deleted."
+msgstr ""
+"Android'de, takas dosyaları silinmediği için uygulama boyutunun artması "
+"sorunu giderildi."
+
+#: content/en/posts/2022/krita-5-1-1-released.md:15
+msgid ""
+"On Android, a possible crash on startup is fixed. [BUG:458907](https://bugs."
+"kde.org/show_bug.cgi?id=458907)"
+msgstr ""
+"Android'de başlatma sırasında olası bir kilitlenme düzeltildi. [HATA:458907]"
+"(https://bugs.kde.org/show_bug.cgi?id=458907)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:16
+msgid ""
+"Several issues with the MyPaint brush engine were fixed. The MyPaint eraser "
+"now uses the proper brush settings, and the unusable blend mode selector is "
+"now disabled if a MyPaint brush has been selected. [BUG:453054](https://bugs."
+"kde.org/show_bug.cgi?id=453054), [BUG:445206](https://bugs.kde.org/show_bug."
+"cgi?id=445206)"
+msgstr ""
+"MyPaint fırça işletkesiyle ilgili çeşitli sorunlar giderildi. MyPaint "
+"silgisi artık doğru fırça ayarlarını kullanıyor ve bir MyPaint fırçası "
+"seçildiyse artık kullanılamayan karıştırma kipi seçici devre dışı "
+"bırakılıyor. [HATA:453054](https://bugs.kde.org/show_bug.cgi?id=453054), "
+"[HATA:445206](https://bugs.kde.org/show_bug.cgi?id=445206)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:17
+msgid ""
+"For Animation, the \"start numbering at\" when exporting an image sequence "
+"has been fixed. [BUG:458997](https://bugs.kde.org/show_bug.cgi?id=458997)"
+msgstr ""
+"Canlandırmalarda, bir görsel sıralamasını dışa aktarırken \"numaralandırmayı "
+"şurada başlat\" düzeltildi. [HATA:458997](https://bugs.kde.org/show_bug.cgi?"
+"id=458997)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:18
+msgid ""
+"Krita no longer crashes if the user has removed the kritadefault.profile "
+"canvas input profile from both the installation and the runtime folder"
+msgstr ""
+"Kullanıcı kritadefault.profile tuval giriş profili hem kurulumdan hem de "
+"çalışma zamanı klasöründen kaldırmışsa Krita artık kilitlenmiyor"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:19
+msgid ""
+"On reading ACO palettes, the color swatch name is now read and set on the "
+"swatch. [BUG:458209](https://bugs.kde.org/show_bug.cgi?id=458209)"
+msgstr ""
+"ACO paletlerini okurken, renk örneği adı artık renk örneğinde okunur ve "
+"ayarlanır. [HATA:458209](https://bugs.kde.org/show_bug.cgi?id=458209)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:20
+msgid ""
+"Fix a crash when selecting a layer in the layerbox. [BUG:458546](https://"
+"bugs.kde.org/show_bug.cgi?id=458546)"
+msgstr ""
+"Katman kutusunda bir katman seçerken bir çökmeyi düzelt. [HATA:458546]"
+"(https://bugs.kde.org/show_bug.cgi?id=458546)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:21
+msgid ""
+"Improve slider steps for the fade, ratio and similar color selection "
+"threshold"
+msgstr ""
+"Solma, oran ve benzer renk seçimi eşiği için kaydırıcı adımlarını iyileştir"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:22
+msgid "When moving paintable nodes, the canvas is updated only once."
+msgstr "Boyanabilir düğümleri taşırken tuval yalnızca bir kez güncellenir."
+
+#: content/en/posts/2022/krita-5-1-1-released.md:23
+msgid ""
+"Provide the workaround for OpenGL canvas showing black rectangles if there's "
+"more than one assistant visible to all platforms. [BUG:401940](https://bugs."
+"kde.org/show_bug.cgi?id=401940)"
+msgstr ""
+"Tüm platformlar tarafından görülebilen birden fazla yardımcı varsa siyah "
+"dikdörtgenleri gösteren OpenGL tuvali için geçici çözümü sağla. [HATA:401940]"
+"(https://bugs.kde.org/show_bug.cgi?id=401940)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:24
+msgid ""
+"Improve the performance of working with ZIP files, like .kra and .ora files."
+msgstr ""
+".kra ve .ora dosyaları gibi ZIP dosyalarıyla çalışma başarımını iyileştir."
+
+#: content/en/posts/2022/krita-5-1-1-released.md:25
+msgid ""
+"Fix opening single-layer PSD files. [BUG:458556](https://bugs.kde.org/"
+"show_bug.cgi?id=458556)"
+msgstr ""
+"Tek katmanlı PSD dosyalarını açmayı düzelt. [HATA:458556](https://bugs.kde."
+"org/show_bug.cgi?id=458556)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:26
+msgid ""
+"Make the Update link in the welcome widget clickable. [BUG:458034](https://"
+"bugs.kde.org/show_bug.cgi?id=458034)"
+msgstr ""
+"Karşılama penceresi araç takımındaki Güncelle bağlantısını tıklanabilir yap. "
+"[HATA:458034](https://bugs.kde.org/show_bug.cgi?id=458034)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:27
+msgid ""
+"JPEG-XL: Fix linear HDR export and float 16 import. [BUG:458054](https://"
+"bugs.kde.org/show_bug.cgi?id=458054)"
+msgstr ""
+"JPEG-XL: Doğrusal HDR dışa aktarmayı ve float 16 içe aktarmasını düzelt. "
+"[HATA:458054](https://bugs.kde.org/show_bug.cgi?id=458054)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:39
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.1.1-setup.exe](https://download.kde."
+"org/stable/krita/5.1.1/krita-x64-5.1.1-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.1.1-setup.exe](https://download.kde.org/"
+"stable/krita/5.1.1/krita-x64-5.1.1-setup.exe)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:40
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.1.1.zip](https://download.kde.org/"
+"stable/krita/5.1.1/krita-x64-5.1.1.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.1.1.zip](https://download.kde.org/"
+"stable/krita/5.1.1/krita-x64-5.1.1.zip)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:41
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/stable/krita/5.1.1/krita-x64-5.1.1-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/stable/krita/5.1.1/krita-x64-5.1.1-dbg.zip)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:45
+msgid ""
+"64 bits Linux: [krita-5.1.1-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.1.1/krita-5.1.1-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.1.1-x86\\_64.appimage](https://download.kde.org/"
+"stable/krita/5.1.1/krita-5.1.1-x86_64.appimage)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:55
+msgid ""
+"macOS disk image: [krita-5.1.1.dmg](https://download.kde.org/stable/"
+"krita/5.1.1/krita-5.1.1.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.1.1.dmg](https://download.kde.org/stable/"
+"krita/5.1.1/krita-5.1.1.dmg)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:61
+msgid ""
+"[64 bits Intel CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"x86_64-5.1.1-release-signed.apk)"
+msgstr ""
+"[64 bit Intel CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"x86_64-5.1.1-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:62
+msgid ""
+"[32 bits Intel CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"x86-5.1.1-release-signed.apk)"
+msgstr ""
+"[32 bit Intel CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"x86-5.1.1-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:63
+msgid ""
+"[64 bits Arm CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"arm64-v8a-5.1.1-release-signed.apk)"
+msgstr ""
+"[64 bit Arm CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-arm64-"
+"v8a-5.1.1-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:64
+msgid ""
+"[32 bits Arm CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"armeabi-v7a-5.1.1-release-signed.apk)"
+msgstr ""
+"[32 bit Arm CPU APK](https://download.kde.org/stable/krita/5.1.1/krita-"
+"armeabi-v7a-5.1.1-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:68
+msgid ""
+"[krita-5.1.1.tar.gz](https://download.kde.org/stable/krita/5.1.1/krita-5.1.1."
+"tar.gz)"
+msgstr ""
+"[krita-5.1.1.tar.gz](https://download.kde.org/stable/krita/5.1.1/krita-5.1.1."
+"tar.gz)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:69
+msgid ""
+"[krita-5.1.1.tar.xz](https://download.kde.org/stable/krita/5.1.1/krita-5.1.1."
+"tar.xz)"
+msgstr ""
+"[krita-5.1.1.tar.xz](https://download.kde.org/stable/krita/5.1.1/krita-5.1.1."
+"tar.xz)"
+
+#: content/en/posts/2022/krita-5-1-1-released.md:73
+msgid ""
+"For all downloads, visit [https://download.kde.org/stable/krita/5.1.1/]"
+"(https://download.kde.org/stable/krita/5.1.1) and click on Details to get "
+"the hashes."
+msgstr ""
+"Tüm indirmeler için [https://download.kde.org/stable/krita/5.1.1/](https://"
+"download.kde.org/stable/krita/5.1.1) adresini ziyaret edin ve sağlamaları "
+"almak için Details'e tıklayın."
+
+#: content/en/posts/2022/krita-5-1-1-released.md:77
+msgid ""
+"The Linux appimage and the source .tar.gz and .tar.xz tarballs are signed. "
+"You can retrieve the public key [here](https://files.kde.org/"
+"krita/4DA79EDA231C852B). The signatures are [here](https://download.kde.org/"
+"stable/krita/5.1.1/) (filenames ending in .sig)."
+msgstr ""
+"Linux AppImage ve kaynak .tar.gz ve .tar.xz tarball'ları imzalanır. Genel "
+"anahtarı [buradan](https://files.kde.org/Krita/4DA79EDA231C852B) "
+"alabilirsiniz. İmzalar [buradadır](https://download.kde.org/stable/"
+"krita/5.1.1/) (.sig ile biten dosya adları)."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:0
+msgid "Krita 5.1 Beta 2"
+msgstr "Krita 5.1 Beta 2"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:9
+msgid ""
+"Today we're releasing the second beta for Krita 5.1! For the full list, "
+"check out the work-in-progress full [release notes](https://krita.org/en/"
+"krita-5-1-release-notes/)! Or check out Wojtek Trybus release video!"
+msgstr ""
+"Bugün, Krita 5.1'in ikinci betasını yayımlıyoruz. Tam liste için, henüz "
+"yazılmakta olan [sürüm notlarına](https://krita.org/en/krita-5-1-release-"
+"notes/) bir göz atın veya Wojtek Trybus'un sürüm videosunu izleyin!"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:18
+msgid ""
+"Since [the first beta](https://krita.org/en/item/first-beta-for-krita-5-1-0-"
+"released/), the following bugs have been fixed:"
+msgstr ""
+"[İlk betadan](https://krita.org/en/item/first-beta-for-krita-5-1-0-"
+"released/) bu yana, aşağıdaki hatalar düzeltildi:"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:20
+msgid ""
+"Fix changing workspaces selecting different palettes. [BUG:446634](https://"
+"bugs.kde.org/show_bug.cgi?id=446634)"
+msgstr ""
+"Çalışma alanı değiştirmenin başka paletler seçmesini düzelt. [HATA:446634]"
+"(https://bugs.kde.org/show_bug.cgi?id=446634)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:21
+msgid ""
+"Fix loading templates if the resource folder is in a non standard location. "
+"[BUG:452706](https://bugs.kde.org/show_bug.cgi?id=452706)"
+msgstr ""
+"Özkaynak klasörü standart olmayan bir konumdaysa yükleme şablonlarını "
+"düzelt. [HATA:452706](https://bugs.kde.org/show_bug.cgi?id=452706)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:22
+msgid ""
+"Fix occasional crash selecting a preset when a tag is removed. [BUG:454052]"
+"(https://bugs.kde.org/show_bug.cgi?id=454052)"
+msgstr ""
+"Bir etiket kaldırıldığında bir önayar seçerken ara sıra meydana gelen "
+"kilitlenmeyi düzelt. [HATA:454052](https://bugs.kde.org/show_bug.cgi?"
+"id=454052)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:23
+msgid ""
+"Clear the name of a workspace after saving it. [BUG:446652](https://bugs.kde."
+"org/show_bug.cgi?id=446652)"
+msgstr ""
+"Bir çalışma alanını kaydettikten sonra adını temizle. [HATA:446652](https://"
+"bugs.kde.org/show_bug.cgi?id=446652)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:24
+msgid ""
+"Fix cycling updates in the color smudge brush configuration page. "
+"[BUG:455244](https://bugs.kde.org/show_bug.cgi?id=455244)"
+msgstr ""
+"Renk bulaştırma fırçası yapılandırma sayfasında döngü güncellemelerini "
+"düzelt. [HATA:455244](https://bugs.kde.org/show_bug.cgi?id=455244)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:25
+msgid ""
+"Make it possible to save and load resources with dots in the name to "
+"bundles. [BUG:453702](https://bugs.kde.org/show_bug.cgi?id=453702)"
+msgstr ""
+"Adında noktalar bulunan özkaynakları demetlere kaydetmeyi ve yüklemeyi "
+"olanaklı kıl. [HATA:453702](https://bugs.kde.org/show_bug.cgi?id=453702)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:26
+msgid ""
+"Make it possible to use the G'Mic curves filter more than once. [BUG:455891]"
+"(https://bugs.kde.org/show_bug.cgi?id=455891)"
+msgstr ""
+"G'Mic eğri süzgecini birden çok kez kullanmayı olanaklı kıl. [HATA:455891]"
+"(https://bugs.kde.org/show_bug.cgi?id=455891)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:27
+msgid ""
+"Fix an assert when trying to export a palette. [BUG:454949](https://bugs.kde."
+"org/show_bug.cgi?id=454949)"
+msgstr ""
+"Bir paleti dışa aktarmaya çalışırken olan bir iddiayı düzelt. [HATA:454949]"
+"(https://bugs.kde.org/show_bug.cgi?id=454949)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:28
+msgid ""
+"Fix crash when saving an image with text to PSD. [BUG:455988](https://bugs."
+"kde.org/show_bug.cgi?id=455988)"
+msgstr ""
+"Metin içeren bir görseli PSD olarak kaydederken oluşan çökmeyi düzelt. "
+"[HATA:455988](https://bugs.kde.org/show_bug.cgi?id=455988)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:29
+msgid ""
+"Fix infinite recursions in the layer color label selector. [BUG:456201]"
+"(https://bugs.kde.org/show_bug.cgi?id=456201)"
+msgstr ""
+"Katman renk etiketi seçicide özyinelemeyi düzelt. [HATA:456201](https://bugs."
+"kde.org/show_bug.cgi?id=456201)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:30
+msgid ""
+"Set the size of the selection's marching ants based on the screen's dpi. "
+"[BUG:456364](https://bugs.kde.org/show_bug.cgi?id=456364)"
+msgstr ""
+"Seçimin yürüyen karıncalarının boyutunu ekranın dpi değerine göre ayarla. "
+"[HATA:456364](https://bugs.kde.org/show_bug.cgi?id=456364)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:31
+msgid ""
+"Reduce idle cpu usage when a selection is active in an image that is not "
+"currently shown. [BUG:432284](https://bugs.kde.org/show_bug.cgi?id=432282)"
+msgstr ""
+"Şu anda gösterilmeyen bir görselde bir seçim etkin olduğunda boşta kalan "
+"işlemci kullanımını azalt. [HATA:432284](https://bugs.kde.org/show_bug.cgi?"
+"id=432282)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:32
+msgid ""
+"Fix crash when closing the settings dialog window under some circumstances. "
+"[BUG:445329](https://bugs.kde.org/show_bug.cgi?id=445329)"
+msgstr ""
+"Bazı durumlarda ayarlar iletişim penceresini kapatırken oluşan kilitlenme "
+"düzeltildi. [HATA:445329](https://bugs.kde.org/show_bug.cgi?id=445329)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:33
+msgid ""
+"Fix issues with Grid settings becoming invalid when cropping. [BUG:447588]"
+"(https://bugs.kde.org/show_bug.cgi?id=447588)"
+msgstr ""
+"Kırpma sırasında Izgara ayarlarının geçersiz hale gelmesiyle ilgili "
+"sorunları düzelt. [HATA:447588](https://bugs.kde.org/show_bug.cgi?id=447588)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:34
+msgid ""
+"Fix random artefacts in the image projection when undoing brush strokes. "
+"[BUG:453243](https://bugs.kde.org/show_bug.cgi?id=453243)"
+msgstr ""
+"Fırça darbelerini geri alırken görsel projeksiyonundaki rastgele bozulmaları "
+"düzeltin. [HATA:453243](https://bugs.kde.org/show_bug.cgi?id=453243)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:35
+msgid "Increase the maximum pattern scaling to 10000%."
+msgstr "En büyük desen ölçeklendirmesini %​10000'e yükselt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:36
+msgid ""
+"Fix an assert when a grayscale file layer fails to load the image. "
+"[BUG:456201](https://bugs.kde.org/show_bug.cgi?id=456201)"
+msgstr ""
+"Bir gri tonlamalı dosya katmanı görseli yükleyemediğinde olan bir iddiayı "
+"düzeltin. [HATA:456201](https://bugs.kde.org/show_bug.cgi?id=456201)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:37
+msgid ""
+"Fix layer order when using multiple layer inputs for G'Mic filters. "
+"[BUG:456463](https://bugs.kde.org/show_bug.cgi?id=456463)"
+msgstr ""
+"G'Mic süzgeçleri için çoklu katman girişleri kullanırken katman sırasını "
+"düzelt. [HATA:456463](https://bugs.kde.org/show_bug.cgi?id=456463)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:38
+msgid ""
+"Fix drag and drop of shape layers when the source and destination images "
+"have a different resolution. [BUG:456450](https://bugs.kde.org/show_bug.cgi?"
+"id=456450)"
+msgstr ""
+"Kaynak ve hedef görsellerin çözünürlüğü farklı olduğunda, şekil katmanların "
+"sürüklenip bırakılmasını düzelt. [BUG:456450](https://bugs.kde.org/show_bug."
+"cgi?id=456450)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:39
+msgid "Fix a crash when trying to remove multiple layers at once."
+msgstr ""
+"Aynı anda birden çok katmanı kaldırmaya çalışırken oluşan çökmeyi düzelt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:40
+msgid ""
+"Fix a crash when dragging and dropping a vector layer from one image to "
+"another. [BUG:456450](https://bugs.kde.org/show_bug.cgi?id=456450)"
+msgstr ""
+"Bir vektör katmanını bir görselden diğerine sürükleyip bırakırken oluşan "
+"çökmeyi düzelt. [BUG:456450](https://bugs.kde.org/show_bug.cgi?id=456450)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:41
+msgid ""
+"Fix an assert in on document saving that caused freezes on autosaving. "
+"[BUG:456404](https://bugs.kde.org/show_bug.cgi?id=456404)"
+msgstr ""
+"Belge kaydetmede, otomatik kaydetmede donmalara neden olan bir iddiayı "
+"düzelt. [HATA:456404](https://bugs.kde.org/show_bug.cgi?id=456404)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:42
+msgid ""
+"Make the enclose and fill tool take into account image limits. [BUG:456299]"
+"(https://bugs.kde.org/show_bug.cgi?id=456299)"
+msgstr ""
+"Çevrele ve doldur aracının görsel sınırlarını hesaba katmasını sağla. "
+"[HATA:456299](https://bugs.kde.org/show_bug.cgi?id=456299)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:43
+msgid "Fix rotating rectangles."
+msgstr "Dörtgenleri döndürmeyi düzelt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:44
+msgid ""
+"Fix dropping reference images not working at all. [BUG:456382](https://bugs."
+"kde.org/show_bug.cgi?id=4563822)"
+msgstr ""
+"Düşen başvuru görsellerin hiç çalışmamasını düzelt. [HATA:456382](https://"
+"bugs.kde.org/show_bug.cgi?id=4563822)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:45
+msgid ""
+"Improve the performance of the brush outline cursor. [BUG:456080](https://"
+"bugs.kde.org/show_bug.cgi?id=456080)"
+msgstr ""
+"Fırça ana hattı imlecinin performansını iyileştir. [HATA:456080](https://"
+"bugs.kde.org/show_bug.cgi?id=456080)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:46
+msgid ""
+"Fix the layer name for layers added through drag and drop. [BUG:455671]"
+"(https://bugs.kde.org/show_bug.cgi?id=455671)"
+msgstr ""
+"Sürükle ve bırak yoluyla eklenen katmanlar için katman adını düzelt. "
+"[HATA:455671](https://bugs.kde.org/show_bug.cgi?id=455671)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:47
+msgid ""
+"Fix positioning of pasted images. [BUG:453247](https://bugs.kde.org/show_bug."
+"cgi?id=453247)"
+msgstr ""
+"Yapıştırılan görsellerin konumunu düzelt. [HATA:453247](https://bugs.kde.org/"
+"show_bug.cgi?id=453247)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:48
+msgid ""
+"Fix fast mode when blending mode, opacity or eraser is used in the fill tool."
+msgstr ""
+"Doldurma aracında harmanlama kipi, matlık veya silgi kullanıldığında hızlı "
+"kipi düzelt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:49
+msgid ""
+"Fix a crash when trying to filter an active selection. [BUG:455844](https://"
+"bugs.kde.org/show_bug.cgi?id=455844)"
+msgstr ""
+"Etkin bir seçimi süzmeye çalışırken oluşan kilitlenmeyi düzelt. [BUG:455844]"
+"(https://bugs.kde.org/show_bug.cgi?id=455844)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:50
+msgid ""
+"Improve undo of opacity animation keyframe changes. [BUG:454547](https://"
+"bugs.kde.org/show_bug.cgi?id=454547)"
+msgstr ""
+"Matlık canlandırma anahtar kare değişikliklerinin geri alınmasını iyileştir. "
+"[HATA:454547](https://bugs.kde.org/show_bug.cgi?id=454547)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:51
+msgid ""
+"Fix a crash when setting an opacity keyframe on a copied layer. [BUG:454547]"
+"(https://bugs.kde.org/show_bug.cgi?id=454547)"
+msgstr ""
+"Kopyalanan bir katmanda bir matlık anahtar karesi ayarlarken oluşan "
+"kilitlenmeyi düzelt. [HATA:454547](https://bugs.kde.org/show_bug.cgi?"
+"id=454547)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:52
+msgid "Fix an assert when moving an animated transform mask"
+msgstr "Canlandırmalı bir dönüşüm maskesini taşırken bir olan iddiayı düzelt"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:53
+msgid ""
+"Fix brush outlines of predefined brushes. [BUG:455912](https://bugs.kde.org/"
+"show_bug.cgi?id=455912)"
+msgstr ""
+"Önceden tanımlanmış fırçaların fırça ana hatlarını düzelt. [HATA:455912]"
+"(https://bugs.kde.org/show_bug.cgi?id=455912)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:54
+msgid "Update the meshgradient properly if the stop color is changed."
+msgstr "Durak rengi değiştirilirse ağ gradyanını uygun biçimre güncelle."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:55
+msgid ""
+"Fix editing the stops of a vector shape gradient. [BUG:455794](https://bugs."
+"kde.org/show_bug.cgi?id=455794), [BUG:447464](https://bugs.kde.org/show_bug."
+"cgi?id=447464), [BUG:449606](https://bugs.kde.org/show_bug.cgi?id=449606)"
+msgstr ""
+"Bir vektör şekli gradyanının duraklarını düzenlemeyi düzelt. [HATA:455794]"
+"(https://bugs.kde.org/show_bug.cgi?id=455794), [HATA:447464](https://bugs."
+"kde.org/show_bug.cgi?id=447464), [HATA:449606](https://bugs.kde.org/show_bug."
+"cgi?id=449606)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:56
+msgid ""
+"Fix issues when exporting an animation to JPEG-XL. [BUG:455597](https://bugs."
+"kde.org/show_bug.cgi?id=455597), [BUG:455598](https://bugs.kde.org/show_bug."
+"cgi?id=455598)"
+msgstr ""
+"Bir canlandırmayı JPEG-XL'e dışa aktarırken oluşan sorunları düzelt. "
+"[HATA:455597](https://bugs.kde.org/show_bug.cgi?id=455597), [HATA:455598]"
+"(https://bugs.kde.org/show_bug.cgi?id=455598)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:57
+msgid "Support YCbCr and JPEG compression in TIFF files."
+msgstr "TIFF dosyalarında YCbCr ve JPEG sıkıştırmayı destekle."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:58
+msgid ""
+"Make it possible to load krita files with 1ppi resolution. [BUG:444291]"
+"(https://bugs.kde.org/show_bug.cgi?id=444291)"
+msgstr ""
+"1 ppi çözünürlüklü Krita dosyalarının yüklenmesini olanaklı kıl. "
+"[HATA:444291](https://bugs.kde.org/show_bug.cgi?id=444291)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:59
+msgid ""
+"Improve the refresh rate of the overview docker. [BUG:443674](https://bugs."
+"kde.org/show_bug.cgi?id=443674)"
+msgstr ""
+"Genel bakış rıhtımcısının yenileme hızını iyileştir. [HATA:443674](https://"
+"bugs.kde.org/show_bug.cgi?id=443674)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:60
+msgid ""
+"Android: use the correct full-screen icon in the statusbar. [BUG:456065]"
+"(https://bugs.kde.org/show_bug.cgi?id=456065)"
+msgstr ""
+"Android: durum çubuğunda doğru tam ekran simgesini kullan. [HATA:456065]"
+"(https://bugs.kde.org/show_bug.cgi?id=456065)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:61
+msgid ""
+"Python: set the image modified when changing an annotation. [BUG:441704]"
+"(https://bugs.kde.org/show_bug.cgi?id=441704)"
+msgstr ""
+"Python: Bir bilgi notunu değiştirirken görseli \"Değiştirildi\" olarak "
+"ayarla. [HATA:441704](https://bugs.kde.org/show_bug.cgi?id=441704)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:62
+msgid ""
+"Fix copy/pasting of reference images. [BUG:454515](https://bugs.kde.org/"
+"show_bug.cgi?id=454515)"
+msgstr ""
+"Başvuru görsellerin kopyalanmasını/yapıştırılmasını düzelt. [HATA:454515]"
+"(https://bugs.kde.org/show_bug.cgi?id=454515)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:63
+msgid ""
+"Fix crash on undo after importing an assistant set. [BUG:455584](https://"
+"bugs.kde.org/show_bug.cgi?id=455584)"
+msgstr ""
+"Bir yardımcı kümesini içe aktardıktan sonra geri alma sırasında oluşan "
+"kilitlenmeyi düzelt. [HATA:455584](https://bugs.kde.org/show_bug.cgi?"
+"id=455584)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:64
+msgid "Fix slowdowns when using OpenColorIO."
+msgstr "OpenColorIO kullanırken oluşan yavaşlamaları düzelt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:65
+msgid "Fix visibility for Vanishing Point Assistant and Ellipse Assistant."
+msgstr "Ufuk Noktası Yardımcısı ve Elips Yardımcısı için görünürlüğü düzelt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:66
+msgid ""
+"Python: make Node::setColorSpace return false if the specified profile "
+"couln't be retrieved. [BUG:454812](https://bugs.kde.org/show_bug.cgi?"
+"id=454812)"
+msgstr ""
+"Python: Belirtilen profil alınamazsa Node::setColorSpace'in false "
+"döndürmesini sağla. [HATA:454812](https://bugs.kde.org/show_bug.cgi?"
+"id=454812)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:67
+msgid ""
+"Fix a crash after assigning \"one finger drag\" to zoom and rotate canvas. "
+"[BUG:455241](https://bugs.kde.org/show_bug.cgi?id=455241)"
+msgstr ""
+"Tuvali yakınlaştırmak ve döndürmek için \"tek parmakla sürükleme\" atadıktan "
+"sonra oluşan bir kilitlenmeyi düzelt. [BUG:455241](https://bugs.kde.org/"
+"show_bug.cgi?id=455241)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:68
+msgid "Fix a crash when opening G'Mic when the image is busy."
+msgstr "Görsel meşgulken G'Mic'i açarken oluşan kilitlenmeyi düzelt."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:69
+msgid "Optimzie all svg icons."
+msgstr "Tüm SVG simgelerini eniyile."
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:79
+msgid ""
+"64 bits Windows Installer: [krita-x64-5.1.0-beta2-setup.exe](https://"
+"download.kde.org/unstable/krita/5.1.0-beta2/krita-x64-5.1.0-beta2-setup.exe)"
+msgstr ""
+"64 bit Windows Kur: [krita-x64-5.1.0-beta2-setup.exe](https://download.kde."
+"org/unstable/krita/5.1.0-beta2/krita-x64-5.1.0-beta2-setup.exe)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:80
+msgid ""
+"Portable 64 bits Windows: [krita-x64-5.1.0-beta2.zip](https://download.kde."
+"org/unstable/krita/5.1.0-beta2/krita-x64-5.1.0-beta2.zip)"
+msgstr ""
+"Taşınabilir 64 bit Windows: [krita-x64-5.1.0-beta2.zip](https://download.kde."
+"org/unstable/krita/5.1.0-beta2/krita-x64-5.1.0-beta2.zip)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:81
+msgid ""
+"[Debug symbols. (Unpack in the Krita installation folder)](https://download."
+"kde.org/unstable/krita/5.1.0-beta2/krita-x64-5.1.0-beta2-dbg.zip)"
+msgstr ""
+"[Hata ayıklama sembolleri. (Krita kurulum klasörüne çıkarın)](https://"
+"download.kde.org/unstable/krita/5.1.0-beta2/krita-x64-5.1.0-beta2-dbg.zip)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:85
+msgid ""
+"64 bits Linux: [krita-5.1.0-beta2-x86\\_64.appimage](https://download.kde."
+"org/unstable/krita/5.1.0-beta2/krita-5.1.0-beta2-x86_64.appimage)"
+msgstr ""
+"64 bit Linux: [krita-5.1.0-beta2-x86\\_64.appimage](https://download.kde.org/"
+"unstable/krita/5.1.0-beta2/krita-5.1.0-beta2-x86_64.appimage)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:95
+msgid ""
+"macOS disk image: [krita-5.1.0-beta2.dmg](https://download.kde.org/unstable/"
+"krita/5.1.0-beta2/krita-5.1.0-beta2.dmg)"
+msgstr ""
+"macOS disk kalıbı: [krita-5.1.0-beta2.dmg](https://download.kde.org/unstable/"
+"krita/5.1.0-beta2/krita-5.1.0-beta2.dmg)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:101
+msgid ""
+"[64 bits Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-x86_64-5.1.0-beta2-release-signed.apk)"
+msgstr ""
+"[64 bit Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-x86_64-5.1.0-beta2-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:102
+msgid ""
+"[32 bits Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-x86-5.1.0-beta2-release-signed.apk)"
+msgstr ""
+"[32 bit Intel CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-x86-5.1.0-beta2-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:103
+msgid ""
+"[64 bits Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-arm64-v8a-5.1.0-beta2-release-signed.apk)"
+msgstr ""
+"[64 bit Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-arm64-v8a-5.1.0-beta2-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:104
+msgid ""
+"[32 bits Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-armeabi-v7a-5.1.0-beta2-release-signed.apk)"
+msgstr ""
+"[32 bit Arm CPU APK](https://download.kde.org/unstable/krita/5.1.0-beta2/"
+"krita-armeabi-v7a-5.1.0-beta2-release-signed.apk)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:108
+msgid ""
+"[krita-5.1.0-beta2.tar.gz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta2/krita-5.1.0-beta2.tar.gz)"
+msgstr ""
+"[krita-5.1.0-beta2.tar.gz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta2/krita-5.1.0-beta2.tar.gz)"
+
+#: content/en/posts/2022/krita-5-1-beta-2.md:109
+msgid ""
+"[krita-5.1.0-beta2.tar.xz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta2/krita-5.1.0-beta2.tar.xz)"
+msgstr ""
+"[krita-5.1.0-beta2.tar.xz](https://download.kde.org/unstable/krita/5.1.0-"
+"beta2/krita-5.1.0-beta2.tar.xz)"
+
+#: content/en/posts/2022/new-video-discover-vector-shape-libraries.md:0
+msgid "New Video: Discover Vector Shape Libraries"
+msgstr "Yeni Video: Vektör Şekil Kitaplıklarını Keşfet"
+
+#: content/en/posts/2022/new-video-discover-vector-shape-libraries.md:6
+msgid ""
+"After a LOT of research, Ramon's new video is done: this time he "
+"investigates how to create vector libraries in Inkscape for use in Krita. "
+"And there are two cool libraries he has prepared for you all to play with!"
+msgstr ""
+"Bir sürü araştırmadan sonra, Ramon'un yeni videosu hazır: Bu kez Krita'da "
+"kullanmak üzere Inkscape'de vektör kitaplıklarının nasıl oluşturulacağını "
+"araştırıyor ve herkesin oynaması için hazırladığı iki harika kitaplık var!"
+
+#: content/en/posts/2022/new-video-the-other-brush-engines.md:0
+msgid "New Video: the OTHER brush engines"
+msgstr "Yeni Video: the OTHER brush engines"
+
+#: content/en/posts/2022/new-video-the-other-brush-engines.md:6
+msgid ""
+"Ramon Miranda has published a new video on Krita's Youtube channel: Making "
+"Brushes Part 2: the OTHER brush engines. With a new brush preset pack: "
+"https://files.kde.org/krita/extras/FX_01.bundle"
+msgstr ""
+"Ramon Miranda, Krita'nın Youtube kanalında yeni bir video yayınladı: Making "
+"Brushes Part 2: the OTHER brush engines. Yeni bir fırça önayar paketi ile "
+"geliyor: https://files.kde.org/krita/extras/FX_01.bundle"
+
+#: content/en/posts/2022/only-download-krita-from-trusted-places.md:0
+msgid "Only Download Krita From Trusted Places"
+msgstr "Krita'yı yalnızca güvenilir yerlerden indirin"
+
+#: content/en/posts/2022/only-download-krita-from-trusted-places.md:6
+msgid ""
+"We were informed that there are compromised downloads of Krita being "
+"offered, from Russian domains:"
+msgstr ""
+"Rus alan alanlarından Krita'nın ele geçirilmiş indirmelerinin sunulduğu "
+"konusunda bilgilendirildik:"
+
+#: content/en/posts/2022/only-download-krita-from-trusted-places.md:8
+msgid "https://krita-soft.ru"
+msgstr "https://krita-soft.ru"
+
+#: content/en/posts/2022/only-download-krita-from-trusted-places.md:9
+msgid "https://krita-rus.ru"
+msgstr "https://krita-rus.ru"
+
+#: content/en/posts/2022/only-download-krita-from-trusted-places.md:11
+msgid ""
+"Please only download Krita from trusted sources: https://krita.org, https://"
+"download.kde.org, the Windows Store, Steam, the Epic Store and the Google "
+"Play Store (we're working on the Apple macOS store...) or your Linux "
+"distribution's package manager."
+msgstr ""
+"Lütfen Krita'yı yalnızca güvenilir kaynaklardan indirin: https://krita.org, "
+"https://download.kde.org, Microsoft Store, Steam, Epic Store ve Google Play "
+"Mağazası (Apple macOS mağazası üzerinde çalışıyoruz) ...) veya Linux "
+"dağıtımınızın paket yöneticisi."
+
+#: content/en/posts/2022/only-download-krita-from-trusted-places.md:13
+msgid ""
+"Third party download sites are outside our control, and can be compromised!"
+msgstr ""
+"Üçüncü kişi indirme siteleri bizim denetimimiz dışındadır ve güvenli "
+"olmayabilir!"
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:0
+msgid "Second Krita Animation by Twinimation Studios"
+msgstr "Twinimation Studios'tan İkinci Krita Canlandırması"
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:6
+msgid ""
+"_Today we’ve got a second guest post by Andria Jackson who has created a new "
+"course on using Krita to create 2D animation!_"
+msgstr ""
+"_Bugün, 2B canlandırma oluşturmak için Krita'yı kullanma konusunda yeni bir "
+"kurs yapan Andria Jackson'dan ikinci bir konuk gönderi geldi!_"
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:8
+msgid ""
+"Hello, Twinimation Studios is back with a brand new course and a brand new "
+"website! If you love old timey, Fleischer’s style animations like Betty Boop "
+"and Koko the Clown, you can learn how to imitate these styles to create your "
+"own rubberhose work of art! Introducing Twinimation’s newest **_22 lesson, 6 "
+"hour course!_** You will see the process of replicating rubberhose film "
+"through music, animation method, character design, and post production "
+"templates."
+msgstr ""
+"Merhaba, Twinimation Studios yepyeni bir kurs ve yepyeni bir web sitesi ile "
+"geri döndü! Betty Boop ve Palyaço Koko gibi eski moda Fleischer tarzı "
+"canlandırmaları seviyorsanız kendi lastik hortum sanat eserinizi yaratmak "
+"için bu stilleri nasıl taklit edeceğinizi öğrenebilirsiniz! Karşınızda "
+"Twinimation'ın en yeni **_22 ders içeren, 6 saatlik kursu!_** Lastik hortum "
+"filmini müzik, canlandırma yöntemi, karakter tasarımı ve post prodüksiyon "
+"şablonları aracılığıyla kopyalama sürecini göreceksiniz."
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:10
+msgid ""
+"Once again, we’re using Krita for our film lesson, but we’re going even more "
+"in depth in this course. We’ll be showing off more of Krita’s features, such "
+"as how to color using the paint bucket tool and the benefits of changing "
+"frame colors. Additionally, in this course, you’ll see Krita not only used "
+"for animation, but also illustration as we design and color background "
+"environments."
+msgstr ""
+"Film dersimiz için bir kez daha Krita kullanıyoruz; ancak bu kursta daha da "
+"derinlemesine gideceğiz. Boya kovası aracını kullanarak nasıl renklendirme "
+"yapılacağı ve çerçeve renklerini değiştirmenin faydaları gibi Krita'nın daha "
+"fazla özelliğini göstermeye hazırlanıyoruz. Ek olarak, bu kursta, Krita'nın "
+"yalnızca canlandırma için değil, arka plan ortamlarını tasarlarken ve "
+"renklendirirken illüstrasyon için de kullanıldığını göreceksiniz."
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:12
+msgid ""
+"Twinimation Studios was founded by instructors Andria and Arneisha Jackson. "
+"Andria and Arneisha are MFA graduates who've studied animation for 7 years "
+"and are now ready to share their professional knowledge with the world. You "
+"will be able to learn different styles of animation, character design, "
+"environment design, illustration, 3D modeling, film creation and so much "
+"more from the comfort of your own home and at your own pace! The student is "
+"free to choose how quickly they want to learn, which order they'd like to "
+"handle their lessons, and so on. We plan to provide a large array of "
+"animation courses here on Twinimation, so eventually you will be able to "
+"pick and choose which elements you'd like to learn, and all for very "
+"reasonable prices. We believe in providing you with all of the information "
+"we feel you need to know in order to create beautiful portfolio pieces to "
+"start your journey into the industry."
+msgstr ""
+"Twinimation Studios, Andria ve Arneisha Jackson adlı eğitmenler tarafından "
+"kuruldu. Andria ve Arneisha, 7 yıl canlandırma eğitimi almış ve artık "
+"profesyonel bilgilerini dünyayla paylaşmaya hazır olan MFA mezunlarıdır. "
+"Farklı canlandırma stilleri, karakter tasarımı, çevre tasarımı, "
+"illüstrasyon, 3B modelleme, film oluşturma ve çok daha fazlasını kendi "
+"evinizin rahatlığında ve kendi hızınızda öğrenebileceksiniz! Öğrenci ne "
+"kadar hızlı öğrenmek istediğini, derslerini hangi sırayla işlemek istediğini "
+"vb. seçmekte özgürdür. Twinimation'da çok çeşitli canlandırma kursları "
+"sağlamayı planlıyoruz, böylece sonunda hangi ögeleri öğrenmek istediğinizi "
+"seçebileceksiniz ve bunların hepsini çok makul fiyatlara yapacaksınız. "
+"Sektördeki yolculuğunuza başlamak için güzel portföy parçaları oluşturmak "
+"için bilmeniz gerektiğini düşündüğümüz tüm bilgileri size sağlamamız "
+"gerektiğine inanıyoruz."
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:14
+msgid "Here is a teaser for this newest course:"
+msgstr "İşte bu en yeni kurstan bir parça:"
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:19
+msgid "Course links"
+msgstr "Kurs bağlantıları"
+
+#: content/en/posts/2022/second-krita-animation-by-twinimation-studios.md:20
+msgid ""
+"And here is a link to the course on our brand new website! [https://"
+"twinimationstudios.podia.com/animation-through-the-ages-rubberhose](https://"
+"twinimationstudios.podia.com/animation-through-the-ages-rubberhose)"
+msgstr ""
+"Ve işte yepyeni web sitemizdeki kursun bağlantısı: [https://"
+"twinimationstudios.podia.com/animation-through-the-ages-rubberhose](https://"
+"twinimationstudios.podia.com/animation-through-the-ages-rubberhose)"
+
+#: content/en/posts/2022/teaser-of-pepper-and-carrot-episode-3.md:0
+msgid "Teaser of Pepper & Carrot Episode 3"
+msgstr "Pepper & Carrot Bölüm 3'ten bir parça"
+
+#: content/en/posts/2022/teaser-of-pepper-and-carrot-episode-3.md:6
+msgid ""
+"The Morevna Project has released a teaser of a new episode of Pepper&Carrot "
+"Motion Comic, which is made using Krita and other open-source tools."
+msgstr ""
+"Morevna Projesi, Krita ve diğer açık kaynak araçları kullanılarak yapılan "
+"Pepper&Carrot Motion Comic'in yeni bölümünün tanıtımını yayınladı."
+
+#: content/en/posts/2022/teaser-of-pepper-and-carrot-episode-3.md:10
+msgid "About Pepper & Carrot"
+msgstr "Pepper & Carrot Hakkında"
+
+#: content/en/posts/2022/teaser-of-pepper-and-carrot-episode-3.md:11
+msgid ""
+"_Pepper & Carrot_ is a webcomic created by David Revoy, who is known for his "
+"contributions to Krita and other libre art projects. The sources of the "
+"webcomic are available to everyone under CC-BY license and the team of "
+"Morevna Project used them to create the animated series."
+msgstr ""
+"_Pepper & Carrot_, Krita ve diğer özgür sanat projelerine yaptığı katkılarla "
+"tanınan David Revoy tarafından yaratılmış bir web karikatür şerididir. Web "
+"karikatürünün kaynakları, CC-BY lisansı altında herkes tarafından "
+"kullanılabilir ve Morevna Project ekibi, canlandırma dizisini oluşturmak "
+"için bunları kullandı."
+
+#: content/en/posts/2022/teaser-of-pepper-and-carrot-episode-3.md:13
+msgid ""
+"There are already two episodes of the series released - [Episode 6](https://"
+"morevnaproject.org/pepper-and-carrot/episode-6/) in 2017 and [Episode 5]"
+"(https://morevnaproject.org/pepper-and-carrot/episode-5/) in 2021. The new "
+"episode has number 3 and is expected to be released by the end of August."
+msgstr ""
+"Dizinin şimdiden iki bölümü yayınlandı - 2017'de [6. Bölüm](https://"
+"morevnaproject.org/pepper-and-carrot/episode-6/) ve  2021'de [5. Bölüm]"
+"(https://morevnaproject.org/) biber-ve-havuç/bölüm-5/). Yeni bölümün "
+"numarası 3 ve Ağustos sonunda çıkması bekleniyor."
+
+#: content/en/posts/2022/teaser-of-pepper-and-carrot-episode-3.md:15
+msgid ""
+"Right now the Morevna Project team is looking for sponsors, who wish to get "
+"their name listed in final credits. The collected funds will go for "
+"producing more episodes (there are 2 more episodes already in production). "
+"You can visit [this link](https://morevnaproject.org/pepper-and-carrot/"
+"sponsor/) if interested."
+msgstr ""
+"Şu anda Morevna Projesi ekibi, bitiş jeneriğine adlarını yazdırmak isteyen "
+"sponsorlar arıyor. Toplanan fonlar daha fazla bölümün yapımına gidecek "
+"(halihazırda yapım aşamasında olan 2 bölüm daha var). İlgileniyorsanız [bu "
+"bağlantıyı](https://morevnaproject.org/pepper-and-carrot/sponsor/) ziyaret "
+"edebilirsiniz."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:0
+msgid "What the Krita Developers Are Up To, Part II"
+msgstr "Krita Geliştiricileri Neler Yapıyor, Kısım II"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:8
+msgid ""
+"Krita 5.1 is nearing its release, and working on that has claimed a lot of "
+"our attention. Not that there haven't been other things happening!"
+msgstr ""
+"Krita 5.1 yakında çıkacak ve bu zamanımızın büyük bir bölümünü alıyor. Bunun "
+"yanında başka şeyler de olmuyor değil!"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:10
+msgid ""
+"And not just bug reports, though with on average a hundred new bug reports a "
+"month, that's taking a lot of work as well. Even if the bug report is more a "
+"cry for user support than a real bug report, it will take time to evaluate "
+"and close. Say, on average, half an hour of engagement with the report and "
+"reporter before the real work starts, just triaging these bugs takes 50 "
+"hours a month!"
+msgstr ""
+"Yalnızca hata raporları değil, ayda ortalama yüz yeni hata raporu olsa da, "
+"bu da aynı zamanda çok iş gerektiriyor. Hata raporu, gerçek bir hata "
+"raporundan çok kullanıcı desteği için bir çağrı olsa bile, değerlendirilmesi "
+"ve kapatılması zaman alır. Diyelim ki, oturup çalışmaya başlamadan önce "
+"rapor ve raporu gönderenle ortalama yarım saat etkileşim, ayda yaklaşık 50 "
+"saat sürebiliyor!"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:12
+msgid ""
+"At the same time, every artist who starts using Krita will have ideas that "
+"must be implemented, so there is a never ending stream of feature requests, "
+"often of the form \"Photoshop has X, it's incredible that Krita still hasn't "
+"X, too!\". That is not only discouraging, it is also a big timesink. And "
+"since there's so much of it, it's not possible for the Krita developers to "
+"meaningfully engage with all the ideas artists bring to the table."
+msgstr ""
+"Aynı zamanda, Krita'yı kullanmayı başlayan her sanatçının genelde "
+"\"Photoshop'ta bu var Krita'da niye yok\" biçiminde bitmek bilmeyen bir "
+"şekilde özellik istekleri oluyor. Bu hem cesaretimizi kırıyor hem de "
+"zamanımızı alıyor. Bunlardan çok fazla olması nedeniyle de geliştiricilerin "
+"tüm bu fikirlerle yapıcı bir biçimde etkileşimde bulunması olanaklı "
+"olmayabiliyor."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:14
+msgid ""
+"Working in response to bugs and feature requests is also reactive: it "
+"prevents the Krita team from developing a vision, and then using that vision "
+"to develop and improve Krita."
+msgstr ""
+"Hatalara ve özellik isteklerine yanıt olarak çalışmak da reaktiftir: Krita "
+"takımının bir vizyon geliştirmesini ve ardından bu vizyonu Krita'yı "
+"geliştirmek ve iyileştirmek için kullanmasını engelliyor."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:16
+msgid ""
+"And that's just frustrating. Some of us have been working on Krita for more "
+"than a decade. Some for nearly two decades, in fact, and we know what we "
+"want Krita to be."
+msgstr ""
+"Bu çok sinir bozucu. Bazılarımız on yıldan fazla bir süredir Krita üzerinde "
+"çalışıyoruz. Aslında bazıları neredeyse yirmi yıldır ve biz Krita'nın ne "
+"olmasını istediğimizi biliyoruz."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:18
+msgid "Krita's competition"
+msgstr "Krita'nın rakipleri"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:19
+msgid ""
+"So earlier this year, we sat down together, every developer who could make "
+"the virtual meeting to discuss what fun stuff we wanted to work on after all "
+"the pandemic depression, resource system rewrite and bug fixing. First, "
+"Wolthera and Halla sat down together to investigate our closest competitor. "
+"Which application is that?"
+msgstr ""
+"Bu nedenle, bu yılın başlarında, sanal toplantı yapabilen her geliştirici, "
+"tüm pandemik depresyon, özkaynak sistemini yeniden yazma ve hatalarını "
+"düzeltmeden sonra hangi eğlenceli şeyler üzerinde çalışmak istediğimizi "
+"tartışmak için birlikte oturduk. İlk olarak, Wolthera ve Halla en yakın "
+"rakibimizi araştırmak için birlikte oturdular. Hangi uygulama bu acaba?"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:21
+msgid ""
+"If you guessed Photoshop, you guessed wrong. Honestly, we think Krita's "
+"painting tools are better than Photoshop's. Some people might disagree, will "
+"disagree -- just like there are always people who want better performance, "
+"always."
+msgstr ""
+"Photoshop diye tahmin ettiyseniz yanıldınız. Dürüst olmak gerekirse, "
+"Krita'nın boyama araçlarının Photoshop'tan daha iyi olduğunu düşünüyoruz. "
+"Bazı insanlar aynı fikirde olmayabilir, aynı fikirde olmayacak -- tıpkı her "
+"zaman daha iyi başarım isteyen insanlar olduğu gibi."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:23
+msgid "It's also not Affinity Photo. Or Corel Painter."
+msgstr "Affinity Photo veya Corel Painter da değil."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:25
+msgid ""
+"We think that Clip Studio is much more of a real competitor: that is also an "
+"application created for working artists who need to be productive to earn "
+"money. Corel Painter's niche nowadays is tracing wedding photographs in a "
+"painterly style, Affinity doesn't have a strong brush enging at all, and "
+"Photoshop is copying our features, instead of the other way around."
+msgstr ""
+"Clip Studio'nun gerçek bir rakipten çok daha fazlası olduğunu düşünüyoruz: "
+"Bu aynı zamanda para kazanmak için üretken olması gereken sanatçılar için "
+"oluşturulmuş bir uygulama. Corel Painter'ın günümüzde nişi, düğün "
+"fotoğraflarının izini ressamca bir tarzda sürmek; Affinity'de güçlü fırçalar "
+"yok ve Photoshop biz ondan kopyalamamız gerekirken o bizden kopyalıyor."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:27
+msgid ""
+"[Here is the first document we created](https://docs.google.com/document/"
+"d/18ZL_DiMc3VdtcN_dCz_BTMn1fR3M72GuRw2E4ThRdiw) where we talk about what we "
+"think is lacking in Krita compared to Clip Studio: let's call it a "
+"\"competitor analysis\"."
+msgstr ""
+"[Bununla ilgili oluşturduğumuz ilk rapor](https://docs.google.com/document/"
+"d/18ZL_DiMc3VdtcN_dCz_BTMn1fR3M72GuRw2E4ThRdiw); burada, Clip Studio'ya "
+"kıyasla Krita'da eksik olduğunu düşündüğümüz şeylerden bahsediyoruz; haydi "
+"buna \"rakip analizi\" diyelim."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:29
+msgid ""
+"Then we met up, virtually, of course, and discussed what we wanted to do. "
+"That also resulted in [a document you can browse at your leisure](https://"
+"docs.google.com/document/d/1GPcclrQbxZN7iDeSP6Zo3CckEN8rrotwYozjmjktmX8). "
+"This actually has names with the topics!"
+msgstr ""
+"Sonra sanal ortamda buluştuk ve ne yapmak istediğimizi tartıştık. Bu aynı "
+"zamanda [boş zamanınızda göz atabileceğiniz bir belge](https://docs.google."
+"com/document/d/1GPcclrQbxZN7iDeSP6Zo3CckEN8rrotwYozjmjktmX8) ile sonuçlandı. "
+"Bu belgede konu başlıkları da var!"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:31
+msgid ""
+"But let's pick out some things. Let's start with text. People complain a lot "
+"about Krita's text tool, though in reality, apart from doing the editing in "
+"a popup instead of on the canvas, it was already more powerful than Clip "
+"Studio's. Now there are two parts to text: the actual text object that "
+"renders text on the canvas, and the tool, that allows you to enter text and "
+"change text properties like the font."
+msgstr ""
+"Bunların arasından bir şeyler seçmemiz gerekti. Metinle başladık. İnsanlar "
+"Krita'nın metin aracından çok şikayet ediyorlar; ancak gerçekte, düzenlemeyi "
+"tuval yerine bir açılır pencerede yapmak dışında, zaten Clip "
+"Studio'nunkinden daha güçlüydü. Artık metin aracının iki bölümü var: Tuvalde "
+"metin işleyen bir gerçek metin nesnesi ve metin girmenize ve yazıtipi gibi "
+"metin özelliklerini değiştirmenize olanak tanıyan araç."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:34
+msgid "Updates to Text technology"
+msgstr "Metin teknolojisine olan güncellemeler"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:35
+msgid ""
+"[Wolthera has completely rewritten the rendering engine for the text object]"
+"(https://invent.kde.org/graphics/krita/-/merge_requests/1403#note_462733). "
+"It no longer uses Qt's text layout classes, since those were too limited. "
+"(Apparently, they were written for rendering Qt's help files, though that "
+"might be a retcon, since I remember that they were presented as a full-blown "
+"layout engine.) That part is done! It will be merged right after the Krita "
+"5.1 release, because it needs new dependencies, like [libraqm](https://"
+"github.com/HOST-Oman/libraqm)."
+msgstr ""
+"[Wolthera, metin nesnesi için işleme işletkesini tümüyle yeniden yazdı]"
+"(https://invent.kde.org/graphics/krita/-/merge_requests/1403#note_462733). "
+"Çok sınırlı oldukları için artık Qt'nin metin düzeni sınıflarını "
+"kullanmıyor. (Görünüşe göre, Qt'nin yardım dosyalarını işlemek için "
+"yazılmışlardı; ancak bu bir yanlış yönlendirme olabilir; çünkü tam gelişmiş "
+"bir düzen motoru olarak sunulduklarını hatırlıyorum.) Bu kısım bitti! "
+"[libraqm](https://github.com/HOST-Oman/libraqm) gibi yeni bağımlılıklara "
+"gereksinim duyduğu için Krita 5.1 sürümünden hemen sonra birleştirilecek."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:38
+msgid ""
+"[![The new capabilities of the text shape](images/posts/2022//text-775x1024."
+"webp)"
+msgstr ""
+"[![Metin şeklinin yeni özellikleri](images/posts/2022//text-775x1024.webp)"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:41
+msgid ""
+"Note: changing the text tool to work on text on-canvas is something we want "
+"to work on, but out of scope for _this_ project!"
+msgstr ""
+"Not: Metin aracını tuval üzerindeki metin üzerinde çalışacak şekilde "
+"değiştirmek, üzerinde çalışmak istediğimiz bir şeydi; ancak _bu_ projenin "
+"kapsamı dışında!"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:43
+msgid "Other developer progress of projects"
+msgstr "Projedeki diğer geliştiricilerin ilerlemeleri"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:44
+msgid ""
+"[Emmet and Eoin](https://invent.kde.org/graphics/krita/-/"
+"merge_requests/1323) have completely rewritten the audio part of Krita's "
+"animation support. We used to use QMultiMedia, but that library has a very "
+"strange API and never worked all that well; apparently its intention was "
+"simply for playing sounds in mobile games. Or something. This has taken "
+"months of work, of course! But right now, [the first test build, Linux only, "
+"is ready](https://krita-artists.org/t/animation-audio-development-test-linux-"
+"appimage/45106)! [Here is their vision for Animation in Krita](https://docs."
+"google.com/document/d/1iUclKym_8Ta7Z3_ADhxdGdZFlQcFOqMQETphVCGhP1M)."
+msgstr ""
+"[Emmet ve Eoin](https://invent.kde.org/graphics/krita/-/"
+"merge_requests/1323), Krita'nın canlandırma desteğinin ses kısmını tümüyle "
+"yeniden yazdı. Eskiden QMultiMedia kullanırdık; ancak bu kitaplığın çok "
+"garip bir API'si var ve hiçbir zaman iyi çalışmadı; görünüşe göre amacı "
+"sadece taşınabilir oyunlarda ses çalmaktı. Ya da başka bir şey. Bu elbette "
+"aylarca süren bir çalışma gerektirdi! Ancak şu anda [ilk sınama derlemesi, "
+"yalnızca Linux için hazır](https://krita-artists.org/t/animation-audio-"
+"development-test-linux-appimage/45106)! [Krita için olan canlandırma "
+"vizyonumuz için buraya bakın](https://docs.google.com/document/"
+"d/1iUclKym_8Ta7Z3_ADhxdGdZFlQcFOqMQETphVCGhP1M)."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:46
+msgid ""
+"Back in 2007, it seemed a good idea to build the brush preset editor around "
+"the user interface objects that change the preset settings. Yes, we were "
+"young and foolish. [Dmitry is working on refactoring that extremely "
+"complicated and error prone architecture using a library called Lager. "
+"Dmitry is, of course, also always working on improving Krita's performance "
+"and memory handling, and chunks of that are already in Krita 5.1!](https://"
+"invent.kde.org/graphics/krita/-/merge_requests/1334)"
+msgstr ""
+"2007'de, fırça önayar düzenleyiciyi, önayar ayarlarını değiştiren kullanıcı "
+"arayüzü nesneleri etrafında yapmak iyi bir fikir gibi görünüyordu. Evet, o "
+"zamanlar gençtik ve toyduk. [Dmitry, Lager adlı bir kitaplığı kullanarak bu "
+"son derece karmaşık ve hataya açık mimariyi yeniden düzenleme üzerinde "
+"çalışıyor. Tabii ki Dmitry bu arada her zaman Krita'nın başarımını ve bellek "
+"yönetimini de iyileştirmek için çalışıyor; bu çalışmaların büyük bir kısmı "
+"halihazırda Krita 5.1 içinde mevcut!](https://invent.kde.org/graphics/"
+"krita/-/merge_requests/1334)"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:48
+msgid ""
+"Since there are many other places in Krita where we did the same thing -- "
+"keep the state of something in the user interface, like in the tools, this "
+"opens up some exciting possibilities, like [tool presets](https://invent.kde."
+"org/graphics/krita/-/merge_requests/559), or even [multiple tool instances]"
+"(https://phabricator.kde.org/T15062). That's something Halla has wanted to "
+"work on for some time. But she's also doing the admin work of maintaining a "
+"big free software project, so whether she'll get down to it... That's an "
+"open question."
+msgstr ""
+"Daha önce Krita'da buna benzer birçok aynı şeyi yaptığımız sayıca çok yer "
+"olduğu için; örneğin bir şeyin durumunu kullanıcı arayüzünde tutmak gibi, bu "
+"birçok heyecan verici olanakları görünür kılıyor. [Araç önayarları](https://"
+"invent.kde.org/graphics/krita/-/merge_requests/559), ve hatta [çoklu araç "
+"örnekleri](https://phabricator.kde.org/T15062) bunlardan yalnızca birkaçı. "
+"Bu, Halla'nın uzun zamandır üzerinde çalışmak istediği bir şeydi. Ancak o "
+"aynı zamanda Krita gibi büyük bir özgür yazılım projesinin yöneticilik ve "
+"bakım görevini de yapıyor, bu nedenle bu işe ne zaman başlayabileceği halen "
+"açıkta olan bir soru."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:50
+msgid ""
+"[Sharaf, our Android maintainer, is looking into bringing back the mobile-"
+"friendly UX we used to have for Krita 4](https://invent.kde.org/graphics/"
+"krita/-/merge_requests/1522). Or rather, rewrite it from scratch with modern "
+"QML and Kirigami. He has started with the welcome page. Right now, Krita's "
+"welcome page is intentionally a bit drab and understated, but we want to do "
+"much more with it: show off featured artwork from [Krita Artists](https://"
+"krita-artists.org) (and just remember how new _that_ website is, and how "
+"central a part of the Krita community it has become), links to tutorials and "
+"videos, news from this website, recent projects -- or maybe a proper project "
+"organizer for all projects."
+msgstr ""
+"[Android geliştiricimiz Şaraf, Krita 4 için kullandığımız taşınabilir aygıt "
+"uyumlu kullanıcı deneyimini geri getirmek ile uğraşıyor](https://invent.kde."
+"org/graphics/krita/-/merge_requests/1522). Daha doğrusu, modern QML ve "
+"Kirigami ile sıfırdan yeniden yazmak. Bu işe karşılama sayfasını yeniden "
+"yazarak başladı. Şu anda, Krita'nın karşılama sayfası kasıtlı olarak biraz "
+"sıkıcı ve sade; ancak onu biraz daha geliştirmek istiyoruz: [Krita Artists]"
+"(https://krita-artists.org)'ten öne çıkan sanat eserlerini sergilemek (ve "
+"_bu_ web sitesinin ne kadar yeni olduğunu ve Krita topluluğunun ne kadar "
+"merkezi bir parçası haline geldiğini unutmayın), öğreticilere ve videolara "
+"bağlantılar sağlamak, bu web sitesinden haberler sunmak, son kullanılan "
+"projeleri listelemek -- veya belki de tüm projeler için uygun bir proje "
+"düzenleyici sağlamak yapılacaklar listemizde bulunanlardan birkaçı."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:52
+msgid ""
+"[Agata is working on painting assistants](https://phabricator.kde.org/"
+"T13380). Krita's painting assistants have always been a really powerful tool "
+"marred by by a relatively poor usability and a really confusing codebase. "
+"Already three different merge requests have been merged into what is going "
+"to become Krita 5.2, and more is to come! She was also really helped out by "
+"[the community at Krita Artists](https://krita-artists.org/t/planned-changes-"
+"to-assistants-coming-in-2022-or-later/43064)."
+msgstr ""
+"[Agata boyama yardımcıları üzerinde çalışıyor](https://phabricator.kde.org/"
+"T13380). Krita'nın boyama yardımcıları, nispeten zayıf bir kullanılabilirlik "
+"ve gerçekten kafa karıştırıcı bir kod tabanı tarafından gölgelenen her zaman "
+"gerçekten güçlü bir araç olmuştur. Halihazırda üç farklı birleştirme isteği, "
+"Krita 5.2 için olacak bir biçimde birleştirildi ve daha fazlası da zamanla "
+"gelecek! Ayrıca [Krita Artists topluluğu](https://krita-artists.org/t/"
+"planned-changes-to-assistants-coming-in-2022-or-later/43064), ona gerçekten "
+"yardımcı oldu."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:54
+msgid ""
+"[Also already merged is AmySpark's brand new jpeg-xl file format plugin.]"
+"(https://invent.kde.org/graphics/krita/-/merge_requests/1363) This is a "
+"format that supports both animation as well as still images with very good "
+"lossless compression."
+msgstr ""
+"[Ayrıca AmySpark'ın yepyeni jpeg-xl dosya formatı eklentisi önceden "
+"birleştirilmişti.](https://invent.kde.org/graphics/krita/-/"
+"merge_requests/1363) Bu, hem canlandırmaları hem de durağan görselleri çok "
+"iyi kayıpsız sıkıştırma ile destekleyen bir biçimdir."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:56
+msgid "Stability and volunteer contributors"
+msgstr "Kararlılık ve gönüllü katkıda bulunanlar"
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:57
+msgid ""
+"And, of course, all this work doesn't mean we're neglecting stability, "
+"performance or even just keeping up with new compilers, updated dependencies "
+"or smaller features. We solved over 500 bugs in the past half year... And "
+"this is just what the sponsored developers are doing and planning to do: "
+"there are also many volunteer developers making awesome contributions to "
+"Krita."
+msgstr ""
+"Elbette, tüm bu çalışmalar kararlılığı ve başarımı ihmal ettiğimiz ve hatta "
+"yeni derleyiciler, güncellenmiş bağımlılıklar veya daha küçük özelliklerle "
+"yetindiğimiz anlamına gelmiyor. Geçtiğimiz altı ayda 500'den fazla hatayı "
+"çözdük... Bu yalnızca sponsorlu geliştiricilerin yaptığı ve yapmayı "
+"planladığı şeyler: Bunların yanında Krita'ya harika katkılar sağlayan birçok "
+"gönüllü geliştirici de var."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:59
+msgid ""
+"[Freya](https://invent.kde.org/graphics/krita/-/merge_requests?"
+"scope=all&state=all&author_username=freyalupen) has improved the display of "
+"layers in the layer box so it optionally shows blending mode and opacity, "
+"added single direction wraparound mode and zoom fit with margins."
+msgstr ""
+"[Freya](https://invent.kde.org/graphics/krita/-/merge_requests?"
+"scope=all&state=all&author_username=freyalupen), katman kutusundaki "
+"katmanların görünümünü iyileştirdi; artık burada isteğe bağlı olarak "
+"harmanlama kipi ve matlığın yanı sıra tek yönlü sarmalama kipi ve kenar "
+"boşluklarıyla yakınlaştırmayı sığdırma da bulunuyor."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:61
+msgid ""
+"[Deif Lou](https://invent.kde.org/graphics/krita/-/merge_requests?"
+"scope=all&state=all&author_username=deiflou)'s contributions are maybe too "
+"many too enumerate... Ranging from improving the fill tool so it can use "
+"label colors, to improving the fill tool's performance, to new filters -- to "
+"entire new tools, like the Enclose and Fill tool."
+msgstr ""
+"[Deif Lou](https://invent.kde.org/graphics/krita/-/merge_requests?"
+"scope=all&state=all&author_username=deiflou)'nun katkıları sayılamayacak "
+"kadar çok... Doldurma aracının etiket renklerini kullanabilmesi için "
+"iyileştirilmesinden, doldurma aracının başarımının iyileştirilmesine, yeni "
+"süzgeçlere -- Çevrele ve Doldur aracı gibi tümüyle yeni araçlara kadar."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:63
+msgid ""
+"[Alvin](https://invent.kde.org/graphics/krita/-/merge_requests?"
+"scope=all&state=all&author_username=alvinwong) has worked on updating Krita "
+"to use the latest version of the Angle wrapper that sits between our OpenGL "
+"code and the Windows Direct3D display driver layer -- as well as a host of "
+"other things."
+msgstr ""
+"[Alvin](https://invent.kde.org/graphics/krita/-/merge_requests?"
+"scope=all&state=all&author_username=alvinwong), Krita'yı OpenGL kodumuz ile "
+"Windows Direct3D ekran sürücüsü katmanı arasında yer alan Angle "
+"sarmalayıcının en son sürümünü ve diğer pek çok şeyi kullanacak şekilde "
+"güncellemek için çalıştı."
+
+#: content/en/posts/2022/what-the-krita-developers-are-up-to-part-ii.md:65
+msgid ""
+"And there's more... But this is enough for today. Please support the Krita "
+"Foundation so we can continue our work and make Krita a great application "
+"for every digital artist! We have over 80,000 downloads a month -- and only "
+"about 4000 euros in donations, and that's the sum of the Krita dev fund and "
+"one-off donations!"
+msgstr ""
+"Dahası da var... Ancak bugünlük bu kadarı yeter. Çalışmalarımızı "
+"sürdürebilmemiz ve Krita'yı her sayısal sanatçı için harika bir uygulama "
+"haline getirebilmemiz için lütfen Krita Vakfı'nı destekleyin! Ayda "
+"80.000'den fazla indirmemiz var -- ve yalnızca yaklaşık 4000 avroluk bağış "
+"ve bu, Krita geliştirme fonu ve bir defaya mahsus bağışların toplamı!"

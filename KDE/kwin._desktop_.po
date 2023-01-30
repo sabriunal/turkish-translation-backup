@@ -1,0 +1,562 @@
+# translation of desktop_kdebase.po to Turkish
+# translation of desktop_kdebase.po to
+# Kdesktop Turkish translation file
+# Copyright (C) 2000, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,1999-2002.
+# Görkem Çetin <gorkem@kde.org>, 2002, 2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Adem Alp Yıldız <ademalp@linux-sevenler.org>, 2004.
+# Adil Yıldız <adil@linux-sevenler.org>, 2004.
+# Görkem Çetin <gorkem@kde.org.tr>, 2005.
+# Adil Yıldız <adil@kde.org.tr>, 2005.
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010.
+# Gökçen Eraslan <gokcen@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017.
+# Kaan Ozdincer <kaanozdincer@gmail.com>, 2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-03 00:58+0000\n"
+"PO-Revision-Date: 2022-10-31 17:23+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.2\n"
+
+#: src/effects/kwineffect.desktop:5
+msgctxt "Comment"
+msgid "KWin Effect"
+msgstr "KWin Efekti"
+
+#: src/kcms/effects/kwineffect.knsrc:2
+msgctxt "Name"
+msgid "Desktop Effects"
+msgstr "Masaüstü Efektleri"
+
+#: src/kcms/rules/org.kde.kwin_rules_dialog.desktop:3
+msgctxt "Name"
+msgid "Window Rules"
+msgstr "Pencere Kuralları"
+
+#: src/kcms/scripts/kwinscripts.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Scripts"
+msgstr "Pencere Yöneticisi Betikleri"
+
+#: src/kcms/tabbox/kwinswitcher.knsrc:2
+msgctxt "Name"
+msgid "Window Manager Switching Layouts"
+msgstr "Pencere Yöneticisi Geçiş Düzenleri"
+
+#: src/kwin.notifyrc:3
+msgctxt "Comment"
+msgid "KWin Window Manager"
+msgstr "KWin Pencere Yöneticisi"
+
+#: src/kwin.notifyrc:71
+msgctxt "Name"
+msgid "Compositing has been suspended"
+msgstr "Bileşiklik askıya alındı"
+
+#: src/kwin.notifyrc:140
+msgctxt "Comment"
+msgid "Another application has requested to suspend compositing."
+msgstr "Başka bir uygulama bileşikliğin askıya alınmasını istedi."
+
+#: src/kwin.notifyrc:209
+msgctxt "Name"
+msgid "Graphics Reset"
+msgstr "Grafik Sıfırlama"
+
+#: src/kwin.notifyrc:262
+msgctxt "Comment"
+msgid "A graphics reset event occurred"
+msgstr "Bir grafik sıfırlama olayı oluştu"
+
+#: src/kwin.notifyrc:317
+msgctxt "Name"
+msgid "Xwayland Crash"
+msgstr "Xwayland Çöktü"
+
+#: src/kwin.notifyrc:356
+msgctxt "Comment"
+msgid "Xwayland has crashed"
+msgstr "Xwayland çöktü"
+
+#: src/plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
+msgctxt "Comment"
+msgid "KWin Window Decoration"
+msgstr "KWin Pencere Dekorasyonu"
+
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:3
+msgctxt "Name|plasma runner"
+msgid "Windows"
+msgstr "Pencereler"
+
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:43
+msgctxt "Comment"
+msgid "List windows and desktops and switch them"
+msgstr "Pencereleri ve masaüstlerini listeleyin ve aralarında geçiş yapın"
+
+#: src/plugins/krunner-integration/kwin-runner-windows.desktop:97
+msgctxt "X-Plasma-Runner-Syntax-Descriptions"
+msgid ""
+"Finds windows whose name or window application match :q:. It is possible to "
+"interact with the windows by using one of the following keywords: activate\\"
+"\\, close\\\\, min(imize)\\\\, max(imize)\\\\, fullscreen\\\\, shade\\\\, "
+"keep above and keep below.,Finds windows which are on desktop named :q:,"
+"Switch to desktop named :q:,Lists all windows and allows to activate them.,"
+"Lists all other desktops and allows to switch to them."
+msgstr ""
+"Adı veya uygulaması :q: ile eşleşen pencereleri bulur. Aşağıdaki anahtar "
+"sözcüklerden birini kullanarak pencerelerle etkileşmek olanaklıdır: activate"
+"\\\\, close\\\\, min(imize)\\\\, max(imize)\\\\, fullscreen\\\\, shade\\\\, "
+"keep above ve keep below.,:q: adlı masaüstünde bulunan pencereleri bulur, :"
+"q: adlı masaüstüne geçer,tüm pencereleri listeler ve etkinleştirmeye izin "
+"verir.,tüm diğer masaüstlerini listeler ve onlara geçmeye için verir."
+
+#: src/scripting/kwinscript.desktop:5
+msgctxt "Comment"
+msgid "KWin Script"
+msgstr "KWin Betiği"
+
+#: src/tabbox/kwindesktopswitcher.desktop:5
+msgctxt "Comment"
+msgid "KWin Desktop Switcher Layout"
+msgstr "KWin Masaüstü Değiştirici Düzeni"
+
+#: src/tabbox/kwinwindowswitcher.desktop:5
+msgctxt "Comment"
+msgid "KWin Window Switcher Layout"
+msgstr "KWin Pencere Değiştirici Düzeni"
+
+#~ msgctxt "Name"
+#~ msgid "Window Manager Effects"
+#~ msgstr "Pencere Yöneticisi Efektleri"
+
+#~ msgctxt "Name"
+#~ msgid "Plastik"
+#~ msgstr "Plastik"
+
+#~ msgctxt "Comment"
+#~ msgid "The classic theme known from KDE 3"
+#~ msgstr "KDE 3'ten bilinen alışılmış tema"
+
+#~ msgctxt "Name"
+#~ msgid "Dialog Parent"
+#~ msgstr "İletişim Kutusu Sahibi"
+
+#~ msgctxt "Comment"
+#~ msgid "Darkens the parent window of the currently active dialog"
+#~ msgstr "Etkin iletişim kutularının sahibi olan pencereleri koyulaştır"
+
+#~ msgctxt "Comment"
+#~ msgid "Darkens the entire screen when requesting root privileges"
+#~ msgstr "Yönetici hakları isteğinde bulunulduğunda ekranı koyulaştırır"
+
+#~ msgctxt "Name"
+#~ msgid "Dim Screen for Administrator Mode"
+#~ msgstr "Yönetici Kipinde Ekranı Dondur"
+
+#~ msgctxt "Name"
+#~ msgid "Eye on Screen"
+#~ msgstr "Ekrandaki Göz"
+
+#~ msgctxt "Comment"
+#~ msgid "Suck windows into the desktop"
+#~ msgstr "Pencereleri masaüstüne çek"
+
+#~ msgctxt "Name"
+#~ msgid "Fade Desktop"
+#~ msgstr "Masaüstü Kaybolması"
+
+#~ msgctxt "Comment"
+#~ msgid "Fade between virtual desktops when switching between them"
+#~ msgstr ""
+#~ "Sanal masaüstleri arasında geçiş yapılırken kaybolma efektini kullan"
+
+#~ msgctxt "Name"
+#~ msgid "Fade"
+#~ msgstr "Kaybolma"
+
+#~ msgctxt "Comment"
+#~ msgid "Make windows smoothly fade in and out when they are shown or hidden"
+#~ msgstr ""
+#~ "Pencereler gösterilirken pürüzsüz bir şekilde belirginleştir, gizlenirken "
+#~ "pürüzsüz bir şekilde soldur"
+
+#~ msgctxt "Name"
+#~ msgid "Fading Popups"
+#~ msgstr "Solan Açılır Pencereler"
+
+#~ msgctxt "Comment"
+#~ msgid "Make popups smoothly fade in and out when they are shown or hidden"
+#~ msgstr ""
+#~ "Açılır pencereleri gösterilirken veya gizlenirken pürüzsüzce soldur veya "
+#~ "görünür yap"
+
+#~ msgctxt "Name"
+#~ msgid "Desaturate Unresponsive Applications"
+#~ msgstr "Yanıt Vermeyen Uygulamaların Yoğunluğunu Kaldır"
+
+#~ msgctxt "Comment"
+#~ msgid "Desaturate windows of unresponsive (frozen) applications"
+#~ msgstr "Yanıt vermeyen (donmuş) uygulamaların pencerelerini soldur"
+
+#~ msgctxt "Comment"
+#~ msgid "Animation for a window going to and leaving full screen mode"
+#~ msgstr "Tam ekran kipine giren/çıkan bir pencere için canlandırma"
+
+#~ msgctxt "Name"
+#~ msgid "Full Screen"
+#~ msgstr "Tam Ekran"
+
+#~ msgctxt "Name"
+#~ msgid "Login"
+#~ msgstr "Giriş"
+
+#~ msgctxt "Comment"
+#~ msgid "Smoothly fade to the desktop when logging in"
+#~ msgstr "Giriş yapılırken masaüstünü pürüzsüzce belirginleştir"
+
+#~ msgctxt "Name"
+#~ msgid "Logout"
+#~ msgstr "Çıkış Yap"
+
+#~ msgctxt "Comment"
+#~ msgid "Smoothly fade to the logout screen"
+#~ msgstr "Çıkış ekranına pürüzsüzce solarak geçiş yap"
+
+#~ msgctxt "Comment"
+#~ msgid "Animation for a window going to maximize/restore from maximize"
+#~ msgstr "Pencerenin büyütülürken veya küçültülürken gösterilecek canlandırma"
+
+#~ msgctxt "Name"
+#~ msgid "Maximize"
+#~ msgstr "Ekranı Kapla"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Cross fade animation when Tooltips or Notifications change their geometry"
+#~ msgstr ""
+#~ "Araç İpuçları veya Bildirimler geometrilerini değiştirdiğinde çapraz "
+#~ "solma canlandırması göster"
+
+#~ msgctxt "Name"
+#~ msgid "Morphing popups"
+#~ msgstr "Dönüşümlü pencereler"
+
+#~ msgctxt "Name"
+#~ msgid "Scale"
+#~ msgstr "Ölçekle"
+
+#~ msgctxt "Comment"
+#~ msgid "Make windows smoothly scale in and out when they are shown or hidden"
+#~ msgstr "Pencereler gösterilirken veya gizlenirken pürüzsüzce ölçekle."
+
+#~ msgctxt "Name"
+#~ msgid "Session Quit"
+#~ msgstr "Oturum Çıkışı"
+
+#~ msgctxt "Comment"
+#~ msgid "Keep the desktop background alive during logout until the end"
+#~ msgstr "Çıkış işlemi bitene dek masaüstü arka planını canlı tut"
+
+#~ msgctxt "Comment"
+#~ msgid "Squash windows when they are minimized"
+#~ msgstr "Pencereler küçültülürken tıkıştır"
+
+#~ msgctxt "Name"
+#~ msgid "Squash"
+#~ msgstr "Tıkıştır"
+
+#~ msgctxt "Name"
+#~ msgid "Translucency"
+#~ msgstr "Yarısaydamlık"
+
+#~ msgctxt "Comment"
+#~ msgid "Make windows translucent under different conditions"
+#~ msgstr "Farklı durumlarda pencereleri saydamlaştır"
+
+#~ msgctxt "Name"
+#~ msgid "Window Aperture"
+#~ msgstr "Pencere Açıklığı"
+
+#~ msgctxt "Comment"
+#~ msgid "Move windows into screen corners"
+#~ msgstr "Pencereleri ekran köşelerine taşı"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop Change OSD"
+#~ msgstr "Masaüstü Değiştirme Ekran Bildirimi"
+
+#~ msgctxt "Comment"
+#~ msgid "An on screen display indicating the desktop change"
+#~ msgstr "Bir, ekranda beliren bilgi masaüstünün değiştirildiğini gösteriyor"
+
+#~ msgctxt "Name"
+#~ msgid "MinimizeAll"
+#~ msgstr "Tümünü simge durumuna küçült"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds a shortcut to minimize and restore all windows"
+#~ msgstr ""
+#~ "Tüm pencereleri simge durumuna küçültmek ve geri yüklemek için bir "
+#~ "kısayol ekler"
+
+#~ msgctxt "Name"
+#~ msgid "Synchronize Skip Switcher with Taskbar"
+#~ msgstr "Görev Çubuğu ile Atlama Seçiciyi Eşzamanla"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Hides all windows marked as Skip Taskbar to be also excluded from window "
+#~ "switchers (e.g. Alt+Tab)"
+#~ msgstr ""
+#~ "Görev Çubuğunu Atla olarak seçilen tüm pencereleri gizler, ayrıca pencere "
+#~ "seçiciler tarafından hariç tutulanları da gizler (Alt+Tab gibi)"
+
+#~ msgctxt "Name"
+#~ msgid "Video Wall"
+#~ msgstr "Video Duvarı"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Spans fullscreen video player over all attached screens to create a Video "
+#~ "Wall"
+#~ msgstr ""
+#~ "Bir Video Duvarı oluşturmak için tüm ekranlara iliştirilen tam ekran "
+#~ "video oynatıcıları koparır"
+
+#~ msgctxt "Name"
+#~ msgid "Compositor"
+#~ msgstr "Bileşikleştirici"
+
+#~ msgctxt "Name"
+#~ msgid "Window Decorations"
+#~ msgstr "Pencere Dekorasyonları"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure window titlebars and borders"
+#~ msgstr "Pencere başlık çubuklarını ve kenarlıklarını yapılandır"
+
+#~ msgctxt "Name"
+#~ msgid "Virtual Desktops"
+#~ msgstr "Sanal Masaüstleri"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure navigation, number and layout of virtual desktops"
+#~ msgstr ""
+#~ "Sanal masaüstlerinin dolaşımını, sayılarını ve yerleşimlerini yapılandır"
+
+#~ msgctxt "Comment"
+#~ msgid "Desktop Effects"
+#~ msgstr "Masaüstü Efektleri"
+
+#~ msgctxt "Name"
+#~ msgid "Window Behavior"
+#~ msgstr "Pencere Davranışı"
+
+#~ msgctxt "Comment"
+#~ msgid "Individual Window Behavior"
+#~ msgstr "Bireysel Pencere Davranışı"
+
+#~ msgctxt "Name"
+#~ msgid "Screen Edges"
+#~ msgstr "Ekran Kenarları"
+
+#~ msgctxt "Name"
+#~ msgid "Touch Screen"
+#~ msgstr "Dokunmatik Ekran"
+
+#~ msgctxt "Name"
+#~ msgid "KWin Scripts"
+#~ msgstr "KWin Betikleri"
+
+#~ msgctxt "Name"
+#~ msgid "Task Switcher"
+#~ msgstr "Görev Seçici"
+
+#~ msgctxt "Comment"
+#~ msgid "Navigation Through Windows"
+#~ msgstr "Pencereler Arası Gezinti"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "window,windows,switcher,window switcher,switching,window switching,alttab,"
+#~ "alt-tab,alt+tab,alt tab,apps changer,application changer,app,task,switch,"
+#~ "task switcher"
+#~ msgstr ""
+#~ "pencere,pencereler,değiştirici,pencere seçici,değiştirme,pencere seçimi,"
+#~ "alttab,alt-tab,alt+tab,alt tab,uygulama değiştirici,uygulama değiştirici,"
+#~ "uygulama,görev,değiştir,görev değiştirici"
+
+#~ msgctxt "Name"
+#~ msgid "Virtual Keyboard"
+#~ msgstr "Sanal Klavye"
+
+#~ msgctxt "Comment"
+#~ msgid "Compositor Settings for Desktop Effects"
+#~ msgstr "Masaüstü Efektleri için Bileşikleştirici Ayarları"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "kwin,window,manager,compositing,compositor,effect,3D effects,2D effects,"
+#~ "OpenGL,XRender,video settings,graphical effects,desktop effects,graphics,"
+#~ "latency,vsync,tearing,window thumbnails,scale method,scaling method,"
+#~ "backend"
+#~ msgstr ""
+#~ "kwin,pencere,yönetici,bileşikleştirme,bileşikleştirici,efekt,3B "
+#~ "efekktler,2B efektler,OpenGL,XRender,video ayarları,grafiksel efektler,"
+#~ "masaüstü efektleri,grafikler,gecikme,vsync,çizdirme,pencere küçük "
+#~ "resimleri,ölçeklendirme yöntemi,ölçek yöntemi,arka uç"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,"
+#~ "edge,kwm,decoration,window decorations,titlebar,window buttons,window "
+#~ "border,skin"
+#~ msgstr ""
+#~ "kwin,pencere,yönetici,kenarlık,biçim,tema,görünüm,his,şekil,düzen,düğme,"
+#~ "kullanım,kenar,kwm,dekorasyon,pencere dekorasyonları,pencere düğmeleri,"
+#~ "pencere kenarlıkları,tema"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager "
+#~ "widget,pager applet,pager settings,indicator,navigation,cube,slide,"
+#~ "workspaces"
+#~ msgstr ""
+#~ "masaüstü,masaüstleri,sayı,sanal masaüstü,çoklu masaüstü,sayfalayıcı,"
+#~ "sayfalayıcı gereci,sayfalayıcı gereci,sayfalayıcı ayarları,belirteç,"
+#~ "dolaşım,küp,slayt,çalışma alanları"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure compositor settings for desktop effects"
+#~ msgstr "Masaüstü efektleri için bileşikleştirici ayarlarını yapılandır"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "kwin,window,manager,effect,3D effects,2D effects,graphical effects,"
+#~ "desktop effects,animations,various animations,window management effects,"
+#~ "window switching effect,desktop switching effect,animations,desktop "
+#~ "animations,drivers,driver settings,rendering,render,invert effect,looking "
+#~ "glass effect,magnifier effect,snap helper effect,track mouse effect,zoom "
+#~ "effect,blur effect,fade effect,fade desktop effect,fall apart effect,"
+#~ "glide effect,highlight window effect,login effect,logout effect,magic "
+#~ "lamp effect,minimize animation effect,mouse mark effect,scale effect,"
+#~ "screenshot effect,sheet effect,slide effect,sliding popups effect,"
+#~ "thumbnail aside effect,translucency,translucency effect,transparency,"
+#~ "window geometry effect,wobbly windows effect,startup feedback effect,"
+#~ "dialog parent effect,dim inactive effect,dim screen effect,slide back "
+#~ "effect,eye candy,candy,show FPS effect,show paint effect,cover switch "
+#~ "effect,desktop cube effect,desktop cube animation effect,desktop grid "
+#~ "effect,flip switch effect,present windows effect,resize window effect,"
+#~ "background contrast effect,bling,fading,movement,motion,overview windows "
+#~ "effect,accessibility"
+#~ msgstr ""
+#~ "kwin,pencere,yönetici,efekt,3D efektler,2D efektler,grafiksel efektler,"
+#~ "masaüstü efektleri,canlandırmalar,çeşitli canlandırmalar,pencere yönetimi "
+#~ "efektleri,pencere geçiş efekti,masaüstü geçiş efekti,canlandırmalar,"
+#~ "canlandırma hızı,masaüstü canlandırmaları,sürücüler,sürücü ayarları,"
+#~ "hazırlama,hazırla,ters efekt,gözlük efekti,büyüteç efekti,yakalama "
+#~ "yardımcısı efekti,fareyi izleme efekti,yakınlaştırma efekti,buğu efekti,"
+#~ "pano efekti,patlama efekti,kaybolma efekti,masasütü kaybolma efekti,düşme "
+#~ "efekti,sürülme efekti,pencere vurgulama efekti,oturum açma efekti,oturum "
+#~ "kapatma efekti,sihirli lamba efekti,küçültme canlandırması efekti,fare "
+#~ "işaretleme efekti,boyutlandırma efekti,ekran yakalama efekti,kağıt efekti,"
+#~ "kaydırma efekti,kayan pencereler efekti,görev çubuğu önizlemeleri efekti,"
+#~ "önizleme gösterme efekti,saydamlık,saydamlık efekti,yarısaydamlık,pencere "
+#~ "geometri efekti,sallanan pencereler efekti,başlatma geri bildirim efekti,"
+#~ "üst pencere efekti,etkin olmayanı soldurma efekti,ekranı soldurma efekti,"
+#~ "geri kayma efekti,göz alıcı,şeker,FPS gösterme efekti,boyama gösterme "
+#~ "efekti,kutu değiştirme efekti,kapak değiştirme efekti,masaüstü küp efekti,"
+#~ "masaüstü küp canlandırması efekti,masaüstü ızgara efekti,döndürme geçişi "
+#~ "efekti,dış kenarlık efekti,güncel pencereler efekti,pencereyi yeniden "
+#~ "boyutlandırma efekti,arka plan karşıtlık efekti,şıkır,solma,taşıma,"
+#~ "hareket,pencere genel görünüm efekti,erişilebilirlik,yarısaydamlık efekti"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure window actions and behavior"
+#~ msgstr "Pencere eylem ve davranışlarını yapılandır"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "focus,placement,window behavior,window actions,animation,raise,auto raise,"
+#~ "windows,frame,titlebar,doubleclick,desktop,snap,movement,shading,shade,"
+#~ "unshade,unshading,activation,activate"
+#~ msgstr ""
+#~ "odak,yerleşim,pencere davranışı,pencere eylemleri,canlandırma,yükselt,"
+#~ "otomatik yükselt,pencereler,çerçeve,başlık çubuğu,çift tıklama,masaüstü,"
+#~ "yapıştır,hareket,gölgelendirme,gölgele,gölgeyi kaldır,etkinleştirme,"
+#~ "etkinleştir"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "size,position,state,window behavior,windows,specific,workarounds,remember,"
+#~ "rules,window rules,apps,applications"
+#~ msgstr ""
+#~ "boyut,konum,durum,pencere davranışı,pencere,özel,etrafından dolanmalar,"
+#~ "anımsa,kurallar,uygulama,uygulamalar"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure active screen corners and edges"
+#~ msgstr "Etkin ekran kenarlarını ve köşelerini yapılandır"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
+#~ "screen edges,desktop edges,screen edges,maximize windows,tile windows,"
+#~ "side of screen,screen behavior,switch desktop,virtual desktop,screen "
+#~ "corners,borders,screen borders,desktop borders,desktop corners,corners"
+#~ msgstr ""
+#~ "kwin,pencere,yönetici,efekt,kenar,kenarlık,eylem,seç,masaüstü,kwin ekran "
+#~ "kenarlıkları,kenarlıklar,masaüstü kenarları,ekran kenarları,pencereleri "
+#~ "büyüt,pencereleri döşe,ekranın kenarı,ekran davranışı,masaüstünü seç,"
+#~ "sanal masaüstü,ekran köşeleri,sınırlar,ekran sınırları,masaüstü sınırları,"
+#~ "masaüstü köşeleri,köşeler"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure touch screen swipe gestures"
+#~ msgstr "Dokunmatik ekran kaydırma hareketlerini yapılandır"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop "
+#~ "edges,screen edges,side of screen,screen behavior,touch screen"
+#~ msgstr ""
+#~ "kwin,pencere,yönetici,efekt,kenar,sınır,eylem,geçiş,masaüstü,masaüstü "
+#~ "kenarları,ekran kenarları,ekranın yan tarafı,ekran davranışı,dokunmatik "
+#~ "ekran"
+
+#~ msgctxt "Comment"
+#~ msgid "Select which virtual keyboard to use"
+#~ msgstr "Hangi sanal klavyenin kullanılacağını seçin"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "software keyboard,virtual keyboard,touch keyboard,on screen keyboard,"
+#~ "input methods"
+#~ msgstr ""
+#~ "yazılım klavyesi,sanal klavye,dokunmatik klavye,ekran üzeri klavye,giriş "
+#~ "yöntemleri"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "kwin script,plugins,window manager"
+#~ msgstr "kwin betiği,eklentiler,pencere yöneticisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage KWin scripts"
+#~ msgstr "KWin betiklerini yönet"

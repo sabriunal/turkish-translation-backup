@@ -1,0 +1,205 @@
+# translation of desktop_kdebase.po to Turkish
+# translation of desktop_kdebase.po to
+# Kdesktop Turkish translation file
+# Copyright (C) 2000, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,1999-2002.
+# Görkem Çetin <gorkem@kde.org>, 2002, 2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Adem Alp Yıldız <ademalp@linux-sevenler.org>, 2004.
+# Adil Yıldız <adil@linux-sevenler.org>, 2004.
+# Görkem Çetin <gorkem@kde.org.tr>, 2005.
+# Adil Yıldız <adil@kde.org.tr>, 2005.
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010.
+# Gökçen Eraslan <gokcen@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-12-30 01:06+0000\n"
+"PO-Revision-Date: 2022-12-31 00:08+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.0\n"
+
+#: Modules/about-distro/src/kcm_about-distro.json
+msgctxt "Name"
+msgid "About this System"
+msgstr "Sistem Hakkında"
+
+#: Modules/cpu/kcm_cpu.json
+msgctxt "Name"
+msgid "CPU"
+msgstr "CPU"
+
+#: Modules/devinfo/devinfo.json
+msgctxt "Name"
+msgid "Device Viewer"
+msgstr "Aygıt Görüntüleyici"
+
+#: Modules/egl/kcm_egl.json
+msgctxt "Name"
+msgid "OpenGL (EGL)"
+msgstr "OpenGL (EGL)"
+
+#: Modules/energy/kcm_energyinfo.json
+msgctxt "Name"
+msgid "Energy"
+msgstr "Enerji"
+
+#: Modules/firmware_security/kcm_firmware_security.json
+msgctxt "Name"
+msgid "Firmware Security"
+msgstr "Gömülü Yazılım Güvenliği"
+
+#: Modules/glx/kcm_glx.json
+msgctxt "Name"
+msgid "OpenGL (GLX)"
+msgstr "OpenGL (GLX)"
+
+#: Modules/interrupts/kcm_interrupts.json
+msgctxt "Name"
+msgid "Interrupts"
+msgstr "Yarıda Kesmeler"
+
+#: Modules/kwinsupportinfo/kcm_kwinsupportinfo.json.in
+msgctxt "Name"
+msgid "Window Manager"
+msgstr "Pencere Yöneticisi"
+
+#: Modules/nics/kcm_nic.json
+msgctxt "Name"
+msgid "Network Interfaces"
+msgstr "Ağ Arayüzleri"
+
+#: Modules/opencl/kcm_opencl.json
+msgctxt "Name"
+msgid "OpenCL"
+msgstr "OpenCL"
+
+#: Modules/pci/kcm_pci.json.cmake
+msgctxt "Name"
+msgid "PCI"
+msgstr "PCI"
+
+#: Modules/samba/smbstatus.json
+msgctxt "Name"
+msgid "Samba Status"
+msgstr "Samba Durumu"
+
+#: Modules/usbview/kcmusb.json
+msgctxt "Name"
+msgid "USB Devices"
+msgstr "USB Aygıtları"
+
+#: Modules/vulkan/kcm_vulkan.json
+msgctxt "Name"
+msgid "Vulkan"
+msgstr "Vulkan"
+
+#: Modules/wayland/kcm_wayland.json
+msgctxt "Name"
+msgid "Wayland"
+msgstr "Wayland"
+
+#: Modules/xserver/kcm_xserver.json
+msgctxt "Name"
+msgid "X-Server"
+msgstr "X Sunucusu"
+
+#: Modules/about-distro/src/kcm_about-distro.json
+msgctxt "Description"
+msgid "Information About This System"
+msgstr "Sistem Hakkında Bilgi"
+
+#: Modules/cpu/kcm_cpu.json
+msgctxt "Description"
+msgid "Advanced CPU Information"
+msgstr "Gelişmiş CPU Bilgisi"
+
+#: Modules/devinfo/devinfo.json
+msgctxt "Description"
+msgid "Device Viewer"
+msgstr "Aygıt Görüntüleyici"
+
+#: Modules/egl/kcm_egl.json
+msgctxt "Description"
+msgid "EGL information"
+msgstr "EGL Bilgisi"
+
+#: Modules/energy/kcm_energyinfo.json
+msgctxt "Description"
+msgid "Energy Consumption Statistics"
+msgstr "Enerji Tüketimi İstatistikleri"
+
+#: Modules/firmware_security/kcm_firmware_security.json
+msgctxt "Description"
+msgid "Firmware Security Information"
+msgstr "Gömülü Yazılım Güvenliği Bilgisi"
+
+#: Modules/glx/kcm_glx.json
+msgctxt "Description"
+msgid "GLX information"
+msgstr "GLX bilgisi"
+
+#: Modules/interrupts/kcm_interrupts.json
+msgctxt "Description"
+msgid "Interrupt information"
+msgstr "Yarıda kesmeler bilgisi"
+
+#: Modules/kwinsupportinfo/kcm_kwinsupportinfo.json.in
+msgctxt "Description"
+msgid "KWin Support information"
+msgstr "KWin Destek Bilgisi"
+
+#: Modules/nics/kcm_nic.json
+msgctxt "Description"
+msgid "Network interface information"
+msgstr "Ağ arayüz bilgisi"
+
+#: Modules/opencl/kcm_opencl.json
+msgctxt "Description"
+msgid "OpenCL API information"
+msgstr "OpenCL API bilgisi"
+
+#: Modules/pci/kcm_pci.json.cmake
+msgctxt "Description"
+msgid "PCI information"
+msgstr "PCI bilgisi"
+
+#: Modules/samba/smbstatus.json
+msgctxt "Description"
+msgid "Samba status monitor"
+msgstr "Samba durumu izleyici"
+
+#: Modules/usbview/kcmusb.json
+msgctxt "Description"
+msgid "USB devices attached to this computer"
+msgstr "Bu bilgisayara bağlanmış USB aygıtları"
+
+#: Modules/vulkan/kcm_vulkan.json
+msgctxt "Description"
+msgid "Vulkan graphics API information"
+msgstr "Vulkan Grafik API bilgisi"
+
+#: Modules/wayland/kcm_wayland.json
+msgctxt "Description"
+msgid "Information about the Wayland Compositor"
+msgstr "Wayland oluşturucusu bilgisi"
+
+#: Modules/xserver/kcm_xserver.json
+msgctxt "Description"
+msgid "X-Server information"
+msgstr "X Sunucusu bilgisi"

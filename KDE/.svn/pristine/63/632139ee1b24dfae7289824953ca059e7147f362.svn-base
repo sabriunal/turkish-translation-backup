@@ -1,0 +1,945 @@
+#
+# Translators:
+# Bilgesu Güngör <bilgesugungor@gmail.com>, 2008.
+# Görkem Çetin <gorkem@gorkemcetin.com>, 2005.
+# İsmail Şimşek <simsek@kde.org.tr>, 2005.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2010.
+# obsoleteman <tulliana@gmail.com>, 2007-2009.
+# Volkan Gezer <volkangezer@gmail.com>, 2013-2014.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-graphics-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-09 01:03+0000\n"
+"PO-Revision-Date: 2022-08-10 21:23+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.04.3\n"
+
+#: core/app/main/digikam.notifyrc:4
+msgctxt "Comment"
+msgid "digiKam"
+msgstr "digiKam"
+
+#: core/app/main/digikam.notifyrc:58
+msgctxt "Name"
+msgid "Download complete"
+msgstr "İndirme tamamlandı"
+
+#: core/app/main/digikam.notifyrc:109
+msgctxt "Comment"
+msgid "A download from a camera or other device has finished."
+msgstr "Bir kamera veya başka bir aygıttan indirme tamamlandı."
+
+#: core/app/main/digikam.notifyrc:161
+msgctxt "Name"
+msgid "Save file complete"
+msgstr "Dosya kaydetme tamamlandı"
+
+#: core/app/main/digikam.notifyrc:208
+msgctxt "Comment"
+msgid "A file from image editor is saved."
+msgstr "Görsel düzenleyicisinden bir dosya kaydedildi."
+
+#: core/app/main/digikam.notifyrc:258
+msgctxt "Name"
+msgid "Batch queue completed"
+msgstr "Toplu iş kuyruğu tamamlandı"
+
+#: core/app/main/digikam.notifyrc:303
+msgctxt "Comment"
+msgid "A queue in the batch queue manager has been completed."
+msgstr "Toplu iş kuyruğu yöneticisindeki bir kuyruk tamamlandı."
+
+#: core/app/main/digikam.notifyrc:350
+msgctxt "Name"
+msgid "Update of fingerprint database complete"
+msgstr "Parmak izi veritabanı güncellemesi tamamlandı"
+
+#: core/app/main/digikam.notifyrc:396
+msgctxt "Comment"
+msgid "The update of the fingerprint database has been completed."
+msgstr "Parmak izi veritabanının güncellenmesi tamamlandı."
+
+#: core/app/main/digikam.notifyrc:445
+msgctxt "Name"
+msgid "Update of thumbnails database complete"
+msgstr "Küçük görseller veritabanı güncellemesi tamamlandı"
+
+#: core/app/main/digikam.notifyrc:491
+msgctxt "Comment"
+msgid "The update of the thumbnails database has been completed."
+msgstr "Küçük görseller veritabanının güncellenmesi tamamlandı."
+
+#: core/app/main/digikam.notifyrc:540
+msgctxt "Name"
+msgid "Synchronization of images' metadata with database completed"
+msgstr "Görsellerin üst verisinin veritabanı ile eşzamanlanması tamamlandı"
+
+#: core/app/main/digikam.notifyrc:585
+msgctxt "Comment"
+msgid ""
+"The synchronization of the images' metadata with the database has been "
+"completed."
+msgstr "Görsellerin üst verisinin veritabanı ile eşzamanlanması tamamlandı"
+
+#: core/app/main/digikam.notifyrc:633
+msgctxt "Name"
+msgid "Update of detected faces database complete"
+msgstr "Algılanan yüzler veritabanı güncellemesi tamamlandı"
+
+#: core/app/main/digikam.notifyrc:677
+msgctxt "Comment"
+msgid "The update of the detected faces database has completed."
+msgstr "Algılanan yüzler veritabanının güncellenmesi tamamlandı."
+
+#: core/app/main/digikam.notifyrc:724
+msgctxt "Name"
+msgid "Update of duplicates items in database complete"
+msgstr "Veritabanındaki yinelenmiş ögelerin güncellemeleri tamamlandı"
+
+#: core/app/main/digikam.notifyrc:767
+msgctxt "Comment"
+msgid "The update of the duplicates items in database has completed."
+msgstr "Veritabanındaki yinelenmiş ögelerin güncellemeleri tamamlandı."
+
+#: core/app/main/digikam.notifyrc:813
+msgctxt "Name"
+msgid "Find of new items in database complete"
+msgstr "Veritabanında yeni öge bulma işlemi tamamlandı"
+
+#: core/app/main/digikam.notifyrc:856
+msgctxt "Comment"
+msgid "The scan of the new items in database has completed."
+msgstr "Veritabanında yeni öge taraması tamamlandı."
+
+#: core/app/main/org.kde.digikam.desktop:8
+msgctxt "Name"
+msgid "digiKam"
+msgstr "digiKam"
+
+#: core/app/main/org.kde.digikam.desktop:66
+msgctxt "GenericName"
+msgid "Photo Management Program"
+msgstr "Fotoğraf Yönetim Programı"
+
+#: core/app/main/org.kde.digikam.desktop:120
+#: core/avplayer/main/org.kde.avplayer.desktop:48
+#: core/showfoto/main/org.kde.showfoto.desktop:108
+msgctxt "Comment"
+msgid ""
+"Manage your photographs like a professional with the power of open source"
+msgstr "Açık kaynağın gücüyle fotoğraflarınızı bir profesyonel gibi düzenleyin"
+
+#: core/avplayer/main/org.kde.avplayer.desktop:2
+msgctxt "Name"
+msgid "AVPlayer"
+msgstr "AVPlayer"
+
+#: core/avplayer/main/org.kde.avplayer.desktop:25
+msgctxt "GenericName"
+msgid "Audio and Video Player"
+msgstr "Ses ve Video Oynatıcı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:74
+msgctxt "Name"
+msgid "Blue curves"
+msgstr "Mavi eğriler"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:38
+msgctxt "Comment"
+msgid "A stylised theme"
+msgstr "Stilleştirilmiş bir tema"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:112
+msgctxt "Name"
+msgid "Vincent Deroo Blanquart"
+msgstr "Vincent Deroo Blanquart"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:149
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:259
+msgctxt "Name"
+msgid "Gallery Introduction"
+msgstr "Galeri Tanıtımı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/bluecurved/bluecurved.desktop:189
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:151
+msgctxt "Name"
+msgid "Thumbnails per row"
+msgstr "Satır başına küçük görsel"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:106
+msgctxt "Name"
+msgid "Blue Frames"
+msgstr "Mavi Çerçeveler"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:36
+msgctxt "Comment"
+msgid "A theme variation based Frames theme"
+msgstr "Tema varyasyonu tabanlı Çerçeveler teması"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/blueframes/blueframes.desktop:68
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:73
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:71
+msgctxt "Name"
+msgid "Elizabeth Marmorstein"
+msgstr "Elizabeth Marmorstein"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:74
+msgctxt "Name"
+msgid "Classic"
+msgstr "Klasik"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:39
+msgctxt "Comment"
+msgid "A port of the old HTML Export plugin theme"
+msgstr "Eski HTML Dışa Aktar eklenti temasının bir aktarımı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:113
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:73
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:71
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:72
+msgctxt "Name"
+msgid "Aurélien Gâteau"
+msgstr "Aurélien Gâteau"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:192
+msgctxt "Name"
+msgid "Background Color"
+msgstr "Arka Plan Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:234
+msgctxt "Name"
+msgid "Foreground Color"
+msgstr "Ön Plan Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:276
+msgctxt "Name"
+msgid "Font Size"
+msgstr "Yazıtipi Boyutu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:320
+msgctxt "Name"
+msgid "Image Border Size"
+msgstr "Görsel Kenarlık Boyutu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:363
+msgctxt "Name"
+msgid "Image Border Color"
+msgstr "Görsel Kenarlık Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:405
+msgctxt "Name"
+msgid "Link Color"
+msgstr "Bağlantı Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/classic/classic.desktop:446
+msgctxt "Name"
+msgid "Visited Link Color"
+msgstr "Ziyaret Edilmiş Bağlantı Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:111
+msgctxt "Name"
+msgid "Clean Frames"
+msgstr "Çerçeveleri Temizle"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:38
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:36
+msgctxt "Comment"
+msgid "A frame theme based on Ruediger Bente's frame theme"
+msgstr "Ruediger Bente'nin çerçeve teması tabanlı bir çerçeve teması"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/cleanframes/cleanframes.desktop:149
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:343
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:163
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:109
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:247
+msgctxt "Name"
+msgid "Style"
+msgstr "Biçem"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:109
+msgctxt "Name"
+msgid "Date Frames"
+msgstr "Tarih Çerçeveleri"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:145
+msgctxt "Name"
+msgid "Thumbnail Background"
+msgstr "Küçük Görsel Arka Planı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:184
+msgctxt "Name"
+msgid "Image Background (contrasting)"
+msgstr "Görsel Arka Planı (karşıt renk)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:222
+msgctxt "Name"
+msgid "Nav Bar Background (dark)"
+msgstr "Dolaşım Çubuğu Arka Planı (koyu)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:298
+msgctxt "Name"
+msgid "Caption Date Format (see xsltsl.sourceforge.net/date-time.html)"
+msgstr "Altyazı Tarih Biçimi (bkz. xsltsl.sourceforge.net/date-time.html)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:327
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:391
+msgctxt "Comment"
+msgid ""
+"XSL Date Format String: Use the syntax given at xsltsl.sourceforge.net/date-"
+"time.html"
+msgstr ""
+"XSL Tarih Biçimi Dizisi: xsltsl.sourceforge.net/date-time.html adresinde "
+"verilen sözdizimi kullanın"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/dateframes/dateframes.desktop:356
+msgctxt "Name"
+msgid "Image List Date Format"
+msgstr "Görsel Listesi Tarih Biçimi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:3
+msgctxt "Comment"
+msgid "Yet another simple theme. Clean look with more image details."
+msgstr "Bir diğer yalın tema. Daha fazla görsel ayrıntısıyla temiz görünüm."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:37
+msgctxt "Name"
+msgid "Details"
+msgstr "Ayrıntılar"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:75
+msgctxt "Name"
+msgid "Gianluca Urgese"
+msgstr "Gianluca Urgese"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:112
+msgctxt "Name"
+msgid "Details screenshot"
+msgstr "Ayrıntılar ekran görüntüsü"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/details/details.desktop:147
+msgctxt "Name"
+msgid "Footer information"
+msgstr "Dipnot bilgisi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:105
+msgctxt "Name"
+msgid "Elegant"
+msgstr "Zarif"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:36
+msgctxt "Comment"
+msgid ""
+"Based on the \"Simple\" theme. Uses Lytebox by Markus F. Hay to display the "
+"images in a slideshow."
+msgstr ""
+"\"Yalın\" teması tabanlıdır. Görselleri bir slayt gösterisinde göstermek "
+"için Markus F. Hay tarafından yapılan Lytebox'u kullanır."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:69
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:66
+msgctxt "Name"
+msgid "Wojciech Jarosz"
+msgstr "Wojciech Jarosz"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:141
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:124
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:102
+msgctxt "Name"
+msgid "Author"
+msgstr "Yazar"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:180
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:213
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:142
+msgctxt "Name"
+msgid "Images per page"
+msgstr "Sayfa başına görsel"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:217
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:250
+msgctxt "Name"
+msgid "Page links location"
+msgstr "Sayfa bağlantıları konumu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:258
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:416
+msgctxt "Name"
+msgid "Use LyteBox"
+msgstr "LyteBox Kullan"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:298
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:456
+msgctxt "Name"
+msgid "LyteBox Slideshow Interval"
+msgstr "LyteBox Slayt Gösterisi Aralığı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:391
+msgctxt "Name"
+msgid "Custom Background Color"
+msgstr "Özel Arka Plan Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:428
+msgctxt "Name"
+msgid "Custom Foreground Color"
+msgstr "Özel Ön Plan Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:464
+msgctxt "Name"
+msgid "Custom Link Color"
+msgstr "Özel Bağlantı Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:501
+msgctxt "Name"
+msgid "Custom Hover Link Color"
+msgstr "Özel Üzerine Gelinmiş Bağlantı Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:536
+msgctxt "Name"
+msgid "Custom Visited Link Color"
+msgstr "Özel Ziyaret Edilmiş Bağlantı Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:571
+msgctxt "Name"
+msgid "Custom Frame Color"
+msgstr "Özel Çerçeve Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:605
+msgctxt "Name"
+msgid "Custom Frame Border Color"
+msgstr "Özel Çerçeve Kenarlık Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:639
+msgctxt "Name"
+msgid "Custom Selected Frame Color"
+msgstr "Özel Seçilmiş Çerçeve Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/elegant/elegant.desktop:673
+msgctxt "Name"
+msgid "Custom Selected Frame Border Color"
+msgstr "Özel Seçilmiş Çerçeve Kenarlık Rengi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:107
+msgctxt "Name"
+msgid "Floating Cards"
+msgstr "Yüzen Kartlar"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:36
+msgctxt "Comment"
+msgid ""
+"A dark theme with floating thumbnail/description cards. Fast navigation "
+"through the gallery."
+msgstr ""
+"Yüzen küçük görsel/açıklama kartları ile koyu bir tema. Galeri içerisinde "
+"hızlı dolaşım."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:71
+msgctxt "Name"
+msgid "Jiří Boháč"
+msgstr "Jiří Boháč"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:146
+msgctxt "Name"
+msgid "Keyboard & swipe navigation"
+msgstr "Klavye & kaydırma dolaşımı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/floatingcards/floatingcards.desktop:193
+msgctxt "Name"
+msgid "Preload"
+msgstr "Önyükleme"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:110
+msgctxt "Name"
+msgid "Frames"
+msgstr "Çerçeveler"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:38
+msgctxt "Comment"
+msgid "A frame theme"
+msgstr "Bir çerçeve teması"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/frames/frames.desktop:73
+msgctxt "Name"
+msgid "Ruediger Bente"
+msgstr "Ruediger Bente"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:90
+msgctxt "Name"
+msgid "HTML5 Responsive"
+msgstr "HTML5 Tepkisel"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:31
+msgctxt "Comment"
+msgid ""
+"Generates a gallery using responsive HTML5 and CSS3 and UTF-8 encoding. "
+"Optionally uses PhotoSwipe by Dmitry Semenov to display the images."
+msgstr ""
+"Tepkisel HTML5, CSS ve UTF-8 kodlaması kullanarak bir galeri oluşturur. "
+"Görselleri görüntülemek için isteğe bağlı olarak Dmitry Semenov'un "
+"PhotoSwipe'ını kullanır."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:60
+msgctxt "Name"
+msgid "Bobulous"
+msgstr "Bobulous"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:291
+msgctxt "Name"
+msgid "Top pagination mode"
+msgstr "Üst sayfalama kipi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:324
+msgctxt "Name"
+msgid "Bottom pagination mode"
+msgstr "Alt sayfalama kipi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:357
+msgctxt "Name"
+msgid "Use PhotoSwipe"
+msgstr "PhotoSwipe kullan"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:393
+msgctxt "Name"
+msgid "PhotoSwipe Background Opacity"
+msgstr "PhotoSwipe Arka Plan Matlığı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:427
+msgctxt "Name"
+msgid "PhotoSwipe sharing button"
+msgstr "PhotoSwipe paylaşım düğmesi"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:463
+msgctxt "Name"
+msgid "Add jiggle"
+msgstr "Sallama ekle"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/html5responsive/html5responsive.desktop:496
+msgctxt "Name"
+msgid "Show GPS data"
+msgstr "GPS verisini göster"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:111
+msgctxt "Name"
+msgid "Matrix"
+msgstr "Matrix"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/matrix/matrix.desktop:38
+msgctxt "Comment"
+msgid "Show your photos with Matrix style"
+msgstr "Fotoğraflarınızı Matrix tarzında gösterin"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:3
+msgctxt "Comment"
+msgid ""
+"Yet another nice theme. Very simple and clean look with \"calligraphics\" "
+"icons."
+msgstr ""
+"Bir diğer hoş tema. \"calligraphics\" simgeleriyle çok yalın ve ferah "
+"görünüm."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:37
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:108
+msgctxt "Name"
+msgid "S0"
+msgstr "S0"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/s0/s0.desktop:72
+msgctxt "Name"
+msgid "Petr Vaněk"
+msgstr "Petr Vaněk"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:3
+msgctxt "Name"
+msgid "Simple Rounded"
+msgstr "Basit Yuvarlanmış"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:35
+msgctxt "Comment"
+msgid "A theme with rounded corners and page support on big galeries"
+msgstr "Büyük galerilerde sayfa desteği ve yuvarlanmış kenarları olan bir tema"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:68
+msgctxt "Name"
+msgid "Franz Dietrich"
+msgstr "Franz Dietrich"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:103
+msgctxt "Name"
+msgid "Title Bar"
+msgstr "Başlık Çubuğu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:181
+msgctxt "Name"
+msgid "Name of the Homepage"
+msgstr "Ana Sayfanın Adı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:218
+msgctxt "Name"
+msgid "Url to the Homepage"
+msgstr "Ana Sayfa'nın URL'si"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:255
+msgctxt "Name"
+msgid "Background"
+msgstr "Arka Plan"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:292
+msgctxt "Name"
+msgid "Content background"
+msgstr "İçerik arka planı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:328
+msgctxt "Name"
+msgid "Icon background"
+msgstr "Simge arka planı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:364
+msgctxt "Name"
+msgid " Background of the navigation"
+msgstr "Dolaşım arka planı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:399
+msgctxt "Name"
+msgid "Thumbnail border"
+msgstr "Küçük görsel kenarlığı"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:435
+msgctxt "Name"
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simplerounded/simplerounded.desktop:473
+msgctxt "Name"
+msgid "Simple Rounded Shapes"
+msgstr "Yalın Yuvarlanmış Şekiller"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:155
+msgctxt "Name"
+msgid "Simple"
+msgstr "Yalın"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simple/simple.desktop:36
+msgctxt "Comment"
+msgid "A simple and light theme"
+msgstr "Yalın ve hafif bir tema"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:176
+msgctxt "Name"
+msgid "Simple Slideshow"
+msgstr "Yalın Yuvarlanmış"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:34
+msgctxt "Comment"
+msgid ""
+"A slideshow designed for a kiosk-mode display. Generated from a simple "
+"template with javascript and css embedded into a single index.html file."
+msgstr ""
+"Bir büfe tarzı ekran için tasarlanmış bir slayt gösterisi. JavaScript ve "
+"CSS'nin tek bir index.html dosyasına gömülmesiyle elde edilen yalın bir "
+"şablondan üretilmiştir."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:65
+msgctxt "Name"
+msgid "Simon Kuss"
+msgstr "Simon Kuss"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:98
+msgctxt "Name"
+msgid "Time between slides (seconds)"
+msgstr "Slaytlar arasındaki süre (saniye)"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/simpleslides/simpleslides.desktop:135
+msgctxt "Name"
+msgid "Location of controls"
+msgstr "Denetimlerin konumu"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:3
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:110
+msgctxt "Name"
+msgid "Snow"
+msgstr "Kar"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/snow/snow.desktop:37
+msgctxt "Comment"
+msgid "A perfect match for your mountain holidays"
+msgstr "Dağ tatilleriniz için mükemmel bir eşleşme"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:2
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:501
+msgctxt "Name"
+msgid "Vanilla"
+msgstr "Vanilya"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:35
+msgctxt "Comment"
+msgid ""
+"This theme is based on the look of Adobe Lightroom's HTML export. It has a "
+"simple but usable grid layout and comes with various color presets."
+msgstr ""
+"Bu tema, Adobe Lightroom'un HTML dışa aktarma görünümü tabanlıdır. Yalın; "
+"ancak kullanışlı bir ızgara görünümü vardır ve çeşitli renk önayarlarıyla "
+"birlikte gelir."
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:141
+msgctxt "Name"
+msgid "Author Email"
+msgstr "Yazar E-postası"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:177
+msgctxt "Name"
+msgid "Rows per page"
+msgstr "Sayfa başına satır"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:212
+msgctxt "Name"
+msgid "Columns per page"
+msgstr "Sayfa başına sütun"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:305
+msgctxt "Name"
+msgid "Show image numbers"
+msgstr "Görsel numaralarını göster"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:344
+msgctxt "Name"
+msgid "Add drop shadow"
+msgstr "Arka gölge ekle"
+
+#: core/dplugins/generic/tools/htmlgallery/themes/vanilla/vanilla.desktop:381
+msgctxt "Name"
+msgid "Thumbnail margin"
+msgstr "Küçük görsel kenar boşluğu"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_10.5x14.8cm.desktop:3
+msgctxt "Name"
+msgid "10.5x14.8 cm (1 photo)"
+msgstr "10,5x14,8 cm (1 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm (1 photo)"
+msgstr "10x15 cm (1 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_20x25cm.desktop:3
+msgctxt "Name"
+msgid "20x25 cm (1 photo)"
+msgstr "20x25 cm (1 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_8x10.desktop:3
+msgctxt "Name"
+msgid "8 x 10\" (1 photo)"
+msgstr "8x10\" (1 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/1_photo_9x13cm.desktop:3
+msgctxt "Name"
+msgid "9x13 cm (1 photo)"
+msgstr "9x13 cm (1 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/2_photos_13x18cm.desktop:3
+msgctxt "Name"
+msgid "13x18 cm (2 photos)"
+msgstr "13x18 cm (2 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/2_photos_5x7.desktop:3
+msgctxt "Name"
+msgid "5 x 7\" (2 photos)"
+msgstr "5x7\" (2 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/3_photos_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm (3 photos)"
+msgstr "10x15 cm (3 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/3_photos_4x6.desktop:3
+msgctxt "Name"
+msgid "4 x 6\" (3 photos)"
+msgstr "4x6\" (3 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_10x13.33cm.desktop:3
+msgctxt "Name"
+msgid "10x13.33 cm (4 photos)"
+msgstr "10x13,33 cm (4 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_3.5x5.desktop:3
+msgctxt "Name"
+msgid "3.5 x 5\" (4 photos)"
+msgstr "3,5x5\" (4 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_4.5x5cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos - 4.5x5cm (4 photos)"
+msgstr "Pasaport fotoğrafı - 4,5x5 cm (4 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4_photos_9x13cm.desktop:3
+msgctxt "Name"
+msgid "9x13 cm (4 photos)"
+msgstr "9x13 cm (4 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/4x6Album.desktop:3
+msgctxt "Name"
+msgid "4 x 6\" Album"
+msgstr "4x6\" Albüm"
+
+#: core/dplugins/generic/tools/printcreator/templates/6_photos_3.5x4.5cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos UK - 3.5x4.5cm (6 photos)"
+msgstr "Birleşik Krallık pasaport fotoğrafı - 3,5x4,5 cm (6 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/6_photos_3.5x4cm.desktop:3
+msgctxt "Name"
+msgid "Passport photos - 3.5x4cm (6 photos)"
+msgstr "Pasaport fotoğrafı - 3,5x4 cm (6 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/8_photos_6x9cm.desktop:3
+msgctxt "Name"
+msgid "6x9 cm (8 photos)"
+msgstr "6x9 cm (8 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album_10x15cm.desktop:3
+msgctxt "Name"
+msgid "10x15 cm Album"
+msgstr "10x15 cm Albüm"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album_11.5x15cm.desktop:3
+msgctxt "Name"
+msgid "11.5x15 cm Album"
+msgstr "11,5x15 cm Albüm"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album-Collage1.desktop:3
+msgctxt "Name"
+msgid "Album Collage 2 (6 photos)"
+msgstr "Albüm Kolajı 2 (6 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/Album-Collage.desktop:3
+msgctxt "Name"
+msgid "Album Collage 1 (9 photos)"
+msgstr "Albüm Kolajı 1 (9 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/FullPage.desktop:3
+msgctxt "Name"
+msgid "Full page"
+msgstr "Tam sayfa"
+
+#: core/dplugins/generic/tools/printcreator/templates/Photoframe.desktop:3
+msgctxt "Name"
+msgid "Photoframe (5 photos)"
+msgstr "Fotoğraf çerçevesi (5 fotoğraf)"
+
+#: core/dplugins/generic/tools/printcreator/templates/Thumbnails_5x4.desktop:3
+msgctxt "Name"
+msgid "Thumbnails 5x4 photos"
+msgstr "5x4 küçük görsel"
+
+#: core/dplugins/generic/tools/printcreator/templates/Thumbnails_6x5.desktop:3
+msgctxt "Name"
+msgid "Thumbnails 6x5 photos"
+msgstr "6x5 küçük görsel"
+
+#: core/showfoto/main/org.kde.showfoto.desktop:2
+msgctxt "Name"
+msgid "showFoto"
+msgstr "showFoto"
+
+#: core/showfoto/main/org.kde.showfoto.desktop:58
+msgctxt "GenericName"
+msgid "Photo Viewer and Editor"
+msgstr "Fotoğraf Görüntüleyici ve Düzenleyici"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Color"
+#~ msgstr "ImagePlugin_Color"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to correct colors of image"
+#~ msgstr "Renk düzeltmek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Decorate"
+#~ msgstr "ImagePlugin_Decorate"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to decorate image"
+#~ msgstr "Resimleri süslemek için bir araç"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Enhance"
+#~ msgstr "ImagePlugin_Enhance"
+
+#~ msgctxt "Comment"
+#~ msgid "digiKam plugin to enhance photograph"
+#~ msgstr "Fotoğrafları iyileştirmek için bir digiKam eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_FxFilters"
+#~ msgstr "ImagePlugin_FxFilters"
+
+#~ msgctxt "Comment"
+#~ msgid "Special effect filters plugin for digiKam"
+#~ msgstr "digiKam için özel efekt filtreleri eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "ImagePlugin_Transform"
+#~ msgstr "ImagePlugin_Transform"
+
+#~ msgctxt "Comment"
+#~ msgid "A tool to transform image geometry"
+#~ msgstr "Resim geometri dönüşümleri için bir araç"
+
+#~ msgctxt "Comment"
+#~ msgid "A digiKam Image Plugin"
+#~ msgstr "Bir digiKam Resim Eklentisi"
+
+#~ msgctxt "Description"
+#~ msgid "digiKam albums kioslave"
+#~ msgstr "digiKam albüm kioslave"
+
+#~ msgctxt "Description"
+#~ msgid "digiKam dates kioslave"
+#~ msgstr "digiKam tarih kioslave"
+
+#~ msgctxt "Description"
+#~ msgid "digiKam mapimages kioslave"
+#~ msgstr "digiKam resimleri eşle kioslave"
+
+#~ msgctxt "Description"
+#~ msgid "digiKam search kioslave"
+#~ msgstr "digiKam arama kioslave"
+
+#~ msgctxt "Description"
+#~ msgid "digikam tags kioslave"
+#~ msgstr "digikam etiketleri kioslave"
+
+#~ msgctxt "Name"
+#~ msgid "Digikam Nepomuk Service"
+#~ msgstr "Digikam Nepomuk Hizmeti"
+
+#~ msgctxt "Comment"
+#~ msgid "A Nepomuk service that syncs with digikam"
+#~ msgstr "Digikam ile eşzamanlama yapan bir Nepomuk hizmeti"
+
+#~ msgctxt "Name"
+#~ msgid "Download Photos with digiKam"
+#~ msgstr "Fotoğrafları digiKam ile İndir"
+
+#~ msgctxt "Name"
+#~ msgid "digiKam Detect and Download"
+#~ msgstr "digiKam Belirle ve İndir"

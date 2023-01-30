@@ -1,0 +1,1193 @@
+#
+# Translators:
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2021.
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-12-07 00:51+0000\n"
+"PO-Revision-Date: 2023-01-23 20:11+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: config.yaml:0
+msgid "Develop"
+msgstr "Geliştir"
+
+#: config.yaml:0 i18n/en.yaml:0
+msgid "Get Involved"
+msgstr "Katıl"
+
+#: i18n/en.yaml:0
+msgid "The next generation desktop for Linux"
+msgstr "Linux için yeni nesil masaüstü"
+
+#: i18n/en.yaml:0
+msgid "Install on your computer"
+msgstr "Bilgisayarınıza kurun"
+
+#: i18n/en.yaml:0
+msgid "Discover Plasma"
+msgstr "Plasma'yı keşfedin"
+
+#: i18n/en.yaml:0
+msgid "Buy a device with Plasma"
+msgstr "Plasma ile gelen bir aygıt satın alın"
+
+#: i18n/en.yaml:0
+msgid "Powerful, multi-platform, and for everyone"
+msgstr "Güçlü, çok platformlu ve herkes için"
+
+#: i18n/en.yaml:0
+msgid ""
+"Use KDE software to surf the web, keep in touch with colleagues, friends and "
+"family, manage your files, enjoy music and videos; and get creative and "
+"productive at work. The KDE community develops and maintains more than "
+"<strong>200</strong> applications which run on any Linux desktop, and often "
+"other platforms too."
+msgstr ""
+"Web'de gezinmek, meslektaşlarınız, arkadaşlarınız ve ailenizle iletişim "
+"halinde olmak, dosyalarınızı yönetmek, müzik ve videoların keyfini çıkarmak "
+"için KDE yazılımlarını kullanın ve işinizde yaratıcı ve üretken olun. KDE "
+"topluluğu, herhangi bir Linux masaüstünde ve çoğu zaman başka platformlarda "
+"da çalışan <strong>200</strong>'den fazla uygulama geliştirir ve sürdürür."
+
+#: i18n/en.yaml:0
+msgid "See all applications"
+msgstr "Tüm uygulamaları görün"
+
+#: i18n/en.yaml:0
+msgid "Krita"
+msgstr "Krita"
+
+#: i18n/en.yaml:0
+msgid ""
+"Get creative and draw beautiful artwork with Krita. A professional grade "
+"painting application."
+msgstr ""
+"Krita ile yaratıcı olun ve içinizdeki sanatçıyı ortaya çıkarın. Profesyonel "
+"kalitede bir boyama uygulaması."
+
+#: i18n/en.yaml:0
+msgid "Krita screenshot"
+msgstr "Krita Ekran Görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Kdenlive"
+msgstr "Kdenlive"
+
+#: i18n/en.yaml:0
+msgid ""
+"Kdenlive allows you to edit your videos and add special effects and "
+"transitions."
+msgstr ""
+"Kdenlive, videolarınızı düzenlemenize ve özel efektler/geçişler eklemenize "
+"izin verir."
+
+#: i18n/en.yaml:0
+msgid "Kdenlive Screenshot"
+msgstr "Kdenlive Ekran Görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Kontact"
+msgstr "Kontak"
+
+#: i18n/en.yaml:0
+msgid ""
+"Handle all your emails, calendars and contacts within a single window with "
+"Kontact."
+msgstr ""
+"Kontak ile tüm e-postalarınızı, takvimlerinizi ve kişilerinizi tek bir "
+"pencerede yönetin."
+
+#: i18n/en.yaml:0
+msgid "Kontact Screenshot"
+msgstr "Kontak Ekran Görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Kdevelop"
+msgstr "K Geliştir"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDevelop is a cross-platform IDE for C, C++, Python, QML/JavaScript and PHP"
+msgstr ""
+"K Geliştir; C, C ++, Python, QML/JavaScript ve PHP için çapraz platform bir "
+"tümleşik geliştirme ortamıdır."
+
+#: i18n/en.yaml:0
+msgid "KDevelop Screenshot"
+msgstr "K Geliştir Ekran Görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "GCompris"
+msgstr "GCompris"
+
+#: i18n/en.yaml:0
+msgid ""
+"GCompris is a high quality educational software suite, including a large "
+"number of activities for children aged 2 to 10."
+msgstr ""
+"GCompris, 2 ile 10 yaş arası çocuklar için çok sayıda etkinlik içeren yüksek "
+"kaliteli bir eğitim yazılım paketidir."
+
+#: i18n/en.yaml:0
+msgid "GCompris Screenshot"
+msgstr "GCompris Ekran Görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "LabPlot"
+msgstr "LabPlot"
+
+#: i18n/en.yaml:0
+msgid ""
+"FREE, open source and cross-platform Data Visualization and Analysis "
+"software accessible to everyone."
+msgstr ""
+"Herkese açık, ÜCRETSİZ, açık kaynaklı ve çok platformlu veri görselleştirme "
+"ve çözümleme yazılımı."
+
+#: i18n/en.yaml:0
+msgid "LabPlot Screenshot"
+msgstr "LabPlot Ekran Görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Devices"
+msgstr "Aygıtlar"
+
+#: i18n/en.yaml:0
+msgid "Buy a computer with Plasma preinstalled"
+msgstr "Plasma önyüklü gelen bir bilgisayar satın alın"
+
+#: i18n/en.yaml:0
+msgid "Pinebook Pro"
+msgstr "Pinebook Pro"
+
+#: i18n/en.yaml:0
+msgid ""
+"The Pinebook Pro is an affordable ARM powered laptop. It is modular and "
+"hackable in a way that only an Open Source project can be."
+msgstr ""
+"Pinebook Pro, ARM tabanlı ve uygun fiyatlı bir dizüstü bilgisayardır. "
+"Yalnızca açık kaynaklı bir projenin olabileceği ölçüde modüler ve üzerinde "
+"oynanabilir."
+
+#: i18n/en.yaml:0
+msgid "KDE Slimbook"
+msgstr "KDE Slimbook"
+
+#: i18n/en.yaml:0
+msgid ""
+"The Slimbook is a shiny, sleek and good looking laptop that can do any task "
+"thanks to its powerful AMD Ryzen processor."
+msgstr ""
+"Slimbook, güçlü AMD Ryzen işlemcisi sayesinde her görevi yapabilen parlak, "
+"zarif ve güzel görünümlü bir dizüstü bilgisayardır."
+
+#: i18n/en.yaml:0
+msgid "KFocus"
+msgstr "KFocus"
+
+#: i18n/en.yaml:0
+msgid ""
+"The Kubuntu Focus laptop is a high-powered, workflow-focused laptop which "
+"ships with Kubuntu installed."
+msgstr ""
+"Kubuntu Focus dizüstü bilgisayar, Kubuntu kurulu olarak gelen yüksek güçlü, "
+"iş akışı odaklı bir dizüstü bilgisayardır."
+
+#: i18n/en.yaml:0
+msgid "Other hardware manufacturers are selling devices with Plasma."
+msgstr "Başka donanım üreticileri de Plasma ile gelen aygıtlar üretiyorlar."
+
+#: i18n/en.yaml:0
+msgid "See all devices"
+msgstr "Tüm aygıtları görün"
+
+#: i18n/en.yaml:0
+msgid "View all announcements"
+msgstr "Tüm duyuruları görüntüleyin"
+
+#: i18n/en.yaml:0
+msgid "KDE Eco"
+msgstr "KDE Eco"
+
+#: i18n/en.yaml:0
+msgid "Join the sustainable software movement"
+msgstr "Sürdürülebilir yazılım hareketine katılın"
+
+#: i18n/en.yaml:0
+msgid "Join KDE Eco"
+msgstr "KDE Eco'ya katılın"
+
+#: i18n/en.yaml:0
+msgid "The KDE Community"
+msgstr "KDE Topluluğu"
+
+#: i18n/en.yaml:0
+msgid "An international team developing and distributing Open Source software."
+msgstr "Açık kaynaklı yazılım geliştiren ve dağıtan uluslararası bir takım."
+
+#: i18n/en.yaml:0
+msgid ""
+"Our community has developed a wide variety of applications for "
+"communication, work, education and entertainment. We have a strong focus on "
+"finding innovative solutions to old and new problems, creating a vibrant, "
+"open atmosphere for experimentation."
+msgstr ""
+"Topluluğumuz; iletişim, çalışma, eğitim ve eğlence için çok çeşitli "
+"uygulamalar geliştirmektedir. Eski ve yeni sorunlara yenilikçi çözümler "
+"bulmaya, deneyler için canlı, açık bir atmosfer yaratmaya güçlü bir biçimde "
+"odaklanıyoruz."
+
+#: i18n/en.yaml:0
+msgid "What is KDE?"
+msgstr "KDE nedir?"
+
+#: i18n/en.yaml:0
+msgid "Group photo of LaKademy 2018"
+msgstr "LaKademy 2018 grup fotoğrafı"
+
+#: i18n/en.yaml:0
+msgid "Salvador, Brazil"
+msgstr "Salvador, Brezilya"
+
+#: i18n/en.yaml:0
+msgid "Plasma Sprint"
+msgstr "Plasma Hız Koşusu"
+
+#: i18n/en.yaml:0
+msgid "Berlin, Germany"
+msgstr "Berlin, Almanya"
+
+#: i18n/en.yaml:0
+msgid "Kdenlive Sprint"
+msgstr "Kdenlive Hız Koşusu"
+
+#: i18n/en.yaml:0
+msgid "Paris, France"
+msgstr "Paris, Fransa"
+
+#: i18n/en.yaml:0
+msgid "Delhi, India"
+msgstr "Delhi, Hindistan"
+
+#: i18n/en.yaml:0
+msgid "Google Summer of Code Students"
+msgstr "Google Summer of Code Öğrencileri"
+
+#: i18n/en.yaml:0
+msgid "KDE GSoC students group photo"
+msgstr "KDE GSoC öğrenci grup fotoğrafı"
+
+#: i18n/en.yaml:0
+msgid "Florianopolis, Brazil"
+msgstr "Florianopolis, Brezilya"
+
+#: i18n/en.yaml:0
+msgid "KDE Connect Sprint"
+msgstr "KDE Connect Hız Koşusu"
+
+#: i18n/en.yaml:0
+msgid "Barcelona"
+msgstr "Barcelona"
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid "You can find the full list of changes [here](%1)."
+msgstr "Değişikliklerin tam listesini [burada](%1) bulabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Spread the Word"
+msgstr "Duymayan Kalmasın"
+
+#: i18n/en.yaml:0
+msgid ""
+"Non-technical contributors are an important part of KDE’s success. While "
+"proprietary software companies have huge advertising budgets for new "
+"software releases, KDE depends on people talking with other people. Even for "
+"those who are not software developers, there are many ways to support the "
+"KDE Applications release. Report bugs. Encourage others to join the KDE "
+"Community. Or [support the nonprofit organization behind the KDE community]"
+"(https://relate.kde.org/civicrm/contribute/transact?reset=1&amp;id=9)"
+msgstr ""
+"Teknik olmayan katkıda bulunanlar KDE'nin başarısının önemli bir parçasıdır. "
+"Tescilli yazılım şirketlerinin yeni yazılım sürümleri için büyük reklam "
+"bütçeleri olsa da, KDE diğer kişilerle konuşan kişilere bağlıdır. Yazılım "
+"geliştiricisi olmayanlar için bile KDE uygulamalarını desteklemenin birçok "
+"yolu vardır. Hataları bildirin. Başkalarını KDE Topluluğuna katılmaya teşvik "
+"edin. Veya [KDE topluluğunun arkasındaki kâr amacı gütmeyen kuruluşu "
+"destekleyin](https://relate.kde.org/civicrm/contribute/transact?reset=1&amp;"
+"id= 9)"
+
+#: i18n/en.yaml:0
+msgid ""
+"Please spread the word on the Social Web. Submit stories to news sites, use "
+"channels like delicious, digg, reddit, and twitter. Upload screenshots of "
+"your new set-up to services like Facebook, Flickr, ipernity and Picasa, and "
+"post them to appropriate groups. Create screencasts and upload them to "
+"YouTube, Blip.tv, and Vimeo. Please tag posts and uploaded materials with "
+"'KDE'. This makes them easy to find, and gives the KDE Promo Team a way to "
+"analyze coverage for this KDE Applications release."
+msgstr ""
+"Lütfen sosyal medyada KDE'yi yayın. Haber sitelerine hikayeler gönderin, "
+"delicious, digg, reddit ve twitter gibi kanalları kullanın. Yeni "
+"kurulumunuzun ekran görüntülerini Facebook, Flickr, ipernity ve Picasa gibi "
+"hizmetlere ve uygun gruplara yükleyin ve yayımlayın. Ekran görüntüleri "
+"oluşturun ve bunları YouTube, Blip.tv ve Vimeo'ya yükleyin. Lütfen "
+"gönderileri ve yüklenen materyalleri 'KDE' ile etiketleyin. Bu, onları "
+"bulmayı kolaylaştırır ve KDE Tanıtım Ekibine KDE Uygulamalarını kapsamını "
+"analiz etmesi için bir yol sağlar."
+
+#: i18n/en.yaml:0
+msgid "Installing KDE Applications Binary Packages"
+msgstr "KDE uygulamaları ikili paketlerini kurma"
+
+#: i18n/en.yaml:0
+msgid "Packages"
+msgstr "Paketler"
+
+#: i18n/en.yaml:0
+msgid ""
+"Some Linux/UNIX OS vendors have kindly provided binary packages of KDE "
+"Applications for some versions of their distribution, and in other cases "
+"community volunteers have done so. Additional binary packages, as well as "
+"updates to the packages now available, may become available over the coming "
+"weeks."
+msgstr ""
+"Bazı Linux/UNIX işletim sistemi üreticileri, dağıtımlarının bazı sürümleri "
+"için KDE Uygulamalarının ikili paketlerini nazikçe sağladı ve diğer "
+"durumlarda topluluk gönüllüleri bunu yaptı. Şu anda mevcut olan paketlerin "
+"güncellemelerinin yanı sıra ek ikili paketler de önümüzdeki haftalarda "
+"kullanıma sunulabilir."
+
+#: i18n/en.yaml:0
+msgid "Package Locations"
+msgstr "Paket Konumları"
+
+#: i18n/en.yaml:0
+msgid ""
+"For a current list of available binary packages of which the KDE Project has "
+"been informed, please visit the [Community Wiki](https://community.kde.org/"
+"KDE_Applications/Binary_Packages)."
+msgstr ""
+"KDE Projesinin bilgilendirildiği mevcut ikili paketlerin güncel listesi için "
+"lütfen [Topluluk Vikisi](https://community.kde.org/KDE_Applications/"
+"Binary_Packages)'ni ziyaret edin."
+
+#: i18n/en.yaml:0
+msgid "Compiling KDE Applications"
+msgstr "KDE uygulamalarının derlenmesi"
+
+#. %1 link, %2 version number, %3 link
+#: i18n/en.yaml:0
+msgid ""
+"The complete source code for KDE Applications may be [freely downloaded]"
+"(%1). Instructions on compiling and installing are available from the [KDE "
+"Applications %2 Info Page](%3)."
+msgstr ""
+"KDE Uygulamaları için tam kaynak kodu [serbestçe indirilebilir](%1). Derleme "
+"ve kurulum yönergelerine [KDE Uygulamaları %2 Bilgi Sayfası](%3)'ndan "
+"ulaşılabilir."
+
+#: i18n/en.yaml:0
+msgid "Trademark Notices."
+msgstr "Ticari Marka Bildirimleri."
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE<sup>&#174;</sup> and the K Desktop Environment<sup>&#174;</sup> logo are "
+"registered trademarks of KDE e.V.."
+msgstr ""
+"KDE<sup>&#174;</sup> ve K Masaüstü Ortamı<sup>&#174;</sup> logosu, KDE e."
+"V.'nin tescilli ticari markalarıdır."
+
+#: i18n/en.yaml:0
+msgid "Linux is a registered trademark of Linus Torvalds."
+msgstr "Linux, Linus Torvalds'ın tescilli ticari markasıdır."
+
+#: i18n/en.yaml:0
+msgid ""
+"UNIX is a registered trademark of The Open Group in the United States and "
+"other countries."
+msgstr ""
+"UNIX, The Open Group'un Amerika Birleşik Devletleri ve diğer ülkelerdeki "
+"tescilli ticari markasıdır."
+
+#: i18n/en.yaml:0
+msgid ""
+"All other trademarks and copyrights referred to in this announcement are the "
+"property of their respective owners."
+msgstr ""
+"Bu duyuruda atıfta bulunulan diğer tüm ticari markalar ve telif hakları "
+"ilgili sahiplerinin mülkiyetindedir."
+
+#: i18n/en.yaml:0
+msgid "For more information send us an email:"
+msgstr "Daha fazla bilgi için bize bir e-posta gönderin:"
+
+#: i18n/en.yaml:0
+msgid "Release Announcements"
+msgstr "Sürüm Duyuruları"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "KDE Frameworks %1"
+msgstr "KDE Kod Kitaplıkları %1"
+
+#: i18n/en.yaml:0
+msgid "Installing binary packages"
+msgstr "İkili paketleri kurma"
+
+#. %1 link
+#: i18n/en.yaml:0
+msgid ""
+"On Linux, using packages for your favorite distribution is the recommended "
+"way to get access to KDE Frameworks. [Get KDE Software on Your Linux Distro "
+"wiki page](%1)"
+msgstr ""
+"Linux üzerinde, KDE Kod Kitaplıklarına erişimin önerilen yöntemi "
+"dağıtımınızın paketlerini kullanmaktır. [Linux Dağıtımınızda KDE "
+"Yazılımlarını Alın viki sayfası](%1)"
+
+#: i18n/en.yaml:0
+msgid "Compiling from sources"
+msgstr "Kaynaklardan derleme"
+
+#. %1 version number, %2 link, %3 link
+#: i18n/en.yaml:0
+msgid ""
+"The complete source code for KDE Frameworks %1 may be [freely downloaded]"
+"(%2). Instructions on compiling and installing are available from the [KDE "
+"Frameworks %1 Info Page](%3)."
+msgstr ""
+"KDE Kod Kitaplıkları %1 tam kaynak kodu [serbestçe indirilebilir](%2). "
+"Derleme ve kurulum yönergelerine [KDE Kod Kitaplıkları %1 Bilgi Sayfası]"
+"(%3)'ndan ulaşılabilir."
+
+#. %1 link, %2 version number, %3 version number
+#: i18n/en.yaml:0
+msgid ""
+"Building from source is possible using the basic <em>cmake .; make; make "
+"install</em> commands. For a single Tier 1 framework, this is often the "
+"easiest solution. People interested in contributing to frameworks or "
+"tracking progress in development of the entire set are encouraged to [use "
+"kdesrc-build](%1). Frameworks %2 requires Qt %3."
+msgstr ""
+"Kaynaklardan yapım, <em>cmake .; make; make install</em> komutlarıyla "
+"olanaklıdır. Tek bir birinci aşama kod kitaplığı için bu genelde en kolay "
+"çözümdür. Kod kitaplıklarına katkıda bulunmak isteyenler veya tüm kümenin "
+"gelişimindeki ilerlemeyi izlemek isteyenlerin [kdesrc-build](%1) yapısını "
+"kullanması önerilir. Kod Kitaplıkları %2, Qt %3 gerektirir."
+
+#: i18n/en.yaml:0
+msgid ""
+"A detailed listing of all Frameworks and other third party Qt libraries is "
+"at [inqlude.org](https://inqlude.org), the curated archive of Qt libraries. "
+"A complete list with API documentation is on [api.kde.org](https://api.kde."
+"org/frameworks)."
+msgstr ""
+"Tüm kod kitaplıklarının ve diğer üçüncü parti Qt kitaplıklarının ayrıntılı "
+"bir listesi, Qt kitaplıklarının elle seçilmiş bir arşivi olan  [inqlude.org]"
+"(https://inqlude.org) adresinde bulunabilir. API belgelendirmesi ile tam bir "
+"liste ise [api.kde.org](https://api.kde.org) adresinde mevcuttur."
+
+#: i18n/en.yaml:0
+msgid ""
+"Those interested in following and contributing to the development of "
+"Frameworks can check out the [git repositories](https://invent.kde.org/"
+"frameworks) and follow the discussions on the [KDE Frameworks Development "
+"mailing list](https://mail.kde.org/mailman/listinfo/kde-frameworks-devel). "
+"Policies and the current state of the project and plans are available at the "
+"[Frameworks wiki](https://community.kde.org/Frameworks). Real-time "
+"discussions take place on the [#kde-devel IRC channel on Libera Chat](irc://"
+"irc.libera.chat/#kde-devel)."
+msgstr ""
+"Kod kitaplıklarının gelişimi ile ilgilenenler ve katkıda bulunanlar [git "
+"depolarına](https://invent.kde.org/frameworks) bakabilir ve [KDE Kod "
+"Kitaplıkları Geliştirme posta listesine](https://mail.kde.org/mailman/"
+"listinfo/kde-frameworks-devel) üye olabilirler. Poliçeler ve projenin "
+"geçerli durumu ve tasarıları, [Kod Kitaplıkları Vikisi](https://community."
+"kde.org/Frameworks)'nde bulunabilir. Gerçek zamanlı tartışmalarsa [Libera "
+"Chat üzerindeki #kde-devel IRC kanalında yer alır](irc://irc.libera.chat/"
+"#kde-devel)."
+
+#: i18n/en.yaml:0
+msgid "Supporting KDE"
+msgstr "KDE'yi Destekleme"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is a [Free Software](https://www.gnu.org/philosophy/free-sw.html) "
+"community that exists and grows only because of the help of many volunteers "
+"that donate their time and effort. KDE is always looking for new volunteers "
+"and contributions, whether it is help with coding, bug fixing or reporting, "
+"writing documentation, translations, promotion, money, etc. All "
+"contributions are gratefully appreciated and eagerly accepted. Please read "
+"through the [Supporting KDE page](/community/donations/) for further "
+"information or become a KDE e.V. supporting member through our [Join the "
+"Game](https://relate.kde.org/civicrm/contribute/transact?id=5) initiative."
+msgstr ""
+"KDE, yalnızca birçok gönüllünün zaman ve emeğini sayesinde yaşayan bir "
+"[Özgür Yazılım](https://www.gnu.org/philosophy/free-sw.html) topluluğudur. "
+"KDE her zaman yeni gönüllülere ve onların katkılarına gereksinim duyar; bu "
+"kod katkısı, hata düzeltmeleri veya bildirimleri, belgelendirme yazımı, "
+"çeviriler, promosyon, para bağışı olabilir. Her bir katkı bizim için çok "
+"değerlidir ve memnuniyetle kabul edilir. Daha fazla bilgi veya [Oyuna Katıl]"
+"(https://relate.kde.org/civicrm/contribute/transact?id=5) programı "
+"çerçevesinde bir KDE e.V. destekleyen üyesi olmak için lütfen [KDE'yi "
+"Destekleme sayfasını](/community/donations/) okuyun."
+
+#: i18n/en.yaml:0
+msgid "Plasma 5.20"
+msgstr "Plasma 5.20"
+
+#: i18n/en.yaml:0
+msgid "New and improved inside and out"
+msgstr "İçi-dışı yenilendi"
+
+#: i18n/en.yaml:0
+msgid ""
+"A massive release, containing improvements to dozens of components, widgets, "
+"and the desktop behavior in general."
+msgstr ""
+"Düzinelerce bileşen, pencere ögesi ve genel olarak masaüstü davranışında "
+"iyileştirmeler içeren devasa bir sürüm."
+
+#: i18n/en.yaml:0
+msgid "View full changelog"
+msgstr "Değişiklik günlüğünün tamamını görüntüleyin"
+
+#: i18n/en.yaml:0
+msgid "Live Images"
+msgstr "Canlı Kalıplar"
+
+#: i18n/en.yaml:0
+msgid ""
+"The easiest way to try it out is with a live image booted off a USB disk. "
+"Docker images also provide a quick and easy way to test Plasma."
+msgstr ""
+"Bunu denemenin en kolay yolu, bir USB diskten başlatılan canlı bir kalıptır. "
+"Docker kalıpları da, Plasma'yı sınamanın hızlı ve kolay bir yolunu sağlar."
+
+#: i18n/en.yaml:0
+msgid "Download live images with Plasma 5"
+msgstr "Plasma 5 içeren canlı kalıpları indirin"
+
+#: i18n/en.yaml:0
+msgid "Download Docker images with Plasma 5"
+msgstr "Plasma 5 içeren Docker kalıplarını indirin"
+
+#: i18n/en.yaml:0
+msgid "Package Downloads"
+msgstr "Paket İndirmeleri"
+
+#: i18n/en.yaml:0
+msgid ""
+"Distributions have created, or are in the process of creating, packages "
+"listed on our wiki page."
+msgstr ""
+"Dağıtımlar, viki sayfamızda listelenen paketleri oluşturmuş veya oluşturma "
+"sürecindedir."
+
+#: i18n/en.yaml:0
+msgid "Package download wiki page"
+msgstr "Paket indirme viki sayfası"
+
+#: i18n/en.yaml:0
+msgid "Source Downloads"
+msgstr "Kaynak İndirmeleri"
+
+#: i18n/en.yaml:0
+msgid "You can install Plasma 5 directly from source."
+msgstr "Plasma 5'i doğrudan kaynaktan kurabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Community instructions to compile it"
+msgstr "Derlemek için topluluk yönergeleri"
+
+#: i18n/en.yaml:0
+msgid "Source Info Page"
+msgstr "Kaynak Bilgi Sayfası"
+
+#: i18n/en.yaml:0
+msgid "Feedback"
+msgstr "Geri Bildirim"
+
+#: i18n/en.yaml:0
+msgid "You can give us feedback and get updates on our social media channels:"
+msgstr ""
+"Sosyal medya kanallarımızdan bize geri bildirimde bulunabilir ve "
+"güncellemeler alabilirsiniz:"
+
+#: i18n/en.yaml:0
+msgid ""
+"Discuss Plasma 5 on the [KDE Forums Plasma 5 board](https://forum.kde.org/"
+"viewforum.php?f=289)."
+msgstr ""
+"Plasma 5'i [KDE Forumları Plasma 5 panosunda](https://forum.kde.org/"
+"viewforum.php?f=289) tartışın."
+
+#: i18n/en.yaml:0
+msgid ""
+"You can provide feedback direct to the developers via the [#Plasma IRC "
+"channel](irc://irc.libera.chat/#plasma), [Plasma-devel mailing list](https://"
+"mail.kde.org/mailman/listinfo/plasma-devel) or report issues via [Bugzilla]"
+"(https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;format=guided). "
+"If you like what the team is doing, please let them know!"
+msgstr ""
+"[#Plasma IRC kanalından](irc://irc.libera.chat/#plasma), [Plasma-devel posta "
+"listesinden](https://mail.kde.org/mailman/listinfo/plasma-devel) veya "
+"[Bugzilla](https://bugs.kde.org/enter_bug.cgi?product=plasmashell&amp;"
+"format=guided) üzerinden geliştiricilere doğrudan geri bildirimde "
+"bulunabilirsiniz. Takımın yaptıkları hoşunuza gidiyorsa lütfen onlara "
+"söyleyin!"
+
+#: i18n/en.yaml:0
+msgid "Your feedback is greatly appreciated."
+msgstr "Geri bildiriminiz bizim için çok önemli."
+
+#: i18n/en.yaml:0
+msgid "About KDE"
+msgstr "KDE Hakkında"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is an international technology team that creates free and open source "
+"software for desktop and portable computing. Among KDE's products are a "
+"modern desktop system for Linux and UNIX platforms, comprehensive office "
+"productivity and groupware suites and hundreds of software titles in many "
+"categories including Internet and web applications, multimedia, "
+"entertainment, educational, graphics and software development. KDE software "
+"is translated into more than 60 languages and is built with ease of use and "
+"modern accessibility principles in mind. KDE's full-featured applications "
+"run natively on Linux, BSD, Windows and macOS."
+msgstr ""
+"KDE, masaüstü ve taşınabilir bilgi işlem için ücretsiz ve açık kaynaklı "
+"yazılımlar oluşturan uluslararası bir teknoloji ekibidir. KDE'nin ürünleri "
+"arasında Linux ve UNIX platformları için çağdaş bir masaüstü sistemi, "
+"kapsamlı ofis üretkenliği ve grup yazılımı paketleri, çoklu ortam, eğlence, "
+"eğitim, grafik ve yazılım geliştirme ve İnternet ve web uygulamaları da "
+"dahil birçok kategoride yüzlerce yazılım başlığı bulunmaktadır. KDE "
+"yazılımları, 60'tan fazla dile çevrilmiştir ve kullanım kolaylığı ve çağdaş "
+"erişilebilirlik ilkeleri göz önünde bulundurularak oluşturulmuştur. KDE'nin "
+"tam özellikli uygulamaları yerel olarak Linux, BSD, Windows ve macOS "
+"üzerinde çalışır."
+
+#: i18n/en.yaml:0
+msgid "Next slide"
+msgstr "Sonraki slayt"
+
+#: i18n/en.yaml:0
+msgid "Previous slide"
+msgstr "Önceki slayt"
+
+#: i18n/en.yaml:0
+msgid "KDE Community"
+msgstr "KDE Topluluğu"
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is an open community of friendly people who want to create a world in "
+"which everyone has control over their digital life and enjoys freedom and "
+"privacy."
+msgstr ""
+"KDE, herkesin sayısal yaşamları üzerinde denetim sahibi olduğu, özgürlük ve "
+"mahremiyetin tadını çıkaracağı bir dünya yaratmak isteyen dost canlısı "
+"insanlardan oluşan açık bir topluluktur."
+
+#: i18n/en.yaml:0
+msgid "Recent content on KDE Community"
+msgstr "KDE Topluluğundaki güncel içerik"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for January"
+msgstr "KDE Plasma %ver, Ocak ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for February"
+msgstr "KDE Plasma %ver, Şubat ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for March"
+msgstr "KDE Plasma %ver, Mart ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for April"
+msgstr "KDE Plasma %ver, Nisan ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for May"
+msgstr "KDE Plasma %ver, Mayıs ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for June"
+msgstr "KDE Plasma %ver, Haziran ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for July"
+msgstr "KDE Plasma %ver, Temmuz ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for August"
+msgstr "KDE Plasma %ver, Ağustos ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for September"
+msgstr "KDE Plasma %ver, Eylül ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for October"
+msgstr "KDE Plasma %ver, Ekim ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for November"
+msgstr "KDE Plasma %ver, Kasım ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver, Bugfix Release for December"
+msgstr "KDE Plasma %ver, Aralık ayı hata düzeltme sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver Release"
+msgstr "KDE Plasma %ver sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Plasma %ver Beta Release"
+msgstr "KDE Plasma %ver Beta sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Ships Plasma %ver."
+msgstr "KDE Plasma %ver yayımlandı."
+
+#: i18n/en.yaml:0
+msgid "KDE Ships Plasma %ver Beta."
+msgstr "KDE Plasma %ver Beta yayımlandı."
+
+#: i18n/en.yaml:0
+msgid "Today KDE releases a bugfix update to KDE Plasma %maj_ver."
+msgstr ""
+"Bugün KDE, KDE Plasma %maj_ver için bir hata düzeltme güncellemesi yayımladı."
+
+#: i18n/en.yaml:0
+msgid "Release of KDE Frameworks %ver"
+msgstr "KDE Frameworks %ver Sürümü"
+
+#: i18n/en.yaml:0
+msgid "KDE Ships Frameworks %ver"
+msgstr "KDE Frameworks %ver sürümünü yayımlandı"
+
+#: i18n/en.yaml:0
+msgid "KDE Ships Frameworks %ver."
+msgstr "KDE Frameworks %ver sürümünü yayımlandı."
+
+#: i18n/en.yaml:0
+msgid "KDE today announces the release of KDE Frameworks %ver."
+msgstr "KDE, bugün KDE Frameworks %ver sürümünün yayımlandığını duyurdu."
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "KDE today announces the release of KDE Frameworks %1."
+msgstr "KDE, bugün KDE Frameworks %1 sürümünün yayımlandığını duyurdu."
+
+#. %1 a number greater than or equal to 60, %2 link
+#: i18n/en.yaml:0
+msgid ""
+"KDE Frameworks are %1 addon libraries to Qt which provide a wide variety of "
+"commonly needed functionality in mature, peer reviewed and well tested "
+"libraries with friendly licensing terms. For an introduction see [the KDE "
+"Frameworks release announcement](%2)."
+msgstr ""
+"KDE Kod Kitaplıkları, kullanıcı dostu lisans koşulları ile olgun, hakemli ve "
+"iyi test edilmiş kitaplıklarda yaygın olarak gereksinim duyulan çok çeşitli "
+"işlevsellik sağlayan %1 Qt eklenti kitaplıklarıdır. Giriş için [KDE "
+"Framework sürüm duyurusu](%2)'na bakın."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release is part of a series of planned monthly releases making "
+"improvements available to developers in a quick and predictable manner."
+msgstr ""
+"Bu sürüm, geliştiricilere hızlı ve öngörülebilir bir şekilde iyileştirmeler "
+"sağlayan bir dizi planlı aylık sürümün bir parçasıdır."
+
+#: i18n/en.yaml:0
+msgid "New in this version"
+msgstr "Bu sürümde yeni"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "KDE Gear %1"
+msgstr "KDE Gear %1"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "KDE announces the release of KDE Gear %1."
+msgstr "KDE, bugün KDE Gear %1 sürümünün yayımlandığını duyurdu."
+
+#. %1 a number greater than 100
+#: i18n/en.yaml:0
+msgid ""
+"Over %1 individual programs plus dozens of programmer libraries and feature "
+"plugins are released simultaneously as part of KDE Gear."
+msgstr ""
+"KDE Gear'ın bir parçası olarak %1 program ve düzinelerce kitaplık ve özellik "
+"eklentileri aynı aynda yayımlanır."
+
+#: i18n/en.yaml:0
+msgid ""
+"Today they all get new bugfix source releases with updated translations."
+msgstr ""
+"Bugün hepsi, güncellenmiş çevirilerle birlikte yeni hata düzeltme yayımları "
+"aldılar:"
+
+#: i18n/en.yaml:0
+msgid ""
+"Today they all get new bugfix source releases with updated translations, "
+"including:"
+msgstr ""
+"Bugün hepsi, güncellenmiş çevirilerle birlikte yeni hata düzeltme yayımları "
+"aldılar:"
+
+#: i18n/en.yaml:0
+msgid ""
+"Distro and app store packagers should update their application packages."
+msgstr ""
+"Dağıtım ve uygulama mağazası paketleyicileri, uygulama paketlerini "
+"güncellemelidir."
+
+#. %1 version number, %2 link
+#: i18n/en.yaml:0
+msgid "[%1 release notes](%2) for information on tarballs and known issues."
+msgstr "Tar paketleri ve bilinen hatalar için [%1 sürüm notları](%2)."
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "%1 source info page"
+msgstr "%1 kaynak bilgi sayfası"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "%1 full changelog"
+msgstr "%1 tam değişiklik günlüğü"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "Image of Plasma %1"
+msgstr "Plasma %1 görseli"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "KDE Plasma %1"
+msgstr "KDE Plasma %1"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "Image of Plasma %1 Beta"
+msgstr "Plasma %1 Beta görseli"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "KDE Plasma %1 Beta"
+msgstr "KDE Plasma %1 Beta"
+
+#. %1 major version number, %2 full version number
+#: i18n/en.yaml:0
+msgid "Today KDE releases a bugfix update to KDE Plasma %1, versioned %2."
+msgstr ""
+"Bugün KDE, Plasma %1 hatalarını düzeltmek için %2 sürüm numaralı bir "
+"güncelleme yayımladı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in January %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Ocak tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in February %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Şubat tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in March %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Mart tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in April %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Nisan tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in May %3 with many feature refinements and new "
+"modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Mayıs tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in June %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Haziran tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in July %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Temmuz tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in August %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Ağustos tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in September %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Eylül tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in October %3 with many feature refinements and "
+"new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Ekim tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in November %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Kasım tarihinde yayımlandı."
+
+#. %1 version number, %2 link, %3 year
+#: i18n/en.yaml:0
+msgid ""
+"[Plasma %1](%2) was released in December %3 with many feature refinements "
+"and new modules to complete the desktop experience."
+msgstr ""
+"[Plasma %1](%2), masaüstü deneyimini tamamlamak için birçok özellik "
+"iyileştirmesi ve yeni modüllerle %3 Aralık tarihinde yayımlandı."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds a week's worth of new translations and fixes from KDE's "
+"contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından bir haftalık yeni çeviriler ve düzeltmeler "
+"ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds two weeks' worth of new translations and fixes from KDE's "
+"contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından iki haftalık yeni çeviriler ve düzeltmeler "
+"ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds three weeks' worth of new translations and fixes from "
+"KDE's contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından üç haftalık yeni çeviriler ve düzeltmeler "
+"ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds a month's worth of new translations and fixes from KDE's "
+"contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından bir aylık yeni çeviriler ve düzeltmeler ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds two months' worth of new translations and fixes from KDE's "
+"contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından iki aylık yeni çeviriler ve düzeltmeler ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds three months' worth of new translations and fixes from "
+"KDE's contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından üç aylık yeni çeviriler ve düzeltmeler ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds five months' worth of new translations and fixes from "
+"KDE's contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından beş aylık yeni çeviriler ve düzeltmeler ekler."
+
+#: i18n/en.yaml:0
+msgid ""
+"This release adds six months' worth of new translations and fixes from KDE's "
+"contributors."
+msgstr ""
+"Bu sürüm, KDE katkıcılarından altı aylık yeni çeviriler ve düzeltmeler ekler."
+
+#: i18n/en.yaml:0
+msgid "The bugfixes are typically small but important and include:"
+msgstr "Düzeltmeler genellikle küçüktür; ancak önemlidir ve şunları içerir:"
+
+#: i18n/en.yaml:0
+msgid "Compiling KDE Gear"
+msgstr "KDE Gear'ı Derleme"
+
+#. %1 version number, %2 link, %3 link
+#: i18n/en.yaml:0
+msgid ""
+"The complete source code for KDE Gear %1 may be [freely downloaded](%2). "
+"Instructions on compiling and installing are available from the [KDE Gear %1 "
+"Info Page](%3)."
+msgstr ""
+"KDE Gear %1 kaynak kodu [serbestçe indirilebilir](%2). Derleme ve kurulum "
+"yönergelerine [KDE Gear %1 Bilgi Sayfası](%3)'ndan ulaşılabilir."
+
+#: i18n/en.yaml:0
+msgid ""
+"Note that packages of this release might not be available on all "
+"distributions at the time of this announcement."
+msgstr ""
+"Bu yayımın paketleri, duyuru tarihinde tüm dağıtımların paket depolarında "
+"var olmayabilir."
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "About Plasma %1"
+msgstr "Plasma %1 Hakkında"
+
+#. %1 version number
+#: i18n/en.yaml:0
+msgid "Latest Release: Plasma %1"
+msgstr "Güncel Yayım: Plasma %1"
+
+#: i18n/en.yaml:0
+msgid "Replay"
+msgstr "Yeniden Oynat"
+
+#: i18n/en.yaml:0
+msgid "Today"
+msgstr "Bugün"
+
+#: i18n/en.yaml:0
+msgid "Years"
+msgstr "Yıl"
+
+#: i18n/en.yaml:0
+msgid "Months"
+msgstr "Ay"
+
+#: i18n/en.yaml:0
+msgid "Days"
+msgstr "Gün"
+
+#: i18n/en.yaml:0
+msgid "No events for today"
+msgstr "Bugün bir etkinlik yok"
+
+#: i18n/en.yaml:0
+msgid "Events"
+msgstr "Etkinlikler"
+
+#: i18n/en.yaml:0
+msgid "Friday 6 september 2021"
+msgstr "6 Eylül 2021, Cuma"
+
+#: i18n/en.yaml:0
+msgid "Simple by default, Powerful when needed"
+msgstr "Varsayılan olarak basit, gerektiğinde güçlü"
+
+#: i18n/en.yaml:0
+msgid "Steam Deck"
+msgstr "Steam Deck"
+
+#: i18n/en.yaml:0
+msgid ""
+"The Steam Deck is a portable console that runs the latest AAA games with the "
+"flexibility of a full PC."
+msgstr ""
+"Steam Deck, en son AAA düzey oyunları çalıştırabilen ve bir kişisel "
+"bilgisayarın tüm esnekliğine sahip taşınabilir bir konsoldur."
+
+#: i18n/en.yaml:0
+msgid "Get it"
+msgstr "Edin"
+
+#: i18n/en.yaml:0
+msgid "Fund it"
+msgstr "Fonla"
+
+#: i18n/en.yaml:0
+msgid "Art by"
+msgstr "Çizer:"
+
+#: i18n/en.yaml:0
+msgid ""
+"<span class=\"blue\">You</span> Make <span class=\"blue\">KDE</span> Possible"
+msgstr ""
+"<span class=\"blue\">KDE</span>'yi <span class=\"blue\">siz</span> var "
+"ediyorsunuz"
+
+#: i18n/en.yaml:0
+msgid "Donate Now"
+msgstr "Şimdi Bağış Yap"
+
+#: i18n/en.yaml:0
+msgid ""
+"You make KDE Gear possible with your support and donations. Help us keep "
+"improving and building apps by using the donation form."
+msgstr ""
+"KDE Gear'ı desteğiniz ve bağışlarınızla olanaklı kılıyorsunuz. Bağış formunu "
+"kullanarak uygulamalarımızı iyileştirmemize ve geliştirmemize yardım etmeyi "
+"sürdürün."
+
+#~ msgid "Image of BMUV/UBA"
+#~ msgstr "BMUV/UBA resmi"

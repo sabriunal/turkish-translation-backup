@@ -1,0 +1,551 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Anıl Özbek <ozbekanil@gmail.com>, 2012.
+# obsoleteman <tulliana@gmail.com>, 2012.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2015.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: www-kde4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-12 00:21+0000\n"
+"PO-Revision-Date: 2022-12-10 18:30+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"language/tr/)\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#: includes/aether/template-bottom2.inc:5
+#: includes/chihuahua/template-bottom2.inc:15
+#: includes/derry/template-bottom2.inc:5
+#: includes/layout_flatblue/template-bottom2.inc:5
+#: includes/newlayout/template-bottom2.inc:5 includes/template-bottom2.inc:52
+msgid "Maintained by"
+msgstr "Bakımını yapan:"
+
+#: includes/aether/template-bottom2.inc:7
+#: includes/chihuahua/template-bottom2.inc:17
+#: includes/derry/template-bottom2.inc:7
+#: includes/layout_flatblue/template-bottom2.inc:7
+#: includes/newlayout/template-bottom2.inc:7
+msgid ""
+"Maintained by <a href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#x77;e&#098;"
+"ma&#115;t&#x65;&#x72;&#64;kde&#46;or&#x67;\">The KDE Webmaster</a><br />\n"
+msgstr ""
+"Bakımını yapan: <a href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#x77;"
+"e&#098;ma&#115;t&#x65;&#x72;&#64;kde&#46;or&#x67;\">KDE Site Yöneticisi</"
+"a><br />\n"
+
+#: includes/aether/template-bottom2.inc:13
+#: includes/aether/template-bottom2.inc:26
+#: includes/aether/template-bottom2.inc:44
+#: includes/layout_flatblue/template-bottom2.inc:13
+#: includes/layout_flatblue/template-bottom2.inc:26
+#: includes/layout_flatblue/template-bottom2.inc:44
+#: includes/newlayout/template-bottom2.inc:13
+#: includes/newlayout/template-bottom2.inc:26
+#: includes/newlayout/template-bottom2.inc:44 includes/search.inc:2
+msgid "Search:"
+msgstr "Ara:"
+
+#: includes/aether/template-bottom2.inc:28
+#: includes/aether/template-bottom2.inc:46 includes/derry/template-top1.inc:47
+#: includes/layout_flatblue/template-bottom2.inc:28
+#: includes/layout_flatblue/template-bottom2.inc:46
+#: includes/newlayout/template-bottom2.inc:28
+#: includes/newlayout/template-bottom2.inc:46 includes/search.inc:15
+#: includes/template-bottom2.inc:10
+msgid "Search"
+msgstr "Ara"
+
+#: includes/aether/template-bottom2.inc:57
+#: includes/layout_flatblue/template-bottom2.inc:57
+#: includes/newlayout/template-bottom2.inc:57
+msgid "Language:"
+msgstr "Dil:"
+
+#: includes/aether/template-bottom2.inc:72
+#: includes/chihuahua/template-top1.inc:175 includes/derry/toolbox.inc:16
+#: includes/layout_flatblue/template-bottom2.inc:72
+#: includes/newlayout/template-bottom2.inc:72
+msgid "Change language"
+msgstr "Dili değiştir"
+
+#: includes/aether/template-bottom2.inc:85
+#: includes/layout_flatblue/template-bottom2.inc:85
+#: includes/newlayout/template-bottom2.inc:85
+msgid "Donate:"
+msgstr "Bağış Yapın:"
+
+#: includes/aether/template-bottom2.inc:85
+#: includes/chihuahua/template-top1.inc:140
+#: includes/layout_flatblue/template-bottom2.inc:85
+#: includes/newlayout/template-bottom2.inc:85
+msgid "(Why?)"
+msgstr "(Niçin?)"
+
+#: includes/aether/template-bottom2.inc:88
+#: includes/chihuahua/template-top1.inc:142
+#: includes/layout_flatblue/template-bottom2.inc:88
+#: includes/newlayout/template-bottom2.inc:88
+msgid ""
+"Your donation is smaller than %1€. This means that most of your donation"
+"\\nwill end up in processing fees. Do you want to continue?"
+msgstr ""
+"Bağışınız %1€'dan daha az. Bu, bağışınızın çoğunun işlem ücretlerine gideceği"
+"\\nanlamına gelmektedir. Sürdürmek istiyor musunuz?"
+
+#: includes/aether/template-bottom2.inc:99
+#: includes/chihuahua/template-top1.inc:153
+#: includes/layout_flatblue/template-bottom2.inc:99
+#: includes/newlayout/template-bottom2.inc:99
+msgid "Donate"
+msgstr "Bağış Yapın"
+
+#: includes/aether/template-bottom2.inc:112
+#: includes/layout_flatblue/template-bottom2.inc:116
+#: includes/newlayout/template-bottom2.inc:116
+msgid ""
+"KDE<sup>&#174;</sup> and <a href=\"/media/images/"
+"trademark_kde_gear_black_logo.png\">the K Desktop Environment<sup>&#174;</"
+"sup> logo</a> are registered trademarks of "
+msgstr ""
+"KDE<sup>&#174;</sup> ve <a href=\"/media/images/"
+"trademark_kde_gear_black_logo.png\">the K Desktop Environment<sup>&#174;</"
+"sup> logosu</a> tescilli ticari markalardır: "
+
+#: includes/aether/template-bottom2.inc:114
+#: includes/chihuahua/template-bottom2.inc:24
+#: includes/derry/template-bottom2.inc:13
+#: includes/layout_flatblue/template-bottom2.inc:118
+#: includes/newlayout/template-bottom2.inc:118 includes/template-bottom2.inc:67
+msgid "Legal"
+msgstr "Yasal"
+
+#: includes/chihuahua/template-bottom2.inc:23
+#: includes/derry/template-bottom2.inc:12
+msgid ""
+"KDE<sup>&#174;</sup> and <a href=\"/media/images/"
+"trademark_kde_gear_black_logo.png\">the K Desktop Environment<sup>&#174;</"
+"sup> logo</a> are registered trademarks of <a href=\"http://ev.kde.org/\" "
+"title=\"Homepage of the KDE non-profit Organization\">KDE e.V.</a>"
+msgstr ""
+"KDE<sup>&#174;</sup> ve <a href=\"/media/images/"
+"trademark_kde_gear_black_logo.png\"> the K Desktop Environment<sup>&#174;</"
+"sup> logosu</a> <a href=\"http://ev.kde.org/\" title=\"Kar amacı gütmeyen "
+"KDE organizasyonunun anasayfası\">KDE e.V.</a>'in tescilli ticari "
+"markalarıdır."
+
+#: includes/chihuahua/template-top1.inc:140
+msgid "DONATE"
+msgstr "BAĞIŞ YAP"
+
+#: includes/classes/class_appdata.inc:42
+msgid "%1 is unmaintained and no longer released by the KDE community."
+msgstr "%1 bakımı artık yapılmıyor ve KDE topluluğu tarafından yayımlanmıyor."
+
+#: includes/classes/class_appdata.inc:85
+msgid "Authors:"
+msgstr "Yazarlar:"
+
+#: includes/classes/class_appdata.inc:100
+msgid "Thanks To:"
+msgstr "Teşekkürler:"
+
+#: includes/classes/class_appdata.inc:127
+msgid ""
+"%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
+"licenses/old-licenses/gpl-2.0.html\">GNU General Public License (GPL), "
+"Version 2</a>."
+msgstr ""
+"%1, <a href=\"http://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU "
+"Genel Kamu Lisansı (GPL), Sürüm 2</a> koşulları altında dağıtılmaktadır."
+
+#: includes/classes/class_appdata.inc:130
+msgid ""
+"%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
+"licenses/gpl.html\">GNU General Public License (GPL), Version 3</a>."
+msgstr ""
+"%1, <a href=\"http://www.gnu.org/licenses/old-licenses/gpl-.html\">GNU Genel "
+"Kamu Lisansı (GPL), Sürüm 3</a> koşulları altında dağıtılmaktadır."
+
+#: includes/classes/class_appdata.inc:133
+msgid ""
+"%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
+"licenses/old-licenses/lgpl-2.0.html\"> GNU Library General Public License, "
+"version 2</a>."
+msgstr ""
+"%1, <a href=\"http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html\"> GNU "
+"Library General Public License, sürüm 2</a>."
+
+#: includes/classes/class_appdata.inc:213
+msgid "Browse %1 source code on WebSVN"
+msgstr "%1 kaynak kodlarına WebSVN üzerinden göz at"
+
+#: includes/classes/class_appdata.inc:216
+msgid "Browse %1 source code online"
+msgstr "%1 kaynak kodlarına çevrimiçi göz at"
+
+#: includes/classes/class_appdata.inc:224
+msgid "Checkout source code:"
+msgstr "Kaynak kodu indir (checkout):"
+
+#: includes/classes/class_appdata.inc:226
+msgid "Clone %1 source code:"
+msgstr "%1 kaynak kodlarını kopyala:"
+
+#: includes/classes/class_appinfo.inc:95
+msgid ""
+"%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
+"licenses/gpl.html\">GNU General Public License (GPL), Version 2</a>."
+msgstr ""
+"%1, <a href=\"http://www.gnu.org/licenses/gpl.html\">GNU Genel Kamu Lisansı "
+"(GPL), Sürüm 2</a> koşulları altında dağıtılmaktadır."
+
+#: includes/classes/class_appinfo.inc:100
+msgid ""
+"%1 is distributed under the terms of the <a href=\"http://www.gnu.org/"
+"licenses/lgpl.html\">GNU Lesser General Public License (LGPL), Version 2</a>."
+msgstr ""
+"%1, <a href=\"http://www.gnu.org/licenses/lgpl.html\">GNU Kısıtlı Genel Kamu "
+"Lisansı (LGPL), Sürüm 2</a> koşulları altında dağıtılmaktadır."
+
+#: includes/classes/class_appinfo.inc:104
+msgid ""
+"Unknown license, valid licenses for setLicense() are 'gpl', 'lgpl'. Update "
+"www/media/includes/classes/class_appinfo.inc if another is required."
+msgstr ""
+"Bilinmeyen lisans, setLicense() için geçerli lisanslar 'gpl', 'lgpl' "
+"lisanslarıdır. Başka bir lisans gerekiyorsa www/media/includes/classes/"
+"class_appinfo.inc dosyasını güncelleyin."
+
+#: includes/classes/class_appinfo.inc:114
+msgid "<b>Version %1</b>"
+msgstr "<b>Sürüm %1</b>"
+
+#: includes/classes/class_faq.inc:39
+msgid "Questions"
+msgstr "Sorular"
+
+#: includes/classes/class_faq.inc:59
+msgid "Answers"
+msgstr "Yanıtlar"
+
+#: includes/classes/class_faq.inc:95
+msgid "[Up to Questions]"
+msgstr "[Sorulara Çık]"
+
+#: includes/classes/class_menu.inc:177
+msgid "Skip menu \"%1\""
+msgstr "\"%1\" menüsünü geç"
+
+#: includes/dotandapps.inc:32 includes/functions.inc:82 includes/rss2.inc:37
+msgid "Latest News"
+msgstr "En Son Haberler"
+
+#: includes/dotandapps.inc:44 includes/dotandapps.inc:97
+#: includes/functions.inc:113 includes/rss2.inc:67
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/dotandapps.inc:44 includes/functions.inc:113 includes/rss2.inc:67
+msgid "Headline"
+msgstr "Başlık"
+
+#: includes/dotandapps.inc:44
+msgid "This is a list of the latest news headlines shown on KDE Dot News"
+msgstr ""
+"Bu KDE Dot News'te gösterilen en son haber başlıklarının bir listesidir"
+
+#: includes/dotandapps.inc:61
+msgid "Read the full article on dot.kde.org"
+msgstr "dot.kde.org'daki tam makaleyi okuyun"
+
+#: includes/dotandapps.inc:69
+msgid "View older news items"
+msgstr "Eski haberleri görüntüle"
+
+#: includes/dotandapps.inc:69
+msgid "more news..."
+msgstr "daha fazla haber..."
+
+#: includes/dotandapps.inc:84
+msgid "Latest Applications"
+msgstr "En Son Uygulamalar"
+
+#: includes/dotandapps.inc:96
+msgid "List of latest third party application releases for KDE"
+msgstr "KDE için yayımlanan en son üçüncü parti yazılımlar listesi"
+
+#: includes/dotandapps.inc:98
+msgid "Application / Release"
+msgstr "Uygulama / Yayım"
+
+#: includes/dotandapps.inc:193
+msgid "View <a href=\"http://kde-apps.org/\">more applications...</a>"
+msgstr "<a href=\"http://kde-apps.org/\">Daha çok uygulama</a> görüntüleyin..."
+
+#: includes/dotandapps.inc:193
+msgid "Disclaimer: "
+msgstr "Feragatname: "
+
+#: includes/dotandapps.inc:193
+msgid ""
+"Application feed provided by <a href=\"http://kde-apps.org/\">kde-apps.org</"
+"a>, an independent KDE website."
+msgstr ""
+"Uygulama beslemesi bağımsız bir KDE internet sitesi olan <a href=\"http://"
+"kde-apps.org/\"> kde-apps.org</a> tarafından sağlanmaktadır."
+
+#: includes/footer.inc:27
+msgid "Global navigation links"
+msgstr "Küresel gezinti bağlantıları"
+
+#: includes/footer.inc:29
+msgid "KDE Home"
+msgstr "KDE Ana Sayfası"
+
+#: includes/footer.inc:30
+msgid "KDE Accessibility Home"
+msgstr "KDE Erişilebilirlik Ana Sayfası"
+
+#: includes/footer.inc:31
+msgid "Description of Access Keys"
+msgstr "Erişim Düğmelerinin Açıklaması"
+
+#: includes/footer.inc:32
+msgid "Back to content"
+msgstr "İçeriğe geri dön"
+
+#: includes/footer.inc:33
+msgid "Back to menu"
+msgstr "Menüye geri dön"
+
+#: includes/header.inc:101
+msgid "K Desktop Environment"
+msgstr "K Desktop Environment"
+
+#: includes/header.inc:148
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: includes/header.inc:149
+msgid "Skip to link menu"
+msgstr "Bağlantı menüsüne geç"
+
+#: includes/rss2.inc:85
+msgid "Y-m-d"
+msgstr "Y-a-g"
+
+#: includes/search.inc:5
+msgid "Select what or where you want to search"
+msgstr "Neyi veya nereyi aramak istediğinizi seçin"
+
+#: includes/search.inc:7
+msgid "kde.org"
+msgstr "kde.org"
+
+#: includes/search.inc:9
+msgid "developer.kde.org"
+msgstr "developer.kde.org"
+
+#: includes/search.inc:11
+msgid "kde-look.org"
+msgstr "kde-look.org"
+
+#: includes/search.inc:12
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: includes/search.inc:13
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+#: includes/template-bottom2.inc:11
+msgid "Hotspot"
+msgstr "Taşınabilir nokta"
+
+#: includes/template-bottom2.inc:66
+msgid ""
+"KDE<sup>&#174;</sup> and <a href=\"/media/images/kde_gear_black.png\">the K "
+"Desktop Environment<sup>&#174;</sup> logo</a> are registered trademarks of "
+"<a href=\"http://ev.kde.org/\" title=\"Homepage of the KDE non-profit "
+"Organization\">KDE e.V.</a>"
+msgstr ""
+"KDE<sup>&#174;</sup> ve <a href=\"/media/images/kde_gear_black.png\">the K "
+"Desktop Environment<sup>&#174;</sup> logosu</a> <a href=\"http://ev.kde.org/"
+"\" title=\"Kar amacı gütmeyen KDE organizasyonunun anasayfası\">KDE e.V.</"
+"a>'in tescilli ticari markalarıdır."
+
+#: includes/template-top1.inc:21
+msgid "A complete structural overview of the KDE.org web pages"
+msgstr "KDE.org internet sayfalarına tam bir yapısal bakış"
+
+#: includes/template-top1.inc:21
+msgid "Sitemap"
+msgstr "Site Haritası"
+
+#: includes/template-top1.inc:22
+msgid "Having problems? Read the documentation"
+msgstr "Sorun mu yaşıyorsunuz? Belgeleri okuyun."
+
+#: includes/template-top1.inc:22
+msgid "Help"
+msgstr "Yardım"
+
+#: includes/template-top1.inc:23
+msgid "Contact information for all areas of KDE"
+msgstr "KDE yapıları ve bölümleri için iletişim bilgileri"
+
+#: includes/template-top1.inc:23
+msgid "Contact Us"
+msgstr "Bize Ulaşın"
+
+#: includes/template-top1.inc:26
+msgid "Location"
+msgstr "Konum"
+
+#~ msgid "Choose one of the local KDE sites or mirror"
+#~ msgstr "Yerel KDE sitelerinden veya yansılarından birini seçin"
+
+#~ msgid "Choose your location"
+#~ msgstr "Konumunuzu seçin"
+
+#~ msgid "KDE in Your Country"
+#~ msgstr "Ülkenizde KDE"
+
+#~ msgid "Americas"
+#~ msgstr "Amerika"
+
+#~ msgid "Brasil"
+#~ msgstr "Brezilya"
+
+#~ msgid "Chile"
+#~ msgstr "Şili"
+
+#~ msgid "Asia"
+#~ msgstr "Asya"
+
+#~ msgid "China"
+#~ msgstr "Çin"
+
+#~ msgid "Iran"
+#~ msgstr "İran"
+
+#~ msgid "Israel"
+#~ msgstr "İsrail"
+
+#~ msgid "Japan"
+#~ msgstr "Japonya"
+
+#~ msgid "Korea"
+#~ msgstr "Kore"
+
+#~ msgid "Taiwan"
+#~ msgstr "Tayvan"
+
+#~ msgid "Turkey"
+#~ msgstr "Türkiye"
+
+#~ msgid "Europe"
+#~ msgstr "Avrupa"
+
+#~ msgid "Bulgaria"
+#~ msgstr "Bulgaristan"
+
+#~ msgid "Czech Republic"
+#~ msgstr "Çek Cumhuriyeti"
+
+#~ msgid "France"
+#~ msgstr "Fransa"
+
+#~ msgid "Germany"
+#~ msgstr "Almanya"
+
+#~ msgid "Great Britain"
+#~ msgstr "İngiltere"
+
+#~ msgid "Hungary"
+#~ msgstr "Macaristan"
+
+#~ msgid "Iceland"
+#~ msgstr "İzlanda"
+
+#~ msgid "Ireland"
+#~ msgstr "İrlanda"
+
+#~ msgid "Italy"
+#~ msgstr "İtalya"
+
+#~ msgid "Netherlands"
+#~ msgstr "Hollanda"
+
+#~ msgid "Poland"
+#~ msgstr "Polonya"
+
+#~ msgid "Romania"
+#~ msgstr "Romanya"
+
+#~ msgid "Russia"
+#~ msgstr "Rusya"
+
+#~ msgid "Spain"
+#~ msgstr "İspanya"
+
+#~ msgid "Ukraine"
+#~ msgstr "Ukrayna"
+
+#~ msgid "Yugoslavia"
+#~ msgstr "Yugoslavya"
+
+#~ msgid "Regional KDE Mirrors"
+#~ msgstr "Bölgesel KDE Yansıları"
+
+#~ msgid "United States"
+#~ msgstr "Amerika Birleşik Devletleri"
+
+#~ msgid "Malaysia"
+#~ msgstr "Malezya"
+
+#~ msgid "Thailand"
+#~ msgstr "Tayland"
+
+#~ msgid "Australia &amp; Oceans"
+#~ msgstr "Avustralya ve Okyanuslar"
+
+#~ msgid "Australia"
+#~ msgstr "Avustralya"
+
+#~ msgid "Austria"
+#~ msgstr "Avusturya"
+
+#~ msgid "Greece"
+#~ msgstr "Yunanistan"
+
+#~ msgid "Lithuania"
+#~ msgstr "Litvanya"
+
+#~ msgid "Portugal"
+#~ msgstr "Portekiz"
+
+#~ msgid "Slovenia"
+#~ msgstr "Slovenya"
+
+#~ msgid "Sweden"
+#~ msgstr "İsveç"
+
+#~ msgid "Switzerland"
+#~ msgstr "İsviçre"
+
+#~ msgid "Go"
+#~ msgstr "Git"
+
+#~ msgid "Edit"
+#~ msgstr "Düzenle"

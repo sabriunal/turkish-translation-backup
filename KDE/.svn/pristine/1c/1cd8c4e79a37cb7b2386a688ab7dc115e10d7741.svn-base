@@ -1,0 +1,278 @@
+#
+# Translators:
+# Emir SARI <emir_sari@icloud.com>
+#
+# Onur Soysal <e116511@ceng.metu.edu.tr>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,1999-2002.
+# Görkem Çetin <gorkem@kde.org>, 2002, 2003, 2004.
+# Adil Yıldız <adil_yildiztr@yahoo.com>, 2004.
+# Adem Alp Yıldız <ademalp@linux-sevenler.org>, 2004.
+# Adil Yıldız <adil@linux-sevenler.org>, 2004.
+# Görkem Çetin <gorkem@kde.org.tr>, 2005.
+# Adil Yıldız <adil@kde.org.tr>, 2005.
+# Cemil MUTLU <mawilos@gmail.com>, 2005.
+# Serdar Soytetir <tulliana@gmail.com>, 2008, 2009, 2010.
+# Gökçen Eraslan <gokcen@pardus.org.tr>, 2010.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2010, 2011.
+# Serdar SOYTETİR <tulliana@gmail.com>, 2010, 2012.
+# Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozan@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2021, 2022.
+# Emir SARI <emir_sari@icloud.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-20 01:05+0000\n"
+"PO-Revision-Date: 2022-12-16 22:01+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.0\n"
+
+#: app/kdesystemsettings.desktop:9
+msgctxt "GenericName"
+msgid "KDE System Settings"
+msgstr "KDE Sistem Ayarları"
+
+#: app/kdesystemsettings.desktop:73
+msgctxt "Name"
+msgid "KDE System Settings"
+msgstr "KDE Sistem Ayarları"
+
+#: app/kdesystemsettings.desktop:138 app/systemsettings.desktop:187
+msgctxt "Comment"
+msgid "Configuration tools for your computer"
+msgstr "Bilgisayarınız için yapılandırma araçları"
+
+#: app/systemsettings.desktop:13
+msgctxt "GenericName"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: app/systemsettings.desktop:98
+msgctxt "Name"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: app/systemsettings.desktop:245
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "Global Tema"
+
+#: app/systemsettings.desktop:296
+msgctxt "Name"
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: app/systemsettings.desktop:349
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr "Ekran Kilidi"
+
+#: app/systemsettings.desktop:401
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr "Enerji Tasarrufu"
+
+#: app/systemsettings.desktop:452
+msgctxt "Name"
+msgid "Display Configuration"
+msgstr "Ekran Yapılandırması"
+
+#: categories/hidden.desktop:6
+msgctxt "Name"
+msgid "Hidden"
+msgstr "Gizli"
+
+#: categories/settings-appearance-color.desktop:8
+msgctxt "Name"
+msgid "Colors"
+msgstr "Renkler"
+
+#: categories/settings-appearance.desktop:10
+msgctxt "Name"
+msgid "Appearance"
+msgstr "Görünüş"
+
+#: categories/settings-appearance-font.desktop:8
+msgctxt "Name"
+msgid "Fonts"
+msgstr "Yazıtipleri"
+
+#: categories/settings-hardware.desktop:8
+msgctxt "Name"
+msgid "Hardware"
+msgstr "Donanım"
+
+#: categories/settings-hardware-display.desktop:8
+msgctxt "Name"
+msgid "Display and Monitor"
+msgstr "Ekran ve Monitör"
+
+#: categories/settings-hardware-display.desktop:77
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr "Ekran Ayarları"
+
+#: categories/settings-hardware-input.desktop:8
+msgctxt "Name"
+msgid "Input Devices"
+msgstr "Giriş Aygıtları"
+
+#: categories/settings-hardware-multimedia.desktop:8
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "Çoklu Ortam"
+
+#: categories/settings-hardware-powermanagement.desktop:8
+msgctxt "Name"
+msgid "Power Management"
+msgstr "Güç Yönetimi"
+
+#: categories/settings-hardware-removable-storage.desktop:7
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr "Çıkarılabilir Depolama"
+
+#: categories/settings-network-connectivity.desktop:8
+msgctxt "Name"
+msgid "Connectivity"
+msgstr "Bağlanabilirlik"
+
+#: categories/settings-network.desktop:7
+msgctxt "Name"
+msgid "Network"
+msgstr "Ağ"
+
+#: categories/settings-network-networksettings.desktop:8
+msgctxt "Name"
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: categories/settings-personalization-applications.desktop:8
+msgctxt "Name"
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: categories/settings-personalization.desktop:8
+msgctxt "Name"
+msgid "Personalization"
+msgstr "Kişiselleştirme"
+
+#: categories/settings-personalization-regionalsettings.desktop:8
+msgctxt "Name"
+msgid "Regional Settings"
+msgstr "Bölgesel Ayarlar"
+
+#: categories/settings-root-category.desktop:8
+msgctxt "Name"
+msgid "Root"
+msgstr "Kök"
+
+#: categories/settings-system-administration.desktop:8
+msgctxt "Name"
+msgid "System Administration"
+msgstr "Sistem Yönetimi"
+
+#: categories/settings-workspace.desktop:8
+msgctxt "Name"
+msgid "Workspace"
+msgstr "Çalışma Alanı"
+
+#: categories/settings-workspace-desktopbehavior.desktop:8
+msgctxt "Name"
+msgid "Workspace Behavior"
+msgstr "Çalışma Alanı Davranışı"
+
+#: categories/settings-workspace-search.desktop:8
+msgctxt "Name"
+msgid "Search"
+msgstr "Arama"
+
+#: categories/settings-workspace-session.desktop:8
+msgctxt "Name"
+msgid "Startup and Shutdown"
+msgstr "Açılış ve Kapanış"
+
+#: categories/settings-workspace-shortcuts.desktop:8
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+#: categories/settings-workspace-windowmanagement.desktop:8
+msgctxt "Name"
+msgid "Window Management"
+msgstr "Pencere Yönetimi"
+
+#: core/infocenterexternalapp.desktop:6
+msgctxt "Name"
+msgid "Info Center External Application"
+msgstr "Bilgi Merkezi Dış Uygulaması"
+
+#: core/systemsettingsexternalapp.desktop:4
+msgctxt "Name"
+msgid "System Settings External Application"
+msgstr "Sistem Ayarları Dış Uygulaması"
+
+#: icons/settings-icon-view.desktop:6 sidebar/settings-sidebar-view.desktop:6
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#: icons/settings-icon-view.desktop:70
+msgctxt "Name"
+msgid "Icon View"
+msgstr "Simge Görünümü"
+
+#: icons/settings-icon-view.desktop:150
+msgctxt "Comment"
+msgid "The KDE 4 icon view style"
+msgstr "KDE4 simge görünümü biçimi"
+
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:70
+msgctxt "Name"
+msgid "Sidebar View"
+msgstr "Kenar Çubuğu Görünümü"
+
+#: sidebar/package/metadata.desktop:57
+#: sidebar/settings-sidebar-view.desktop:125
+msgctxt "Comment"
+msgid "Categorized sidebar style"
+msgstr "Kategorilendirilmiş kenar çubuğu biçemi"
+
+#~ msgctxt "Name"
+#~ msgid "System Settings Category"
+#~ msgstr "Sistem Ayarları Kategorisi"
+
+#~ msgctxt "Name"
+#~ msgid "Icons"
+#~ msgstr "Simgeler"
+
+#~ msgctxt "Name"
+#~ msgid "Peripherals"
+#~ msgstr "Çevre Birimleri"
+
+#~ msgctxt "Name"
+#~ msgid "Bluetooth"
+#~ msgstr "Bluetooth"
+
+#~ msgctxt "Name"
+#~ msgid "Accessibility"
+#~ msgstr "Erişilebilirlik"
+
+#~ msgctxt "Name"
+#~ msgid "Account Details"
+#~ msgstr "Hesap Ayrıntıları"
+
+#~ msgctxt "Name"
+#~ msgid "Notifications"
+#~ msgstr "Bildirimler"
+
+#~ msgctxt "Name"
+#~ msgid "System Settings View"
+#~ msgstr "Sistem Ayarları Görünümü"

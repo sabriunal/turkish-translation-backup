@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"PO-Revision-Date: 2017-05-04 13:41+0000\n"
+"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
+"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/kreport_elementplugin.desktop:4
+msgctxt "Comment"
+msgid "KReport Element Plugin"
+msgstr "KReport Öge Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Check box"
+#~ msgstr "Onay kutusu"
+
+#~ msgctxt "Comment"
+#~ msgid "Check box element for Reports"
+#~ msgstr "Raporlar için onay kutusu ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Field"
+#~ msgstr "Alan"
+
+#~ msgctxt "Comment"
+#~ msgid "Field element for Reports"
+#~ msgstr "Raporlar için alan ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Image"
+#~ msgstr "Resim"
+
+#~ msgctxt "Comment"
+#~ msgid "Image element for Reports"
+#~ msgstr "Raporlar için resim ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Label"
+#~ msgstr "Etiket"
+
+#~ msgctxt "Comment"
+#~ msgid "Label element for Reports"
+#~ msgstr "Raporlar için etiket ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgctxt "Comment"
+#~ msgid "Text element for Reports"
+#~ msgstr "Raporlar için metin ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Barcode"
+#~ msgstr "Barkod"
+
+#~ msgctxt "Comment"
+#~ msgid "Barcode element for Reports"
+#~ msgstr "Raporlar için barkod ögesi"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Text element for Reports"
+#~ msgctxt "Comment"
+#~ msgid "Chart element for Reports"
+#~ msgstr "Raporlar için metin ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Maps"
+#~ msgstr "Haritalar"
+
+#~ msgctxt "Comment"
+#~ msgid "Maps element for Reports"
+#~ msgstr "Raporlar için haritalar ögesi"
+
+#~ msgctxt "Name"
+#~ msgid "Web Report Plugin"
+#~ msgstr "Web Rapor Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Calligra Reports Web Plugin"
+#~ msgstr "Calligra Rapor Web Eklentisi"
+
+#~ msgctxt "Name"
+#~ msgid "Chart Report Plugin"
+#~ msgstr "Çizelge Rapor Eklentisi"
+
+#~ msgctxt "Comment"
+#~ msgid "Calligra Reports Chart Plugin"
+#~ msgstr "Calligra Rapor Çizelge Eklentisi"

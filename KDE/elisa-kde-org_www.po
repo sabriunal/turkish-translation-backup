@@ -1,0 +1,245 @@
+#
+# Emir SARI <emir_sari@icloud.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-elisa-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-01-05 00:52+0000\n"
+"PO-Revision-Date: 2023-01-13 01:17+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: config.yaml:0 content/_index.md:0 content/download.md:0
+#: content/get-involved.md:0 content/users.md:0 i18n/en.yaml:0
+msgid "Elisa"
+msgstr "Elisa"
+
+#: config.yaml:0
+msgid "A music player that is simple, reliable, and a joy to use."
+msgstr "Yalın, güvenilir ve kullanımı keyif veren bir müzik çalar."
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "Bağış Yap"
+
+#: content/download.md:0 i18n/en.yaml:0
+msgid "Windows"
+msgstr "Windows"
+
+#: content/download.md:0
+msgid "Download"
+msgstr "İndir"
+
+#: content/download.md:0
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: content/download.md:0
+msgid ""
+"**Add flathub repository using:**\n"
+"\n"
+"```bash\n"
+"flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub."
+"flatpakrepo\n"
+"```\n"
+"\n"
+"**Install Elisa**\n"
+"\n"
+"```bash\n"
+"flatpak install flathub org.kde.elisa\n"
+"```\n"
+msgstr ""
+"**flathub deposunu şöyle ekleyebilirsiniz:**\n"
+"\n"
+"```bash\n"
+"flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub."
+"flatpakrepo\n"
+"```\n"
+"\n"
+"**Elisa'yı Kurun**\n"
+"\n"
+"```bash\n"
+"flatpak install flathub org.kde.elisa\n"
+"```\n"
+
+#: content/download.md:0
+msgid ""
+"* [Microsoft store](https://www.microsoft.com/en-us/p/elisa/9pb5md7zh8tl)\n"
+"* [Win64 executable](https://binary-factory.kde.org/view/Windows%2064-bit/"
+"job/Elisa_Release_win64/)"
+msgstr ""
+"* [Microsoft store](https://www.microsoft.com/en-us/p/elisa/9pb5md7zh8tl)\n"
+"* [Win64 çalıştırılabiliri](https://binary-factory.kde.org/view/Windows%2064-"
+"bit/job/Elisa_Release_win64/)"
+
+#: content/get-involved.md:0
+msgid "Get Involved"
+msgstr "Katıl"
+
+#: content/get-involved.md:0
+msgid ""
+"Most development-related discussions take place on the [Elisa mailing list]"
+"(http://mail.kde.org/mailman/listinfo/elisa).\n"
+"Just join in, say hi and tell us what you would like to help us with!"
+msgstr ""
+"Geliştirme ile ilgili çoğu konuşma [Elisa posta listesinde](http://mail.kde."
+"org/mailman/listinfo/elisa) gerçekleşir.\n"
+"Katılın, selam verin ve bize hangi konuda yardımcı olmak istediğinizi "
+"söyleyin!"
+
+#: content/get-involved.md:14
+msgid ""
+"Want to contribute to Elisa? Check out [Phabricator](https://phabricator.kde."
+"org/tag/elisa/) for some fun task or [browse the source code](https://invent."
+"kde.org/multimedia/elisa)."
+msgstr ""
+"Elisa'ya katkıda bulunmak mı istiyorsunuz? Kolay görevler için [Phabricator]"
+"(https://phabricator.kde.org/tag/elisa/)'a bakın veya [kaynak koduna göz "
+"atın](https://invent.kde.org/multimedia/elisa)."
+
+#: content/users.md:0
+msgid "User Support"
+msgstr "Kullanıcı Desteği"
+
+#: content/users.md:0
+msgid "https://docs.kde.org/stable5/en/elisa/elisa/index.html"
+msgstr "https://docs.kde.org/stable5/en/elisa/elisa/index.html"
+
+#: i18n/en.yaml:0
+msgid "Linux"
+msgstr "Linux"
+
+#: i18n/en.yaml:0
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+#: i18n/en.yaml:0
+msgid "Other ways to download"
+msgstr "Diğer indirme yolları"
+
+#: i18n/en.yaml:0
+msgid ""
+"<b>Elisa</b> is a music player developed by the KDE community that strives "
+"to be simple and nice to use. We also recognize that we need a flexible "
+"product to account for the different workflows and use-cases of our users. "
+"We focus on a very good integration with the Plasma desktop of the KDE "
+"community without compromising support for other platforms (other Linux "
+"desktop environments, Windows, and Android). We are creating a reliable "
+"product that is a joy to use and respects our users' privacy. As such, we "
+"prefer to support online services where users are in control of their data."
+msgstr ""
+"<b>Elisa</b>, KDE topluluğu tarafından geliştirilen, olabildiğince yalın ve "
+"kolay kullanımlı olmaya çalışan bir müzik çalardır. Kullanıcılarımızın "
+"değişik kullanım koşulları ve çalışma akışlarına göre esnetilebilir bir ürün "
+"oluşturmamız gerektiğini bildiğimizden, diğer platformlar (diğer Linux "
+"masaüstü ortamları, Windows ve Android) için destekten ödün vermeden KDE "
+"topluluğunun Plasma masaüstü ile olabildiğince en iyi biçimde tümleşmeye "
+"odaklandık. Temel amacımız; kullanıcının gizliliğine saygı gösteren, "
+"kullanımı eğlenceli ve güvenilir bir ürün meydana getirmek olduğundan, "
+"çevrimiçi platformlar için destek eklerken kullanıcıların verisini tam "
+"denetleyebildiği, gizliliğe saygılı çevrimiçi hizmetler için destek eklemeyi "
+"yeğledik."
+
+#: i18n/en.yaml:0
+msgid "Available on all major platforms"
+msgstr "Tüm büyük platformlarda kullanılabilir"
+
+#: i18n/en.yaml:0
+msgid "Browse music by album, artist, or tracks"
+msgstr "Müziklerinize; albüm, sanatçı veya parçaya göre göz atın"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa, powered with Baloo indexing support, automatically looks in your "
+"music folder for music files and cover art. The left column has various "
+"viewing options: Now Playing, Albums, Artists, and Tracks."
+msgstr ""
+"Baloo indeksleme desteği ile, Elisa müzik klasörünüze bakar ve müzik "
+"dosyalarınızı ve kapak resimlerini işler. Sol sütunda çeşitli görüntüleme "
+"seçenekleri vardır: Şimdi Çalınıyor, Albümler, Sanatçılar ve Parçalar."
+
+#: i18n/en.yaml:0
+msgid "Create and manage playlists"
+msgstr "Çalma listeleri oluşturun ve yönetin"
+
+#: i18n/en.yaml:0
+msgid "Create and manage all your playlists from the built-in side panel."
+msgstr "Dahili kenar çubuğundan tüm çalma listelerinizi oluşturun ve yönetin."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of the playlist feature"
+msgstr "Çalma listesi özelliğinin ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Party mode"
+msgstr "Parti Kipi"
+
+#: i18n/en.yaml:0
+msgid "Turn Party Mode on with Elisa's immersive built-in party mode feature."
+msgstr "Elisa'nın sizi içine çeken parti kipi özelliği ile partiyi başlatın."
+
+#: i18n/en.yaml:0
+msgid "Screenshot of Elisa's party mode"
+msgstr "Elisa'nın parti kipinin ekran görüntüsü"
+
+#: i18n/en.yaml:0
+msgid "Dark / Light Themes"
+msgstr "Koyu/Açık Temalar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa has both a <b>Light</b> and a <b>Dark</b> theme, so you can enjoy your "
+"music without the colors bothering you."
+msgstr ""
+"Elisa'da hem <b>Açık</b> hem <b>Koyu</b> kipler vardır; böylece renkler sizi "
+"rahatsız etmeden müziğinizin keyfini çıkarabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Fast indexing"
+msgstr "Hızlı indeksleme"
+
+#: i18n/en.yaml:0
+msgid ""
+"With the help of <a href=\"https://community.kde.org/Baloo\">Baloo</a>, "
+"Elisa is fast to index and sort all your files. It is also possible to use "
+"Elisa without Baloo."
+msgstr ""
+"<a href=\"https://community.kde.org/Baloo\">Baloo</a>'nun yardımıyla, Elisa "
+"dosyalarınızı hızlıca indeksler ve sıralar. Elisa'yı Baloo olmadan da "
+"kullanabilirsiniz."
+
+#: i18n/en.yaml:0
+msgid "Adapts to your screen"
+msgstr "Ekranınıza uyum sağlar"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa uses <a href=\"https://develop.kde.org/frameworks/kirigami/"
+"\">Kirigami</a> to be the best convergent, responsive music player that "
+"adapts its content to your screen. Soon on your phone!"
+msgstr ""
+"Elisa; içeriği ekranınıza en uygun biçimde yerleştiren, en iyi yakınsak ve "
+"tepkisel müzik çalar olmak için <a href=\"https://develop.kde.org/frameworks/"
+"kirigami/\">Kirigami</a>'yi kullanır. Yakında telefonunuzda!"
+
+#: i18n/en.yaml:0
+msgid "Open Source"
+msgstr "Açık Kaynaklı"
+
+#: i18n/en.yaml:0
+msgid ""
+"Elisa is Open Source and you can browse, edit and share the source code.  "
+"Elisa is <a href=\"https://kde.org\">Made By KDE</a>, a community building "
+"high-quality projects that your are free to use. Check out all <a href="
+"\"https://kde.org/products\"> our projects!</a>"
+msgstr ""
+"Elisa, Açık Kaynaklıdır; kaynak kodunu görüntüleyebilir, düzenleyebilir ve "
+"paylaşabilirsiniz. Elisa, özgürce kullanılabilen yüksek kaliteli yazılımlar "
+"üreten <a href=\"https://kde.org\">KDE tarafından yapılmıştır</a>. "
+"Projelerimize bir <a href=\"https://kde.org/products\"> göz atın!</a>"
