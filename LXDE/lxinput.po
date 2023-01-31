@@ -121,6 +121,3 @@ msgstr "Klavye ve Fare"
 #: ../data/lxinput.desktop.in.h:2
 msgid "Configure keyboard, mouse, and other input devices"
 msgstr "Klavye, fare ve diğer girdi aygıtlarını yapılandırın"
-
-#~ msgid "input-keyboard"
-#~ msgstr "Tuştakımı"

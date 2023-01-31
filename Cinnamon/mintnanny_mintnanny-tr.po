@@ -60,21 +60,3 @@ msgstr "Seçilen alan adlarına erişimi engelle"
 #: generate_desktop_files:39
 msgid "Parental Control"
 msgstr "Ebeveyn Denetimi"
-
-#~ msgid "_File"
-#~ msgstr "_Dosya"
-
-#~ msgid "Close"
-#~ msgstr "Kapat"
-
-#~ msgid "_Help"
-#~ msgstr "_Yardım"
-
-#~ msgid "About"
-#~ msgstr "Hakkında"
-
-#~ msgid "Domain name:"
-#~ msgstr "Alan adı:"
-
-#~ msgid "Domain blocker"
-#~ msgstr "Alan adı engelleyici"

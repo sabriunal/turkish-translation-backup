@@ -334,37 +334,3 @@ msgstr "Ayar değişiklikleri kaydedilemedi"
 #: generate_desktop_files:27 generate_desktop_files:41
 msgid "Define upload services"
 msgstr "Yükleme hizmetlerini tanımlayın"
-
-#~ msgid "Username:"
-#~ msgstr "Kullanıcı Adı:"
-
-#~ msgid "File Uploader"
-#~ msgstr "Dosya Yükleyici"
-
-#~ msgid "This service requires a password or private key."
-#~ msgstr "Bu hizmet şifre veya özel anahtar gerektirir."
-
-#~ msgid "Upload files on the Internet"
-#~ msgstr "Dosyaları internete yükleyin"
-
-#~ msgid "Hostname:"
-#~ msgstr "Bilgisayar adı:"
-
-#~ msgid "<i>Try to avoid spaces and funny characters...</i>"
-#~ msgstr "<i>Boşluklardan ve tuhaf karakterler kullanmaktan kaçının...</i>"
-
-#, python-format
-#~ msgid "Upload to %s failed: "
-#~ msgstr "%s e yapılan yükleme başarısız oldu: "
-
-#, python-format
-#~ msgid "Uploading %(file)s to %(service)s"
-#~ msgstr "%(file)s ı %(service)s e yüklüyor"
-
-#, python-format
-#~ msgid "Upload to %s successful"
-#~ msgstr "%s e yapılan yükleme başarılı oldu"
-
-#, python-format
-#~ msgid "Uploading to %s"
-#~ msgstr "%s e yüklüyor"

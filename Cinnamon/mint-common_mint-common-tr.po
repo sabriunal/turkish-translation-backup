@@ -139,6 +139,3 @@ msgstr "Flatpak"
 #: usr/lib/python3/dist-packages/mintcommon/installer/dialogs.py:332
 msgid "An error occurred"
 msgstr "Bir hata oluştu"
-
-#~ msgid "Please enter your password"
-#~ msgstr "Lütfen şifrenizi girin"

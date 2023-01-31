@@ -99,16 +99,3 @@ msgstr "Kısa bir geri sayım bittiğinde"
 msgctxt "Name"
 msgid "When the timers have been reset"
 msgstr "Zamanlayıcılar sıfırlandığında"
-
-#~ msgctxt "Comment"
-#~ msgid "Plasma RSIBreak applet"
-#~ msgstr "Plasma RSIBreak programcığı"
-
-#~ msgctxt "Name"
-#~ msgid "RSIBreak engine"
-#~ msgstr "RSIBreak motoru"
-
-#~ msgctxt "Comment"
-#~ msgid "Provides current times left to breaks and rsibreak status"
-#~ msgstr ""
-#~ "Molalara kalan sürelere ve rsibreak durumuna ilişkin bilgileri sağlar"

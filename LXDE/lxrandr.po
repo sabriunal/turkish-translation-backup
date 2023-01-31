@@ -203,13 +203,3 @@ msgid ""
 msgstr ""
 "ekran;görüntü;tv;uzatma;projektör;xrandr;yenileme hızı;konum;etkinleştir;"
 "devre dışı bırak;"
-
-#~ msgid "Copyright (C) 2008-2011"
-#~ msgstr "Telif Hakkı (C) 2008-2011"
-
-#~ msgid ""
-#~ "You cannot turn off all monitors. Otherwise, you will not be able to turn "
-#~ "them on again since this tool is not accessable without monitor."
-#~ msgstr ""
-#~ "Bütün görüntü birimlerini kapatamazsınız. Yoksa, bu araca görüntü "
-#~ "birimsiz erişilemeyeceğinden, onları yeniden açma olanağınız olmayacak. "

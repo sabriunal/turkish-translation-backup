@@ -348,9 +348,3 @@ msgstr "*.tar.gz, *.tar.bz2 (Simge Teması)"
 msgid ""
 "Setting color scheme is not available without lxsession as session manager."
 msgstr "lxsession oturum yöneticisi olmadan renk şeması ayarlanamaz."
-
-#~ msgid "Enable antialising"
-#~ msgstr "Düzgünleştirmeyi etkinleştir"
-
-#~ msgid "<b>Antialising</b>"
-#~ msgstr "<b>Düzgünleştirmek</b>"

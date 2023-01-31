@@ -583,15 +583,3 @@ msgstr "Xfwm4 + Picom"
 #: usr/lib/linuxmint/mintdesktop/mintdesktop.py:183
 msgid "Openbox + Picom"
 msgstr "Openbox + Picom"
-
-#~ msgid "Desktop Items"
-#~ msgstr "Masaüstü öğeleri"
-
-#~ msgid "Gnome Settings"
-#~ msgstr "Gnome Ayarları"
-
-#~ msgid "Fine-tune Gnome settings"
-#~ msgstr "Gnome İnce Ayarları"
-
-#~ msgid "Desktop Configuration Tool"
-#~ msgstr "Masaüstü Yapılandırma Aracı"
