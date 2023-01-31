@@ -53,26 +53,3 @@ msgstr "Sistem politikaları, Plymouth temasını kaldırmanızı engelliyor."
 msgctxt "Name"
 msgid "Boot Splash Screens"
 msgstr "Önyükleme Açılış Ekranı"
-
-#~ msgctxt "Comment"
-#~ msgid "Choose Plymouth boot splash screen"
-#~ msgstr "Plymouth önyükleme açılış ekranı seçin"
-
-#~ msgctxt "Name"
-#~ msgid "System Splash"
-#~ msgstr "Sistem Açılış Ekranı"
-
-#~ msgctxt "Comment"
-#~ msgid "Plymouth splash screen"
-#~ msgstr "Plymouth açılış ekranı"
-
-#, fuzzy
-#~| msgctxt "X-KDE-Keywords"
-#~| msgid "plymouth,splash,splash screen"
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "plymouth,splash,splash screen,boot splash"
-#~ msgstr "plymouth,splash,splash screen,açılış ekranı"
-
-#~ msgctxt "Name"
-#~ msgid "Boot Splash"
-#~ msgstr "Ön Yükleme Açılış Ekranı"

@@ -211,6 +211,3 @@ msgstr "Roney Gomes"
 #, kde-format
 msgid "Port to KgSound framework"
 msgstr "KgSound kod kitaplığına aktarım"
-
-#~ msgid "Theme"
-#~ msgstr "Tema"

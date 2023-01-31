@@ -511,38 +511,3 @@ msgstr "Spacebar SMS/MMS istemcisi"
 #, kde-format
 msgid "Open a chat with the given phone number"
 msgstr "Verilen telefon numarası ile bir sohbet başlatın"
-
-#~ msgid "Incoming"
-#~ msgstr "Gelen"
-
-#~ msgid "Outgoing"
-#~ msgstr "Giden"
-
-#~ msgid "Existing contacts only"
-#~ msgstr "Yalnızca var olan kişiler"
-
-#~ msgid "Other"
-#~ msgstr "Diğer"
-
-#~ msgid "Set"
-#~ msgstr "Ayarla"
-
-#~ msgctxt "Invalid phone number"
-#~ msgid "Unknown"
-#~ msgstr "Bilinmiyor"
-
-#~ msgctxt "Open chat conversation window"
-#~ msgid "Compose"
-#~ msgstr "Oluştur"
-
-#~ msgid "Add/remove"
-#~ msgstr "Ekle/Kaldır"
-
-#~ msgid "Duplicate recipient"
-#~ msgstr "Yinelenmiş alıcı"
-
-#~ msgid "Attachments"
-#~ msgstr "Ekler"
-
-#~ msgid "conversations?"
-#~ msgstr "konuşmalar?"

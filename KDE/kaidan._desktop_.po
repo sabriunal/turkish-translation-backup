@@ -61,7 +61,3 @@ msgid ""
 "New message received in quick succession to a previous one from the same chat"
 msgstr ""
 "Aynı sohbetteki bir önceki iletiye yanıt olarak hızlıca bir ileti alındı"
-
-#~ msgctxt "Comment"
-#~ msgid "You have received a new message"
-#~ msgstr "Yeni ileti aldınız"

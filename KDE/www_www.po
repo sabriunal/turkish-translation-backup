@@ -27444,15 +27444,3 @@ msgid ""
 "resolution images, one with and one without a background, so you can send "
 "them as is, or set them in the wintery landscape of your choice."
 msgstr ""
-
-#~ msgid "![Katie \"I Donated\" badge.](badge_katie.png)"
-#~ msgstr "![Katie \"Bağış Yaptım\" rozeti.](badge_katie.png)"
-
-#~ msgid "![Konqi \"I Donated\" badge.](badge_konqi.png)"
-#~ msgstr "![Konqi \"Bağış Yaptım\" rozeti.](badge_konqi.png)"
-
-#~ msgid ""
-#~ "Thank you very much for your donation to the Year End 2022 fundraiser!"
-#~ msgstr ""
-#~ "2022 yılı sonu bağış toplama kampanyamıza yaptığınız bağış için çok "
-#~ "teşekkür ederiz!"

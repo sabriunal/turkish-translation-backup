@@ -288,10 +288,3 @@ msgstr "Dosya açılamadı: %1"
 #, kde-format
 msgid "&Tools"
 msgstr "&Araçlar"
-
-#~ msgid "Image format f&or the thumbnails:"
-#~ msgstr "Küçük r&esim biçimi:"
-
-#~ msgctxt "@title:window"
-#~ msgid "Configure"
-#~ msgstr "Yapılandır"

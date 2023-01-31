@@ -291,21 +291,3 @@ msgstr "Twitter"
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Youtube..."
 msgstr "YouTube..."
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Imgur"
-#~ msgctxt "X-Purpose-ActionDisplay"
-#~ msgid "Imgur..."
-#~ msgstr "Imgur"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Twitter"
-#~ msgctxt "X-Purpose-ActionDisplay"
-#~ msgid "Twitter..."
-#~ msgstr "Twitter"
-
-#~ msgctxt "Description"
-#~ msgid "Dummy plugin, to test the shit out of the feature"
-#~ msgstr "Özelliği denemek için boş eklenti"

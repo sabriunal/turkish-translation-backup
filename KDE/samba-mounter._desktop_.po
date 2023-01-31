@@ -77,7 +77,3 @@ msgstr "Ağ Sürücüleri"
 msgctxt "Comment"
 msgid "Network Samba Drives"
 msgstr "Ağ Sabma Sürücüleri"
-
-#~ msgctxt "Name"
-#~ msgid "Network Drivers"
-#~ msgstr "Ağ Sürücüleri"

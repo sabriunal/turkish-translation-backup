@@ -304,14 +304,3 @@ msgstr "Kenar Çubuğu"
 #, kde-format
 msgid "Most Used"
 msgstr "En Çok Kullanılan"
-
-#~ msgid "<i>Contains 1 item</i>"
-#~ msgid_plural "<i>Contains %1 items</i>"
-#~ msgstr[0] "<i>1 öge içerir</i>"
-#~ msgstr[1] "<i>%1 öge içerir</i>"
-
-#~ msgid "Most used module number %1"
-#~ msgstr "En çok kullanılan modül numarası %1"
-
-#~ msgid "Frequently Used"
-#~ msgstr "Sık Kullanılan"

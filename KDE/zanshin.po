@@ -643,23 +643,3 @@ msgstr "Ana Araç Çubuğu"
 #, kde-format
 msgid "Add \"%1\" to your todo list"
 msgstr "\"%1\" ögesini yapılacaklar listenize ekleyin"
-
-#~ msgctxt "the day after today"
-#~ msgid "tomorrow"
-#~ msgstr "yarın"
-
-#~ msgctxt "this day"
-#~ msgid "today"
-#~ msgstr "bugün"
-
-#~ msgctxt "the day before today"
-#~ msgid "yesterday"
-#~ msgstr "dün"
-
-#~ msgctxt "the week after this week"
-#~ msgid "next week"
-#~ msgstr "gelecek hafta"
-
-#~ msgctxt "the month after this month"
-#~ msgid "next month"
-#~ msgstr "gelecek ay"

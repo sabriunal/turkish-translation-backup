@@ -751,16 +751,3 @@ msgstr "Kasa Kilidini Aç"
 #, kde-format
 msgid "Configure Vault…"
 msgstr "Vault'u Yapılandır…"
-
-#, fuzzy
-#~| msgid "Create a New Vault"
-#~ msgid "Create a New Vault..."
-#~ msgstr "Yeni bir Vault Oluştur"
-
-#, fuzzy
-#~| msgid "Open with File Manager"
-#~ msgid "Unlock and Show in File Manager"
-#~ msgstr "Dosya Yöneticisi ile Aç"
-
-#~ msgid "Activities"
-#~ msgstr "Etkinlikler"

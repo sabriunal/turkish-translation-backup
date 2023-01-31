@@ -232,6 +232,3 @@ msgstr "Simon Schmeißer"
 #, kde-format
 msgid "Shared url for image is <a href='%1'>%1</a>"
 msgstr "Görselin paylaşma URL'si <a href='%1'>%1</a>"
-
-#~ msgid "Generating the QR-Code failed: "
-#~ msgstr "Kare kod oluşturulamadı: "

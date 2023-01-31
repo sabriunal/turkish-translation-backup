@@ -726,24 +726,3 @@ msgstr "Düzenle..."
 #, kde-format
 msgid "Remove"
 msgstr "Kaldır"
-
-#~ msgid "Close wallet when close application"
-#~ msgstr "Uygulama kaptıldığında cüzdanı da kapat"
-
-#, fuzzy
-#~| msgid "Share..."
-#~ msgid "Share"
-#~ msgstr "Paylaş..."
-
-#~ msgctxt "Reset the zoom"
-#~ msgid "Reset"
-#~ msgstr "Sıfırla"
-
-#~ msgid "&Zoom In"
-#~ msgstr "&Yakınlaştır"
-
-#~ msgid "Zoom &Out"
-#~ msgstr "&Uzaklaştır"
-
-#~ msgid "Display"
-#~ msgstr "Görünüm"

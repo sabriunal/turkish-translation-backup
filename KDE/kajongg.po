@@ -2306,21 +2306,3 @@ msgstr "İstemci sürümünüz 4.9.0'dan daha eski, bu sunucu için %1 gerekiyor
 #: src/user.py:93
 msgid "Your client has version %1 but you need %2 for this server"
 msgstr "İstemci sürümünüz %1, bu sunucu için %2 gerekiyor"
-
-#~ msgid "This player cannot be deleted. There are games associated with %1."
-#~ msgstr "Bu oyuncu silinemez. %1 ile ilişkilendirilmiş oyunlar var."
-
-#, fuzzy
-#~| msgid "Wolfgang Rohdewald"
-#~ msgid "(C) 2008-2016 Wolfgang Rohdewald"
-#~ msgstr "Wolfgang Rohdewald"
-
-#~ msgid "Wolfgang Rohdewald"
-#~ msgstr "Wolfgang Rohdewald"
-
-#~ msgid "Copy"
-#~ msgstr "Kopyala"
-
-#~ msgctxt "Kajongg ruleset comparer"
-#~ msgid "Compare"
-#~ msgstr "Karşılaştır"

@@ -279,26 +279,3 @@ msgstr "Devin Lin"
 #, kde-format
 msgid "Tab %1"
 msgstr "Sekme %1"
-
-#~ msgid "%1%"
-#~ msgstr "%​%1"
-
-#~| msgid "Close"
-#~ msgctxt "@action:button"
-#~ msgid "Close"
-#~ msgstr "Kapat"
-
-#~ msgid "More Info:"
-#~ msgstr "Daha Fazla Bilgi:"
-
-#~ msgid "Quick Actions"
-#~ msgstr "Hızlı Eylemler"
-
-#~ msgid "Quick Action Settings"
-#~ msgstr "Hızlı Eylem Ayarları"
-
-#~ msgid "Add Actions"
-#~ msgstr "Eylemler Ekle"
-
-#~ msgid "Save"
-#~ msgstr "Kaydet"

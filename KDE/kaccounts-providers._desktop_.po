@@ -34,7 +34,3 @@ msgstr "ownCloud"
 msgctxt "Comment"
 msgid "Use OwnCloud with KAccounts"
 msgstr "ownCloud'u KAccounts ile birlikte kullan"
-
-#~ msgctxt "Name"
-#~ msgid "OwnCloud KAccounts QML plugin"
-#~ msgstr "ownCloud KAccounts QML eklentisi"

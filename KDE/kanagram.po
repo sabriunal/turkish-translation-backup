@@ -881,6 +881,3 @@ msgstr "Başlık"
 #, kde-format
 msgid "Description"
 msgstr "Açıklama"
-
-#~ msgid "kanagram"
-#~ msgstr "kanagram"

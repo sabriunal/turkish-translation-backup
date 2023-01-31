@@ -33,7 +33,3 @@ msgstr "Görevlerinizi düzenleyin"
 msgctxt "Keywords"
 msgid "Productivity;Todo;Task;"
 msgstr "Üretkenlik;Yapılacak;Görev;"
-
-#~ msgctxt "Comment"
-#~ msgid "Simple task list"
-#~ msgstr "Yalın görevler listesi"

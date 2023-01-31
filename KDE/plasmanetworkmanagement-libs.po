@@ -3744,14 +3744,3 @@ msgstr "ADSL"
 #, kde-format
 msgid "Device"
 msgstr "Aygıt"
-
-#~ msgid ""
-#~ "Plasma is missing support for '%1' VPN connections. Please report this to "
-#~ "your distribution."
-#~ msgstr ""
-#~ "Plasma, '%1' VPN bağlantıları için destek içermiyor. Lütfen bunu "
-#~ "dağıtımınıza bildirin."
-
-#~ msgctxt "Error message in VPN import/export dialog"
-#~ msgid "Operation not supported for this VPN type."
-#~ msgstr "Bu VPN türü için işlem desteklenmiyor."

@@ -104,19 +104,3 @@ msgstr "Tüm Bilgiyi Görüntüle"
 msgctxt "Description"
 msgid "Default kaddressbook theme."
 msgstr "Öntanımlı K Adres Defteri teması."
-
-#~ msgctxt "Name"
-#~ msgid "Plugins"
-#~ msgstr "Eklentiler"
-
-#~ msgctxt "Name"
-#~ msgid "User Feedback"
-#~ msgstr "Kullanıcı Geri Bildirimi"
-
-#~ msgctxt "Comment"
-#~ msgid "Kontact KAddressBook Plugin"
-#~ msgstr "Kontact K Adres Defteri Eklentisi"
-
-#~ msgctxt "Name"
-#~ msgid "Contacts"
-#~ msgstr "Kişiler"

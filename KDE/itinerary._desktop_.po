@@ -57,7 +57,3 @@ msgstr "İstatistikler"
 msgctxt "Name"
 msgid "Health Certificates"
 msgstr "Sağlık Sertifikaları"
-
-#~ msgctxt "Name"
-#~ msgid "Tickets and boarding passes"
-#~ msgstr "Biletler ve biniş kartları"

@@ -87,17 +87,3 @@ msgstr "&Araçlar"
 #, kde-format
 msgid "Extra Toolbar"
 msgstr "Ek Araç Çubuğu"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Yıldız Kardeşler"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "turkishprogram@xposta.com"
-
-#~ msgid "Change Browser &Identification"
-#~ msgstr "&Tarayıcı Kimliğini Değiştir"
-
-#~ msgid "Identify As"
-#~ msgstr "Kullanılacak Kimlik"

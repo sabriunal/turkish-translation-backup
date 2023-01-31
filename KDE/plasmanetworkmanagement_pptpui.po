@@ -289,18 +289,3 @@ msgstr ""
 msgctxt "like in Advanced settings"
 msgid "Advanced…"
 msgstr "Gelişmiş…"
-
-#~ msgid "Store"
-#~ msgstr "Kaydet"
-
-#~ msgid "Always Ask"
-#~ msgstr "Her Zaman Sor"
-
-#~ msgid "Not Required"
-#~ msgstr "Gerekli Değil"
-
-#~ msgid "Use Microsoft Point-to-Point Encryption"
-#~ msgstr "Microsoft Noktadan-Noktaya Şifrelemesi Kullan"
-
-#~ msgid "Show password"
-#~ msgstr "Parolayı Göster"

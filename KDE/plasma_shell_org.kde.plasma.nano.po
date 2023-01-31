@@ -59,6 +59,3 @@ msgstr "Özelleştir..."
 #: contents/explorer/WidgetExplorer.qml:144
 msgid "Widgets"
 msgstr "Araç Takımları"
-
-#~ msgid "Layout cannot be changed while widgets are locked"
-#~ msgstr "Araç takımları kilitliyken yerleşim değiştirilemez"

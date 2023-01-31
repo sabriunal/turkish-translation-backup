@@ -82,12 +82,3 @@ msgstr "Ad:"
 #, kde-format
 msgid "Shortcuts:"
 msgstr "Kısayollar:"
-
-#~ msgid "Enable Suggestion"
-#~ msgstr "Önerileri Etkinleştir"
-
-#~ msgid "Cancel"
-#~ msgstr "İptal"
-
-#~ msgid "OK"
-#~ msgstr "Tamam"

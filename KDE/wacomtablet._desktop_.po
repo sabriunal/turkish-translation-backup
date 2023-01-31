@@ -73,35 +73,3 @@ msgstr "Wacom Tablet bulucu"
 msgctxt "GenericName"
 msgid "Helper tool to detect Wacom Tablets"
 msgstr "Wacom Tabletlerini bulmak için yardımcı araç"
-
-#~ msgctxt "Name"
-#~ msgid "Wacom Tablet"
-#~ msgstr "Wacom Tablet"
-
-#~ msgctxt "Comment"
-#~ msgid "Hotplugging and profile support for Wacom tablets"
-#~ msgstr "Wacom tabletler için tak/çalıştır ve profil desteği"
-
-#~ msgctxt "Keywords"
-#~ msgid "Wacom"
-#~ msgstr "Wacom"
-
-#~ msgctxt "Name"
-#~ msgid "Graphic Tablet"
-#~ msgstr "Grafik Tablet"
-
-#~ msgctxt "Comment"
-#~ msgid "Wacom Tablet Settings"
-#~ msgstr "Wacom Tablet Ayarları"
-
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "Tablet,Input Devices,Wacom,Stylus"
-#~ msgstr "Tablet,Girdi Aygıtları,Wacom,Stylus"
-
-#~ msgctxt "Comment"
-#~ msgid "Wacom tablet control daemon"
-#~ msgstr "Wacom tablet yapılandırma hizmeti"
-
-#~ msgctxt "Name"
-#~ msgid "Wacom Tablet Settings"
-#~ msgstr "Wacom Tablet Ayarları"

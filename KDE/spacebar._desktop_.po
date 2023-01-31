@@ -49,23 +49,3 @@ msgstr "Gelen ileti"
 msgctxt "Comment"
 msgid "Incoming message from someone"
 msgstr "Birisinden gelen ileti"
-
-#~ msgctxt "GenericName"
-#~ msgid "SMS/MMS Application"
-#~ msgstr "SMS/MMS Uygulaması"
-
-#~ msgctxt "Name"
-#~ msgid "Mobile Logger plugin"
-#~ msgstr "Mobil Günlük eklentisi"
-
-#~ msgctxt "Comment"
-#~ msgid "Provides integration with Telepathy Logger"
-#~ msgstr "Telephaty Günlükleme ile bütünleştirme sağlar"
-
-#~ msgctxt "Name"
-#~ msgid "Instant Messaging Presence"
-#~ msgstr "Anlık İleti Yapısı"
-
-#~ msgctxt "Comment"
-#~ msgid "Displays and sets your Instant Messaging Presence"
-#~ msgstr "Anlık İleti Yapınızı ayarlar ve görüntüler"

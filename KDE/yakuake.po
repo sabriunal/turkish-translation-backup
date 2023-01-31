@@ -1755,11 +1755,3 @@ msgstr "Çık"
 msgctxt "@info:whatsthis"
 msgid "Quits the application."
 msgstr "Uygulamadan çıkar."
-
-#~ msgctxt "@label"
-#~ msgid "Blur"
-#~ msgstr "Bulanıklaştır"
-
-#~ msgctxt "@info:whatsthis"
-#~ msgid "The KWin compositor's blur effects."
-#~ msgstr "KWin bileşikleştiricisinin bulanıklaştırma efektleri."

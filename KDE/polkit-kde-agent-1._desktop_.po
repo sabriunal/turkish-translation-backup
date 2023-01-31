@@ -44,7 +44,3 @@ msgstr "PolicyKit Kimlik Doğrulama Aracı"
 msgctxt "Comment"
 msgid "PolicyKit Authentication Agent"
 msgstr "PolicyKit Kimlik Doğrulama Aracı"
-
-#~ msgctxt "Name"
-#~ msgid "policykit1-kde"
-#~ msgstr "policykit1-kde"

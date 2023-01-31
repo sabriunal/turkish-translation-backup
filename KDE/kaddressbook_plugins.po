@@ -283,12 +283,3 @@ msgstr "Geçici dosya '%1' oluşturulamıyor"
 #, kde-format
 msgid "Send vCards..."
 msgstr "vCard Gönder..."
-
-#~ msgid "Use Libravatar"
-#~ msgstr "Libravatar Kullan"
-
-#~ msgid "Fallback to Gravatar"
-#~ msgstr "Gravatar'a Geri Dön"
-
-#~ msgid "Use HTTPS Protocol"
-#~ msgstr "HTTPS Protokolünü Kullan"

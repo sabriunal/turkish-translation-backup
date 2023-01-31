@@ -184,15 +184,3 @@ msgid "Another client is already authenticating, please try again later."
 msgstr ""
 "Başka bir istemci halihazırda kimlik doğrulaması yapıyor, lütfen daha sonra "
 "yeniden deneyin."
-
-#~ msgid "Application:"
-#~ msgstr "Uygulama:"
-
-#~ msgid "Click to edit %1"
-#~ msgstr "%1 ögesini düzenlemek için tıklayın"
-
-#~ msgid "Switch to dialog"
-#~ msgstr "Diyalog kipine geç"
-
-#~ msgid "Cancel"
-#~ msgstr "İptal"

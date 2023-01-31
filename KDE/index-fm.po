@@ -756,24 +756,3 @@ msgstr "Tümünü Seç"
 #, kde-format
 msgid "Tagged files for quick access"
 msgstr "Hızlı erişim için etiketlenen dosyalar"
-
-#~ msgid "Collections"
-#~ msgstr "Koleksiyonlar"
-
-#~ msgid "Quick access to common collections"
-#~ msgstr "Ortak koleksiyonlara hızlı erişim"
-
-#~ msgid "Quick access to most common places and bookmarks"
-#~ msgstr "Ortak yerlere ve yer imlerine hızlı erişim"
-
-#~ msgid "Downloads, Audio & Pictures"
-#~ msgstr "İndirmeler, Ses ve Resimler"
-
-#~ msgid "Pictures"
-#~ msgstr "Resimler"
-
-#~ msgid "Camera"
-#~ msgstr "Kamera"
-
-#~ msgid "Screenshots"
-#~ msgstr "Ekran Görüntüleri"

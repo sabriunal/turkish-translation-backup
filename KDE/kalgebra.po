@@ -444,19 +444,3 @@ msgstr "Yükseklik:"
 #, kde-format
 msgid "Apply"
 msgstr "Uygula"
-
-#~ msgid ""
-#~ "PNG File (*.png);;PDF Document(*.pdf);;X3D Document (*.x3d);;STL Document "
-#~ "(*.stl)"
-#~ msgstr ""
-#~ "PNG Dosyası (*.png);;PDF Belgesi(*.pdf);;X3D Belgesi (*.x3d);;STL Belgesi "
-#~ "(*.stl)"
-
-#~ msgid "C&onsole"
-#~ msgstr "K&onsol"
-
-#~ msgid "KAlgebra"
-#~ msgstr "KAlgebra"
-
-#~ msgid "&Console"
-#~ msgstr "&Konsol"

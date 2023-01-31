@@ -1085,28 +1085,3 @@ msgstr "Gönderi"
 msgctxt "@title"
 msgid "Thread"
 msgstr "İş Parçacığı"
-
-#~ msgctxt "Boookmark a post"
-#~ msgid "Bookmark"
-#~ msgstr "Yer imlerine ekle"
-
-#~ msgid "Username:"
-#~ msgstr "Kullanıcı adı:"
-
-#~ msgid "Refresh"
-#~ msgstr "Yenile"
-
-#~ msgid "Image View"
-#~ msgstr "Görsel Görünümü"
-
-#~ msgid "Local Timeline"
-#~ msgstr "Yerel Zaman Akışı"
-
-#~ msgid "Global Timeline"
-#~ msgstr "Global Zaman Akışı"
-
-#~ msgid "Add an account"
-#~ msgstr "Hesap ekle"
-
-#~ msgid "Options:"
-#~ msgstr "Seçenekler:"

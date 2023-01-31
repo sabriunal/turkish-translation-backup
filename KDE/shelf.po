@@ -336,9 +336,3 @@ msgstr "Yatay Olarak Göz At"
 #, kde-format
 msgid "Fullscreen"
 msgstr "Tam Ekran"
-
-#~ msgid "Favs"
-#~ msgstr "Sık Kullanılanlar"
-
-#~ msgid "Important"
-#~ msgstr "Önemli"

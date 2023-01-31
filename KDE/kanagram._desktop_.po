@@ -42,19 +42,3 @@ msgstr "KDE Harf Sırası Oyunu"
 msgctxt "GenericName"
 msgid "Letter Order Game"
 msgstr "Harf Sırası Oyunu"
-
-#~ msgctxt "Name"
-#~ msgid "Kanagram Active"
-#~ msgstr "Kanagram Active"
-
-#~ msgctxt "Comment"
-#~ msgid "Kanagram Active for tablets"
-#~ msgstr "Tabletler için Kanagram Active"
-
-#~ msgctxt "GenericName"
-#~ msgid "Kanagram Launcher"
-#~ msgstr "Kanagram Çalıştırıcı"
-
-#~ msgctxt "GenericName"
-#~ msgid "Kanagram Active"
-#~ msgstr "Kanagram Active"

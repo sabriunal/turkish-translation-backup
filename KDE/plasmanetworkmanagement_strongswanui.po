@@ -193,18 +193,3 @@ msgstr "ESP:"
 #, kde-format
 msgid "A list of proposals for ESP separated by \";\""
 msgstr "\";\" ile ayrılmış ESP öneri taslakları listesi"
-
-#~ msgid "Store"
-#~ msgstr "Kaydet"
-
-#~ msgid "Always Ask"
-#~ msgstr "Her Zaman Sor"
-
-#~ msgid "Not Required"
-#~ msgstr "Gerekli Değil"
-
-#~ msgid "&Show passwords"
-#~ msgstr "&Parolaları göster"
-
-#~ msgid "Show passwords"
-#~ msgstr "Parolaları göster"

@@ -390,15 +390,3 @@ msgstr "Renk"
 #, kde-format
 msgid "Editor background color"
 msgstr "Düzenleyici arka plan rengi"
-
-#~ msgid "New file"
-#~ msgstr "Yeni Dosya"
-
-#~ msgid "Open a existing project"
-#~ msgstr "Var Olan Bir Proje Aç"
-
-#~ msgid "Open one or multiple files"
-#~ msgstr "Bir veya daha çok dosya açın"
-
-#~ msgid "With support for basic text format editing"
-#~ msgstr "Yalın metin düzenleme desteği ile"

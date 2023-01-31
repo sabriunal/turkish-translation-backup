@@ -1842,6 +1842,3 @@ msgstr ""
 #: : Skrooge_2.28.0_released.md:18
 msgid "Feature: Import .sta file as MT940"
 msgstr "Özellik: .sta dosyasını MT940 olarak içe aktar"
-
-#~ msgid "[Join the Game](http://jointhegame.kde.org/)"
-#~ msgstr "[Oyuna katıl](http://jointhegame.kde.org/)"

@@ -81,11 +81,3 @@ msgstr "Görünmeyen Oturumda Zil"
 msgctxt "Comment"
 msgid "Bell emitted within a non-visible session"
 msgstr "Görünmeyen bir oturumda zil çalındı"
-
-#~ msgctxt "Name"
-#~ msgid "Startup"
-#~ msgstr "Başlangıç"
-
-#~ msgctxt "Comment"
-#~ msgid "Yakuake has started"
-#~ msgstr "Yakuake başlatıldı"

@@ -601,30 +601,3 @@ msgstr "Koleksiyonunuzdaki en eski tarihli parçalar."
 #, kde-format
 msgid "Open file"
 msgstr "Dosya Aç"
-
-#~ msgid "Dust off."
-#~ msgstr "Tozunu al."
-
-#~ msgid "New Tracks"
-#~ msgstr "Yeni Parçalar"
-
-#~ msgid "Newly added."
-#~ msgstr "Yeni eklendi."
-
-#~ msgid "Recent Artists"
-#~ msgstr "Son Çalınan Sanatçılar"
-
-#~ msgid "Recent Albums"
-#~ msgstr "Son Çalınan Albümler"
-
-#~ msgid "Playlists"
-#~ msgstr "Çalma Listeleri"
-
-#~ msgid "Recent playlists"
-#~ msgstr "Son çalınan listeler"
-
-#~ msgid "Camilo Higuita"
-#~ msgstr "Camilo Higuita"
-
-#~ msgid "Contributor"
-#~ msgstr "Katkıcı"

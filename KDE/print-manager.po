@@ -1625,12 +1625,3 @@ msgstr "Tamamlanan İşler"
 #, kde-format
 msgid "All Jobs"
 msgstr "Tüm İşler"
-
-#~ msgid "Daniel Nicoletti"
-#~ msgstr "Daniel Nicoletti"
-
-#~ msgid "AddPrinter"
-#~ msgstr "YazıcıEkle"
-
-#~ msgid "Configure printer"
-#~ msgstr "Yazıcıyı yapılandır"

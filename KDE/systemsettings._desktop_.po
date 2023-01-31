@@ -244,35 +244,3 @@ msgstr "Kenar Çubuğu Görünümü"
 msgctxt "Comment"
 msgid "Categorized sidebar style"
 msgstr "Kategorilendirilmiş kenar çubuğu biçemi"
-
-#~ msgctxt "Name"
-#~ msgid "System Settings Category"
-#~ msgstr "Sistem Ayarları Kategorisi"
-
-#~ msgctxt "Name"
-#~ msgid "Icons"
-#~ msgstr "Simgeler"
-
-#~ msgctxt "Name"
-#~ msgid "Peripherals"
-#~ msgstr "Çevre Birimleri"
-
-#~ msgctxt "Name"
-#~ msgid "Bluetooth"
-#~ msgstr "Bluetooth"
-
-#~ msgctxt "Name"
-#~ msgid "Accessibility"
-#~ msgstr "Erişilebilirlik"
-
-#~ msgctxt "Name"
-#~ msgid "Account Details"
-#~ msgstr "Hesap Ayrıntıları"
-
-#~ msgctxt "Name"
-#~ msgid "Notifications"
-#~ msgstr "Bildirimler"
-
-#~ msgctxt "Name"
-#~ msgid "System Settings View"
-#~ msgstr "Sistem Ayarları Görünümü"

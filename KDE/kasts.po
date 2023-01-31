@@ -1615,34 +1615,3 @@ msgstr "Eşzamanlama İptal Edildi"
 msgctxt "Step in Subscription and Episode Syncing Progress"
 msgid "Sync finished with Error"
 msgstr "Eşzamanlama, hatalarla bitti"
-
-#~ msgid "Errors"
-#~ msgstr "Hatalar"
-
-#~ msgid "Error log"
-#~ msgstr "Hata günlüğü"
-
-#~ msgctxt ""
-#~ "Label for settings related to streaming of episodes (as opposed to "
-#~ "playing back locally downloaded files)"
-#~ msgid "Streaming:"
-#~ msgstr "Akış:"
-
-#~ msgid "New Episodes:"
-#~ msgstr "Yeni Bölümler:"
-
-#~ msgid "Played Episodes:"
-#~ msgstr "Çalınan Bölümler:"
-
-#~ msgid "Current Status:"
-#~ msgstr "Geçerli Durum:"
-
-#~ msgid "Nothing Added to the Queue Yet"
-#~ msgstr "Kuyruğa Henüz Bir Şey Eklenmedi"
-
-#~ msgctxt "by <Author(s)>"
-#~ msgid "by %1"
-#~ msgstr "%1 tarafından"
-
-#~ msgid "Force Sync Now"
-#~ msgstr "Şimdi Eşzamanlamayı Zorla"

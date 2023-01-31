@@ -333,27 +333,3 @@ msgid ""
 msgstr ""
 "Bu e-posta adresi proje dosyalarına, adınızdan sonra telif hakları kısmına "
 "eklenecektir."
-
-#~ msgctxt "Do not translate"
-#~ msgid "Preview"
-#~ msgstr "Önizleme"
-
-#~ msgctxt "Do not translate"
-#~ msgid "Description"
-#~ msgstr "Açıklama"
-
-#~ msgid ""
-#~ "The extraction of your personal information in file %1 was not successful"
-#~ msgstr "%1 dosyasından kişisel bilgileriniz başarıyla çıkartılamadı"
-
-#~ msgid "The file %1 cannot be created."
-#~ msgstr "%1 dosyası oluşturulamaz."
-
-#~ msgid ""
-#~ "\n"
-#~ "\n"
-#~ "The file %1 cannot be created."
-#~ msgstr ""
-#~ "\n"
-#~ "\n"
-#~ "%1 dosyası oluşturulamaz."

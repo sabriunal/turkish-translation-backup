@@ -29,11 +29,3 @@ msgstr "Takvim Uygulaması"
 msgctxt "Comment"
 msgid "Manage your tasks and events with Kalendar"
 msgstr "Kalendar ile görevlerinizi ve etkinliklerinizi yönetin"
-
-#~ msgctxt "Name"
-#~ msgid "Contact"
-#~ msgstr "Kişi"
-
-#~ msgctxt "Comment"
-#~ msgid "Contact list"
-#~ msgstr "Kişi listesi"

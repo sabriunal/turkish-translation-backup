@@ -202,9 +202,3 @@ msgstr "Emir SARI"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "emir_sari@icloud.com"
-
-#~ msgid "Fullscreen"
-#~ msgstr "Tam Ekran"
-
-#~ msgid "Restore"
-#~ msgstr "Geri Yükle"

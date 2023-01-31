@@ -33,16 +33,3 @@ msgstr "Sayısal Kamera"
 msgctxt "Description"
 msgid "Configure Kamera"
 msgstr "Kamera'yı Yapılandır"
-
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "gphoto,camera,digicam,webcam,kamera"
-#~ msgstr ""
-#~ "gphoto,kamera,dijital fotoğraf makinesi,web kamerası,kamera,fotoğraf "
-#~ "makinesi"
-
-#, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Open with File Manager"
-#~ msgctxt "Name"
-#~ msgid "View Photos with File Manager"
-#~ msgstr "Dosya Yöneticisi ile Aç"

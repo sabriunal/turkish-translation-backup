@@ -36,6 +36,3 @@ msgstr "Hesapları Yapılandır"
 #, kde-format
 msgid "Upload to folder:"
 msgstr "Karşı klasöre yükle:"
-
-#~ msgid "Invalid folder!"
-#~ msgstr "Geçersiz klasör!"

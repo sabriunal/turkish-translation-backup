@@ -75,19 +75,3 @@ msgstr "SDDM ayarlarını sıfırlar, böylece kullanıcı ayarı kalmaz"
 msgctxt "Name"
 msgid "Login Screen"
 msgstr "Giriş Ekranı"
-
-#~ msgctxt "Name"
-#~ msgid "Login Screen (SDDM)"
-#~ msgstr "Giriş Ekranı (SDDM)"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure Login Manager"
-#~ msgstr "Giriş Yöneticisini Yapılandır"
-
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "sddm,display manager,theme"
-#~ msgstr "sddm, görüntü yöneticisi, tema"
-
-#~ msgctxt "Comment"
-#~ msgid "Select Login Theme"
-#~ msgstr "Oturum Açma Temasını Seçin"

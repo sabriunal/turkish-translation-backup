@@ -37,7 +37,3 @@ msgstr "4 kişilik eski Çin oyunu"
 msgctxt "GenericName"
 msgid "Mahjong tile game from China"
 msgstr "Çin'den Mahjong masa oyunu"
-
-#~ msgctxt "GenericName"
-#~ msgid "Mah Jongg"
-#~ msgstr "Mah Jongg"

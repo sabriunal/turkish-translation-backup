@@ -481,6 +481,3 @@ msgstr "Aranan terimler ile eşleşen araç takımı bulunamadı"
 #: contents/explorer/WidgetExplorer.qml:336
 msgid "No widgets available"
 msgstr "Kullanılabilir araç takımı yok"
-
-#~ msgid "%1 (disabled)"
-#~ msgstr "%1 (devre dışı)"
