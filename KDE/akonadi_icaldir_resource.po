@@ -120,9 +120,3 @@ msgid " minute"
 msgid_plural " minutes"
 msgstr[0] " dakika"
 msgstr[1] " dakika"
-
-#~ msgid "Directory Name"
-#~ msgstr "Dizin Adı"
-
-#~ msgid "Access Rights"
-#~ msgstr "Erişim Hakları"

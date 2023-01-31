@@ -407,13 +407,3 @@ msgstr "Granatier oyunundan çıkmak istediğinize emin misiniz?"
 msgctxt "To quit Granatier"
 msgid "Quit"
 msgstr "Çık"
-
-#~ msgid "Get New Players..."
-#~ msgstr "Yeni Oyuncular İndir..."
-
-#~ msgid "Import Clanbomber Arenas"
-#~ msgstr "Clanbomber Arenalarını İçe Aktar"
-
-#~ msgctxt "@title:window config dialog"
-#~ msgid "Select player"
-#~ msgstr "Oyuncu seçin"

@@ -2458,6 +2458,3 @@ msgstr ""
 #, kde-format
 msgid "Mark as: Keep"
 msgstr "İmle: Tut"
-
-#~ msgid "Expected estimate"
-#~ msgstr "Beklenen tahmin"

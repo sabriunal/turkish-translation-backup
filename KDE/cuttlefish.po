@@ -162,30 +162,3 @@ msgstr "hayır"
 #, kde-format
 msgid "Color scheme:"
 msgstr "Renk şeması:"
-
-#~ msgid "Create screenshot of icon with…"
-#~ msgstr "Simgenin ekran görüntüsünü şununla al…"
-
-#~ msgid "Name:"
-#~ msgstr "İsim:"
-
-#~ msgid "Sizes:"
-#~ msgstr "Boyutlar:"
-
-#~ msgid "Insert QtQuick code"
-#~ msgstr "QtQuick kodunu ekle"
-
-#~ msgid "Copy QtQuick code to clipboard"
-#~ msgstr "QtQuick kodunu panoya kopyala"
-
-#~ msgid "Update preview on hover"
-#~ msgstr "Fareyle üzerine gelindiğinde önizlemeyi güncelle"
-
-#~ msgid "Inverted"
-#~ msgstr "Ters"
-
-#~ msgid "Monochrome"
-#~ msgstr "Tek Renkli"
-
-#~ msgid "Cuttlefish Icon Browser"
-#~ msgstr "Cuttlefish Simge Tarayıcı"

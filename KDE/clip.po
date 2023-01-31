@@ -444,6 +444,3 @@ msgstr "Çevrimiçi videoları aramayı başlat."
 #, kde-format
 msgid "Search..."
 msgstr "Ara..."
-
-#~ msgid "Player"
-#~ msgstr "Oynatıcı"

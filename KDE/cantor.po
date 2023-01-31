@@ -4853,23 +4853,3 @@ msgstr "Girdiyi Kaldır"
 #, kde-format
 msgid "Drag Entry"
 msgstr "Girdiyi Sürükle"
-
-#~ msgid ""
-#~ "The plot integration doesn't work because Cantor found, that Octave can't "
-#~ "create plots, because there are no graphical backends for it: this "
-#~ "conclusion was made on the basis of empty output from "
-#~ "available_graphics_toolkits() function. Looks like you should install "
-#~ "some additional OS packages, like gnuplot, fltk or qt for possibility to "
-#~ "create plots."
-#~ msgstr ""
-#~ "Çizim tümleştirmesi çalışmıyor; çünkü Cantor, Octave için bir grafiksel "
-#~ "çizim oluşturma arka ucu bulunmadığını algıladı: Bu sonuca, "
-#~ "available_graphics_toolkits() işlevinden gelen boş çıktıya istinaden "
-#~ "ulaşıldı. Çizim oluşturabilmek için ek birkaç işletim sistemi paketi "
-#~ "kurmanız gerek gibi görünüyor; örneğin gnuplot, fltk veya qt gibi."
-
-#~ msgid "<%1 bytes>"
-#~ msgstr "<%1 bayt>"
-
-#~ msgid "<too big variable>"
-#~ msgstr "<pek büyük değişken>"

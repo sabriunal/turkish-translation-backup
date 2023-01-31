@@ -285,18 +285,3 @@ msgstr "Yeni Etiket"
 #, kde-format
 msgid "New File"
 msgstr "Yeni Dosya"
-
-#~ msgid "New Repo"
-#~ msgstr "Yeni Depo"
-
-#~ msgid "Open a recent project"
-#~ msgstr "Son kullanılan bir projeyi aç"
-
-#~ msgid "Clone a repository"
-#~ msgstr "Bir depo klonla"
-
-#~ msgid "Create a new repository"
-#~ msgstr "Yeni bir depo oluştur"
-
-#~ msgid "Open a local repository"
-#~ msgstr "Yerel bir depo aç"

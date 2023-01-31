@@ -123,15 +123,3 @@ msgstr "%1 Koşulları: %2"
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "İç Hata - %1"
-
-#~ msgid "Vishesh Handa"
-#~ msgstr "Vishesh Handa"
-
-#~ msgid "Maintainer"
-#~ msgstr "Bakıcı"
-
-#~ msgid "The fileID is not equal to the actual Baloo fileID"
-#~ msgstr "fileID güncel Baloo fileID ile eşit değil"
-
-#~ msgid "This is a bug"
-#~ msgstr "Bu bir hata"

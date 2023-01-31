@@ -79,6 +79,3 @@ msgstr "Éric Bischoff"
 #, kde-format
 msgid "Design and implementation"
 msgstr "Tasarım ve uyarlama"
-
-#~ msgid "Time Genie exchange rates courtesy of Time Genie"
-#~ msgstr "Time Genie kur oranları Time Genie izni ile kullanılmaktadır"

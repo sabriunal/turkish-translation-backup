@@ -35,7 +35,3 @@ msgstr "Git Klient Diff"
 msgctxt "Name"
 msgid "Git Klient Merge"
 msgstr "Git Klient Birleştir"
-
-#~ msgctxt "Name"
-#~ msgid "My fancy action plugin"
-#~ msgstr "Janjanlı eylem eklentim"

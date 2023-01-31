@@ -127,12 +127,3 @@ msgstr "Hatırlatmayı Takip Et"
 #, kde-format
 msgid "You still wait an answer about this mail:"
 msgstr "Bu posta için hâlâ yanıt bekliyorsunuz:"
-
-#~ msgid "Configure"
-#~ msgstr "Yapılandır"
-
-#~ msgid "Follow Up Mail."
-#~ msgstr "Posta Takip Et."
-
-#~ msgid "Follow Up Mail"
-#~ msgstr "Postayı Takip Et"

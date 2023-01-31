@@ -44,7 +44,3 @@ msgstr "Disk kullanımına bakın ve kullanılmayan dosyaları silin"
 msgctxt "Keywords"
 msgid "disk;drive;space;storage;usage;"
 msgstr "disk;sürücü;alan;depolama;kullanım;"
-
-#~ msgctxt "Comment"
-#~ msgid "View disk usage information"
-#~ msgstr "Disk kullanımını görüntüle"

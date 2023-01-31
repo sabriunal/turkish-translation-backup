@@ -55,19 +55,3 @@ msgstr "Araç takımlarının görünüşünü değiştirin"
 msgctxt "Authors Name"
 msgid "ruvkr"
 msgstr "ruvkr"
-
-#~ msgctxt "Name"
-#~ msgid "Safe Landing"
-#~ msgstr "Güvenli İniş"
-
-#~ msgctxt "Authors Name"
-#~ msgid "Louis Durrant"
-#~ msgstr "Louis Durrant"
-
-#~ msgctxt "Name"
-#~ msgid "Animated"
-#~ msgstr "Canlandırılmış"
-
-#~ msgctxt "Authors Name"
-#~ msgid "Floris Kloet"
-#~ msgstr "Floris Kloet"

@@ -816,6 +816,3 @@ msgstr "Yapışkanlar"
 #: i18n/en.yaml:0
 msgid "Visit Freewear"
 msgstr "Freewear'ı ziyaret et"
-
-#~ msgid "Celebrate with us 25 years of awesomeness"
-#~ msgstr "25 yıllık mükemmelliği bizlerle paylaşın"

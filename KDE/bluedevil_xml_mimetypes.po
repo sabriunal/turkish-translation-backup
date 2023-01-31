@@ -26,9 +26,3 @@ msgstr "Aygıt"
 msgctxt "comment"
 msgid "Service"
 msgstr "Hizmet"
-
-#~ msgid "Known Device"
-#~ msgstr "Bilinen Aygıt"
-
-#~ msgid "Discovered Device"
-#~ msgstr "Keşfedilen Aygıt"

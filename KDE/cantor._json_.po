@@ -305,19 +305,3 @@ msgstr "Çalışma sayfası yapısını gösteren bir panel"
 msgctxt "Description"
 msgid "A panel to manage the variables of a session"
 msgstr "Bir oturumun değişkenleri yönetmek için bir panel"
-
-#~ msgctxt "Name"
-#~ msgid "Python 3"
-#~ msgstr "Python 3"
-
-#~ msgctxt "Description"
-#~ msgid "Backend for Python 3 Scientific Programming"
-#~ msgstr "Python 3 Bilimsel Programlama için arka uç"
-
-#~ msgctxt "Name"
-#~ msgid "nullbackend"
-#~ msgstr "belirsiz arka uç"
-
-#~ msgctxt "Description"
-#~ msgid "Backend for Cantor for testing purposes"
-#~ msgstr "Test amaçlı kullanılmak üzere Cantor arka ucu"

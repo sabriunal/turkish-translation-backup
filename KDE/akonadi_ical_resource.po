@@ -81,6 +81,3 @@ msgstr "Değiştirilen %1 ögesi getirilemedi."
 #, kde-format
 msgid "Filename:"
 msgstr "Dosya adı:"
-
-#~ msgid "Select Calendar"
-#~ msgstr "Takvim Seç"

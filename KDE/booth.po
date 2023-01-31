@@ -312,9 +312,3 @@ msgstr "Dar alanlarda kenar çubuğunu açık tut"
 #, kde-format
 msgid "Dark Mode"
 msgstr "Koyu Kip"
-
-#~ msgid "Roll"
-#~ msgstr "Rulo"
-
-#~ msgid "Camera"
-#~ msgstr "Kamera"

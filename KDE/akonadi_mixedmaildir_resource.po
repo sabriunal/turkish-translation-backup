@@ -280,6 +280,3 @@ msgstr "Maildir bilgilerini içeren dizini seçin:"
 #, kde-format
 msgid "Open in read-only mode"
 msgstr "Salt okunur kipte aç"
-
-#~ msgid "Select a KMail Mail folder"
-#~ msgstr "KMail Posta klasörünü seçin"

@@ -64,6 +64,3 @@ msgstr "D-Bus aracılığıyla Akregatör ile iletişim kurulamıyor"
 msgctxt "@title:window"
 msgid "D-Bus call failed"
 msgstr "DBus çağrısı başarısız"
-
-#~ msgid "Akregator feed icon - DBus Call failed"
-#~ msgstr "Akregator besleme simgesi - DBus Çağrısı başarısız oldu"

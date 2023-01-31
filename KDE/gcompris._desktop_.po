@@ -29,11 +29,3 @@ msgstr "Çocuklar için Eğitici Oyunlar"
 msgctxt "Comment"
 msgid "Multi-Activity Educational game for children 2 to 10"
 msgstr "2-10 Yaş Arası Çocuklar için Çok Etkinlikli Eğitici Oyunlar"
-
-#~ msgctxt "Name"
-#~ msgid "GCompris Educational Game"
-#~ msgstr "GCompris Eğitici Oyun"
-
-#~ msgctxt "GenericName"
-#~ msgid "Educational game"
-#~ msgstr "Eğitici oyun"

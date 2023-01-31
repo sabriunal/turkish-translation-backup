@@ -57,7 +57,3 @@ msgstr "Gwenview İçe Aktarıcı"
 msgctxt "Name"
 msgid "Gwenview Image Viewer"
 msgstr "Gwenview Görsel Görüntüleyici"
-
-#~ msgctxt "Name"
-#~ msgid "Start a Slideshow"
-#~ msgstr "Bir Slayt Gösterisi Başlat"

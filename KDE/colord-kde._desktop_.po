@@ -26,31 +26,3 @@ msgstr "ICC Profil Yükleyici"
 msgctxt "Comment"
 msgid "Install ICC profiles"
 msgstr "ICC profilleri yükleyin"
-
-#~ msgctxt "Name"
-#~ msgid "Color Corrections"
-#~ msgstr "Renk Düzeltmeleri"
-
-#~ msgctxt "Comment"
-#~ msgid "Manage color correction of devices"
-#~ msgstr "Aygıtların renk düzeltmesini yönetin"
-
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "color,color correction,icc"
-#~ msgstr "renk,renk düzeltmesi,icc"
-
-#~ msgctxt "Name"
-#~ msgid "Color Daemon"
-#~ msgstr "Renk Ardalan Süreci"
-
-#~ msgctxt "Comment"
-#~ msgid "Manage Screen Color Profiles"
-#~ msgstr "Ekran Renk Profillerini Yönet"
-
-#~ msgctxt "Name"
-#~ msgid "colord Engine"
-#~ msgstr "colord Motoru"
-
-#~ msgctxt "Name"
-#~ msgid "Color"
-#~ msgstr "Renk"

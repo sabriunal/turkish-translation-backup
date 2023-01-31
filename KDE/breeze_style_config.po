@@ -194,32 +194,3 @@ msgstr "Mat"
 #, kde-format
 msgid "Menu:"
 msgstr "Menü:"
-
-#~ msgid "Always Hide Keyboard Accelerators"
-#~ msgstr "Her Zaman Klavye Hızlandırıcılarını Gizle"
-
-#~ msgid "Show Keyboard Accelerators When Needed"
-#~ msgstr "Gerektiğinde Klavye Hızlandırıcılarını Göster"
-
-#~ msgid "Always Show Keyboard Accelerators"
-#~ msgstr "Her Zaman Klavye Hızlandırıcılarını Göster"
-
-#~ msgid "Draw frame around page titles"
-#~ msgstr "Sayfa başlıkları çevresinde çerçeve çiz"
-
-#~ msgid "Animations"
-#~ msgstr "Animasyonlar"
-
-#, fuzzy
-#~| msgid "Anima&tions duration:"
-#~ msgid "A&nimations duration:"
-#~ msgstr "Animasyon &süreleri:"
-
-#~ msgid " ms"
-#~ msgstr " ms"
-
-#~ msgid "Enable animations"
-#~ msgstr "Animasyonları etkinleştir"
-
-#~ msgid "Advanced"
-#~ msgstr "Gelişmiş"

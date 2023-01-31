@@ -2593,25 +2593,3 @@ msgstr "Okunmuş"
 msgctxt "Important articles filter"
 msgid "Important"
 msgstr "Önemli"
-
-#~ msgid "Archive"
-#~ msgstr "Arşiv"
-
-#~ msgid "Archive backend:"
-#~ msgstr "Arşivleme arka ucu:"
-
-#~ msgid "&Configure..."
-#~ msgstr "&Yapılandır..."
-
-#~ msgid "Metakit"
-#~ msgstr "Metakit"
-
-#~ msgid "Unable to load storage backend plugin \"%1\". No feeds are archived."
-#~ msgstr ""
-#~ "Saklama arka uç eklentisi \"%1\" yüklenemedi. Hiçbir besleme arşivlenmedi."
-
-#~ msgid "Plugin error"
-#~ msgstr "Eklenti hatası"
-
-#~ msgid "No Archive"
-#~ msgstr "Arşiv Yok"

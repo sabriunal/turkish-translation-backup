@@ -827,10 +827,3 @@ msgstr "Kılavuz çizgi rengi"
 #, kde-format
 msgid "Simplified guide lines"
 msgstr "Basitleştirilmiş kılavuz çizgiler"
-
-#~ msgid ""
-#~ "This file already exists\n"
-#~ "Do you want to overwrite it?"
-#~ msgstr ""
-#~ "Dosya, halihazırda var\n"
-#~ "Üzerine yazmak istiyor musunuz?"

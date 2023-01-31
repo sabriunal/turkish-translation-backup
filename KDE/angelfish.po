@@ -724,24 +724,3 @@ msgstr "Özel Sekmeler"
 #, kde-format
 msgid "URL to open"
 msgstr "Açılacak URL"
-
-#~ msgid "Close"
-#~ msgstr "Kapat"
-
-#~ msgid "Confirm"
-#~ msgstr "Onayla"
-
-#~ msgid "OK"
-#~ msgstr "Tamam"
-
-#~ msgid "Enable Adblock"
-#~ msgstr "Adblock'u etkinleştir"
-
-#~ msgid "Adblock filter lists"
-#~ msgstr "Adblock filtre listeleri"
-
-#~ msgid "New"
-#~ msgstr "Yeni"
-
-#~ msgid "Choose the buttons enabled in navigation bar. "
-#~ msgstr "Gezinme çubuğunda etkinleştirilen düğmeleri seçin."

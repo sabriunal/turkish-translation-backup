@@ -177,6 +177,3 @@ msgstr "Sıfırla (R)"
 msgctxt "keyboard shortcut"
 msgid "About Francis (F1)"
 msgstr "Francis Hakkında (F1)"
-
-#~ msgid "Click to set a goal…"
-#~ msgstr "Bir hedef oluşturmak için tıklayın…"

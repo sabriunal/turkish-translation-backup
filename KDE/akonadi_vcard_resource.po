@@ -68,6 +68,3 @@ msgstr "Dosyadaki değişiklikleri izle."
 #, kde-format
 msgid "Filename:"
 msgstr "Dosya adı:"
-
-#~ msgid "Select Address Book"
-#~ msgstr "Adres Defterini Seç"

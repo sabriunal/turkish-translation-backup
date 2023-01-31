@@ -33,11 +33,3 @@ msgstr "Esinti"
 msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr "KDE Görsel Tasarım Grubundan Esinti"
-
-#~ msgctxt "Comment"
-#~ msgid "Default Plasma 5 Theme for Dark themes"
-#~ msgstr "Karanlık temalar için Varsayılan Plasma 5 Teması"
-
-#~ msgctxt "Comment"
-#~ msgid "Default Plasma 5 Theme"
-#~ msgstr "Varsayılan Plasma 5 Teması"

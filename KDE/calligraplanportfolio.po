@@ -1229,6 +1229,3 @@ msgstr "Özkaynak Kullanımı"
 #, kde-format
 msgid "Gantt Summary"
 msgstr "Gantt Özeti"
-
-#~ msgid "Scheduling running..."
-#~ msgstr "Zamanlama çalışıyor..."

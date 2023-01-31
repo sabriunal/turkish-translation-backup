@@ -24,20 +24,3 @@ msgstr "Müzik Çalar"
 msgctxt "Name"
 msgid "Elisa"
 msgstr "Elisa"
-
-#~ msgctxt "Name"
-#~ msgid "Elisa Local Files Indexer"
-#~ msgstr "Elias Yerel Dosya İndeksleyici"
-
-#~ msgctxt "Comment"
-#~ msgid "A configuration tool for Elisa music player local files indexer"
-#~ msgstr ""
-#~ "Elisa müzik çalar yerel dosya indeksleyicisi için bir yapılandırma aracı"
-
-#~ msgctxt "X-KDE-Keywords"
-#~ msgid "Elisa"
-#~ msgstr "Elisa"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure Local Files Indexer of Elisa Music Player"
-#~ msgstr "Elisa Müzik Çalar'ın Yerel Dosya İndeksleyicisini Yapılandır"

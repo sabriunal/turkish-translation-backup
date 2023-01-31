@@ -68,11 +68,3 @@ msgstr "Besleme Okuyucu"
 msgctxt "Comment"
 msgid "A KDE News Feed Reader"
 msgstr "Bir Haber Beslemesi Okuyucu"
-
-#~ msgctxt "Name"
-#~ msgid "Metakit storage backend"
-#~ msgstr "Metakit depolama arka ucu"
-
-#~ msgctxt "Comment"
-#~ msgid "Plugin for Akregator"
-#~ msgstr "Akregator Eklentisi"

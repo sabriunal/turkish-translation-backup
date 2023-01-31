@@ -744,9 +744,3 @@ msgstr "Oluşturmak istediğiniz hesap türünü seçin:"
 #, kde-format
 msgid "Check for more on Internet"
 msgstr "İnternette başkalarına da bak"
-
-#~ msgid "Unknown security setting for LDAP server"
-#~ msgstr "LDAP sunucusu için bilinmeyen güvenlik ayarı"
-
-#~ msgid "Create Account"
-#~ msgstr "Hesap Oluştur"

@@ -137,6 +137,3 @@ msgstr "emir_sari@icloud.com"
 #, kde-format
 msgid "Epub reader"
 msgstr "Epub Okuyucu"
-
-#~ msgid "Mastodon client"
-#~ msgstr "Mastodon İstemcisi"

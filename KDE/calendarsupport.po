@@ -2929,27 +2929,3 @@ msgstr "%1 (%2)"
 msgctxt "replace pattern for holidayname (countrycode)"
 msgid "^%1 \\(.*\\)"
 msgstr "^%1 \\(.*\\)"
-
-#~ msgctxt "@option sort by title"
-#~ msgid "Title"
-#~ msgstr "Başlık"
-
-#~ msgctxt "@option today"
-#~ msgid "&Today"
-#~ msgstr "&Bugün"
-
-#~ msgctxt "@option tomorrow"
-#~ msgid "To&morrow"
-#~ msgstr "&Yarın"
-
-#~ msgctxt "@option next week"
-#~ msgid "Next &Week"
-#~ msgstr "Sonraki &Hafta"
-
-#~ msgctxt "@option next month"
-#~ msgid "Next M&onth"
-#~ msgstr "Sonraki &Ay"
-
-#~ msgctxt "@option do not specify a date"
-#~ msgid "No Date"
-#~ msgstr "Tarih Yok"

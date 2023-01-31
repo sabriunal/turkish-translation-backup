@@ -23,7 +23,3 @@ msgstr "Fielding"
 msgctxt "Comment"
 msgid "Test your REST APIs"
 msgstr "REST API'si Sınayıcı"
-
-#~ msgctxt "Comment"
-#~ msgid "Simple REST API testing tool"
-#~ msgstr "Yalın REST API sınama aracı"

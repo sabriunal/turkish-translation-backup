@@ -108,12 +108,3 @@ msgstr "%1 geçerli bir dizin değil"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Geçen süre: %1 mil. sn"
-
-#~ msgid "Maintainer"
-#~ msgstr "Projeyi yürüten"
-
-#~ msgid "Baloo Search - A debugging tool"
-#~ msgstr "Baloo Araması - Bir hata giderme aracı"
-
-#~ msgid "(c) 2013-15, Vishesh Handa"
-#~ msgstr "(c) 2013-15, Vishesh Handa"

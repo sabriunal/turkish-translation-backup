@@ -113,7 +113,3 @@ msgstr "Çevrimdışı güncellemeden sonra onarım hatası"
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "Yeniden Başlatma Gerekiyor"
-
-#~ msgctxt "Name"
-#~ msgid "Software Update"
-#~ msgstr "Yazılım Güncelleme"

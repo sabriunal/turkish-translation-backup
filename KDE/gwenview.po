@@ -2770,10 +2770,3 @@ msgstr "&Dosya"
 #, kde-format
 msgid "&View"
 msgstr "&Görünüm"
-
-#~ msgctxt "@action:intoolbar"
-#~ msgid "Adjust Brightness/Contrast/Gamma"
-#~ msgstr "Parlaklık/Karşıtlık/Gama Ayarla"
-
-#~ msgid "Adjust Brightness/Contrast/Gamma"
-#~ msgstr "Parlaklık/Karşıtlık/Gama Ayarla"

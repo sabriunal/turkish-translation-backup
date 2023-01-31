@@ -3736,21 +3736,3 @@ msgstr "Hakkında daha çok bilgi için"
 #: windows/index.php:5
 msgid "KDE-Edu on Windows"
 msgstr "Windows üzerinde KDE-Edu"
-
-#~ msgid "Wear KDE Edu"
-#~ msgstr "KDE Edu'yu Giyinin"
-
-#~ msgid "Here you can find KDE Edu-themed merchandising!"
-#~ msgstr "Burada KDE Edu temalı ürünler bulabilirsiniz!"
-
-#~ msgid "Go for it!"
-#~ msgstr "Göreyim seni!"
-
-#~ msgid "Wear KDE Edu!"
-#~ msgstr "KDE Edu'yu Giyinin!"
-
-#~ msgid "Got some flags from it"
-#~ msgstr "Ondan bazı bayraklar alındı"
-
-#~ msgid "Support for four different environments (Maxima, R, SAGE, KAlgebra)"
-#~ msgstr "Dört farklı ortam için destek (Maxima, R, SAGE, KAlgebra)"

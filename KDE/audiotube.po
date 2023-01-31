@@ -247,27 +247,3 @@ msgstr "Beğenilere Ekle"
 #, kde-format
 msgid "Remove from History"
 msgstr "Geçmişten Kaldır"
-
-#~ msgid "Favourite Songs"
-#~ msgstr "Beğenilen Şarkılar"
-
-#~ msgid "Back"
-#~ msgstr "Geri"
-
-#~ msgid "Find music on YouTube Music"
-#~ msgstr "YouTube Müzik'te müzik bul"
-
-#~ msgid "Add to Playlist"
-#~ msgstr "Çalma Listesine Ekle"
-
-#~ msgid "Play next"
-#~ msgstr "Sonrakini çal"
-
-#~ msgid "Clear"
-#~ msgstr "Temizle"
-
-#~ msgid "Pause"
-#~ msgstr "Duraklat"
-
-#~ msgid "Expand"
-#~ msgstr "Genişlet"
