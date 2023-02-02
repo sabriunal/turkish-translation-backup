@@ -1,0 +1,362 @@
+# Turkish translation of gnome-sudoku.
+# Copyright (C) 2000-2002, 2004, 2005, 2008 Free Software Foundation, Inc.
+# Copyright (C) 2019-2022 gnome-sudoku's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-sudoku package.
+#
+# Onur Kucuk, <okucuk@yahoo.com>, 2000.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>,2002.
+# Hakan Bekdas <hakanbekdas@yahoo.com>, 2006.
+# Baris Cicek <baris@teamforce.name.tr>, 2004, 2005, 2008, 2009.
+# Osman Karagöz <osmank3@gmail.com>, 2014.
+# Gökhan Gurbetoğlu <ggurbet@gmail.com>, 2014.
+# Çağatay Yiğit Şahin <cyigitsahin@outlook.com>, 2017.
+# Muhammet Kara <muhammetk@gmail.com>, 2011, 2014, 2015, 2018.
+# Sabri Ünal <libreajans@gmail.com>, 2021.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2019, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-sudoku\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-sudoku/issues\n"
+"POT-Creation-Date: 2022-10-13 08:52+0000\n"
+"PO-Revision-Date: 2022-07-23 01:30+0300\n"
+"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"Language-Team: Türkçe <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Gtranslator 3.30.1\n"
+
+#: data/sudoku-window.ui:7
+msgid "_New Puzzle"
+msgstr "Ye_ni Bulmaca"
+
+#: data/sudoku-window.ui:11
+msgid "_Clear Board"
+msgstr "Tahtayı _Temizle"
+
+#: data/sudoku-window.ui:17 data/print-dialog.ui:38
+msgid "_Print"
+msgstr "_Yazdır"
+
+#: data/sudoku-window.ui:20
+msgid "Print _Current Puzzle…"
+msgstr "Ş_imdiki Bulmacayı Yazdır…"
+
+#: data/sudoku-window.ui:24
+msgid "Print _Multiple Puzzles…"
+msgstr "Ço_klu Bulmaca Yazdır..."
+
+#: data/sudoku-window.ui:32
+msgid "High_lighter"
+msgstr "_Vurgulayıcı"
+
+#: data/sudoku-window.ui:36
+msgid "_Warnings"
+msgstr "_Uyarılar"
+
+#: data/sudoku-window.ui:42
+msgid "_Help"
+msgstr "_Yardım"
+
+#: data/sudoku-window.ui:46
+msgid "_About Sudoku"
+msgstr "Sudoku _Hakkında"
+
+#: data/sudoku-window.ui:52 data/sudoku-window.ui:57
+#: data/org.gnome.Sudoku.desktop.in:3 src/gnome-sudoku.vala:498
+#: src/sudoku-window.vala:213
+msgid "Sudoku"
+msgstr "Sudoku"
+
+#: data/sudoku-window.ui:73
+msgid "Undo your last action"
+msgstr "Son hareketinizi geri alın"
+
+#: data/sudoku-window.ui:94
+msgid "Redo your last action"
+msgstr "Son hareketinizi yineleyin"
+
+#: data/sudoku-window.ui:126
+msgid "Pause"
+msgstr "Duraklat"
+
+#: data/sudoku-window.ui:147
+msgid "Start playing the custom puzzle you have created"
+msgstr "Oluşturduğunuz özel bulmacayı oynamaya başlayın"
+
+#: data/sudoku-window.ui:189
+msgid "Go back to the current game"
+msgstr "Var olan oyuna geri dön"
+
+#: data/sudoku-window.ui:233 data/print-dialog.ui:157
+msgid "_Easy"
+msgstr "_Kolay"
+
+#: data/sudoku-window.ui:241 data/print-dialog.ui:172
+msgid "_Medium"
+msgstr "_Orta"
+
+#: data/sudoku-window.ui:249 data/print-dialog.ui:188
+msgid "_Hard"
+msgstr "_Zor"
+
+#: data/sudoku-window.ui:257 data/print-dialog.ui:204
+msgid "_Very Hard"
+msgstr "Çok Zo_r"
+
+#: data/sudoku-window.ui:265
+msgid "_Create your own puzzle"
+msgstr "Kendi bulmacanızı _oluşturun"
+
+#: data/org.gnome.Sudoku.appdata.xml.in:7
+msgid "GNOME Sudoku"
+msgstr "GNOME Sudoku"
+
+#: data/org.gnome.Sudoku.appdata.xml.in:8 data/org.gnome.Sudoku.desktop.in:4
+msgid "Test your logic skills in this number grid puzzle"
+msgstr "Bu rakam yerleştirme bulmacasında mantıksal yeteneklerinizi sınayın"
+
+#: data/org.gnome.Sudoku.appdata.xml.in:10
+msgid ""
+"Play the popular Japanese logic game. GNOME Sudoku is a must-install for "
+"Sudoku lovers, with a simple, unobtrusive interface that makes playing "
+"Sudoku fun for players of any skill level."
+msgstr ""
+"Gözde Japon mantık oyununu oynayın. GNOME Sudoku, Sudoku’yu her beceri "
+"düzeyindeki oyuncu için eğlenceli yapan kolay ve gösterişsiz arayüzüyle "
+"Sudoku severlerin kesinlikle kurması gereken uygulamadır."
+
+#: data/org.gnome.Sudoku.appdata.xml.in:15
+msgid ""
+"Each game is assigned a difficulty similar to those given by newspapers and "
+"websites, so your game will be as easy or as difficult as you want it to be."
+msgstr ""
+"Her oyun gazetelerde ve web sitelerinde verildiği gibi zorluk düzeylerine "
+"göre atanmıştır, böylece oyununuz dilediğinizce kolay veya zorlaşacaktır."
+
+#: data/org.gnome.Sudoku.appdata.xml.in:20
+msgid ""
+"If you like to play on paper, you can print games out. You can choose how "
+"many games you want to print per page and what difficulty of games you want "
+"to print: as a result, GNOME Sudoku can act a renewable Sudoku book for you."
+msgstr ""
+"Eğer kağıtta oynamayı sevenlerdenseniz, oyunları yazdırabilirsiniz. Sayfa "
+"başına kaç ve hangi zorlukta oyun yazdırmak istediğinizi seçebilirsiniz: "
+"sonuç olarak, GNOME Sudoku sizin için yenilenebilir Sudoku kitabı işlevi "
+"görebilir."
+
+#: data/org.gnome.Sudoku.appdata.xml.in:30
+msgid "A GNOME sudoku game preview"
+msgstr "GNOME sudoku oyunu ön izlemesi"
+
+#: data/org.gnome.Sudoku.appdata.xml.in:75
+msgid "The GNOME Project"
+msgstr "GNOME Projesi"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.Sudoku.desktop.in:6
+msgid "magic;square;"
+msgstr "sihir;büyü;kare;"
+
+#: data/org.gnome.Sudoku.gschema.xml:11
+msgid "Difficulty level of sudokus to be printed"
+msgstr "Yazdırılacak sudoku zorluk düzeyi"
+
+#: data/org.gnome.Sudoku.gschema.xml:12
+msgid ""
+"Set the difficulty level of the sudokus you want to print. Possible values "
+"are: \"easy\", \"medium\", \"hard\", \"very_hard\""
+msgstr ""
+"Yazdırmak istediğiniz sudoku zorluk düzeyini ayarlayın. Olası değerler: "
+"“easy” (kolay), “medium” (orta), “hard” (zor), “very_hard” (çok zor)"
+
+#: data/org.gnome.Sudoku.gschema.xml:17
+msgid "Number of Sudokus to print"
+msgstr "Yazdırılacak olan sudoku sayısı"
+
+#: data/org.gnome.Sudoku.gschema.xml:18
+msgid "Set the number of sudokus you want to print"
+msgstr "Yazdırılacak olan sudoku sayısını ayarla"
+
+#: data/org.gnome.Sudoku.gschema.xml:23
+msgid "Number of Sudokus to print per page"
+msgstr "Sayfa başına yazdırılacak olan sudoku sayısı"
+
+#: data/org.gnome.Sudoku.gschema.xml:24
+msgid "Set the number of sudokus you want to print per page"
+msgstr "Sayfa başına yazdırılacak olan sudoku sayısını ayarla"
+
+#: data/org.gnome.Sudoku.gschema.xml:28
+msgid "Warn about unfillable squares and duplicate numbers"
+msgstr "Doldurulamayan kareler ve yineleyen sayılar hakkında uyar"
+
+#: data/org.gnome.Sudoku.gschema.xml:29
+msgid ""
+"Displays a big red X in a square if it cannot possibly be filled by any "
+"number and duplicate numbers are highlighted in red"
+msgstr ""
+"Eğer karenin herhangi bir sayıyla doldurulması olanaksızsa içinde büyük "
+"kırmızı X görülür ve yineleyen sayılar kırmızıyla vurgulanır"
+
+#: data/org.gnome.Sudoku.gschema.xml:33
+msgid "Highlight row, column and square that contain the selected cell"
+msgstr "Seçili hücreyi içeren satır, sütun ve kareyi vurgula"
+
+#: data/org.gnome.Sudoku.gschema.xml:37
+msgid "Width of the window in pixels"
+msgstr "Pencerenin piksel türünden genişliği"
+
+#: data/org.gnome.Sudoku.gschema.xml:41
+msgid "Height of the window in pixels"
+msgstr "Pencerenin piksel türünden yüksekliği"
+
+#: data/org.gnome.Sudoku.gschema.xml:45
+msgid "true if the window is maximized"
+msgstr "pencere ekranı kaplamışsa doğru (true)"
+
+#: data/org.gnome.Sudoku.gschema.xml:49
+msgid "Initialize the earmarks with the possible values for each cell"
+msgstr "Ayraçları her hücre için olası değerlerle başlat"
+
+#: data/print-dialog.ui:18
+msgid "Print Multiple Puzzles"
+msgstr "Çoklu Bulmaca Yazdır"
+
+#: data/print-dialog.ui:27
+msgid "_Cancel"
+msgstr "İptal _et"
+
+#: data/print-dialog.ui:65
+msgid "_Number of puzzles"
+msgstr "_Bulmaca sayısı"
+
+#: data/print-dialog.ui:101
+msgid "_Number of puzzles per page"
+msgstr "Sayfa başına _bulmaca sayısı"
+
+#: data/print-dialog.ui:138
+msgid "Difficulty"
+msgstr "Zorluk"
+
+#: lib/sudoku-board.vala:644
+msgid "Unknown Difficulty"
+msgstr "Bilinmeyen Zorluk"
+
+#: lib/sudoku-board.vala:646
+msgid "Easy Difficulty"
+msgstr "Düşük Zorluk"
+
+#: lib/sudoku-board.vala:648
+msgid "Medium Difficulty"
+msgstr "Orta Zorluk"
+
+#: lib/sudoku-board.vala:650
+msgid "Hard Difficulty"
+msgstr "Yüksek Zorluk"
+
+#: lib/sudoku-board.vala:652
+msgid "Very Hard Difficulty"
+msgstr "Çok Yüksek Zorluk"
+
+#: lib/sudoku-board.vala:654
+msgid "Custom Puzzle"
+msgstr "Özel Bulmaca"
+
+#. Help string for command line --version flag
+#: src/gnome-sudoku.vala:72
+msgid "Show release version"
+msgstr "Yayım sürümünü göster"
+
+#. Help string for command line --show-possible flag
+#: src/gnome-sudoku.vala:76
+msgid "Show the possible values for each cell"
+msgstr "Her hücre için olası değerleri göster"
+
+#. Error dialog shown when starting a custom game that is not valid.
+#: src/gnome-sudoku.vala:231
+msgid "The puzzle you have entered is not a valid Sudoku."
+msgstr "Girmiş olduğunuz bulmaca geçerli bir Sudoku değildir."
+
+#: src/gnome-sudoku.vala:231
+msgid "Please enter a valid puzzle."
+msgstr "Lütfen geçerli bulmaca girin."
+
+#. Warning dialog shown when starting a custom game that has multiple solutions.
+#: src/gnome-sudoku.vala:240
+msgid "The puzzle you have entered has multiple solutions."
+msgstr "Girmiş olduğunuz bulmacanın birden çok çözümü var."
+
+#: src/gnome-sudoku.vala:240
+msgid "Valid Sudoku puzzles have exactly one solution."
+msgstr "Geçerli Sudoku bulmacalarının tek çözümü olur."
+
+#: src/gnome-sudoku.vala:242
+msgid "_Back"
+msgstr "_Geri"
+
+#: src/gnome-sudoku.vala:243
+msgid "Play _Anyway"
+msgstr "_Yine De Oyna"
+
+#: src/gnome-sudoku.vala:286
+#, c-format
+msgid "Well done, you completed the puzzle in %d minute!"
+msgid_plural "Well done, you completed the puzzle in %d minutes!"
+msgstr[0] "Aferin! Bulmacayı %d dakika içinde tamamladınız!"
+
+#: src/gnome-sudoku.vala:290
+msgid "_Quit"
+msgstr "_Çıkış"
+
+#: src/gnome-sudoku.vala:291
+msgid "Play _Again"
+msgstr "_Yeniden Oyna"
+
+#: src/gnome-sudoku.vala:400
+msgid "Reset the board to its original state?"
+msgstr "Tahta ilk durumuna sıfırlansın mı?"
+
+#. Appears on the About dialog. %s is the version of the QQwing puzzle generator in use.
+#: src/gnome-sudoku.vala:495
+#, c-format
+msgid ""
+"The popular Japanese logic puzzle\n"
+"\n"
+"Puzzles generated by QQwing %s"
+msgstr ""
+"Gözde Japon mantık oyunu\n"
+"\n"
+"Bulmacalar QQwing %s tarafından oluşturulur"
+
+#: src/gnome-sudoku.vala:506
+msgid "translator-credits"
+msgstr ""
+"Barış Çiçek <baris@teamforce.name.tr>\n"
+"Muhammet Kara <muhammetk@gmail.com>\n"
+"Osman Karagöz <osmank3@gmail.com>\n"
+"Emin Tufan Çetin <etcetin@gmail.com>"
+
+#: src/number-picker.vala:85
+msgid "Clear"
+msgstr "Temizle"
+
+#. Error message if printing fails
+#: src/sudoku-printer.vala:47
+msgid "Error printing file:"
+msgstr "Dosya yazdırılırken hata:"
+
+#. Text on overlay when game is paused
+#: src/sudoku-view.vala:756
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+#: src/sudoku-window.vala:154
+msgid "Select Difficulty"
+msgstr "Zorluk Seç"
+
+#: src/sudoku-window.vala:215
+msgid "Create Puzzle"
+msgstr "Bulmaca Oluştur"
