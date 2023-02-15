@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Ali Polatel <ali.polatel@ozguryazilim.com.tr>, 2015
 # Ayhan YALÇINSOY <ayhanyalcinsoy@gmail.com>, 2012
@@ -11,6 +11,7 @@
 # Gökmen Görgen <gkmngrgn@gmail.com>, 2008
 # Necdet Yücel <necdetyucel@gmail.com>, 2015-2017
 # Onur Küçük <onur@pardus.org.tr>, 2008
+# Sabri Ünal <libreajans@gmail.com>, 2023
 # Serdar Sağlam <teknomobil@msn.com>, 2019
 # Volkan Gezer <volkangezer@gmail.com>, 2013
 msgid ""
@@ -18,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Xfce Apps\n"
 "Report-Msgid-Bugs-To: xfce-i18n@xfce.org\n"
 "POT-Creation-Date: 2023-01-30 00:49+0100\n"
-"PO-Revision-Date: 2013-07-03 18:30+0000\n"
-"Last-Translator: Demiray Muhterem <mdemiray@msn.com>, 2019,2021,2023\n"
+"PO-Revision-Date: 2023-02-14 03:05+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish (http://www.transifex.com/xfce/xfce-apps/language/tr/)\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: ../src/main.c:46
 msgid "Version information"
@@ -50,7 +52,10 @@ msgid ""
 "\n"
 "Try %s --help to see a full list of\n"
 "available command line options.\n"
-msgstr "%s: %s\nKomut satırı parametrelerini görmek için %s\n --help komutunu kullanınız.\n"
+msgstr ""
+"%s: %s\n"
+"Komut satırı parametrelerini görmek için %s\n"
+" --help komutunu kullanınız.\n"
 
 #: ../src/main_window.c:39 ../org.xfce.ristretto.desktop.in.h:3
 msgid "Image Viewer"
@@ -134,8 +139,7 @@ msgid "Edit this image"
 msgstr "Bu resmi düzenle"
 
 #. Icon-name
-#: ../src/main_window.c:351 ../src/preferences_dialog.c:218
-#: ../src/properties_dialog.c:103
+#: ../src/main_window.c:351 ../src/preferences_dialog.c:218 ../src/properties_dialog.c:103
 msgid "_Close"
 msgstr "_Kapat"
 
@@ -196,7 +200,7 @@ msgstr "_Görünüm"
 #. Icon-name
 #: ../src/main_window.c:413
 msgid "_Fullscreen"
-msgstr "_Tam ekran"
+msgstr "_Tam Ekran"
 
 #. Label-text
 #. Keyboard shortcut
@@ -207,13 +211,13 @@ msgstr "Tam ekrana ayarla"
 #. Icon-name
 #: ../src/main_window.c:419
 msgid "_Leave Fullscreen"
-msgstr "_Tam ekranı kapat"
+msgstr "_Tam Ekranı Kapat"
 
 #. Label-text
 #. Keyboard shortcut
 #: ../src/main_window.c:421
 msgid "Leave Fullscreen"
-msgstr "_Tam ekrandan ayrıl"
+msgstr "Tam Ekranı Kapat"
 
 #. Icon-name
 #: ../src/main_window.c:425
@@ -454,7 +458,7 @@ msgstr "Küçük"
 
 #: ../src/main_window.c:699
 msgid "Normal"
-msgstr "_Olağan"
+msgstr "Olağan"
 
 #: ../src/main_window.c:705
 msgid "Large"
@@ -509,7 +513,7 @@ msgstr "Resim seçmek için aça tıkla"
 
 #: ../src/main_window.c:1564 ../src/main_window.c:1569
 msgid "Open With Other _Application..."
-msgstr "Başka Uygulamayla Aç..."
+msgstr "Başka _Uygulamayla Aç..."
 
 #: ../src/main_window.c:1579 ../src/main_window.c:1587
 msgid "Empty"
@@ -523,15 +527,11 @@ msgstr "Yükleniyor..."
 msgid "Choose 'set wallpaper' method"
 msgstr "'Duvar kağıdı ayarla' yöntemini seç"
 
-#: ../src/main_window.c:2281 ../src/main_window.c:3410
-#: ../src/main_window.c:3498 ../src/main_window.c:4175
-#: ../src/privacy_dialog.c:149 ../src/xfce_wallpaper_manager.c:268
-#: ../src/gnome_wallpaper_manager.c:190
+#: ../src/main_window.c:2281 ../src/main_window.c:3410 ../src/main_window.c:3498 ../src/main_window.c:4175 ../src/privacy_dialog.c:149 ../src/xfce_wallpaper_manager.c:268 ../src/gnome_wallpaper_manager.c:190
 msgid "_Cancel"
 msgstr "_İptal"
 
-#: ../src/main_window.c:2284 ../src/main_window.c:4178
-#: ../src/xfce_wallpaper_manager.c:274 ../src/gnome_wallpaper_manager.c:196
+#: ../src/main_window.c:2284 ../src/main_window.c:4178 ../src/xfce_wallpaper_manager.c:274 ../src/gnome_wallpaper_manager.c:196
 msgid "_OK"
 msgstr "_Tamam"
 
@@ -540,7 +540,10 @@ msgid ""
 "Configure which system is currently managing your desktop.\n"
 "This setting determines the method <i>Ristretto</i> will use\n"
 "to configure the desktop wallpaper."
-msgstr "Masaüstünüzü yöneten geçerli sistemi yapılandır.\nBu ayar, <i>Ristretto</i>'nun masaüstü duvar kağıdınızı\nyapılandırmasında kullanılacağı yöntemini tanımlar."
+msgstr ""
+"Masaüstünüzü yöneten geçerli sistemi yapılandır.\n"
+"Bu ayar, <i>Ristretto</i>'nun masaüstü duvar kağıdınızı\n"
+"yapılandırmasında kullanılacağı yöntemini tanımlar."
 
 #: ../src/main_window.c:2320 ../src/preferences_dialog.c:448
 msgid "None"
@@ -564,7 +567,11 @@ msgstr "Ristretto, Xfce masaüstü ortamı için resim göstericidir."
 
 #: ../src/main_window.c:2863
 msgid "translator-credits"
-msgstr "Onur Küçük <onur@pardus.org.tr>\nGökmen Görgen <gkmngrgn@gmail.com> \nAyhan YALÇINSOY <ayhanyalcinsoy@gmail.com>\nSerdar Sağlam <teknomobil@yandex.com>"
+msgstr ""
+"Onur Küçük <onur@pardus.org.tr>\n"
+"Gökmen Görgen <gkmngrgn@gmail.com> \n"
+"Ayhan YALÇINSOY <ayhanyalcinsoy@gmail.com>\n"
+"Serdar Sağlam <teknomobil@yandex.com>"
 
 #: ../src/main_window.c:3408
 msgid "Open image"
@@ -717,8 +724,7 @@ msgstr "Bugün"
 msgid "Everything"
 msgstr "Herşey"
 
-#: ../src/privacy_dialog.c:152 ../src/xfce_wallpaper_manager.c:271
-#: ../src/gnome_wallpaper_manager.c:193
+#: ../src/privacy_dialog.c:152 ../src/xfce_wallpaper_manager.c:271 ../src/gnome_wallpaper_manager.c:193
 msgid "_Apply"
 msgstr "_Uygula"
 
@@ -743,9 +749,7 @@ msgid "Quality"
 msgstr "Kalite"
 
 #: ../src/preferences_dialog.c:292
-msgid ""
-"With this option enabled, the maximum image-quality will be limited to the "
-"screen-size."
+msgid "With this option enabled, the maximum image-quality will be limited to the screen-size."
 msgstr "Bu seçeneğin açılması ile, en üst resim kalitesi ekran boyutu ile sınırlanacak."
 
 #: ../src/preferences_dialog.c:296
@@ -761,8 +765,7 @@ msgid "Thumbnails"
 msgstr "Küçük resimler"
 
 #: ../src/preferences_dialog.c:315
-msgid ""
-"The thumbnail bar can be automatically hidden when the window is fullscreen."
+msgid "The thumbnail bar can be automatically hidden when the window is fullscreen."
 msgstr "Pencere tam ekran olduğunda ön izleme çubuğu kendiliğinden gizlenebilir."
 
 #: ../src/preferences_dialog.c:319
@@ -774,9 +777,7 @@ msgid "Clock"
 msgstr "Saat"
 
 #: ../src/preferences_dialog.c:330
-msgid ""
-"Show an analog clock that displays the current time when the window is "
-"fullscreen"
+msgid "Show an analog clock that displays the current time when the window is fullscreen"
 msgstr "Pencere tam ekran iken geçerli saati gösteren analog göster"
 
 #: ../src/preferences_dialog.c:334
@@ -791,7 +792,9 @@ msgstr "Fare imleci"
 msgid ""
 "The mouse cursor can be automatically hidden after a certain period of inactivity\n"
 "when the window is fullscreen."
-msgstr "Pencere tam ekran olduğunda, fare imleci belirli süre kullanılmadığında\nkendiliğinden ekranda gizlenebilir."
+msgstr ""
+"Pencere tam ekran olduğunda, fare imleci belirli süre kullanılmadığında\n"
+"kendiliğinden ekranda gizlenebilir."
 
 #: ../src/preferences_dialog.c:350
 msgid "Period of inactivity (seconds):"
@@ -809,7 +812,9 @@ msgstr "Kalan süre"
 msgid ""
 "The time period an individual image is displayed during a slideshow\n"
 "(in seconds)"
-msgstr "Sırayla gösterim sırasında resim başına gösterim süresi\n(saniye cinsinden)"
+msgstr ""
+"Sırayla gösterim sırasında resim başına gösterim süresi\n"
+"(saniye cinsinden)"
 
 #: ../src/preferences_dialog.c:390
 msgid "Control"
@@ -880,8 +885,7 @@ msgstr "Resim"
 msgid "<b>Date taken:</b>"
 msgstr "<b>Alınma tarihi:</b>"
 
-#: ../src/properties_dialog.c:402 ../src/properties_dialog.c:414
-#: ../src/properties_dialog.c:426
+#: ../src/properties_dialog.c:402 ../src/properties_dialog.c:414 ../src/properties_dialog.c:426
 #, c-format
 msgid "<b>%s</b>"
 msgstr "<b>%s</b>"
@@ -915,11 +919,16 @@ msgid ""
 "\n"
 "Install <b>Tumbler</b> or another <i>thumbnailing daemon</i>\n"
 "to resolve this issue."
-msgstr "Küçük resim hizmeti bulunamıyor,\nbu yüzden, küçük resimler oluşturulamadı\n\nBu sorunu çözmek için <b>Tumbler</b> veya başka\n<i>ön izleyici art alan yazılımı</i> kurun."
+msgstr ""
+"Küçük resim hizmeti bulunamıyor,\n"
+"bu yüzden, küçük resimler oluşturulamadı\n"
+"\n"
+"Bu sorunu çözmek için <b>Tumbler</b> veya başka\n"
+"<i>ön izleyici art alan yazılımı</i> kurun."
 
 #: ../src/thumbnailer.c:371
 msgid "Do _not show this message again"
-msgstr "Bu iletiyi yeniden gösterme"
+msgstr "Bu iletiyi yeniden _gösterme"
 
 #: ../src/xfce_wallpaper_manager.c:246 ../src/gnome_wallpaper_manager.c:176
 msgid "Style:"
@@ -974,9 +983,5 @@ msgid "Fast and lightweight image viewer"
 msgstr "Hızlı ve hafif resim görüntüleyici"
 
 #: ../org.xfce.ristretto.appdata.xml.in.h:4
-msgid ""
-"The Ristretto Image Viewer is an application that can be used to view and "
-"scroll through images, run a slideshow of images, open images with other "
-"applications like an image-editor or configure an image as the desktop "
-"wallpaper."
+msgid "The Ristretto Image Viewer is an application that can be used to view and scroll through images, run a slideshow of images, open images with other applications like an image-editor or configure an image as the desktop wallpaper."
 msgstr "Ristretto Resim Gösterici; resimleri görüntülemek, resimler arasında gezinmek, resimlerle sunum  yapmak, resimleri resim düzenleyici gibi başka uygulamalarla açmak ya da resmi masaüstü arka planı olarak ayarlamak için kullanılabilecek uygulamadır."
