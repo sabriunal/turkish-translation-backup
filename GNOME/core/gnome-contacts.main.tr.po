@@ -1,5 +1,5 @@
 # Turkish translation for gnome-contacts.
-# Copyright (C) 2011-2022 gnome-contacts's COPYRIGHT HOLDER
+# Copyright (C) 2011-2023 gnome-contacts's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-contacts package.
 #
 # Osman Karagöz <osmank3@gmail.com>, 2012.
@@ -8,17 +8,17 @@
 # Muhammet Kara <muhammetk@gmail.com>, 2011, 2012, 2014, 2015, 2016, 2017.
 # Doğa Deniz Arıcı <bluegreenbrain@gmail.com>, 2018.
 # Çağatay Yiğit Şahin <cyigitsahin@outlook.com>, 2018.
-# Sabri Ünal <libreajans@gmail.com>, 2022.
-# Emin Tufan Çetin <etcetin@gmail.com>, 2017-2022.
+# Sabri Ünal <libreajans@gmail.com>, 2022, 2023.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2017-2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-contacts master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-contacts/issues\n"
-"POT-Creation-Date: 2022-09-23 09:19+0000\n"
-"PO-Revision-Date: 2022-09-03 21:02+0300\n"
+"POT-Creation-Date: 2023-02-19 15:24+0000\n"
+"PO-Revision-Date: 2023-02-20 02:41+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
-"Language-Team: Türkçe <gnome-turk@gnome.org>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,8 +28,9 @@ msgstr ""
 "X-POOTLE-MTIME: 1433229058.000000\n"
 
 #: data/org.gnome.Contacts.appdata.xml.in.in:6
-#: data/org.gnome.Contacts.desktop.in.in:3 src/contacts-main-window.vala:189
-#: src/contacts-main-window.vala:212 src/main.vala:26
+#: data/org.gnome.Contacts.desktop.in.in:3 data/ui/contacts-main-window.ui:131
+#: src/contacts-main-window.vala:200 src/contacts-main-window.vala:223
+#: src/main.vala:26
 msgid "Contacts"
 msgstr "Kişiler"
 
@@ -59,7 +60,7 @@ msgstr ""
 "içi kaynaklardaki kişileri kendiliğinden birbirine bağlar."
 
 #: data/org.gnome.Contacts.appdata.xml.in.in:22
-msgid "Contacts with no contacts."
+msgid "Contacts with no contacts"
 msgstr "Kişiler, kişisiz"
 
 #: data/org.gnome.Contacts.appdata.xml.in.in:26
@@ -78,7 +79,7 @@ msgstr "Kişiler kurulum görünümü"
 msgid "Contacts edit view"
 msgstr "Kişiler düzenleme görünümü"
 
-#: data/org.gnome.Contacts.appdata.xml.in.in:803 src/contacts-app.vala:143
+#: data/org.gnome.Contacts.appdata.xml.in.in:829 src/contacts-app.vala:144
 msgid "The GNOME Project"
 msgstr "GNOME Projesi"
 
@@ -104,36 +105,56 @@ msgstr "Menüyü aç"
 
 #: data/gtk/help-overlay.ui:23
 msgctxt "shortcut window"
-msgid "Create a new contact"
-msgstr "Yeni kişi oluştur"
+msgid "Show preferences"
+msgstr "Tercihleri göster"
 
 #: data/gtk/help-overlay.ui:29
 msgctxt "shortcut window"
-msgid "Search"
-msgstr "Ara"
+msgid "Create a new contact"
+msgstr "Yeni kişi oluştur"
 
 #: data/gtk/help-overlay.ui:35
+msgctxt "shortcut window"
+msgid "Search contacts"
+msgstr "Kişi ara"
+
+#: data/gtk/help-overlay.ui:41
 msgctxt "shortcut window"
 msgid "Shortcut list"
 msgstr "Kısayol listesi"
 
-#: data/gtk/help-overlay.ui:41
+#: data/gtk/help-overlay.ui:47
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Çık"
+
+#: data/gtk/help-overlay.ui:54
+msgctxt "shortcut window"
+msgid "Editing or creating a contact"
+msgstr "Kişi düzenleme ya da oluşturma"
+
+#: data/gtk/help-overlay.ui:58
+msgctxt "shortcut window"
+msgid "Save current changes to contact"
+msgstr "Geçerli değişiklikleri kişiye kaydet"
+
+#: data/gtk/help-overlay.ui:64
+msgctxt "shortcut window"
+msgid "Cancel current changes for contact"
+msgstr "Kişi için geçerli değişiklikleri iptal et"
 
 #: data/ui/contacts-avatar-selector.ui:7
 msgid "Select a new avatar"
 msgstr "Yeni avatar seç"
 
 #: data/ui/contacts-avatar-selector.ui:11 data/ui/contacts-crop-dialog.ui:12
-#: data/ui/contacts-main-window.ui:106 src/contacts-app.vala:336
-#: src/contacts-contact-editor.vala:727
+#: data/ui/contacts-main-window.ui:153 src/contacts-app.vala:338
+#: src/contacts-contact-editor.vala:749
 msgid "Cancel"
 msgstr "Vazgeç"
 
 #: data/ui/contacts-avatar-selector.ui:17 data/ui/contacts-crop-dialog.ui:17
-#: data/ui/contacts-main-window.ui:275 src/contacts-main-window.vala:221
+#: data/ui/contacts-main-window.ui:318 src/contacts-main-window.vala:232
 msgid "Done"
 msgstr "Bitti"
 
@@ -178,93 +199,113 @@ msgid "Surname"
 msgstr "Soyad"
 
 #: data/ui/contacts-main-window.ui:19
-msgid "Import…"
-msgstr "İçe Aktar…"
+msgid "Import From File…"
+msgstr "Dosyadan İçe Aktar…"
 
-#: data/ui/contacts-main-window.ui:25
+#: data/ui/contacts-main-window.ui:23
+msgid "Export All Contacts…"
+msgstr "Tüm Kişileri Dışa Aktar…"
+
+#: data/ui/contacts-main-window.ui:29
 msgid "Preferences"
 msgstr "Tercihler"
 
-#: data/ui/contacts-main-window.ui:29
+#: data/ui/contacts-main-window.ui:33
 msgid "Keyboard Shortcuts"
 msgstr "Klavye Kısayolları"
 
-#: data/ui/contacts-main-window.ui:33
+#: data/ui/contacts-main-window.ui:37
 msgid "Help"
 msgstr "Yardım"
 
-#: data/ui/contacts-main-window.ui:37
+#: data/ui/contacts-main-window.ui:41
 msgid "About Contacts"
 msgstr "Kişiler Hakkında"
 
-#: data/ui/contacts-main-window.ui:82
-msgid "Create new contact"
-msgstr "Yeni kişi oluştur"
+#: data/ui/contacts-main-window.ui:54
+msgid "Share as QR Code"
+msgstr "QR Kodu Olarak Paylaş"
 
-#: data/ui/contacts-main-window.ui:92
-msgid "Menu"
-msgstr "Menü"
+#: data/ui/contacts-main-window.ui:60
+msgid "Delete Contact"
+msgstr "Kişiyi Sil"
 
-#: data/ui/contacts-main-window.ui:99
-msgid "Select Items"
-msgstr "Ögeleri Seç"
+#: data/ui/contacts-main-window.ui:123
+msgid "Add New Contact"
+msgstr "Yeni Kişi Ekle"
 
-#: data/ui/contacts-main-window.ui:107
+#: data/ui/contacts-main-window.ui:139
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: data/ui/contacts-main-window.ui:146
+msgid "Select Contacts"
+msgstr "Kişileri Seç"
+
+#: data/ui/contacts-main-window.ui:154
 msgid "Cancel Selection"
 msgstr "Seçimi İptal Et"
 
-#: data/ui/contacts-main-window.ui:134
+#: data/ui/contacts-main-window.ui:181
 msgid "Loading"
 msgstr "Yükleniyor"
 
-#: data/ui/contacts-main-window.ui:145
-msgid "Type to search"
-msgstr "Aramak için yaz"
+#: data/ui/contacts-main-window.ui:192
+msgid "Search contacts"
+msgstr "Kişileri ara"
 
 #. Export refers to the verb
-#: data/ui/contacts-main-window.ui:163
+#: data/ui/contacts-main-window.ui:210
 msgid "Export"
 msgstr "Dışa Aktar"
 
-#: data/ui/contacts-main-window.ui:164
+#: data/ui/contacts-main-window.ui:211
 msgid "Export Selected Contacts"
 msgstr "Seçili Kişileri Dışa Aktar"
 
 #. Link refers to the verb, from linking contacts together
-#: data/ui/contacts-main-window.ui:171
+#: data/ui/contacts-main-window.ui:218
 msgid "Link"
 msgstr "Bağla"
 
 # Together vurgusu eklenmedi
-#: data/ui/contacts-main-window.ui:172
+#: data/ui/contacts-main-window.ui:219
 msgid "Link Selected Contacts Together"
 msgstr "Seçilen Kişileri Bağla"
 
-#: data/ui/contacts-main-window.ui:179
+#: data/ui/contacts-main-window.ui:226
 msgid "Remove"
 msgstr "Kaldır"
 
-#: data/ui/contacts-main-window.ui:223
+#: data/ui/contacts-main-window.ui:272
 msgid "Back"
 msgstr "Geri"
 
-#: data/ui/contacts-main-window.ui:237 src/contacts-app.vala:233
-#: src/contacts-app.vala:402 src/contacts-avatar-selector.vala:196
-#: src/contacts-main-window.vala:516 src/contacts-main-window.vala:565
+#: data/ui/contacts-main-window.ui:286 src/contacts-app.vala:234
+#: src/contacts-app.vala:404 src/contacts-avatar-selector.vala:196
+#: src/contacts-main-window.vala:551 src/contacts-main-window.vala:607
 msgid "_Cancel"
 msgstr "_İptal"
 
-#: data/ui/contacts-main-window.ui:259
+#: data/ui/contacts-main-window.ui:301
 msgid "Edit Contact"
 msgstr "Kişiyi Düzenle"
 
-#: data/ui/contacts-main-window.ui:266
-msgid "Delete Contact"
-msgstr "Kişiyi Sil"
+#: data/ui/contacts-main-window.ui:308
+msgid "More Contact Actions"
+msgstr "Daha Çok Kişi Eylemi"
 
 #: data/ui/contacts-preferences-window.ui:6
 msgid "Address Books"
 msgstr "Adres Defterleri"
+
+#: data/ui/contacts-qr-code-dialog.ui:11
+msgid "Share Contact"
+msgstr "Kişi Paylaş"
+
+#: data/ui/contacts-qr-code-dialog.ui:41
+msgid "Scan to Save"
+msgstr "Kaydetmek İçin Tara"
 
 #: data/ui/contacts-setup-window.ui:15
 msgid "Contacts Setup"
@@ -301,54 +342,54 @@ msgstr ""
 "Eğer kişilerinizi çevrim içi hesapta tutuyorsanız, çevrim içi hesaplar "
 "ayarlarını kullanarak onları ekleyebilirsiniz."
 
-#: src/contacts-app.vala:45
+#: src/contacts-app.vala:46
 msgid "Show contact with this email address"
 msgstr "Bu e-posta adresine sahip kişiyi göster"
 
-#: src/contacts-app.vala:46
+#: src/contacts-app.vala:47
 msgid "Show contact with this individual id"
 msgstr "Bu bireysel kimliğe sahip kişiyi göster"
 
-#: src/contacts-app.vala:47
+#: src/contacts-app.vala:48
 msgid "Show contacts with the given filter"
 msgstr "Verilen süzgeçle uyuşan kişileri göster"
 
-#: src/contacts-app.vala:48
+#: src/contacts-app.vala:49
 msgid "Show the current version of Contacts"
 msgstr "Kişiler’in şimdiki sürümünü göster"
 
-#: src/contacts-app.vala:110 src/contacts-app.vala:163
+#: src/contacts-app.vala:111 src/contacts-app.vala:164
 msgid "Contact not found"
 msgstr "Kişi bulanamadı"
 
-#: src/contacts-app.vala:111
+#: src/contacts-app.vala:112
 #, c-format
 msgid "No contact with id %s found"
 msgstr "%s adlı kişi bulunamadı"
 
-#: src/contacts-app.vala:112 src/contacts-app.vala:165
+#: src/contacts-app.vala:113 src/contacts-app.vala:166
 #: src/contacts-avatar-selector.vala:238 src/contacts-contact-editor.vala:116
 msgid "_Close"
 msgstr "_Kapat"
 
-#: src/contacts-app.vala:149
+#: src/contacts-app.vala:150
 msgid ""
 "© 2011 Red Hat, Inc.\n"
 "© 2011-2020 The Contacts Developers"
 msgstr ""
 "© 2011 Red Hat, Inc.\n"
-"© 2011-2022 Kişiler Geliştiricileri"
+"© 2011-2023 Kişiler Geliştiricileri"
 
-#: src/contacts-app.vala:164
+#: src/contacts-app.vala:165
 #, c-format
 msgid "No contact with email address %s found"
 msgstr "E-posta adresi %s olan kişi bulunamadı"
 
-#: src/contacts-app.vala:227
+#: src/contacts-app.vala:228
 msgid "Primary address book not found"
 msgstr "Birincil adres defteri bulunamadı"
 
-#: src/contacts-app.vala:229
+#: src/contacts-app.vala:230
 msgid ""
 "Contacts can't find the configured primary address book. You might "
 "experience issues creating or editing contacts"
@@ -356,57 +397,57 @@ msgstr ""
 "Kişiler, yapılandırılmış birincil adres defterini bulamadı. Kişi oluşturma "
 "ya da düzenlemede sorun yaşayabilirsiniz"
 
-#: src/contacts-app.vala:230
+#: src/contacts-app.vala:231
 msgid "Go To _Preferences"
 msgstr "_Tercihlerʼe Git"
 
-#: src/contacts-app.vala:332
+#: src/contacts-app.vala:334
 msgid "Select contact file"
 msgstr "Kişi dosyası seç"
 
-#: src/contacts-app.vala:335
+#: src/contacts-app.vala:337
 msgid "Import"
 msgstr "İçe Aktar"
 
 #. TODO: somehow get this from the list of importers we have
-#: src/contacts-app.vala:342
+#: src/contacts-app.vala:344
 msgid "vCard files"
 msgstr "vCard dosyaları"
 
-#: src/contacts-app.vala:375
+#: src/contacts-app.vala:377
 msgid "Error reading file"
 msgstr "Dosya okunamadı"
 
-#: src/contacts-app.vala:376
+#: src/contacts-app.vala:378
 #, c-format
 msgid "An error occurred reading the file '%s'"
 msgstr "'%s' dosyası okunurken hata oluştu"
 
-#: src/contacts-app.vala:377 src/contacts-app.vala:387
+#: src/contacts-app.vala:379 src/contacts-app.vala:389
 msgid "_OK"
 msgstr "_Tamam"
 
-#: src/contacts-app.vala:385
+#: src/contacts-app.vala:387
 msgid "No contacts found"
 msgstr "Kişi bulunamadı"
 
 # not seem to vurgusu eklenmedi
-#: src/contacts-app.vala:386
+#: src/contacts-app.vala:388
 msgid "The imported file does not seem to contain any contacts"
 msgstr "İçe aktarılan dosya herhangi bir kişi içermiyor"
 
 #. Second step: ask the user for confirmation
-#: src/contacts-app.vala:394
+#: src/contacts-app.vala:396
 #, c-format
 msgid "By continuing, you will import %u contact"
 msgid_plural "By continuing, you will import %u contacts"
 msgstr[0] "Sürdürürseniz %u kişi içe aktarılacak"
 
-#: src/contacts-app.vala:397
+#: src/contacts-app.vala:399
 msgid "Continue Import?"
 msgstr "İçe Aktarma Sürdürülsün Mü?"
 
-#: src/contacts-app.vala:398
+#: src/contacts-app.vala:400
 msgid "C_ontinue"
 msgstr "_Sürdür"
 
@@ -434,93 +475,97 @@ msgstr "Avatar değiştir"
 msgid "Add name"
 msgstr "Ad ekle"
 
-#: src/contacts-contact-editor.vala:256
+#: src/contacts-contact-editor.vala:259
 msgid "Show More"
 msgstr "Dahasını Göster"
 
-#: src/contacts-contact-editor.vala:345
+#: src/contacts-contact-editor.vala:348
 msgid "Add email"
 msgstr "E-posta ekle"
 
-#: src/contacts-contact-editor.vala:371
+#: src/contacts-contact-editor.vala:374
 msgid "Add phone number"
 msgstr "Telefon numarası ekle"
 
-#: src/contacts-contact-editor.vala:397 src/contacts-utils.vala:188
+#: src/contacts-contact-editor.vala:400 src/contacts-utils.vala:188
 msgid "Website"
 msgstr "Web Sitesi"
 
-#: src/contacts-contact-editor.vala:409 src/contacts-utils.vala:179
+#: src/contacts-contact-editor.vala:412 src/contacts-utils.vala:179
 msgid "Nickname"
 msgstr "Takma Ad"
 
-#: src/contacts-contact-editor.vala:460 src/contacts-utils.vala:170
+#: src/contacts-contact-editor.vala:463 src/contacts-utils.vala:170
 msgid "Birthday"
 msgstr "Doğum Günü"
 
-#: src/contacts-contact-editor.vala:464
+#: src/contacts-contact-editor.vala:484
+msgid "Remove birthday"
+msgstr "Doğum günü kaldır"
+
+#: src/contacts-contact-editor.vala:502
 msgid "Set Birthday"
 msgstr "Doğum Günü Belirle"
 
-#: src/contacts-contact-editor.vala:534
+#: src/contacts-contact-editor.vala:556
 msgid "Organisation"
 msgstr "Kuruluş"
 
 #. TRANSLATORS: This is the role of a contact in an organisation (e.g. CEO)
-#: src/contacts-contact-editor.vala:540 src/contacts-utils.vala:184
+#: src/contacts-contact-editor.vala:562 src/contacts-utils.vala:184
 msgid "Role"
 msgstr "Görev"
 
-#: src/contacts-contact-editor.vala:656
+#: src/contacts-contact-editor.vala:678
 msgid "Label"
 msgstr "Etiket"
 
 #. Create grid and labels
-#: src/contacts-contact-editor.vala:712
+#: src/contacts-contact-editor.vala:734
 msgid "Day"
 msgstr "Gün"
 
-#: src/contacts-contact-editor.vala:716
+#: src/contacts-contact-editor.vala:738
 msgid "Month"
 msgstr "Ay"
 
-#: src/contacts-contact-editor.vala:720
+#: src/contacts-contact-editor.vala:742
 msgid "Year"
 msgstr "Yıl"
 
-#: src/contacts-contact-editor.vala:725
+#: src/contacts-contact-editor.vala:747
 msgid "Change Birthday"
 msgstr "Doğum Gününü Değiştir"
 
-#: src/contacts-contact-editor.vala:726
+#: src/contacts-contact-editor.vala:748
 msgid "Set"
 msgstr "Belirle"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "Street"
 msgstr "Sokak"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "Extension"
 msgstr "Ek"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "City"
 msgstr "Şehir"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "State/Province"
 msgstr "Eyalet/Bölge"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "Zip/Postal Code"
 msgstr "Posta Kodu"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "PO box"
 msgstr "Posta kutusu"
 
-#: src/contacts-contact-editor.vala:795
+#: src/contacts-contact-editor.vala:817
 msgid "Country"
 msgstr "Ülke"
 
@@ -541,11 +586,11 @@ msgstr "E-posta gönder: %s"
 msgid "Visit website"
 msgstr "Web sitesini ziyaret et"
 
-#: src/contacts-contact-sheet.vala:325
+#: src/contacts-contact-sheet.vala:322
 msgid "Their birthday is today! 🎉"
 msgstr "Bugün doğum günü! 🎉"
 
-#: src/contacts-contact-sheet.vala:372
+#: src/contacts-contact-sheet.vala:369
 msgid "Show on the map"
 msgstr "Haritada göster"
 
@@ -685,54 +730,54 @@ msgstr "%2$s’deki %1$s ile bu aynı kişi mi?"
 msgid "Is this the same person as %s?"
 msgstr "%s ile bu aynı kişi mi?"
 
-#: src/contacts-main-window.vala:191
+#: src/contacts-main-window.vala:145 src/contacts-main-window.vala:489
+msgid "Mark as Favorite"
+msgstr "Gözde Olarak İmle"
+
+#: src/contacts-main-window.vala:202
 #, c-format
 msgid "%llu Selected"
 msgid_plural "%llu Selected"
 msgstr[0] "%llu Seçildi"
 
-#: src/contacts-main-window.vala:221
+#: src/contacts-main-window.vala:232
 msgid "_Add"
 msgstr "_Ekle"
 
-#: src/contacts-main-window.vala:251
+#: src/contacts-main-window.vala:262
 #, c-format
 msgid "Editing %s"
 msgstr "%s Düzenleniyor"
 
-#: src/contacts-main-window.vala:271
+#: src/contacts-main-window.vala:290
 #, c-format
 msgid "%d Selected"
 msgid_plural "%d Selected"
 msgstr[0] "%d Seçildi"
 
-#: src/contacts-main-window.vala:291 src/contacts-main-window.vala:487
-#: src/contacts-main-window.vala:527
+#: src/contacts-main-window.vala:310 src/contacts-main-window.vala:522
+#: src/contacts-main-window.vala:562
 msgid "_Undo"
 msgstr "_Geri Al"
 
-#: src/contacts-main-window.vala:358
+#: src/contacts-main-window.vala:396
 msgid "New Contact"
 msgstr "Yeni Kişi"
 
-#: src/contacts-main-window.vala:452
-msgid "Unmark as favorite"
-msgstr "Gözdelerden çıkar"
-
-#: src/contacts-main-window.vala:454
-msgid "Mark as favorite"
-msgstr "Gözdelere ekle"
+#: src/contacts-main-window.vala:487
+msgid "Unmark as Favorite"
+msgstr "Gözdelerden Çıkar"
 
 #. Open up a file chooser
-#: src/contacts-main-window.vala:561
+#: src/contacts-main-window.vala:603
 msgid "Export to file"
 msgstr "Dosyaya dışa aktar"
 
-#: src/contacts-main-window.vala:564
+#: src/contacts-main-window.vala:606
 msgid "_Export"
 msgstr "_Dışa Aktar"
 
-#: src/contacts-main-window.vala:566
+#: src/contacts-main-window.vala:608
 msgid "contacts.vcf"
 msgstr "kişiler.vcf"
 
@@ -753,8 +798,13 @@ msgid "_Online Accounts"
 msgstr "Çevrim İçi _Hesaplar"
 
 #: src/contacts-preferences-window.vala:45
-msgid "Opens the Online Accounts panel in GNOME Settings"
-msgstr "GNOME Ayarlar’da Çevrim İçi Hesaplar’ı açar"
+msgid "Open the Online Accounts panel in Settings"
+msgstr "Ayarlar’da Çevrim İçi Hesaplar’ı aç"
+
+#: src/contacts-qr-code-dialog.vala:33
+#, c-format
+msgid "Scan the QR code to save the contact <b>%s</b>."
+msgstr "<b>%s</b> kişisini kaydetmek için QR kodunu tara."
 
 #: src/contacts-unlink-operation.vala:37
 msgid "Unlinking contacts"
@@ -798,7 +848,7 @@ msgstr "Gözde"
 
 #: src/contacts-utils.vala:178
 msgid "Local ID"
-msgstr "Yerel Kimlik"
+msgstr "Yerel kimlik"
 
 #: src/contacts-utils.vala:180
 msgid "Note"
@@ -827,7 +877,7 @@ msgid "Unnamed Person"
 msgstr "Adsız Kişi"
 
 #. TRANSLATORS: "$ROLE at $ORGANISATION", e.g. "CEO at Linux Inc."
-#: src/core/contacts-roles-chunk.vala:86
+#: src/core/contacts-roles-chunk.vala:105
 #, c-format
 msgid "%s at %s"
 msgstr "%s, %s"
@@ -969,3 +1019,12 @@ msgstr "Eğer pencere büyütülmüşse saklar."
 #: src/org.gnome.Contacts.gschema.xml:37
 msgid "Is the window fullscreen"
 msgstr "Pencerenin tam ekran olması"
+
+#~ msgid "Create new contact"
+#~ msgstr "Yeni kişi oluştur"
+
+#~ msgid "Select Items"
+#~ msgstr "Ögeleri Seç"
+
+#~ msgid "Type to search"
+#~ msgstr "Aramak için yaz"
