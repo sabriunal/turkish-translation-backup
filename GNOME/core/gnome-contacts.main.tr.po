@@ -1019,12 +1019,3 @@ msgstr "Eğer pencere büyütülmüşse saklar."
 #: src/org.gnome.Contacts.gschema.xml:37
 msgid "Is the window fullscreen"
 msgstr "Pencerenin tam ekran olması"
-
-#~ msgid "Create new contact"
-#~ msgstr "Yeni kişi oluştur"
-
-#~ msgid "Select Items"
-#~ msgstr "Ögeleri Seç"
-
-#~ msgid "Type to search"
-#~ msgstr "Aramak için yaz"

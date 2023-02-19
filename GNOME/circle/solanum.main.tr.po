@@ -1,16 +1,16 @@
 # Turkish translation for solanum.
-# Copyright (C) 2020 solanum's COPYRIGHT HOLDER
+# Copyright (C) 2020-2023 solanum's COPYRIGHT HOLDER
 # This file is distributed under the same license as the solanum package.
 #
-# Sabri Ünal <libreajans@gmail.com>, 2022
-# Emin Tufan Çetin <etcetin@gmail.com>, 2022
+# Sabri Ünal <libreajans@gmail.com>, 2022, 2023.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2022, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: solanum main\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Solanum/issues\n"
-"POT-Creation-Date: 2022-08-07 22:53+0000\n"
-"PO-Revision-Date: 2022-08-05 20:19+0300\n"
+"POT-Creation-Date: 2023-02-02 12:36+0000\n"
+"PO-Revision-Date: 2023-01-27 23:41+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "Language: tr\n"
@@ -76,10 +76,15 @@ msgstr "Ana Menüyü Göster"
 
 #: data/gtk/help-overlay.blp:16
 msgctxt "shortcut window"
+msgid "Show Preferences"
+msgstr "Tercihleri Göster"
+
+#: data/gtk/help-overlay.blp:21
+msgctxt "shortcut window"
 msgid "Show Keyboard Shortcuts"
 msgstr "Klavye Kısayollarını Göster"
 
-#: data/gtk/help-overlay.blp:21
+#: data/gtk/help-overlay.blp:26
 msgctxt "shortcut window"
 msgid "Quit"
 msgstr "Çık"
@@ -116,7 +121,7 @@ msgstr "Uzun Molaya Dek Oturumlar"
 msgid "Toggle Timer"
 msgstr "Zamanlayıcıyı Aç/Kapat"
 
-#: data/ui/window.blp:56 src/window.rs:320
+#: data/ui/window.blp:56 src/window.rs:321
 msgid "Skip"
 msgstr "Atla"
 
@@ -143,7 +148,9 @@ msgstr "Solanum _Hakkında"
 #. Translators: Replace "translator-credits" with your names, one name per line
 #: src/app.rs:183
 msgid "translator-credits"
-msgstr "Sabri Ünal <libreajans@gmail.com>"
+msgstr ""
+"Sabri Ünal <libreajans@gmail.com>\n"
+"Emin Tufan Çetin <etcetin@gmail.com>"
 
 #: src/app.rs:195
 msgid "_Donate on Patreon"
@@ -193,7 +200,7 @@ msgstr "Bacaklarını rahatlat ve biraz su iç."
 msgid "Start Break"
 msgstr "Molayı Başlat"
 
-#: src/window.rs:333
+#: src/window.rs:334
 msgid "Lap {}"
 msgid_plural "Lap {}"
 msgstr[0] "Tur {}"

@@ -2,16 +2,16 @@
 # Copyright (C) 2019 fragments's COPYRIGHT HOLDER
 # This file is distributed under the same license as the fragments package.
 #
-# Sabri Ünal <libreajans@gmail.com>, 2019.
-# Emin Tufan Çetin <etcetin@gmail.com>, 2019, 2022.
+# Sabri Ünal <libreajans@gmail.com>, 2019, 2022.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2019, 2022, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: fragments master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Fragments/issues\n"
-"POT-Creation-Date: 2022-12-28 12:39+0000\n"
+"POT-Creation-Date: 2023-01-24 19:47+0000\n"
 "PO-Revision-Date: 2022-10-24 00:43+0300\n"
-"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
+"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -91,9 +91,6 @@ msgid "SSL"
 msgstr "SSL"
 
 #: data/gtk/connection_box.ui:34
-#, fuzzy
-#| msgctxt "shortcut window"
-#| msgid "Preferences"
 msgid "Preferences"
 msgstr "Tercihler"
 
@@ -497,7 +494,7 @@ msgstr "Daha"
 
 #: data/gtk/torrent_dialog.ui:291
 msgid "A Problem Has Occurred"
-msgstr ""
+msgstr "Sorun Çıktı"
 
 #: data/gtk/torrent_menu.ui:6
 msgid "_Pause"
@@ -619,10 +616,8 @@ msgid "Local Fragments session"
 msgstr "Yerel Fragments oturumu"
 
 #: src/backend/connection_manager.rs:153
-#, fuzzy
-#| msgid "Unable to restart Transmission daemon"
 msgid "Unable to start transmission-daemon"
-msgstr "Transmission art alan süreci yeniden başlatılamadı"
+msgstr "transmission-daemon başlatılamadı"
 
 #: src/ui/about_window.rs:36
 msgid "A BitTorrent Client – Based on Transmission Technology"
@@ -651,26 +646,22 @@ msgid "Credentials could not be saved"
 msgstr "Kimlik bilgileri kaydedilemedi"
 
 #: src/ui/connection_box.rs:191
-#, fuzzy
-#| msgid "_Download Directory"
 msgid "Invalid Download Directory"
-msgstr "İn_dirme Dizini"
+msgstr "Geçersiz İndirme Dizini"
 
 #: src/ui/connection_box.rs:192
 msgid ""
 "Unable to write data. The configured download directory cannot be accessed."
-msgstr ""
+msgstr "Veri yazılamıyor. Yapılandırılan indirme dizini erişilemez."
 
 #: src/ui/connection_box.rs:195
-#, fuzzy
-#| msgid "_Incomplete Directory"
 msgid "Invalid Incomplete Directory"
-msgstr "_Tamamlanmamış Dizin"
+msgstr "Geçersiz Tamamlanmamış Dizin"
 
 #: src/ui/connection_box.rs:196
 msgid ""
 "Unable to write data. The configured incomplete directory cannot be accessed."
-msgstr ""
+msgstr "Veri yazılamıyor. Yapılandırılan tamamlanmamış dizini erişilemez."
 
 #: src/ui/connection_row.rs:142
 msgid "This computer"
@@ -872,10 +863,8 @@ msgid "Remove downloaded data as well"
 msgstr "İndirilen verileri de kaldır"
 
 #: src/utils.rs:394
-#, fuzzy
-#| msgid "Set _Location…"
 msgid "Set Torrent Location"
-msgstr "_Konum Belirle…"
+msgstr "Torrent Konumu Belirle"
 
 #: src/utils.rs:400 src/utils.rs:464
 msgid "_Select"
@@ -883,21 +872,21 @@ msgstr "_Seç"
 
 #: src/utils.rs:415
 msgid "Move Data?"
-msgstr ""
+msgstr "Veri Taşınsın Mı?"
 
 #: src/utils.rs:416
 msgid ""
 "In order to continue using the torrent, the data must be available at the "
 "new location."
-msgstr ""
+msgstr "Torrenti kullanabilmek için veri yeni konumunda bulunmalıdır."
 
 #: src/utils.rs:419
 msgid "_Only Change Location"
-msgstr ""
+msgstr "_Yalnızca Konumu Değiştir"
 
 #: src/utils.rs:420
 msgid "_Move Data to New Location"
-msgstr ""
+msgstr "Veriyi Yeni Konuma _Taşı"
 
 #: src/utils.rs:455
 msgid "Select Download Directory"
