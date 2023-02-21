@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sushi master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/sushi/issues\n"
-"POT-Creation-Date: 2022-09-18 08:19+0000\n"
+"POT-Creation-Date: 2023-01-25 22:08+0000\n"
 "PO-Revision-Date: 2021-02-22 10:56+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -85,7 +85,7 @@ msgstr "Albüm:"
 msgid "by"
 msgstr "Sanatçı:"
 
-#: src/viewers/evince.js:94
+#: src/viewers/evince.js:101
 #, javascript-format
 msgid "%d of %d"
 msgstr "%d / %d"

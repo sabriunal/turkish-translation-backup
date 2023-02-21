@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: gnome-system-monitor\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-system-monitor/"
 "issues\n"
-"POT-Creation-Date: 2022-09-18 07:44+0000\n"
+"POT-Creation-Date: 2023-01-25 19:49+0000\n"
 "PO-Revision-Date: 2021-04-12 12:49+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: gnome-system-monitor.desktop.in:3 gnome-system-monitor.appdata.xml.in:6
-#: data/interface.ui:6 src/application.cpp:397 src/interface.cpp:439
+#: data/interface.ui:6 src/application.cpp:394 src/interface.cpp:439
 msgid "System Monitor"
 msgstr "Sistem Gözlemcisi"
 
@@ -40,7 +40,7 @@ msgid "View current processes and monitor system state"
 msgstr "Çalışan süreçleri ve sistem durumunu gösterir"
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
-#: gnome-system-monitor.desktop.in:15
+#: gnome-system-monitor.desktop.in:16
 msgid ""
 "Monitor;System;Process;CPU;Memory;Network;History;Usage;Performance;Task;"
 "Manager;Activity;"
@@ -48,12 +48,12 @@ msgstr ""
 "İzleyici;Gözlemci;Sistem;Süreç;İşlem;MİB;CPU;Bellek;Ağ;Geçmiş;Kullanım;"
 "Performans;Başarım;Görev;Yönetici;Etkinlik;"
 
-#: gnome-system-monitor-kde.desktop.in:3 src/application.cpp:460
+#: gnome-system-monitor-kde.desktop.in:3 src/application.cpp:457
 msgid "GNOME System Monitor"
 msgstr "GNOME Sistem Gözlemcisi"
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
-#: gnome-system-monitor-kde.desktop.in:15
+#: gnome-system-monitor-kde.desktop.in:16
 msgid "Monitor;System;Process;CPU;Memory;Network;History;Usage;"
 msgstr ""
 "İzleyici;Gözlemci;Sistem;Süreç;İşlem;MİB;CPU;Bellek;Ağ;Geçmiş;Kullanım;"
@@ -490,7 +490,7 @@ msgstr ""
 "<small><i><b>Not:</b> Öncelik değeri süreç öncelikleri ile ilgilidir. Düşük "
 "öncelik değeri daha yüksek önceliğe karşılık gelir.</i></small>"
 
-#: src/application.cpp:441
+#: src/application.cpp:438
 msgid "A simple process and system monitor."
 msgstr "Basit bir süreç ve sistem izleyici."
 

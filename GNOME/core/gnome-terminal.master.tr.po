@@ -1,6 +1,6 @@
 # Turkish translation of gnome-terminal.
 # Copyright (C) 2002-2019 The Free Software Foundation.
-# Copyright (C) 2020-2022 gnome-terminal's COPYRIGHT HOLDER
+# Copyright (C) 2020-2023 gnome-terminal's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-terminal package.
 #
 # Görkem Çetin <gorkem@gelecek.com.tr>, 2002.
@@ -8,29 +8,29 @@
 # Çağlar Yeşilyurt <greench@myopera.com>, 2012.
 # Gökhan Gurbetoğlu <ggurbet@gmail.com>, 2015.
 # Muhammet Kara <muhammetk@gmail.com>, 2014, 2015, 2016.
+# Furkan Ahmet Kara <furkanahmetkara.fk@gmail.com>, 2017.
 # Burak Kahraman <burakkaankhrmn@gmail.com>, 2018.
 # Ahmet Elgün <ahmetelgn@gmail.com>, 2020.
-# Sabri Ünal <libreajans@gmail.com>, 2014, 2019-2022.
-# Emin Tufan Çetin <etcetin@gmail.com>, 2017-2022.
-# Furkan Ahmet Kara <furkanahmetkara.fk@gmail.com>, 2017-2022.
+# Sabri Ünal <libreajans@gmail.com>, 2014, 2019, 2020, 2023.
+# Emin Tufan Çetin <etcetin@gmail.com>, 2017-2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-terminal master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-terminal/issues\n"
-"POT-Creation-Date: 2022-12-09 22:08+0000\n"
-"PO-Revision-Date: 2022-11-15 21:30+0200\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
-"Language-Team: Turkish <gnome-turk@gnome.org >\n"
+"POT-Creation-Date: 2023-02-19 04:43+0000\n"
+"PO-Revision-Date: 2023-02-19 00:54+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"X-Generator: Gtranslator 3.36.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: data/org.gnome.Terminal.desktop.in:3
-#: data/org.gnome.Terminal.metainfo.xml.in:34 src/server.cc:152
+#: data/org.gnome.Terminal.metainfo.xml.in:37 src/server.cc:152
 #: src/terminal-accels.cc:232 src/terminal-menubar.ui.in:144
 #: src/terminal-tab-label.cc:81 src/terminal-window.cc:1903
 #: src/terminal-window.cc:2207 src/terminal-window.cc:2522 src/terminal.cc:598
@@ -38,8 +38,7 @@ msgid "Terminal"
 msgstr "Uçbirim"
 
 #: data/org.gnome.Terminal.desktop.in:4
-#: data/org.gnome.Terminal.Preferences.desktop.in:4
-#: data/org.gnome.Terminal.metainfo.xml.in:35
+#: data/org.gnome.Terminal.metainfo.xml.in:38
 msgid "Use the command line"
 msgstr "Komut satırını kullan"
 
@@ -52,13 +51,34 @@ msgstr "shell;kabuk;istem;komut;komut satırı;cmd;kmt;"
 msgid "New Window"
 msgstr "Yeni Pencere"
 
-#: data/org.gnome.Terminal.desktop.in:22
-#: data/org.gnome.Terminal.Preferences.desktop.in:9 src/prefs-main.cc:143
-#: src/terminal-accels.cc:146
+#: data/org.gnome.Terminal.desktop.in:22 src/terminal-accels.cc:146
 msgid "Preferences"
 msgstr "Tercihler"
 
-#: data/org.gnome.Terminal.metainfo.xml.in:37
+#: data/org.gnome.Terminal.Preferences.desktop.in:4
+msgid "Configure the command line"
+msgstr "Komut satırını yapılandır"
+
+#: data/org.gnome.Terminal.Preferences.desktop.in:9 src/prefs-main.cc:143
+msgid "Terminal Preferences"
+msgstr "Uçbirim Tercihleri"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:34
+#: data/org.gnome.Terminal.metainfo.xml.in:63
+msgid "org.gnome.Terminal.desktop"
+msgstr "org.gnome.Terminal.desktop"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:35
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:36
+msgid "GPL-3.0+ or GFDL-1.3-only"
+msgstr "GPL-3.0+ veya GFDL-1.3-only"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:36
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:37
+msgid "GPL-3.0+"
+msgstr "GPL-3.0+"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:40
 msgid ""
 "GNOME Terminal is a terminal emulator application for accessing a UNIX shell "
 "environment which can be used to run programs available on your system."
@@ -67,7 +87,7 @@ msgstr ""
 "kullanabileceğiniz UNIX kabuğu ortamına erişmek için bir uçbirim öykünücüsü "
 "uygulamasıdır."
 
-#: data/org.gnome.Terminal.metainfo.xml.in:38
+#: data/org.gnome.Terminal.metainfo.xml.in:41
 msgid ""
 "It supports several profiles, multiple tabs and implements several keyboard "
 "shortcuts."
@@ -75,21 +95,87 @@ msgstr ""
 "Birçok profili, çoklu sekmeyi destekler ve türlü klavye kısayolları "
 "kullanmayı sağlar."
 
+#: data/org.gnome.Terminal.metainfo.xml.in:44
+msgid "console"
+msgstr "konsol"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:45
+msgid "keyboard"
+msgstr "klavye"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:46
+msgid "pointing"
+msgstr "imleme"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:50
+msgid ""
+"https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png"
+msgstr ""
+"https://help.gnome.org/users/gnome-terminal/stable/figures/gnome-terminal.png"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:54
+msgid "HiDpiIcon"
+msgstr "HiDpiIcon"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:55
+msgid "HighContrast"
+msgstr "HighContrast"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:56
+msgid "ModernToolkit"
+msgstr "ModernToolkit"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:57
+msgid "SearchProvider"
+msgstr "SearchProvider"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:58
+msgid "UserDocs"
+msgstr "UserDocs"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:60
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:43
+msgid "https://wiki.gnome.org/Apps/Terminal"
+msgstr "https://wiki.gnome.org/Apps/Terminal"
+
+#. This is the name of a colour scheme
+#: data/org.gnome.Terminal.metainfo.xml.in:61
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:44 src/preferences.ui:214
+msgid "GNOME"
+msgstr "GNOME"
+
+#: data/org.gnome.Terminal.metainfo.xml.in:62
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:45
+msgid "https://wiki.gnome.org/Apps/Terminal/ReportingBugs"
+msgstr "https://wiki.gnome.org/Apps/Terminal/ReportingBugs"
+
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:34
+msgid "org.gnome.Terminal.Nautilus"
+msgstr "org.gnome.Terminal.Nautilus"
+
 #: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:35
+msgid "org.gnome.Nautilus.desktop"
+msgstr "org.gnome.Nautilus.desktop"
+
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:38
 msgid "Terminal plugin for Files"
 msgstr "Dosyalar için Uçbirim eklentisi"
 
-#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:36
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:39
 msgid "Open a terminal from Files"
 msgstr "Dosyalar uygulamasından Uçbirim aç"
 
-#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:38
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:41
 msgid ""
 "Open Terminal is a plugin for the Files application that adds a menu item to "
 "the context menu to open a terminal in the currently browsed directory."
 msgstr ""
 "Open Terminal, görüntülenen klasörde uçbirim açmak için bağlam menüsüne menü "
 "ögesi ekleyen bir Dosyalar uygulaması eklentisidir."
+
+#: data/org.gnome.Terminal.Nautilus.metainfo.xml.in:46
+msgid "gnome-terminal"
+msgstr "gnome-terminal"
 
 #. Translators: This needs to be parsed as a GVariant string, so keep the regular single quotes around the string as-is, and do not add extra quotes.
 #: src/org.gnome.Terminal.gschema.xml:133
@@ -370,7 +456,7 @@ msgstr ""
 
 #: src/org.gnome.Terminal.gschema.xml:263
 msgid "What to do with the terminal when the child command exits"
-msgstr "Oğul komut sonlandığında uçbirim ile ne yapılacağı"
+msgstr "Çocuk komut sonlandığında uçbirim ile ne yapılacağı"
 
 #: src/org.gnome.Terminal.gschema.xml:264
 msgid ""
@@ -880,11 +966,6 @@ msgid "Hold the terminal open"
 msgstr "Uçbirimi açık tut"
 
 #. This is the name of a colour scheme
-#: src/preferences.ui:214
-msgid "GNOME"
-msgstr "GNOME"
-
-#. This is the name of a colour scheme
 #: src/preferences.ui:217
 msgid "Tango"
 msgstr "Tango"
@@ -975,7 +1056,7 @@ msgstr "_Her zaman öntanımlı uçbirim olup olmadığını denetle"
 
 #: src/preferences.ui:516
 msgid "_Set as default terminal"
-msgstr "_Öntanımlı uçbirim olarak ayarla"
+msgstr "Öntanımlı uçbirim olarak _ayarla"
 
 #: src/preferences.ui:556
 msgid "_Enable shortcuts"
@@ -1055,7 +1136,7 @@ msgstr "_Sistem temasının renklerini kullan"
 
 #: src/preferences.ui:1175
 msgid "Built-in sche_mes:"
-msgstr "Yapısal ş_emalar:"
+msgstr "Yerleşik ş_emalar:"
 
 #: src/preferences.ui:1228
 msgid "Background"
@@ -1119,7 +1200,7 @@ msgstr "Palet"
 
 #: src/preferences.ui:1495
 msgid "Built-in _schemes:"
-msgstr "_Yapısal şemalar:"
+msgstr "_Yerleşik şemalar:"
 
 #: src/preferences.ui:1528
 msgid "Color p_alette:"
@@ -1417,6 +1498,7 @@ msgid "Palette entry %u"
 msgstr "Palet girdisi %u"
 
 #: src/search-popover.ui:7 src/search-popover.ui:37 src/terminal-accels.cc:150
+#: src/terminal-headerbar.ui:118
 msgid "Find"
 msgstr "Bul"
 
@@ -1446,9 +1528,9 @@ msgstr "Düzenli ifade olarak eşleşti_r"
 
 #: src/search-popover.ui:222
 msgid "_Wrap around"
-msgstr "_Böl"
+msgstr "Başa _sar"
 
-#: src/terminal-accels.cc:126
+#: src/terminal-accels.cc:126 src/terminal-headerbar.ui:48
 msgid "New Tab"
 msgstr "Yeni Sekme"
 
@@ -1605,30 +1687,34 @@ msgstr "_Eylem"
 msgid "Shortcut _Key"
 msgstr "Kısayol _Tuşu"
 
-#: src/terminal-app.cc:550
+#: src/terminal-app.cc:552
 msgid "New Terminal"
 msgstr "Yeni Uçbirim"
 
-#: src/terminal-app.cc:560 src/terminal-window.cc:1804
+#: src/terminal-app.cc:562 src/terminal-window.cc:1804
 msgid "New _Terminal"
 msgstr "Yeni _Uçbirim"
 
-#: src/terminal-app.cc:562 src/terminal-window.cc:1813
+#: src/terminal-app.cc:564 src/terminal-window.cc:1813
 msgid "New _Tab"
 msgstr "Yeni _Sekme"
 
-#: src/terminal-app.cc:563 src/terminal-headermenu.ui:39
+#: src/terminal-app.cc:565 src/terminal-headermenu.ui:39
 #: src/terminal-window.cc:1809
 msgid "New _Window"
 msgstr "Yeni Pe_ncere"
 
-#: src/terminal-app.cc:612
+#: src/terminal-app.cc:614
 msgid "Change _Profile"
 msgstr "_Profil Değiştir"
 
-#: src/terminal-app.cc:625
+#: src/terminal-app.cc:627
 msgid "_Profile"
 msgstr "_Profil"
+
+#: src/terminal-headerbar.ui:72 src/terminal-prefs.cc:657
+msgid "Profiles"
+msgstr "Profiller"
 
 #: src/terminal-headermenu.ui:23 src/terminal-menubar.ui.in:115
 msgid "Zoom _Out"
@@ -2135,7 +2221,7 @@ msgstr "%s (Kopya)"
 
 #: src/terminal-prefs.cc:387
 msgid "Clone Profile"
-msgstr "Profili Kopyala"
+msgstr "Profili Klonla"
 
 #: src/terminal-prefs.cc:390
 msgid "Clone"
@@ -2148,11 +2234,11 @@ msgstr "“%s“ profili için yeni ad gir:"
 
 #: src/terminal-prefs.cc:408
 msgid "Rename Profile"
-msgstr "Profili yeniden adlandır"
+msgstr "Profili Yeniden Adlandır"
 
 #: src/terminal-prefs.cc:411
 msgid "Rename"
-msgstr "Yeniden adlandır"
+msgstr "Yeniden Adlandır"
 
 #: src/terminal-prefs.cc:426
 #, c-format
@@ -2179,11 +2265,7 @@ msgstr "Genel"
 msgid "Shortcuts"
 msgstr "Kısayollar"
 
-#: src/terminal-prefs.cc:657
-msgid "Profiles"
-msgstr "Profiller"
-
-#: src/terminal-screen.cc:1405
+#: src/terminal-screen.cc:1402
 msgid "No command supplied nor shell requested"
 msgstr "Ne bir komut sağlandı ne de kabuk istendi"
 
@@ -2193,7 +2275,7 @@ msgstr "_Yeniden başlat"
 
 #: src/terminal-screen.cc:1543
 msgid "There was an error creating the child process for this terminal"
-msgstr "Bu uçbirim için oğul işlem yaratırken bir hata oluştu"
+msgstr "Bu uçbirim için çocuk süreç oluştururken hata oluştu"
 
 #: src/terminal-screen.cc:1891
 #, c-format

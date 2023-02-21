@@ -1,6 +1,6 @@
 # Turkish translation of GDM.
 # Copyright (C) 1999-2003, 2004 Free Software Foundation, Inc.
-# Copyright (C) 2005-2022 GDM's COPYRIGHT HOLDER
+# Copyright (C) 2005-2023 GDM's COPYRIGHT HOLDER
 # This file is distributed under the same licence as the GDM package.
 #
 # Fatih Demir <kabalak@gtranslator.org>, 1999.
@@ -13,12 +13,13 @@
 # Muhammet Kara <muhammetk@gmail.com>, 2011, 2012, 2013, 2015, 2016.
 # Çağatay Yiğit Şahin <cyigitsahin@outlook.com>, 2017.
 # Emin Tufan Çetin <etcetin@gmail.com>, 2017, 2021.
+# Sabri Ünal <libreajans@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GDM\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gdm/issues\n"
-"POT-Creation-Date: 2022-11-19 16:48+0000\n"
+"POT-Creation-Date: 2023-01-25 17:25+0000\n"
 "PO-Revision-Date: 2022-11-19 19:47+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
@@ -117,7 +118,7 @@ msgstr "Özel iletişim kanalı açılamadı"
 #: daemon/gdm-server.c:384
 #, c-format
 msgid "Server was to be spawned by user %s but that user doesn’t exist"
-msgstr "Sunucu, %s kullanıcısınca yaratılmalı ama bu kullanıcı yok"
+msgstr "Sunucu, %s kullanıcısınca oluşturulacaktı ama bu kullanıcı yok"
 
 #: daemon/gdm-server.c:395 daemon/gdm-server.c:415
 #, c-format

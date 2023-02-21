@@ -1,5 +1,5 @@
 # Turkish translation for calls.
-# Copyright (C) 2020 calls's COPYRIGHT HOLDER
+# Copyright (C) 2020-2023 calls's COPYRIGHT HOLDER
 # This file is distributed under the same license as the calls package.
 # Emin Tufan Çetin <etcetin@gmail.com>, 2020, 2021, 2022.
 #
@@ -7,19 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calls master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/calls/-/issues\n"
-"POT-Creation-Date: 2022-12-02 10:59+0000\n"
-"PO-Revision-Date: 2022-09-04 13:16+0300\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"POT-Creation-Date: 2023-02-21 10:51+0000\n"
+"PO-Revision-Date: 2022-12-21 10:39+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #: data/org.gnome.Calls.desktop.in:3 data/org.gnome.Calls.metainfo.xml:6
-#: src/calls-application.c:436 src/ui/call-window.ui:9 src/ui/main-window.ui:7
+#: src/calls-application.c:482 src/ui/call-window.ui:9 src/ui/main-window.ui:7
 msgid "Calls"
 msgstr "Aramalar"
 
@@ -195,45 +195,58 @@ msgstr "Kesilme tamamlandı"
 msgid "Internal error occurred"
 msgstr "İç hata oluştu"
 
-#: src/calls-application.c:315
+#: src/calls-account-overview.c:177
+#, c-format
+msgid "Edit account: %s"
+msgstr "Hesabı düzenle: %s"
+
+#: src/calls-account-overview.c:184
+msgid "Add new account"
+msgstr "Yeni hesap ekle"
+
+#: src/calls-account-overview.c:377
+msgid "Account overview"
+msgstr "Hesap genel görünümü"
+
+#: src/calls-application.c:349
 #, c-format
 msgid "Tried dialing invalid tel URI `%s'"
 msgstr "`%s' geçersiz tel URIʼsini arama denendi"
 
-#: src/calls-application.c:627
+#: src/calls-application.c:720
 #, c-format
 msgid "Don't know how to open `%s'"
 msgstr "`%s' nasıl açılır bilinmiyor"
 
-#: src/calls-application.c:681
+#: src/calls-application.c:780
 msgid "The name of the plugin to use as a call provider"
 msgstr "Arama sağlayıcı olarak kullanılacak eklentinin adı"
 
-#: src/calls-application.c:682
+#: src/calls-application.c:781
 msgid "PLUGIN"
 msgstr "EKLENTİ"
 
-#: src/calls-application.c:687
+#: src/calls-application.c:786
 msgid "Whether to present the main window on startup"
 msgstr "Ana ekranın başlangıçta sunulup sunulmayacağı"
 
-#: src/calls-application.c:693
+#: src/calls-application.c:792
 msgid "Dial a telephone number"
 msgstr "Telefon numarası çevir"
 
-#: src/calls-application.c:694
+#: src/calls-application.c:793
 msgid "NUMBER"
 msgstr "NUMARA"
 
-#: src/calls-application.c:699
+#: src/calls-application.c:798
 msgid "Enable verbose debug messages"
 msgstr "Ayrıntılı hata ayıklama iletilerini etkinleştir"
 
-#: src/calls-application.c:705
+#: src/calls-application.c:804
 msgid "Print current version"
 msgstr "Geçerli sürümü yazdır"
 
-#: src/calls-best-match.c:435
+#: src/calls-best-match.c:458
 msgid "Anonymous caller"
 msgstr "Anonim çağrı"
 
@@ -258,40 +271,40 @@ msgstr "Aranamıyor: Modem veya uygun VoIP hesabı yok"
 msgid "Can't place calls: No plugin loaded"
 msgstr "Aranamıyor: Eklenti yüklenmedi"
 
-#: src/calls-main-window.c:353
+#: src/calls-main-window.c:356
 msgid "Contacts"
 msgstr "Kişiler"
 
-#: src/calls-main-window.c:363
+#: src/calls-main-window.c:366
 msgid "Dial Pad"
 msgstr "Tuş Takımı"
 
 #. Recent as in "Recent calls" (the call history)
-#: src/calls-main-window.c:372
+#: src/calls-main-window.c:375
 msgid "Recent"
 msgstr "Son"
 
-#: src/calls-notifier.c:52
+#: src/calls-notifier.c:53
 msgid "Missed call"
 msgstr "Yanıtsız arama"
 
 #. %s is a name here
-#: src/calls-notifier.c:76
+#: src/calls-notifier.c:77
 #, c-format
 msgid "Missed call from <b>%s</b>"
 msgstr "Yanıtsız arama: <b>%s</b>"
 
 #. %s is a id here
-#: src/calls-notifier.c:79
+#: src/calls-notifier.c:80
 #, c-format
 msgid "Missed call from %s"
 msgstr "Yanıtsız arama: %s"
 
-#: src/calls-notifier.c:81
+#: src/calls-notifier.c:82
 msgid "Missed call from unknown caller"
 msgstr "Bilinmeyen arayandan yanıtsız arama"
 
-#: src/calls-notifier.c:87
+#: src/calls-notifier.c:88
 msgid "Call back"
 msgstr "Geri ara"
 
@@ -384,23 +397,11 @@ msgstr "_Yardım"
 msgid "_About Calls"
 msgstr "Aramalar _Hakkında"
 
-#: src/ui/new-call-box.ui:45
+#: src/ui/new-call-box.ui:38
 msgid "Enter a VoIP address"
 msgstr "VoIP hesabı gir"
 
-#: src/ui/new-call-box.ui:58
-msgid "Enter a number"
-msgstr "Numara gir"
-
-#: src/ui/new-call-box.ui:97
-msgid "Dial"
-msgstr "Tuşla"
-
-#: src/ui/new-call-box.ui:120
-msgid "Delete character in front of cursor"
-msgstr "İmlecin önündeki karakteri sil"
-
-#: src/ui/new-call-box.ui:149
+#: src/ui/new-call-box.ui:62
 msgid "SIP Account"
 msgstr "SIP Hesabı"
 
@@ -459,21 +460,21 @@ msgstr "Arama yönü değiştirildi"
 msgid "Call disconnected (unknown reason code %i)"
 msgstr "Arama kesildi (bilinmeyen neden kodu %i)"
 
-#: plugins/provider/mm/calls-mm-provider.c:82
+#: plugins/provider/mm/calls-mm-provider.c:84
 msgid "ModemManager unavailable"
 msgstr "ModemManager uygun değil"
 
-#: plugins/provider/mm/calls-mm-provider.c:84
+#: plugins/provider/mm/calls-mm-provider.c:86
 #: plugins/provider/ofono/calls-ofono-provider.c:96
 msgid "No voice-capable modem available"
 msgstr "Ses yetili modem yok"
 
-#: plugins/provider/mm/calls-mm-provider.c:86
+#: plugins/provider/mm/calls-mm-provider.c:88
 #: plugins/provider/ofono/calls-ofono-provider.c:98
 msgid "Normal"
 msgstr "Olağan"
 
-#: plugins/provider/mm/calls-mm-provider.c:447
+#: plugins/provider/mm/calls-mm-provider.c:456
 #: plugins/provider/ofono/calls-ofono-provider.c:546
 msgid "Initialized"
 msgstr "Çalıştı"

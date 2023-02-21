@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-bluetooth\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-bluetooth/issues\n"
-"POT-Creation-Date: 2022-09-18 07:48+0000\n"
+"POT-Creation-Date: 2023-01-25 18:09+0000\n"
 "PO-Revision-Date: 2022-02-14 01:19+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
@@ -25,22 +25,22 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Gtranslator 3.32.1\n"
 
-#: lib/bluetooth-pairing-dialog.c:81 lib/bluetooth-pairing-dialog.c:88
-#: lib/bluetooth-pairing-dialog.c:102
+#: lib/bluetooth-pairing-dialog.c:82 lib/bluetooth-pairing-dialog.c:89
+#: lib/bluetooth-pairing-dialog.c:103
 msgid "Confirm Bluetooth PIN"
 msgstr "Bluetooth PIN Kodunu Onayla"
 
-#: lib/bluetooth-pairing-dialog.c:82
+#: lib/bluetooth-pairing-dialog.c:83
 #, c-format
 msgid "Please confirm the PIN that was entered on “%s”."
 msgstr "Lütfen “%s” üstüne girilen PIN kodunu onaylayın."
 
-#: lib/bluetooth-pairing-dialog.c:86 lib/bluetooth-pairing-dialog.c:99
-#: lib/bluetooth-pairing-dialog.c:147
+#: lib/bluetooth-pairing-dialog.c:87 lib/bluetooth-pairing-dialog.c:100
+#: lib/bluetooth-pairing-dialog.c:150
 msgid "Confirm"
 msgstr "Onayla"
 
-#: lib/bluetooth-pairing-dialog.c:89
+#: lib/bluetooth-pairing-dialog.c:90
 #, c-format
 msgid ""
 "Confirm the Bluetooth PIN for “%s”. This can usually be found in the "
@@ -49,43 +49,43 @@ msgstr ""
 "“%s” için Bluetooth PIN kodunu onaylayın. Bununla ilgili bilgiler genellikle "
 "aygıtın kullanım kılavuzunda bulunur."
 
-#: lib/bluetooth-pairing-dialog.c:95
+#: lib/bluetooth-pairing-dialog.c:96
 #, c-format
 msgid "Pairing “%s”"
 msgstr "“%s” eşleştiriliyor"
 
-#: lib/bluetooth-pairing-dialog.c:103
+#: lib/bluetooth-pairing-dialog.c:104
 #, c-format
 msgid ""
 "Please confirm that the following PIN matches the one displayed on “%s”."
 msgstr ""
 "Lütfen aşağıdaki PIN kodunun “%s” üstünde gösterilenle eşleştiğini onaylayın."
 
-#: lib/bluetooth-pairing-dialog.c:108
+#: lib/bluetooth-pairing-dialog.c:109
 msgid "Bluetooth Pairing Request"
 msgstr "Bluetooth Eşleştirme İsteği"
 
-#: lib/bluetooth-pairing-dialog.c:109
+#: lib/bluetooth-pairing-dialog.c:110
 #, c-format
 msgid "“%s” wants to pair with this device. Do you want to allow pairing?"
 msgstr ""
 "“%s” bu aygıtla eşleşmek istiyor. Eşleştirmeye izin vermek istiyor musunuz?"
 
-#: lib/bluetooth-pairing-dialog.c:114
+#: lib/bluetooth-pairing-dialog.c:115
 msgid "Confirm Bluetooth Connection"
 msgstr "Bluetooth Bağlantısını Onayla"
 
-#: lib/bluetooth-pairing-dialog.c:115
+#: lib/bluetooth-pairing-dialog.c:116
 #, c-format
 msgid "“%s” wants to connect with this device. Do you want to allow it?"
 msgstr "“%s” bu aygıta bağlanmak istiyor. İzin vermek istiyor musunuz?"
 
-#: lib/bluetooth-pairing-dialog.c:123
+#: lib/bluetooth-pairing-dialog.c:124
 #, c-format
 msgid "Please enter the following PIN on “%s”."
 msgstr "Lütfen “%s” üstüne aşağıdaki PIN kodunu girin."
 
-#: lib/bluetooth-pairing-dialog.c:126
+#: lib/bluetooth-pairing-dialog.c:127
 #, c-format
 msgid ""
 "Please enter the following PIN on “%s”. Then press “Return” on the keyboard."
@@ -93,7 +93,7 @@ msgstr ""
 "Lütfen “%s” üstüne aşağıdaki PIN kodunu girin. Sonra klavyedeki "
 "“Giriş” (Enter) tuşuna basın."
 
-#: lib/bluetooth-pairing-dialog.c:129
+#: lib/bluetooth-pairing-dialog.c:132
 msgid ""
 "Please move the joystick of your iCade in the following directions. Then "
 "press any of the white buttons."
@@ -101,21 +101,21 @@ msgstr ""
 "Lütfen iCade’inizin oyun çubuğunu aşağıdaki yönlerde oynatın. Sonra da beyaz "
 "düğmelerden herhangi birine basın."
 
-#: lib/bluetooth-pairing-dialog.c:137
+#: lib/bluetooth-pairing-dialog.c:140
 msgid "Allow"
 msgstr "İzin ver"
 
-#: lib/bluetooth-pairing-dialog.c:141
+#: lib/bluetooth-pairing-dialog.c:144
 msgid "Dismiss"
 msgstr "Kapat"
 
 #. Cancel button
-#: lib/bluetooth-pairing-dialog.c:151 lib/bluetooth-pairing-dialog.c:304
+#: lib/bluetooth-pairing-dialog.c:154 lib/bluetooth-pairing-dialog.c:306
 msgid "Cancel"
 msgstr "İptal"
 
 #. OK button
-#: lib/bluetooth-pairing-dialog.c:286 lib/bluetooth-settings-obexpush.c:247
+#: lib/bluetooth-pairing-dialog.c:288 lib/bluetooth-settings-obexpush.c:247
 msgid "Accept"
 msgstr "Kabul et"
 
@@ -286,47 +286,47 @@ msgstr "Hoparlörler"
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
-#: lib/settings.ui:29
+#: lib/settings.ui:32
 msgid "Connection"
 msgstr "Bağlantı"
 
-#: lib/settings.ui:71
+#: lib/settings.ui:74
 msgid "Paired"
 msgstr "Eşlendi"
 
-#: lib/settings.ui:94
+#: lib/settings.ui:97
 msgid "Type"
 msgstr "Tür"
 
-#: lib/settings.ui:117
+#: lib/settings.ui:120
 msgid "Address"
 msgstr "Adres"
 
-#: lib/settings.ui:143
+#: lib/settings.ui:146
 msgid "_Mouse & Touchpad Settings"
 msgstr "_Fare ve Dokunmatik Yüzey Ayarları"
 
-#: lib/settings.ui:150
+#: lib/settings.ui:153
 msgid "_Sound Settings"
 msgstr "_Ses Ayarları"
 
-#: lib/settings.ui:157
+#: lib/settings.ui:160
 msgid "_Keyboard Settings"
 msgstr "_Klavye Ayarları"
 
-#: lib/settings.ui:164
+#: lib/settings.ui:167
 msgid "Send _Files…"
 msgstr "_Dosya Gönder…"
 
-#: lib/settings.ui:171
+#: lib/settings.ui:174
 msgid "_Remove Device"
 msgstr "Aygıtı _Kaldır"
 
-#: lib/settings.ui:185 lib/settings.ui:200
+#: lib/settings.ui:188 lib/settings.ui:203
 msgid "Devices"
 msgstr "Aygıtlar"
 
-#: lib/settings.ui:214
+#: lib/settings.ui:217
 msgid "Searching for devices…"
 msgstr "Aygıtlar aranıyor…"
 

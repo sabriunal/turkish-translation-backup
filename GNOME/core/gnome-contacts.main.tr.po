@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: gnome-contacts master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-contacts/issues\n"
 "POT-Creation-Date: 2023-02-19 15:24+0000\n"
-"PO-Revision-Date: 2023-02-20 02:41+0300\n"
+"PO-Revision-Date: 2023-02-12 18:03+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "Language: tr\n"
@@ -231,16 +231,20 @@ msgid "Delete Contact"
 msgstr "Kişiyi Sil"
 
 #: data/ui/contacts-main-window.ui:123
+#, fuzzy
+#| msgid "New Contact"
 msgid "Add New Contact"
-msgstr "Yeni Kişi Ekle"
+msgstr "Yeni Kişi"
 
 #: data/ui/contacts-main-window.ui:139
 msgid "Main Menu"
 msgstr "Ana Menü"
 
 #: data/ui/contacts-main-window.ui:146
+#, fuzzy
+#| msgid "Select a Contact"
 msgid "Select Contacts"
-msgstr "Kişileri Seç"
+msgstr "Kişi Seç"
 
 #: data/ui/contacts-main-window.ui:154
 msgid "Cancel Selection"
@@ -251,8 +255,11 @@ msgid "Loading"
 msgstr "Yükleniyor"
 
 #: data/ui/contacts-main-window.ui:192
+#, fuzzy
+#| msgctxt "shortcut window"
+#| msgid "Search contacts"
 msgid "Search contacts"
-msgstr "Kişileri ara"
+msgstr "Kişi ara"
 
 #. Export refers to the verb
 #: data/ui/contacts-main-window.ui:210
@@ -798,8 +805,10 @@ msgid "_Online Accounts"
 msgstr "Çevrim İçi _Hesaplar"
 
 #: src/contacts-preferences-window.vala:45
+#, fuzzy
+#| msgid "Opens the Online Accounts panel in GNOME Settings"
 msgid "Open the Online Accounts panel in Settings"
-msgstr "Ayarlar’da Çevrim İçi Hesaplar’ı aç"
+msgstr "GNOME Ayarlar’da Çevrim İçi Hesaplar’ı açar"
 
 #: src/contacts-qr-code-dialog.vala:33
 #, c-format

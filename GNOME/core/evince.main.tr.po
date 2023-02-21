@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: evince\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/evince/issues\n"
-"POT-Creation-Date: 2022-12-09 18:30+0000\n"
+"POT-Creation-Date: 2023-01-25 16:26+0000\n"
 "PO-Revision-Date: 2022-02-23 12:19+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -751,11 +751,11 @@ msgstr "Yazdırma ayarları dosyasının dosya tanımlayıcısı"
 msgid "GNOME Document Previewer"
 msgstr "GNOME Belge Ön İzleyici"
 
-#: previewer/ev-previewer-toolbar.c:112 shell/ev-toolbar.c:218
+#: previewer/ev-previewer-toolbar.c:112 shell/evince-toolbar.ui:35
 msgid "Select page or search in the index"
 msgstr "Sayfa seç ya da dizinde ara"
 
-#: previewer/ev-previewer-toolbar.c:114 shell/ev-toolbar.c:219
+#: previewer/ev-previewer-toolbar.c:114 shell/evince-toolbar.ui:38
 msgid "Select page"
 msgstr "Sayfa seç"
 
@@ -784,11 +784,11 @@ msgstr "_Yazdır"
 msgid "Print this document"
 msgstr "Bu belgeyi yazdır"
 
-#: previewer/previewer.ui:20 shell/evince-menus.ui:232
+#: previewer/previewer.ui:20 shell/evince-menus.ui:129
 msgid "Previous Page"
 msgstr "Önceki Sayfa"
 
-#: previewer/previewer.ui:27 shell/evince-menus.ui:236
+#: previewer/previewer.ui:27 shell/evince-menus.ui:133
 msgid "Next Page"
 msgstr "Sonraki Sayfa"
 
@@ -1021,193 +1021,119 @@ msgstr "Metni vurgula"
 msgid "Add highlight annotation"
 msgstr "Vurgu açıklaması ekle"
 
-#: shell/evince-menus.ui:25 shell/ev-sidebar-links.c:351
-msgid "Print…"
-msgstr "Yazdır…"
-
-#: shell/evince-menus.ui:30
-msgid "Fullscreen"
-msgstr "Tam Ekran"
-
-#: shell/evince-menus.ui:35
-msgid "Send To…"
-msgstr "Gönder…"
-
-#: shell/evince-menus.ui:42
-msgid "New _Window"
-msgstr "Yeni _Pencere"
-
-#: shell/evince-menus.ui:48
-msgid "Open a C_opy"
-msgstr "K_opya Aç"
-
-#: shell/evince-menus.ui:52 shell/evince-menus.ui:218
-msgid "Open Containing _Folder"
-msgstr "Bulunduğu Klas_örü Aç"
-
-#: shell/evince-menus.ui:58
-msgid "_Save As…"
-msgstr "_Farklı Kaydet…"
-
-#: shell/evince-menus.ui:64
-msgid "Present as _Slideshow"
-msgstr "_Slayt Gösterisi Olarak Sun"
-
-#: shell/evince-menus.ui:70
-msgid "_Continuous"
-msgstr "Kesintisi_z"
-
-#: shell/evince-menus.ui:74
-msgid "_Dual"
-msgstr "_İkili"
-
-#: shell/evince-menus.ui:78
-msgid "_Odd Pages Left"
-msgstr "Tek Sayfalar S_olda"
-
-#: shell/evince-menus.ui:82
-msgid "Right to Left Document"
-msgstr "Sağdan Sola Belge"
-
-#: shell/evince-menus.ui:88
-msgid "Ro_tate ⤵"
-msgstr "Dön_dür ⤵"
-
-#: shell/evince-menus.ui:94
-msgid "Ni_ght Mode"
-msgstr "_Gece Kipi"
-
-#: shell/evince-menus.ui:100
-msgid "Prop_erties"
-msgstr "Öz_ellikler"
-
-#: shell/evince-menus.ui:106
-msgid "Save Current Settings as Defa_ult"
-msgstr "Geçerli Ayarları Öntanı_mlı Olarak Kaydet"
-
-#: shell/evince-menus.ui:110
-msgid "_Keyboard Shortcuts"
-msgstr "_Klavye Kısayolları"
-
-#: shell/evince-menus.ui:114
-msgid "_Help"
-msgstr "_Yardım"
-
-#: shell/evince-menus.ui:118
-msgid "_About Document Viewer"
-msgstr "Belge Görüntüleyici _Hakkında"
-
-#: shell/evince-menus.ui:127
+#: shell/evince-menus.ui:24
 msgid "_Open Link"
 msgstr "_Bağlantı Aç"
 
-#: shell/evince-menus.ui:132
+#: shell/evince-menus.ui:29
 msgid "_Copy Link Address"
 msgstr "_Bağlantı Adresini Kopyala"
 
-#: shell/evince-menus.ui:137
+#: shell/evince-menus.ui:34
 msgid "_Go To"
 msgstr "_Git"
 
-#: shell/evince-menus.ui:142
+#: shell/evince-menus.ui:39
 msgid "Open in New _Window"
 msgstr "Yeni _Pencerede Aç"
 
-#: shell/evince-menus.ui:149
+#: shell/evince-menus.ui:46
 msgid "_Previous Page"
 msgstr "_Önceki Sayfa"
 
-#: shell/evince-menus.ui:153
+#: shell/evince-menus.ui:50
 msgid "_Next Page"
 msgstr "S_onraki Sayfa"
 
-#: shell/evince-menus.ui:157 shell/ev-window.c:3975
+#: shell/evince-menus.ui:54 shell/ev-window.c:3975
 msgid "_Reload"
 msgstr "_Yeniden Yükle"
 
-#: shell/evince-menus.ui:161
+#: shell/evince-menus.ui:58
 msgid "Auto_scroll"
 msgstr "Kendiliğinden _Kaydır"
 
-#: shell/evince-menus.ui:167
+#: shell/evince-menus.ui:64
 msgid "_Copy"
 msgstr "_Kopyala"
 
-#: shell/evince-menus.ui:171
+#: shell/evince-menus.ui:68
 msgid "Select _All"
 msgstr "Tü_münü Seç"
 
-#: shell/evince-menus.ui:177
+#: shell/evince-menus.ui:74
 msgid "_Save Image As…"
 msgstr "_Resmi Farklı Kaydet…"
 
-#: shell/evince-menus.ui:182
+#: shell/evince-menus.ui:79
 msgid "Copy _Image"
 msgstr "Resmi K_opyala"
 
-#: shell/evince-menus.ui:189 shell/evince-menus.ui:260
-#: shell/evince-menus.ui:283
+#: shell/evince-menus.ui:86 shell/evince-menus.ui:157 shell/evince-menus.ui:180
 msgid "_Open Attachment"
 msgstr "Ekleri _Aç"
 
-#: shell/evince-menus.ui:194 shell/evince-menus.ui:264
-#: shell/evince-menus.ui:288
+#: shell/evince-menus.ui:91 shell/evince-menus.ui:161 shell/evince-menus.ui:185
 msgid "_Save Attachment As…"
 msgstr "Ekleri _Farklı Kaydet…"
 
-#: shell/evince-menus.ui:201
+#: shell/evince-menus.ui:98
 msgid "Annotation _Properties…"
 msgstr "Açıklama _Özellikleri…"
 
-#: shell/evince-menus.ui:206
+#: shell/evince-menus.ui:103
 msgid "R_emove Annotation"
 msgstr "Açıklamayı _Kaldır"
 
-#: shell/evince-menus.ui:213
+#: shell/evince-menus.ui:110
 msgid "_Highlight Selected Text"
 msgstr "Seçili Metni _Vurgula"
 
-#: shell/evince-menus.ui:226
+#: shell/evince-menus.ui:115 shell/evince-toolbar.ui:153
+msgid "Open Containing _Folder"
+msgstr "Bulunduğu Klas_örü Aç"
+
+#: shell/evince-menus.ui:123
 msgid "Navigation"
 msgstr "Gezinme"
 
-#: shell/evince-menus.ui:228
+#: shell/evince-menus.ui:125
 msgid "First Page"
 msgstr "İlk Sayfa"
 
-#: shell/evince-menus.ui:240
+#: shell/evince-menus.ui:137
 msgid "Last Page"
 msgstr "Son Sayfa"
 
-#: shell/evince-menus.ui:245
+#: shell/evince-menus.ui:142
 msgid "History"
 msgstr "Geçmiş"
 
-#: shell/evince-menus.ui:247
+#: shell/evince-menus.ui:144
 msgid "Back"
 msgstr "Geri"
 
-#: shell/evince-menus.ui:251
+#: shell/evince-menus.ui:148
 msgid "Forward"
 msgstr "İleri"
 
-#: shell/evince-menus.ui:273
+#: shell/evince-menus.ui:170
 msgid "Annotation Properties…"
 msgstr "Açıklama Özellikleri…"
 
-#: shell/evince-menus.ui:278
+#: shell/evince-menus.ui:175
 msgid "Remove Annotation"
 msgstr "Açıklamayı Kaldır"
 
-#: shell/evince-menus.ui:298
+#: shell/evince-menus.ui:195
 msgid "_Open Bookmark"
 msgstr "Yer İmini _Aç"
 
-#: shell/evince-menus.ui:304
+#: shell/evince-menus.ui:201
 msgid "_Rename Bookmark"
 msgstr "Ye_r İmini Yeniden Adlandır"
 
-#: shell/evince-menus.ui:308
+#: shell/evince-menus.ui:205
 msgid "_Delete Bookmark"
 msgstr "Yer İmini _Sil"
 
@@ -1232,6 +1158,106 @@ msgstr "Yer imi ekle"
 #: shell/evince-sidebar-bookmarks.ui:64
 msgid "Remove bookmark"
 msgstr "Yer imini sil"
+
+#: shell/evince-toolbar.ui:10
+msgid "Open…"
+msgstr "Aç…"
+
+#: shell/evince-toolbar.ui:11
+msgid "Open an existing document"
+msgstr "Var olan belgeyi aç"
+
+#: shell/evince-toolbar.ui:20
+msgid "Side pane"
+msgstr "Yan panel"
+
+#: shell/evince-toolbar.ui:49
+msgid "Annotate the document"
+msgstr "Belgeye açıklama ekle"
+
+#: shell/evince-toolbar.ui:59
+msgid "Annotate document"
+msgstr "Belgeye açıklama ekle"
+
+#: shell/evince-toolbar.ui:70 shell/evince-toolbar.ui:81
+msgid "File options"
+msgstr "Dosya seçenekleri"
+
+#: shell/evince-toolbar.ui:110
+msgid "Set zoom level"
+msgstr "Yakınlaştırma düzeyini belirle"
+
+#: shell/evince-toolbar.ui:126 shell/ev-sidebar-links.c:351
+msgid "Print…"
+msgstr "Yazdır…"
+
+#: shell/evince-toolbar.ui:131
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+#: shell/evince-toolbar.ui:136
+msgid "Send To…"
+msgstr "Gönder…"
+
+#: shell/evince-toolbar.ui:143
+msgid "New _Window"
+msgstr "Yeni _Pencere"
+
+#: shell/evince-toolbar.ui:149
+msgid "Open a C_opy"
+msgstr "K_opya Aç"
+
+#: shell/evince-toolbar.ui:159
+msgid "_Save As…"
+msgstr "_Farklı Kaydet…"
+
+#: shell/evince-toolbar.ui:165
+msgid "Present as _Slideshow"
+msgstr "_Slayt Gösterisi Olarak Sun"
+
+#: shell/evince-toolbar.ui:171
+msgid "_Continuous"
+msgstr "Kesintisi_z"
+
+#: shell/evince-toolbar.ui:175
+msgid "_Dual"
+msgstr "_İkili"
+
+#: shell/evince-toolbar.ui:179
+msgid "_Odd Pages Left"
+msgstr "Tek Sayfalar S_olda"
+
+#: shell/evince-toolbar.ui:183
+msgid "Right to Left Document"
+msgstr "Sağdan Sola Belge"
+
+#: shell/evince-toolbar.ui:189
+msgid "Ro_tate ⤵"
+msgstr "Dön_dür ⤵"
+
+#: shell/evince-toolbar.ui:195
+msgid "Ni_ght Mode"
+msgstr "_Gece Kipi"
+
+#: shell/evince-toolbar.ui:201
+msgid "Prop_erties"
+msgstr "Öz_ellikler"
+
+#: shell/evince-toolbar.ui:207
+msgid "Save Current Settings as Defa_ult"
+msgstr "Geçerli Ayarları Öntanı_mlı Olarak Kaydet"
+
+#: shell/evince-toolbar.ui:211
+msgid "_Keyboard Shortcuts"
+msgstr "_Klavye Kısayolları"
+
+#: shell/evince-toolbar.ui:215
+msgid "_Help"
+msgstr "_Yardım"
+
+#: shell/evince-toolbar.ui:219
+msgid "_About Document Viewer"
+msgstr "Belge Görüntüleyici _Hakkında"
 
 #: shell/evince-zoom-action.ui:5
 msgid "Select or set the zoom level of the document"
@@ -1391,41 +1417,13 @@ msgstr "Ana Hat"
 msgid "Thumbnails"
 msgstr "Küçük Resimler"
 
-#: shell/ev-toolbar.c:173
+#: shell/ev-toolbar.c:98
 msgid "Find a word or phrase in the document"
 msgstr "Bir sözcüğü ya da tamlamayı belgede ara"
 
-#: shell/ev-toolbar.c:179
+#: shell/ev-toolbar.c:104
 msgid "Search not available for this document"
 msgstr "Bu belge için arama kullanılamıyor"
-
-#: shell/ev-toolbar.c:203
-msgid "Open…"
-msgstr "Aç…"
-
-#: shell/ev-toolbar.c:204
-msgid "Open an existing document"
-msgstr "Var olan belgeyi aç"
-
-#: shell/ev-toolbar.c:211
-msgid "Side pane"
-msgstr "Yan panel"
-
-#: shell/ev-toolbar.c:227
-msgid "Annotate the document"
-msgstr "Belgeye açıklama ekle"
-
-#: shell/ev-toolbar.c:228
-msgid "Annotate document"
-msgstr "Belgeye açıklama ekle"
-
-#: shell/ev-toolbar.c:236 shell/ev-toolbar.c:237
-msgid "File options"
-msgstr "Dosya seçenekleri"
-
-#: shell/ev-toolbar.c:255
-msgid "Set zoom level"
-msgstr "Yakınlaştırma düzeyini belirle"
 
 #: shell/ev-utils.c:268
 msgid "Supported Image Files"
@@ -1691,59 +1689,59 @@ msgstr "Son Kullanılan Belgeler"
 msgid "Password Required"
 msgstr "Parola Gerekli"
 
-#: shell/ev-zoom-action.c:48
+#: shell/ev-zoom-action.c:41
 msgid "50%"
 msgstr "%50"
 
-#: shell/ev-zoom-action.c:49
+#: shell/ev-zoom-action.c:42
 msgid "70%"
 msgstr "%70"
 
-#: shell/ev-zoom-action.c:50
+#: shell/ev-zoom-action.c:43
 msgid "85%"
 msgstr "%85"
 
-#: shell/ev-zoom-action.c:51
+#: shell/ev-zoom-action.c:44
 msgid "100%"
 msgstr "%100"
 
-#: shell/ev-zoom-action.c:52
+#: shell/ev-zoom-action.c:45
 msgid "125%"
 msgstr "%125"
 
-#: shell/ev-zoom-action.c:53
+#: shell/ev-zoom-action.c:46
 msgid "150%"
 msgstr "%150"
 
-#: shell/ev-zoom-action.c:54
+#: shell/ev-zoom-action.c:47
 msgid "175%"
 msgstr "%175"
 
-#: shell/ev-zoom-action.c:55
+#: shell/ev-zoom-action.c:48
 msgid "200%"
 msgstr "%200"
 
-#: shell/ev-zoom-action.c:56
+#: shell/ev-zoom-action.c:49
 msgid "300%"
 msgstr "%300"
 
-#: shell/ev-zoom-action.c:57
+#: shell/ev-zoom-action.c:50
 msgid "400%"
 msgstr "%400"
 
-#: shell/ev-zoom-action.c:58
+#: shell/ev-zoom-action.c:51
 msgid "800%"
 msgstr "%800"
 
-#: shell/ev-zoom-action.c:59
+#: shell/ev-zoom-action.c:52
 msgid "1600%"
 msgstr "%1600"
 
-#: shell/ev-zoom-action.c:60
+#: shell/ev-zoom-action.c:53
 msgid "3200%"
 msgstr "%3200"
 
-#: shell/ev-zoom-action.c:61
+#: shell/ev-zoom-action.c:54
 msgid "6400%"
 msgstr "%6400"
 

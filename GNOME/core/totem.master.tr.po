@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: totem\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/totem/issues\n"
-"POT-Creation-Date: 2022-11-16 12:09+0000\n"
+"POT-Creation-Date: 2023-02-13 14:25+0000\n"
 "PO-Revision-Date: 2022-08-20 20:06+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
@@ -58,7 +58,7 @@ msgstr ""
 "ekran görüntüsü galerileri oluşturma ve DVD kaydetme desteği gibi ek "
 "işlevselliklerle gelir."
 
-#: data/appdata/org.gnome.Totem.appdata.xml.in.in:33
+#: data/appdata/org.gnome.Totem.appdata.xml.in.in:37
 msgid "The GNOME developers"
 msgstr "GNOME Geliştiricileri"
 
@@ -584,7 +584,7 @@ msgstr "Çı_kar"
 msgid "Languages"
 msgstr "Diller"
 
-#: data/totem.ui:118 src/plugins/opensubtitles/opensubtitles.py:494
+#: data/totem.ui:118 src/plugins/opensubtitles/opensubtitles.py:495
 msgid "Subtitles"
 msgstr "Alt Yazılar"
 
@@ -1369,7 +1369,7 @@ msgid "Searching for subtitles…"
 msgstr "Alt yazılar aranıyor…"
 
 #: src/plugins/opensubtitles/opensubtitles.py:235
-#: src/plugins/opensubtitles/opensubtitles.py:627
+#: src/plugins/opensubtitles/opensubtitles.py:632
 msgid "Downloading the subtitles…"
 msgstr "Alt yazılar indiriliyor…"
 
@@ -1389,22 +1389,22 @@ msgstr "Sonuç bulunamadı."
 
 #. translators comment:
 #. This is the file-type of the subtitle file detected
-#: src/plugins/opensubtitles/opensubtitles.py:500
+#: src/plugins/opensubtitles/opensubtitles.py:501
 msgid "Format"
 msgstr "Biçim"
 
 #. translators comment:
 #. This is a rating of the quality of the subtitle
-#: src/plugins/opensubtitles/opensubtitles.py:505
+#: src/plugins/opensubtitles/opensubtitles.py:506
 msgid "Rating"
 msgstr "Puanlama"
 
 #. pylint: disable=no-member
-#: src/plugins/opensubtitles/opensubtitles.py:545
+#: src/plugins/opensubtitles/opensubtitles.py:550
 msgid "_Download Movie Subtitles…"
 msgstr "Film Alt Yazılarını İn_dir…"
 
-#: src/plugins/opensubtitles/opensubtitles.py:584
+#: src/plugins/opensubtitles/opensubtitles.py:589
 msgid "Searching subtitles…"
 msgstr "Alt yazılar aranıyor…"
 

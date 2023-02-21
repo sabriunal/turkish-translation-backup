@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-keyring\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-keyring/issues\n"
-"POT-Creation-Date: 2022-09-18 08:24+0000\n"
+"POT-Creation-Date: 2023-01-25 18:58+0000\n"
 "PO-Revision-Date: 2017-03-01 18:04+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
@@ -108,27 +108,27 @@ msgstr "Yeni anahtarlık için parola seçin"
 msgid "New Keyring Password"
 msgstr "Yeni Anahtarlık Parolası"
 
-#: daemon/gnome-keyring-pkcs11.desktop.in.in:4
+#: daemon/gnome-keyring-pkcs11.desktop.in:4
 msgid "Certificate and Key Storage"
 msgstr "Sertifika ve Anahtar Deposu"
 
-#: daemon/gnome-keyring-pkcs11.desktop.in.in:5
+#: daemon/gnome-keyring-pkcs11.desktop.in:5
 msgid "GNOME Keyring: PKCS#11 Component"
 msgstr "GNOME Anahtarlığı: PKCS#11 Bileşeni"
 
-#: daemon/gnome-keyring-secrets.desktop.in.in:4
+#: daemon/gnome-keyring-secrets.desktop.in:4
 msgid "Secret Storage Service"
 msgstr "Gizli Depolama Hizmeti"
 
-#: daemon/gnome-keyring-secrets.desktop.in.in:5
+#: daemon/gnome-keyring-secrets.desktop.in:5
 msgid "GNOME Keyring: Secret Service"
 msgstr "GNOME Anahtarlığı: Gizli Hizmet"
 
-#: daemon/gnome-keyring-ssh.desktop.in.in:4
+#: daemon/gnome-keyring-ssh.desktop.in:4
 msgid "SSH Key Agent"
 msgstr "SSH Anahtar Aracı"
 
-#: daemon/gnome-keyring-ssh.desktop.in.in:5
+#: daemon/gnome-keyring-ssh.desktop.in:5
 msgid "GNOME Keyring: SSH Agent"
 msgstr "GNOME Anahtarlığı: SSH Aracı"
 
