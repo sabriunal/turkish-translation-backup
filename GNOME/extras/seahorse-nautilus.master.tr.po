@@ -265,7 +265,7 @@ msgstr "İmzayı Doğrula"
 
 #: tool/seahorse-progress.ui:8
 msgid "Progress Title"
-msgstr "İlerleme Başklığı"
+msgstr "İlerleme Başlığı"
 
 #: tool/seahorse-tool.c:58
 msgid "Import keys from the file"

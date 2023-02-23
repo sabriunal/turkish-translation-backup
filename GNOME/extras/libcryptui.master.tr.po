@@ -274,7 +274,7 @@ msgstr "Alt anahtar %d / %s"
 
 #: ../daemon/seahorse-progress.xml.h:1
 msgid "Progress Title"
-msgstr "İlerleme Başklığı"
+msgstr "İlerleme Başlığı"
 
 #: ../daemon/seahorse-service.c:158 ../daemon/seahorse-service.c:264
 #, c-format
