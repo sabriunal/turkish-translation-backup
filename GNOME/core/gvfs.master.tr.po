@@ -13,16 +13,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gvfs\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gvfs/issues\n"
-"POT-Creation-Date: 2023-01-25 20:37+0000\n"
-"PO-Revision-Date: 2021-02-15 16:55+0300\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"POT-Creation-Date: 2023-02-22 11:53+0000\n"
+"PO-Revision-Date: 2023-02-20 19:26+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-POOTLE-MTIME: 1434405906.000000\n"
 
 #: client/gdaemonfile.c:435 client/gdaemonfile.c:2718
@@ -585,37 +585,38 @@ msgstr "Dosya, okuma erişimi için açık değil"
 #: daemon/gvfsbackendgphoto2.c:2451 daemon/gvfsbackendgphoto2.c:2548
 #: daemon/gvfsbackendgphoto2.c:2641 daemon/gvfsbackendgphoto2.c:3250
 #: daemon/gvfsbackendgphoto2.c:3258 daemon/gvfsbackendgphoto2.c:3268
-#: daemon/gvfsbackendmtp.c:1746 daemon/gvfsbackendmtp.c:2047
-#: daemon/gvfsbackendmtp.c:2296 daemon/gvfsbackendmtp.c:2487
-#: daemon/gvfsbackendmtp.c:2570 daemon/gvfsbackendmtp.c:2658
-#: daemon/gvfsbackendmtp.c:2726 daemon/gvfsbackendmtp.c:2921
-#: daemon/gvfsbackendmtp.c:3064 daemon/gvfsbackendnfs.c:2372
-#: daemon/gvfsbackendnfs.c:2422 daemon/gvfsbackendnfs.c:2548
-#: daemon/gvfsbackendsftp.c:2213 daemon/gvfsbackendsftp.c:5417
-#: daemon/gvfsbackendsftp.c:5515 daemon/gvfsbackendsftp.c:6227
-#: daemon/gvfsbackendsftp.c:6259 daemon/gvfsbackendsftp.c:6285
-#: daemon/gvfsbackendsftp.c:6293 daemon/gvfsbackendsftp.c:6780
-#: daemon/gvfsbackendsftp.c:6842 daemon/gvfsbackendsftp.c:6850
-#: daemon/gvfsbackendsmb.c:1700 daemon/gvfsftptask.c:430
-#: daemon/gvfsjobcloseread.c:113 daemon/gvfsjobclosewrite.c:121
-#: daemon/gvfsjobcopy.c:121 daemon/gvfsjobcreatemonitor.c:143
-#: daemon/gvfsjobcreatemonitor.c:154 daemon/gvfsjobcreatemonitor.c:177
-#: daemon/gvfsjobcreatemonitor.c:195 daemon/gvfsjobdelete.c:108
-#: daemon/gvfsjobenumerate.c:272 daemon/gvfsjobmakedirectory.c:108
-#: daemon/gvfsjobmount.c:112 daemon/gvfsjobmountmountable.c:138
-#: daemon/gvfsjobmove.c:121 daemon/gvfsjobopenforread.c:120
-#: daemon/gvfsjobopenforwrite.c:184 daemon/gvfsjobopenforwrite.c:198
-#: daemon/gvfsjobopenforwrite.c:212 daemon/gvfsjobopeniconforread.c:104
-#: daemon/gvfsjobpollmountable.c:107 daemon/gvfsjobpull.c:125
-#: daemon/gvfsjobpush.c:125 daemon/gvfsjobqueryattributes.c:145
-#: daemon/gvfsjobqueryfsinfo.c:116 daemon/gvfsjobqueryinfo.c:124
-#: daemon/gvfsjobqueryinforead.c:125 daemon/gvfsjobqueryinfowrite.c:125
-#: daemon/gvfsjobread.c:123 daemon/gvfsjobseekread.c:121
-#: daemon/gvfsjobseekwrite.c:121 daemon/gvfsjobsetattribute.c:130
-#: daemon/gvfsjobsetdisplayname.c:111 daemon/gvfsjobstartmountable.c:113
-#: daemon/gvfsjobstopmountable.c:115 daemon/gvfsjobtrash.c:107
-#: daemon/gvfsjobtruncate.c:113 daemon/gvfsjobunmountmountable.c:157
-#: daemon/gvfsjobunmountmountable.c:172 daemon/gvfsjobwrite.c:123
+#: daemon/gvfsbackendhttp.c:745 daemon/gvfsbackendmtp.c:1746
+#: daemon/gvfsbackendmtp.c:2047 daemon/gvfsbackendmtp.c:2296
+#: daemon/gvfsbackendmtp.c:2487 daemon/gvfsbackendmtp.c:2570
+#: daemon/gvfsbackendmtp.c:2658 daemon/gvfsbackendmtp.c:2726
+#: daemon/gvfsbackendmtp.c:2921 daemon/gvfsbackendmtp.c:3064
+#: daemon/gvfsbackendnfs.c:2372 daemon/gvfsbackendnfs.c:2422
+#: daemon/gvfsbackendnfs.c:2548 daemon/gvfsbackendsftp.c:2213
+#: daemon/gvfsbackendsftp.c:5417 daemon/gvfsbackendsftp.c:5515
+#: daemon/gvfsbackendsftp.c:6227 daemon/gvfsbackendsftp.c:6259
+#: daemon/gvfsbackendsftp.c:6285 daemon/gvfsbackendsftp.c:6293
+#: daemon/gvfsbackendsftp.c:6780 daemon/gvfsbackendsftp.c:6842
+#: daemon/gvfsbackendsftp.c:6850 daemon/gvfsbackendsmb.c:1700
+#: daemon/gvfsftptask.c:430 daemon/gvfsjobcloseread.c:113
+#: daemon/gvfsjobclosewrite.c:121 daemon/gvfsjobcopy.c:121
+#: daemon/gvfsjobcreatemonitor.c:143 daemon/gvfsjobcreatemonitor.c:154
+#: daemon/gvfsjobcreatemonitor.c:177 daemon/gvfsjobcreatemonitor.c:195
+#: daemon/gvfsjobdelete.c:108 daemon/gvfsjobenumerate.c:272
+#: daemon/gvfsjobmakedirectory.c:108 daemon/gvfsjobmount.c:112
+#: daemon/gvfsjobmountmountable.c:138 daemon/gvfsjobmove.c:121
+#: daemon/gvfsjobopenforread.c:120 daemon/gvfsjobopenforwrite.c:184
+#: daemon/gvfsjobopenforwrite.c:198 daemon/gvfsjobopenforwrite.c:212
+#: daemon/gvfsjobopeniconforread.c:104 daemon/gvfsjobpollmountable.c:107
+#: daemon/gvfsjobpull.c:125 daemon/gvfsjobpush.c:125
+#: daemon/gvfsjobqueryattributes.c:145 daemon/gvfsjobqueryfsinfo.c:116
+#: daemon/gvfsjobqueryinfo.c:124 daemon/gvfsjobqueryinforead.c:125
+#: daemon/gvfsjobqueryinfowrite.c:125 daemon/gvfsjobread.c:123
+#: daemon/gvfsjobseekread.c:121 daemon/gvfsjobseekwrite.c:121
+#: daemon/gvfsjobsetattribute.c:130 daemon/gvfsjobsetdisplayname.c:111
+#: daemon/gvfsjobstartmountable.c:113 daemon/gvfsjobstopmountable.c:115
+#: daemon/gvfsjobtrash.c:107 daemon/gvfsjobtruncate.c:113
+#: daemon/gvfsjobunmountmountable.c:157 daemon/gvfsjobunmountmountable.c:172
+#: daemon/gvfsjobwrite.c:123
 msgid "Operation not supported"
 msgstr "İşlem desteklenmiyor"
 
@@ -649,11 +650,11 @@ msgstr "İşlenmemiş Apple Dosya Denetim hatası (%d)"
 
 #: daemon/gvfsbackendafc.c:190
 msgid "Listing applications installed on device failed"
-msgstr "Aygıt üzerinde kurulu uygulamaların listelenmesi başarısız oldu"
+msgstr "Aygıt üzerinde kurulu uygulamaların listelenemedi"
 
 #: daemon/gvfsbackendafc.c:206
 msgid "Accessing application icons on device failed"
-msgstr "Aygıttaki uygulama simgelerine erişim başarısız oldu"
+msgstr "Aygıttaki uygulama simgelerine erişemedi"
 
 #: daemon/gvfsbackendafc.c:228
 msgid "Lockdown Error: Invalid Argument"
@@ -1153,7 +1154,7 @@ msgstr "İstek oluşturulamadı"
 #: daemon/gvfsbackendnfs.c:1390 daemon/gvfsbackendsmb.c:1113
 #: daemon/gvfsbackendsmb.c:2114
 msgid "Backup file creation failed"
-msgstr "Yedek dosyası oluşturma başarısız oldu"
+msgstr "Yedek dosyası oluşturulamadı"
 
 #: daemon/gvfsbackenddav.c:3567
 msgid "Can’t move over directory"
@@ -1355,11 +1356,11 @@ msgstr "Bir dizin değil"
 
 #: daemon/gvfsbackendgphoto2.c:1896
 msgid "Failed to get folder list"
-msgstr "Klasör listesi alma başarısız oldu"
+msgstr "Klasör listesi alınamadı"
 
 #: daemon/gvfsbackendgphoto2.c:1961
 msgid "Failed to get file list"
-msgstr "Dosya listesi alınırken başarısız olundu"
+msgstr "Dosya listesi alınamadı"
 
 #: daemon/gvfsbackendgphoto2.c:2250
 msgid "Error creating directory"
@@ -1572,7 +1573,7 @@ msgstr "Son kullanılan"
 
 #: daemon/gvfsbackendsftp.c:337 daemon/gvfsbackendsftp.c:720
 msgid "Connection failed"
-msgstr "Bağlantı başarısız oldu"
+msgstr "Bağlanamadı"
 
 #: daemon/gvfsbackendsftp.c:353
 msgid "Hostname not known"
@@ -1588,7 +1589,7 @@ msgstr "Bağlantı sunucu tarafından reddedildi"
 
 #: daemon/gvfsbackendsftp.c:375
 msgid "Host key verification failed"
-msgstr "Makine anahtarının onaylanması başarısız oldu"
+msgstr "Makine anahtarı doğrulanamadı"
 
 #: daemon/gvfsbackendsftp.c:382
 msgid "Too many authentication failures"
@@ -1670,7 +1671,7 @@ msgid ""
 "The identity sent by the remote computer is “%s”. If you want to be "
 "absolutely sure it is safe to continue, contact the system administrator."
 msgstr ""
-"Kimlik Doğrulaması Başarısız\n"
+"Kimlik Doğrulamanamadı\n"
 "“%s” kimliği doğrulanamadı; bu, bilgisayarda ilk kez oturum açtığınızda "
 "gerçekleşir.\n"
 "\n"
@@ -1686,7 +1687,7 @@ msgid ""
 "If you want to be absolutely sure it is safe to continue, contact the system "
 "administrator."
 msgstr ""
-"Kimlik Doğrulaması Başarısız\n"
+"Kimlik Doğrulanamadı\n"
 "“%s” için ana makine anahtarı ile “%s” IP adresinin anahtarı birbirinden "
 "farklı.\n"
 "Eğer sürdürmenin güvenilirliğinden tümüyle emin olmalıysanız, sistem "
@@ -1795,7 +1796,7 @@ msgstr "%s Windows paylaşımı bağlanamadı"
 #: daemon/gvfsbackendsmb.c:1312
 #, c-format
 msgid "Backup file creation failed: %s"
-msgstr "Yedek dosyası oluşturma başarısız: %s"
+msgstr "Yedek dosyası oluşturulamadı: %s"
 
 #: daemon/gvfsbackendsmb.c:1923
 msgid "Can’t rename file, filename already exists"
@@ -1889,7 +1890,7 @@ msgid ""
 "\n"
 "Are you really sure you would like to continue?"
 msgstr ""
-"Kimlik Doğrulaması Başarısız\n"
+"Kimlik Doğrulanamadı\n"
 "%s\n"
 "\n"
 "%s\n"
@@ -1910,12 +1911,12 @@ msgid ""
 "Failed to create active FTP connection. Maybe your router does not support "
 "this?"
 msgstr ""
-"Etkin FTP bağlantısı oluşturulamıyor. Belki yönlendiriciniz bunu "
+"Etkin FTP bağlantısı oluşturulamadı. Belki yönlendiriciniz bunu "
 "desteklemiyordur?"
 
 #: daemon/gvfsftpconnection.c:485
 msgid "Failed to create active FTP connection."
-msgstr "Etkin FTP bağlantısı oluşturulamadı."
+msgstr "Aktif FTP bağlantısı oluşturulamadı."
 
 #: daemon/gvfsftpfile.c:170
 msgid "Filename contains invalid characters."
@@ -2035,7 +2036,7 @@ msgstr "Daha çok bilgi için “%s --help” deneyin."
 #: daemon/mount.c:783
 #, c-format
 msgid "Automount failed: %s"
-msgstr "Kendiliğinden bağlama başarısız oldu: %s"
+msgstr "Kendiliğinden bağlanamadı: %s"
 
 #: daemon/mount.c:827 daemon/mount.c:903
 msgid "The specified location is not mounted"
@@ -2099,7 +2100,7 @@ msgstr "GVFS için üst veri hizmeti"
 #: monitor/goa/goavolume.c:296 monitor/goa/goavolume.c:335
 #, c-format
 msgid "Failed to get org.gnome.OnlineAccounts.Files for %s"
-msgstr "%s için org.gnome.OnlineAccounts.Files getirilemedi"
+msgstr "%s için org.gnome.OnlineAccounts.Files alınamadı"
 
 #: monitor/goa/goavolume.c:366
 #, c-format
@@ -2151,8 +2152,7 @@ msgstr "Adsız Sürücü"
 #: monitor/udisks2/gvfsudisks2drive.c:624
 #, c-format
 msgid "Failed to eject medium; one or more volumes on the medium are busy."
-msgstr ""
-"Ortamı çıkartma başarısız; ortam üzerindeki bir ya da daha çok birim meşgul."
+msgstr "Ortam çıkartılamadı; ortam üzerindeki bir ya da daha çok birim meşgul."
 
 #: monitor/udisks2/gvfsudisks2mount.c:634
 msgid "One or more programs are preventing the unmount operation."

@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mutter master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/mutter/issues\n"
-"POT-Creation-Date: 2023-02-17 12:50+0000\n"
+"POT-Creation-Date: 2023-03-06 15:09+0000\n"
 "PO-Revision-Date: 2023-01-30 16:34+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
@@ -756,7 +756,7 @@ msgstr "Çalışma alanı değiştirildi"
 msgid "Mode Switch: Mode %d"
 msgstr "Kip Anahtarı: Kip %d"
 
-#: src/x11/meta-x11-display.c:682
+#: src/x11/meta-x11-display.c:701
 #, c-format
 msgid ""
 "Display “%s” already has a window manager; try using the --replace option to "
@@ -766,16 +766,12 @@ msgstr ""
 "yöneticisinin yerine başkasını koymak için --replace seçeneğini kullanmayı "
 "deneyin."
 
-#: src/x11/meta-x11-display.c:1074
-msgid "Failed to initialize GDK"
-msgstr "GDK ilklendirilemedi"
-
-#: src/x11/meta-x11-display.c:1100
+#: src/x11/meta-x11-display.c:1062
 #, c-format
 msgid "Failed to open X Window System display “%s”"
 msgstr "X Pencere Sistemi monitörü “%s” açılamadı"
 
-#: src/x11/meta-x11-display.c:1253
+#: src/x11/meta-x11-display.c:1207
 #, c-format
 msgid "Screen %d on display “%s” is invalid"
 msgstr "“%2$s” monitöründeki %1$d ekranı geçersiz"

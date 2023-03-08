@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: simple-scan\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/simple-scan/issues\n"
-"POT-Creation-Date: 2023-02-14 17:17+0000\n"
-"PO-Revision-Date: 2023-02-14 04:34+0300\n"
+"POT-Creation-Date: 2023-02-22 11:59+0000\n"
+"PO-Revision-Date: 2023-02-20 22:18+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
@@ -945,12 +945,12 @@ msgstr "Sürücüler başarıyla kuruldu!"
 #: src/app-window.vala:1751
 #, c-format
 msgid "Failed to install drivers (error code %d)."
-msgstr "Sürücülerin kurulumu başarısız oldu (hata kodu %d)."
+msgstr "Sürücüler kurulamadı (hata kodu %d)."
 
 #. Label shown if failed to install drivers
 #: src/app-window.vala:1757
 msgid "Failed to install drivers."
-msgstr "Sürücülerin kurulumu başarısız oldu."
+msgstr "Sürücüler kurulamadı."
 
 #. Label shown to prompt user to install packages (when PackageKit not available)
 #: src/app-window.vala:1764
@@ -1123,7 +1123,7 @@ msgstr "Bu uygulamanın eski sürümlerince üretilen PDF dosyalarını düzelt"
 #. Title of error dialog when scan failed
 #: src/simple-scan.vala:1758
 msgid "Failed to scan"
-msgstr "Tarama başarısız oldu"
+msgstr "Taranamadı"
 
 #. Attempt to inhibit the screensaver when scanning
 #: src/simple-scan.vala:1773

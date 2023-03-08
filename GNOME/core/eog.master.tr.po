@@ -22,8 +22,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eog\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/eog/issues\n"
-"POT-Creation-Date: 2023-02-11 11:53+0000\n"
-"PO-Revision-Date: 2023-01-27 23:05+0300\n"
+"POT-Creation-Date: 2023-02-22 11:50+0000\n"
+"PO-Revision-Date: 2023-02-20 03:47+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
@@ -1127,7 +1127,7 @@ msgstr "Bu dosya biçiminde EXIF desteklenmiyor."
 #: src/eog-image.c:1281
 #, c-format
 msgid "Image loading failed."
-msgstr "Resim yüklemesi başarısız oldu."
+msgstr "Resim yüklenemedi."
 
 #: src/eog-image.c:1870 src/eog-image.c:1990
 #, c-format
@@ -1142,7 +1142,7 @@ msgstr "Dosyayı kaydetmek için gerekli izniniz yok."
 #: src/eog-image.c:1888 src/eog-image.c:2010
 #, c-format
 msgid "Temporary file creation failed."
-msgstr "Geçici dosya oluşturması başarısız."
+msgstr "Geçici dosya oluşturulamadı."
 
 #: src/eog-image-jpeg.c:374
 #, c-format

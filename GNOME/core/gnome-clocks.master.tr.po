@@ -1,20 +1,20 @@
 # Turkish translation for gnome-clocks.
-# Copyright (C) 2012-2022 gnome-clocks's COPYRIGHT HOLDER
+# Copyright (C) 2012-2023 gnome-clocks's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-clocks package.
 #
 # Osman Karagöz <osmank3@gmail.com>, 2012.
 # Gökhan Gurbetoğlu <ggurbet@gmail.com>, 2014.
 # Muhammet Kara <muhammetk@gmail.com>, 2013, 2014, 2015, 2016.
 # Çağatay Yiğit Şahin <cyigitsahin@outlook.com>, 2017.
-# Sabri Ünal <libreajans@gmail.com>, 2020.
+# Sabri Ünal <libreajans@gmail.com>, 2020, 2023.
 # Emin Tufan Çetin <etcetin@gmail.com>, 2017, 2020, 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-clocks master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-clocks/issues\n"
-"POT-Creation-Date: 2023-02-21 10:53+0000\n"
-"PO-Revision-Date: 2022-10-16 20:22+0300\n"
+"POT-Creation-Date: 2023-03-05 20:49+0000\n"
+"PO-Revision-Date: 2023-02-21 14:28+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
@@ -146,7 +146,7 @@ msgstr "Kronometre ekranı"
 msgid "Timer screen"
 msgstr "Zamanlayıcı ekranı"
 
-#: data/org.gnome.clocks.metainfo.xml.in.in:121 src/window.vala:289
+#: data/org.gnome.clocks.metainfo.xml.in.in:122 src/window.vala:289
 msgid "The GNOME Project"
 msgstr "GNOME Projesi"
 
@@ -255,10 +255,8 @@ msgid "Repeat"
 msgstr "Yinele"
 
 #: data/ui/alarm-face.ui:14
-#, fuzzy
-#| msgid "Add A_larm"
 msgid "Add A_larm…"
-msgstr "Alarm _Ekle"
+msgstr "Alarm _Ekle…"
 
 #: data/ui/alarm-ringing-panel.ui:26 src/alarm-item.vala:128
 msgid "Stop"
@@ -364,35 +362,35 @@ msgstr "Sıfırla"
 
 #: data/ui/timer-setup.ui:38
 msgid "1 m"
-msgstr "1 d"
+msgstr "1 dk."
 
 #: data/ui/timer-setup.ui:49
 msgid "2 m"
-msgstr "2 d"
+msgstr "2 dk."
 
 #: data/ui/timer-setup.ui:60
 msgid "3 m"
-msgstr "3 d"
+msgstr "3 dk."
 
 #: data/ui/timer-setup.ui:71
 msgid "5 m"
-msgstr "5 d"
+msgstr "5 dk."
 
 #: data/ui/timer-setup.ui:82
 msgid "30 m"
-msgstr "30 d"
+msgstr "30 dk."
 
 #: data/ui/timer-setup.ui:93
 msgid "15 m"
-msgstr "15 d"
+msgstr "15 dk."
 
 #: data/ui/timer-setup.ui:104
 msgid "45 m"
-msgstr "45 d"
+msgstr "45 dk."
 
 #: data/ui/timer-setup.ui:115
 msgid "1 h"
-msgstr "1 sa"
+msgstr "1 sa."
 
 #: data/ui/timer-setup.ui:147 data/ui/timer-setup.ui:179
 #: data/ui/timer-setup.ui:212
@@ -400,32 +398,24 @@ msgid "0"
 msgstr "0"
 
 #: data/ui/window.ui:45
-#, fuzzy
-#| msgid "World"
 msgid "_World"
-msgstr "Dünya"
+msgstr "_Dünya"
 
 #: data/ui/window.ui:56
 msgid "Ala_rms"
-msgstr ""
+msgstr "Ala_rmlar"
 
 #: data/ui/window.ui:67
-#, fuzzy
-#| msgid "Stopwatch"
 msgid "_Stopwatch"
-msgstr "Kronometre"
+msgstr "_Kronometre"
 
 #: data/ui/window.ui:78
-#, fuzzy
-#| msgid "Timer"
 msgid "_Timer"
-msgstr "Zamanlayıcı"
+msgstr "_Zamanlayıcı"
 
 #: data/ui/world-face.ui:15
-#, fuzzy
-#| msgid "_Add World Clock"
 msgid "_Add World Clock…"
-msgstr "Dünya Saati _Ekle"
+msgstr "Dünya Saati _Ekle…"
 
 #: data/ui/world-location-dialog.ui:4
 msgid "Add a New World Clock"
@@ -548,9 +538,7 @@ msgstr "Geçerli saat dilimi"
 #. Translators: The (possibly fractical) number hours in the past
 #. (relative to local) the clock/location is
 #: src/utils.vala:66
-#, fuzzy, c-format
-#| msgid "%s hour earlier"
-#| msgid_plural "%s hours earlier"
+#, c-format
 msgid "%s hour behind"
 msgid_plural "%s hours behind"
 msgstr[0] "%s saat geri"
@@ -558,9 +546,7 @@ msgstr[0] "%s saat geri"
 #. Translators: The (possibly fractical) number hours in the
 #. future (relative to local) the clock/location is
 #: src/utils.vala:72
-#, fuzzy, c-format
-#| msgid "%s hour later"
-#| msgid_plural "%s hours later"
+#, c-format
 msgid "%s hour ahead"
 msgid_plural "%s hours ahead"
 msgstr[0] "%s saat ileri"

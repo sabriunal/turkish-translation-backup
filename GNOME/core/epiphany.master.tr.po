@@ -22,16 +22,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: epiphany\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/epiphany/issues\n"
-"POT-Creation-Date: 2023-02-20 23:57+0000\n"
-"PO-Revision-Date: 2023-02-13 21:05+0300\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"POT-Creation-Date: 2023-03-03 14:38+0000\n"
+"PO-Revision-Date: 2023-02-20 15:28+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"X-Generator: Gtranslator 42.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-DamnedLies-Scope: partial\n"
 
 #: data/org.gnome.Epiphany.appdata.xml.in.in:6
@@ -96,26 +96,14 @@ msgid "Address of the user’s home page."
 msgstr "Kullanıcının başlangıç sayfasının adresi."
 
 #: data/org.gnome.epiphany.gschema.xml:22
-msgid "New tab page."
-msgstr "Yeni sekme sayfası."
-
-#: data/org.gnome.epiphany.gschema.xml:23
-msgid ""
-"Selects which page should be shown as a new page tab. Possible values are "
-"“homepage” and “blank”."
-msgstr ""
-"Hangi sayfanın yeni sekme sayfası olarak gösterileceğini seçer. Olası "
-"değerler: “homepage” (ana sayfa) ve “blank” (boş)."
-
-#: data/org.gnome.epiphany.gschema.xml:27
 msgid "Default search engine."
 msgstr "Öntanımlı arama motoru."
 
-#: data/org.gnome.epiphany.gschema.xml:28
+#: data/org.gnome.epiphany.gschema.xml:23
 msgid "Name of the search engine selected by default."
 msgstr "Öntanımlı olarak seçilen arama motorunun adı."
 
-#: data/org.gnome.epiphany.gschema.xml:38
+#: data/org.gnome.epiphany.gschema.xml:33
 msgid "Deprecated. Please use search-engine-providers instead."
 msgstr "Terk edilmiştir. Lütfen yerine search-engine-providers kullanın."
 
@@ -135,7 +123,7 @@ msgstr "Terk edilmiştir. Lütfen yerine search-engine-providers kullanın."
 #. missing ', <, > or trailing comma), and that you're keeping the %s
 #. placeholder for the search query. Also please check if they are actually
 #. properly shown in the Preferences if you reset the gsettings key.
-#: data/org.gnome.epiphany.gschema.xml:58
+#: data/org.gnome.epiphany.gschema.xml:53
 msgid ""
 "[\n"
 "\t\t\t\t\t{'name': <'DuckDuckGo'>, 'url': <'https://duckduckgo.com/?"
@@ -157,11 +145,11 @@ msgstr ""
 "text=%s'>, 'bang': <'!ya'>}\n"
 "\t\t\t\t]"
 
-#: data/org.gnome.epiphany.gschema.xml:66
+#: data/org.gnome.epiphany.gschema.xml:61
 msgid "List of the search engines."
 msgstr "Arama motorlarının listesi."
 
-#: data/org.gnome.epiphany.gschema.xml:67
+#: data/org.gnome.epiphany.gschema.xml:62
 msgid ""
 "List of the search engines. It is an array of vardicts with each vardict "
 "corresponding to a search engine, and with the following supported keys: "
@@ -175,30 +163,30 @@ msgstr ""
 "gelen %s ile birlikte arama motorunun adresi; \"bang\", Arama motorunun "
 "\"bang\"i (kısayol sözcüğü)"
 
-#: data/org.gnome.epiphany.gschema.xml:77
+#: data/org.gnome.epiphany.gschema.xml:72
 msgid "Enable Google Search Suggestions"
 msgstr "Google Arama Önerilerini etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:78
+#: data/org.gnome.epiphany.gschema.xml:73
 msgid "Whether to show Google Search Suggestion in url entry popdown."
 msgstr "Google Arama Önerisinin url giriş damlacığında gösterilmesi."
 
-#: data/org.gnome.epiphany.gschema.xml:82
+#: data/org.gnome.epiphany.gschema.xml:77
 msgid "Force new windows to be opened in tabs"
 msgstr "Yeni pencerelerinin sekmeleride açılmasını zorla"
 
-#: data/org.gnome.epiphany.gschema.xml:83
+#: data/org.gnome.epiphany.gschema.xml:78
 msgid ""
 "Force new window requests to be opened in tabs instead of using a new window."
 msgstr ""
 "Yeni pencere isteklerinin pencere kullanarak açılması yerine sekmelerde "
 "açılması."
 
-#: data/org.gnome.epiphany.gschema.xml:90
+#: data/org.gnome.epiphany.gschema.xml:85
 msgid "Whether to automatically restore the last session"
 msgstr "Son oturumu kendiliğinden geri yükle"
 
-#: data/org.gnome.epiphany.gschema.xml:91
+#: data/org.gnome.epiphany.gschema.xml:86
 msgid ""
 "Defines how the session will be restored during startup. Allowed values are "
 "“always” (the previous state of the application is always restored) and "
@@ -208,7 +196,7 @@ msgstr ""
 "değerler şunlardır: “always” (uygulamanın önceki durumu her zaman geri "
 "yüklenir), “crashed” (yalnızca uygulama çöktüğünde geri yüklenir)."
 
-#: data/org.gnome.epiphany.gschema.xml:95
+#: data/org.gnome.epiphany.gschema.xml:90
 msgid ""
 "Whether to delay loading of tabs that are not immediately visible on session "
 "restore"
@@ -216,7 +204,7 @@ msgstr ""
 "Oturum kurtarma yaparken anında gözükmeyen sekmelerin yüklenmesinin "
 "geciktirilip geciktirilmeyeceği"
 
-#: data/org.gnome.epiphany.gschema.xml:96
+#: data/org.gnome.epiphany.gschema.xml:91
 msgid ""
 "When this option is set to true, tabs will not start loading until the user "
 "switches to them, upon session restore."
@@ -224,11 +212,11 @@ msgstr ""
 "Bu seçenek doğru olarak ayarlandığında, oturum kurtarma yaptıktan sonra "
 "sekmeler kullanıcı tıklamadıkça yüklenmeyecektir."
 
-#: data/org.gnome.epiphany.gschema.xml:100
+#: data/org.gnome.epiphany.gschema.xml:95
 msgid "List of adblock filters"
 msgstr "Reklam engelleyici süzgeçlerinin listesi"
 
-#: data/org.gnome.epiphany.gschema.xml:101
+#: data/org.gnome.epiphany.gschema.xml:96
 msgid ""
 "List of URLs with content filtering rules in JSON format to be used by the "
 "ad blocker."
@@ -236,11 +224,11 @@ msgstr ""
 "Reklam engelleyici tarafından kullanılacak, içerik filtreleme kurallarına "
 "sahip JSON biçimindeki URL'lerin listesi."
 
-#: data/org.gnome.epiphany.gschema.xml:105
+#: data/org.gnome.epiphany.gschema.xml:100
 msgid "Whether to ask for setting browser as default"
 msgstr "Tarayıcıyı öntanımlı olarak ayarlamanın sorulup sorulmayacağı"
 
-#: data/org.gnome.epiphany.gschema.xml:106
+#: data/org.gnome.epiphany.gschema.xml:101
 msgid ""
 "When this option is set to true, browser will ask for being default if it is "
 "not already set."
@@ -248,22 +236,22 @@ msgstr ""
 "Bu seçenek doğru olarak ayarlandığında, tarayıcı öntanımlı olarak "
 "ayarlanmadıysa, öntanımlı tarayıcı olmak için sorar."
 
-#: data/org.gnome.epiphany.gschema.xml:110
+#: data/org.gnome.epiphany.gschema.xml:105
 msgid "Start in incognito mode"
 msgstr "Gizli tarama kipinde başlat"
 
-#: data/org.gnome.epiphany.gschema.xml:111
+#: data/org.gnome.epiphany.gschema.xml:106
 msgid ""
 "When this option is set to true, browser will always start in incognito mode"
 msgstr ""
 "Bu seçenek doğru olarak ayarlandığında, tarayıcı daima gizli tarama kipinde "
 "başlar"
 
-#: data/org.gnome.epiphany.gschema.xml:115
+#: data/org.gnome.epiphany.gschema.xml:110
 msgid "Active clear data items."
 msgstr "Aktif veri temizleme ögeleri."
 
-#: data/org.gnome.epiphany.gschema.xml:116
+#: data/org.gnome.epiphany.gschema.xml:111
 msgid ""
 "Selection (bitmask) which clear data items should be active by default. 1 = "
 "Cookies, 2 = HTTP disk cache, 4 = Local storage data, 8 = Offline web "
@@ -277,13 +265,13 @@ msgstr ""
 "tabanları, 32 = WebSQL veri tabanları, 64 = Eklenti verisi, 128 = HSTS ilke "
 "önbelleği, 256 = Zeki Takip Önleme verisi."
 
-#: data/org.gnome.epiphany.gschema.xml:122
+#: data/org.gnome.epiphany.gschema.xml:117
 msgid "Expand tabs size to fill the available space on the tabs bar."
 msgstr ""
 "Sekmelerin boyutunu, sekmeler çubuğundaki boş alanı dolduracak biçimde "
 "genişlet."
 
-#: data/org.gnome.epiphany.gschema.xml:123
+#: data/org.gnome.epiphany.gschema.xml:118
 msgid ""
 "If enabled the tabs will expand to use the entire available space in the "
 "tabs bar. This setting is ignored in Pantheon desktop."
@@ -291,11 +279,11 @@ msgstr ""
 "Eğer etkinleştirilirse; sekmeler, çubuktaki kullanılabilir alanın tümünü "
 "kullanacak biçimde genişler. Bu ayar Pantheon masaüstünde yok sayılır."
 
-#: data/org.gnome.epiphany.gschema.xml:127
+#: data/org.gnome.epiphany.gschema.xml:122
 msgid "The visibility policy for the tabs bar."
 msgstr "Sekme çubuğunun görünürlük politikası."
 
-#: data/org.gnome.epiphany.gschema.xml:128
+#: data/org.gnome.epiphany.gschema.xml:123
 msgid ""
 "Controls when the tabs bar is shown. Possible values are “always” (the tabs "
 "bar is always shown), “more-than-one” (the tabs bar is only shown if there’s "
@@ -308,21 +296,21 @@ msgstr ""
 "asla gösterilmez). Bu ayar Pantheon masaüstünde yok sayılır ve “always” "
 "değeri kullanılır."
 
-#: data/org.gnome.epiphany.gschema.xml:132
+#: data/org.gnome.epiphany.gschema.xml:127
 msgid "Keep window open when closing last tab"
 msgstr "Son sekme kapatıldığında uygulama penceresi açık tutulur"
 
-#: data/org.gnome.epiphany.gschema.xml:133
+#: data/org.gnome.epiphany.gschema.xml:128
 msgid "If enabled application window is kept open when closing the last tab."
 msgstr ""
 "Eğer etkinleştirilirse, son sekme kapatıldığında uygulama penceresi açık "
 "tutulur."
 
-#: data/org.gnome.epiphany.gschema.xml:139
+#: data/org.gnome.epiphany.gschema.xml:134
 msgid "Reader mode article font style."
 msgstr "Okuyucu kipi makale yazı tipi biçemi."
 
-#: data/org.gnome.epiphany.gschema.xml:140
+#: data/org.gnome.epiphany.gschema.xml:135
 msgid ""
 "Chooses the style of the main body text for articles in reader mode. "
 "Possible values are “sans” and “serif”."
@@ -330,11 +318,11 @@ msgstr ""
 "Okuyucu kipindeki makaleler için ana gövde metninin biçemini seçer. Olası "
 "değerler “sans” ve “serif”tir."
 
-#: data/org.gnome.epiphany.gschema.xml:144
+#: data/org.gnome.epiphany.gschema.xml:139
 msgid "Reader mode color scheme."
 msgstr "Okuyucu kipi renk şeması."
 
-#: data/org.gnome.epiphany.gschema.xml:145
+#: data/org.gnome.epiphany.gschema.xml:140
 msgid ""
 "Selects the style of colors for articles displayed in reader mode. Possible "
 "values are “light” (dark text on light background) and “dark” (light text on "
@@ -346,23 +334,23 @@ msgstr ""
 "arka planda aydınlık metin). Bu ayar GNOME 42 ve sonrası gibi sistem geneli "
 "karanlık biçem tercihi sunan sistemlerde göz ardı edilir."
 
-#: data/org.gnome.epiphany.gschema.xml:151
+#: data/org.gnome.epiphany.gschema.xml:146
 msgid "Minimum font size"
 msgstr "En küçük yazı tipi boyutu"
 
-#: data/org.gnome.epiphany.gschema.xml:155
+#: data/org.gnome.epiphany.gschema.xml:150
 msgid "Use GNOME fonts"
 msgstr "GNOME yazı tiplerini kullan"
 
-#: data/org.gnome.epiphany.gschema.xml:156
+#: data/org.gnome.epiphany.gschema.xml:151
 msgid "Use GNOME font settings."
 msgstr "GNOME yazı tipi ayarlarını kullan."
 
-#: data/org.gnome.epiphany.gschema.xml:160
+#: data/org.gnome.epiphany.gschema.xml:155
 msgid "Custom sans-serif font"
 msgstr "Özel sans-serif yazı tipi"
 
-#: data/org.gnome.epiphany.gschema.xml:161
+#: data/org.gnome.epiphany.gschema.xml:156
 msgid ""
 "A value to be used to override sans-serif desktop font when use-gnome-fonts "
 "is set."
@@ -370,11 +358,11 @@ msgstr ""
 "use-gnome-fonts ayarlandığında sans-serif masaüstü yazı tipini geçersiz "
 "kılmaya yarayan değer."
 
-#: data/org.gnome.epiphany.gschema.xml:165
+#: data/org.gnome.epiphany.gschema.xml:160
 msgid "Custom serif font"
 msgstr "Özel serif yazı tipi"
 
-#: data/org.gnome.epiphany.gschema.xml:166
+#: data/org.gnome.epiphany.gschema.xml:161
 msgid ""
 "A value to be used to override serif desktop font when use-gnome-fonts is "
 "set."
@@ -382,11 +370,11 @@ msgstr ""
 "use-gnome-fonts ayarlandığında serif masaüstü yazı tipini geçersiz kılmaya "
 "yarayan değer."
 
-#: data/org.gnome.epiphany.gschema.xml:170
+#: data/org.gnome.epiphany.gschema.xml:165
 msgid "Custom monospace font"
 msgstr "Özel eşaralıklı yazı tipi"
 
-#: data/org.gnome.epiphany.gschema.xml:171
+#: data/org.gnome.epiphany.gschema.xml:166
 msgid ""
 "A value to be used to override monospace desktop font when use-gnome-fonts "
 "is set."
@@ -394,69 +382,69 @@ msgstr ""
 "use-gnome-fonts ayarlandığında eşaralıklı masaüstü yazı tipini geçersiz "
 "kılmaya yarayan değer."
 
-#: data/org.gnome.epiphany.gschema.xml:175
+#: data/org.gnome.epiphany.gschema.xml:170
 msgid "Use a custom CSS"
 msgstr "Özelleştirilmiş CSS kullan"
 
-#: data/org.gnome.epiphany.gschema.xml:176
+#: data/org.gnome.epiphany.gschema.xml:171
 msgid "Use a custom CSS file to modify websites own CSS."
 msgstr ""
 "Web sitelerinin CSS kaynaklarını değiştirmek için özelleştirilmiş CSS kullan."
 
-#: data/org.gnome.epiphany.gschema.xml:180
+#: data/org.gnome.epiphany.gschema.xml:175
 msgid "Use a custom JS"
 msgstr "Özelleştirilmiş JS kullan"
 
-#: data/org.gnome.epiphany.gschema.xml:181
+#: data/org.gnome.epiphany.gschema.xml:176
 msgid "Use a custom JS file to modify websites."
 msgstr "Web sitelerini değiştirmek için özelleştirilmiş JS dosyası kullan."
 
-#: data/org.gnome.epiphany.gschema.xml:185
+#: data/org.gnome.epiphany.gschema.xml:180
 msgid "Enable spell checking"
 msgstr "Yazım denetimini etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:186
+#: data/org.gnome.epiphany.gschema.xml:181
 msgid "Spell check any text typed in editable areas."
 msgstr "Düzenlenebilir alanlara yazılanları denetle."
 
-#: data/org.gnome.epiphany.gschema.xml:190
+#: data/org.gnome.epiphany.gschema.xml:185
 msgid "Default encoding"
 msgstr "Öntanımlı kodlama"
 
-#: data/org.gnome.epiphany.gschema.xml:191
+#: data/org.gnome.epiphany.gschema.xml:186
 msgid ""
 "Default encoding. Accepted values are the ones WebKitGTK can understand."
 msgstr ""
 "Öntanımlı kodlama. Kabul edilen değerler WebKitGTK’nın anlayabilecekleridir."
 
-#: data/org.gnome.epiphany.gschema.xml:195
-#: src/resources/gtk/prefs-general-page.ui:278
+#: data/org.gnome.epiphany.gschema.xml:190
+#: src/resources/gtk/prefs-general-page.ui:258
 msgid "Languages"
 msgstr "Diller"
 
-#: data/org.gnome.epiphany.gschema.xml:196
+#: data/org.gnome.epiphany.gschema.xml:191
 msgid ""
 "Preferred languages. Array of locale codes or “system” to use current locale."
 msgstr ""
 "Yeğlenen diller. Yerel ayar kodları dizisi ya da geçerli yerel ayarı "
 "kullanmak için “system”."
 
-#: data/org.gnome.epiphany.gschema.xml:200
+#: data/org.gnome.epiphany.gschema.xml:195
 msgid "Allow popups"
 msgstr "Beliren pencerelere izin ver"
 
-#: data/org.gnome.epiphany.gschema.xml:201
+#: data/org.gnome.epiphany.gschema.xml:196
 msgid ""
 "Allow sites to open new windows using JavaScript (if JavaScript is enabled)."
 msgstr ""
 "Sitelerin JavaScript kullanarak yeni pencere açmasına izin ver (JavaScript "
 "etkin ise)."
 
-#: data/org.gnome.epiphany.gschema.xml:205
+#: data/org.gnome.epiphany.gschema.xml:200
 msgid "User agent"
 msgstr "Kullanıcı aracısı"
 
-#: data/org.gnome.epiphany.gschema.xml:206
+#: data/org.gnome.epiphany.gschema.xml:201
 msgid ""
 "String that will be used as user agent, to identify the browser to the web "
 "servers."
@@ -464,29 +452,29 @@ msgstr ""
 "Web tarayıcıyı sunuculara tanımlamaya yarayan, kullanıcı aracısı olarak "
 "kullanılacak dizge."
 
-#: data/org.gnome.epiphany.gschema.xml:210
+#: data/org.gnome.epiphany.gschema.xml:205
 msgid "Enable adblock"
 msgstr "Reklam engelleyiciyi etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:211
+#: data/org.gnome.epiphany.gschema.xml:206
 msgid ""
 "Whether to block the embedded advertisements that web pages might want to "
 "show."
 msgstr "Web sitelerinin göstermek istediği gömülü reklamları engeller."
 
-#: data/org.gnome.epiphany.gschema.xml:215
+#: data/org.gnome.epiphany.gschema.xml:210
 msgid "Remember passwords"
 msgstr "Parolaları anımsa"
 
-#: data/org.gnome.epiphany.gschema.xml:216
+#: data/org.gnome.epiphany.gschema.xml:211
 msgid "Whether to store and prefill passwords in websites."
 msgstr "Web sitelerindeki parolaların saklanması ve önceden doldurulması."
 
-#: data/org.gnome.epiphany.gschema.xml:220
+#: data/org.gnome.epiphany.gschema.xml:215
 msgid "Enable site-specific quirks"
 msgstr "Sitelere özgü uyumluluk kipini etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:221
+#: data/org.gnome.epiphany.gschema.xml:216
 msgid ""
 "Enable quirks to make specific websites work better. You might want to "
 "disable this setting if debugging a specific issue."
@@ -495,11 +483,11 @@ msgstr ""
 "etkinleştir. Eğer özel bir sorun üzerinde hata ayıklıyorsanız bu seçeneği "
 "devre dışı bırakmak isteyebilirsiniz."
 
-#: data/org.gnome.epiphany.gschema.xml:225
+#: data/org.gnome.epiphany.gschema.xml:220
 msgid "Enable safe browsing"
 msgstr "Güvenli taramayı etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:226
+#: data/org.gnome.epiphany.gschema.xml:221
 msgid ""
 "Whether to enable safe browsing. Safe browsing operates via Google Safe "
 "Browsing API v4."
@@ -507,19 +495,19 @@ msgstr ""
 "Güvenli taramanın etkinleştirilip etkinleştirilmeyeceği. Güvenli tarama, "
 "Google Güvenli Tarama API v4 aracılığıyla çalışır."
 
-#: data/org.gnome.epiphany.gschema.xml:230
+#: data/org.gnome.epiphany.gschema.xml:225
 msgid "Enable Intelligent Tracking Prevention (ITP)"
 msgstr "Zeki Takip Önlemeʼyi (ITP) etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:231
+#: data/org.gnome.epiphany.gschema.xml:226
 msgid "Whether to enable Intelligent Tracking Prevention."
 msgstr "Zeki Takip Önlemeʼnin etkinleştirilip etkinleştirilmeyeceği."
 
-#: data/org.gnome.epiphany.gschema.xml:235
+#: data/org.gnome.epiphany.gschema.xml:230
 msgid "Allow websites to store local website data"
 msgstr "Web sitelerinin yerel web site verisi saklamasına izin ver"
 
-#: data/org.gnome.epiphany.gschema.xml:236
+#: data/org.gnome.epiphany.gschema.xml:231
 msgid ""
 "Whether to allow websites to store cookies, local storage data, and "
 "IndexedDB databases. Disabling this will break many websites."
@@ -528,15 +516,15 @@ msgstr ""
 "saklamasına izin verilip verilmeyeceği. Bunu devre dışı bırakmak birçok web "
 "sitesini bozar."
 
-#: data/org.gnome.epiphany.gschema.xml:240
+#: data/org.gnome.epiphany.gschema.xml:235
 msgid "Default zoom level for new pages"
 msgstr "Yeni sayfalar için öntanımlı yakınlaştırma düzeyi"
 
-#: data/org.gnome.epiphany.gschema.xml:244
+#: data/org.gnome.epiphany.gschema.xml:239
 msgid "Enable autosearch"
 msgstr "Kendiliğinden aramayı etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:245
+#: data/org.gnome.epiphany.gschema.xml:240
 msgid ""
 "Whether to automatically search the web when something that does not look "
 "like a URL is entered in the address bar. If this setting is disabled, "
@@ -547,11 +535,11 @@ msgstr ""
 "Eğer ayar devre dışıysa aşağı inen menüden özellikle arama motoru "
 "seçilmedikçe her şey URL olarak yüklenir."
 
-#: data/org.gnome.epiphany.gschema.xml:249
+#: data/org.gnome.epiphany.gschema.xml:244
 msgid "Enable mouse gestures"
 msgstr "Fare hareketlerini etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:250
+#: data/org.gnome.epiphany.gschema.xml:245
 msgid ""
 "Whether to enable mouse gestures. Mouse gestures are based on Opera’s "
 "behaviour and are activated using the middle mouse button + gesture."
@@ -560,27 +548,27 @@ msgstr ""
 "Opera’nın davranışına dayanır ve orta fare tuşu + hareketi kullanılarak "
 "etkinleştirilir."
 
-#: data/org.gnome.epiphany.gschema.xml:254
+#: data/org.gnome.epiphany.gschema.xml:249
 msgid "Last upload directory"
-msgstr "Son karşıya yükleme dizini"
+msgstr "Son yükleme dizini"
 
-#: data/org.gnome.epiphany.gschema.xml:255
+#: data/org.gnome.epiphany.gschema.xml:250
 msgid "Keep track of last upload directory"
-msgstr "Son karşıya yükleme dizininin kaydını tut"
+msgstr "Son yükleme dizininin kaydını tut"
 
-#: data/org.gnome.epiphany.gschema.xml:259
+#: data/org.gnome.epiphany.gschema.xml:254
 msgid "Last download directory"
 msgstr "Son indirme dizini"
 
-#: data/org.gnome.epiphany.gschema.xml:260
+#: data/org.gnome.epiphany.gschema.xml:255
 msgid "Keep track of last download directory"
 msgstr "Son indirilenler dizininin kaydını tut"
 
-#: data/org.gnome.epiphany.gschema.xml:264
+#: data/org.gnome.epiphany.gschema.xml:259
 msgid "Hardware acceleration policy"
 msgstr "Donanım hızlandırma ilkesi"
 
-#: data/org.gnome.epiphany.gschema.xml:265
+#: data/org.gnome.epiphany.gschema.xml:260
 msgid ""
 "Whether to enable hardware acceleration. Possible values are “always” and "
 "“never”. Hardware acceleration may be required to achieve acceptable "
@@ -593,28 +581,28 @@ msgstr ""
 "kullanımı gereksinimlerini artırır ve donanımın özel grafik sürücüsü "
 "hatalarını açığa çıkarabilir."
 
-#: data/org.gnome.epiphany.gschema.xml:269
+#: data/org.gnome.epiphany.gschema.xml:264
 msgid "Always ask for download directory"
 msgstr "Her zaman indirme klasörü için sor"
 
-#: data/org.gnome.epiphany.gschema.xml:270
+#: data/org.gnome.epiphany.gschema.xml:265
 msgid "Whether to present a directory chooser dialog for every download."
 msgstr ""
 "Her indirme için dizin seçici iletişim kutusunun gösterilip gösterilmeyeceği."
 
-#: data/org.gnome.epiphany.gschema.xml:274
+#: data/org.gnome.epiphany.gschema.xml:269
 msgid "Enable immediately switch to new open tab"
 msgstr "Yeni açılan sekmeye hızla geçişi etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:275
+#: data/org.gnome.epiphany.gschema.xml:270
 msgid "Whether to automatically switch to a new open tab."
 msgstr "Yeni açılan sekmeye kendiliğinden geçilip geçilmeyeceği."
 
-#: data/org.gnome.epiphany.gschema.xml:279
+#: data/org.gnome.epiphany.gschema.xml:274
 msgid "Enable WebExtensions"
 msgstr "WebExtensions’ı Etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:280
+#: data/org.gnome.epiphany.gschema.xml:275
 msgid ""
 "Whether to enable WebExtensions. WebExtensions is a cross-browser system for "
 "extensions."
@@ -622,35 +610,35 @@ msgstr ""
 "WebExtensions’ın etkinleştirilmesi. WebExtensions, uzantılar için çapraz "
 "tarayıcı sistemidir."
 
-#: data/org.gnome.epiphany.gschema.xml:284
+#: data/org.gnome.epiphany.gschema.xml:279
 msgid "Active WebExtensions"
 msgstr "Aktif WebExtensions’lar"
 
-#: data/org.gnome.epiphany.gschema.xml:285
+#: data/org.gnome.epiphany.gschema.xml:280
 msgid "Indicates which WebExtensions are set to active."
 msgstr "Hangi WebExtensions’ın aktif olacağını belirtir."
 
-#: data/org.gnome.epiphany.gschema.xml:291
+#: data/org.gnome.epiphany.gschema.xml:286
 msgid "Web application additional URLs"
 msgstr "Web uygulaması ek URLʼleri"
 
-#: data/org.gnome.epiphany.gschema.xml:292
+#: data/org.gnome.epiphany.gschema.xml:287
 msgid "The list of URLs that should be opened by the web application"
 msgstr "Web uygulaması tarafından açılması gereken URLʼlerin listesi"
 
-#: data/org.gnome.epiphany.gschema.xml:296
+#: data/org.gnome.epiphany.gschema.xml:291
 msgid "Show navigation buttons in WebApp"
 msgstr "WebApp’te gezinim düğmelerini göster"
 
-#: data/org.gnome.epiphany.gschema.xml:297
+#: data/org.gnome.epiphany.gschema.xml:292
 msgid "Whether to show buttons for navigation in WebApp."
 msgstr "WebApp’te gezinim düğmelerinin gösterilip gösterilmeyeceği."
 
-#: data/org.gnome.epiphany.gschema.xml:301
+#: data/org.gnome.epiphany.gschema.xml:296
 msgid "Run in background"
 msgstr "Arka planda çalıştır"
 
-#: data/org.gnome.epiphany.gschema.xml:302
+#: data/org.gnome.epiphany.gschema.xml:297
 msgid ""
 "If enabled, application continues running in the background after closing "
 "the window."
@@ -658,19 +646,19 @@ msgstr ""
 "Eğer etkinleştirilirse, pencere kapatıldığında uygulama arka planda "
 "çalışmayı sürdürür."
 
-#: data/org.gnome.epiphany.gschema.xml:306
+#: data/org.gnome.epiphany.gschema.xml:301
 msgid "WebApp is system-wide"
 msgstr "WebApp sistem genelidir"
 
-#: data/org.gnome.epiphany.gschema.xml:307
+#: data/org.gnome.epiphany.gschema.xml:302
 msgid "If enabled, application cannot be edited or removed."
 msgstr "Eğer etkinse, uygulama düzenlenemez veya kaldırılamaz."
 
-#: data/org.gnome.epiphany.gschema.xml:313
+#: data/org.gnome.epiphany.gschema.xml:308
 msgid "The downloads folder"
 msgstr "İndirilen dosya klasörü"
 
-#: data/org.gnome.epiphany.gschema.xml:314
+#: data/org.gnome.epiphany.gschema.xml:309
 msgid ""
 "The path of the folder where to download files to; or “Downloads” to use the "
 "default downloads folder, or “Desktop” to use the desktop folder."
@@ -679,31 +667,31 @@ msgstr ""
 "klasörünü kullanmak için “İndirilenler”, ya da masaüstü klasörünü kullanmak "
 "için “Masaüstü”."
 
-#: data/org.gnome.epiphany.gschema.xml:321
+#: data/org.gnome.epiphany.gschema.xml:316
 msgid "Window position"
 msgstr "Pencere konumu"
 
-#: data/org.gnome.epiphany.gschema.xml:322
+#: data/org.gnome.epiphany.gschema.xml:317
 msgid ""
 "The position to use for a new window that is not restored from a previous "
 "session."
 msgstr "Yeni pencere için kullanılacak konum önceki oturumdan kurtarılamadı."
 
-#: data/org.gnome.epiphany.gschema.xml:326
+#: data/org.gnome.epiphany.gschema.xml:321
 msgid "Window size"
 msgstr "Pencere boyutu"
 
-#: data/org.gnome.epiphany.gschema.xml:327
+#: data/org.gnome.epiphany.gschema.xml:322
 msgid ""
 "The size to use for a new window that is not restored from a previous "
 "session."
 msgstr "Yeni pencere için kullanılacak boyut önceki oturumdan kurtarılamadı."
 
-#: data/org.gnome.epiphany.gschema.xml:331
+#: data/org.gnome.epiphany.gschema.xml:326
 msgid "Is maximized"
 msgstr "Tam ekran"
 
-#: data/org.gnome.epiphany.gschema.xml:332
+#: data/org.gnome.epiphany.gschema.xml:327
 msgid ""
 "Whether a new window that is not restored from a previous session should be "
 "initially maximized."
@@ -711,11 +699,11 @@ msgstr ""
 "Önceki oturumdan kurtarılamayan yeni pencerenin başlangıçta tam ekran açılıp "
 "açılmayacağı."
 
-#: data/org.gnome.epiphany.gschema.xml:347
+#: data/org.gnome.epiphany.gschema.xml:342
 msgid "Disable forward and back buttons"
 msgstr "İleri ve geri düğmelerini devre dışı bırak"
 
-#: data/org.gnome.epiphany.gschema.xml:348
+#: data/org.gnome.epiphany.gschema.xml:343
 msgid ""
 "If set to “true”, forward and back buttons are disabled, preventing users "
 "from accessing immediate browser history"
@@ -723,27 +711,27 @@ msgstr ""
 "Eğer “true” (doğru) olarak ayarlanırsa ileri ve geri düğmeleri devre dışı "
 "bırakılır, kullanıcının tarayıcı geçmişine anında erişimini engeller"
 
-#: data/org.gnome.epiphany.gschema.xml:366
+#: data/org.gnome.epiphany.gschema.xml:361
 msgid "Firefox Sync Token Server URL"
 msgstr "Firefox Sync Jeton Sunucu URL’si"
 
-#: data/org.gnome.epiphany.gschema.xml:367
+#: data/org.gnome.epiphany.gschema.xml:362
 msgid "URL to a custom Firefox Sync token server."
 msgstr "Özel Firefox Sync jeton sunucusu için URL."
 
-#: data/org.gnome.epiphany.gschema.xml:371
+#: data/org.gnome.epiphany.gschema.xml:366
 msgid "Firefox Sync Accounts Server URL"
 msgstr "Firefox Sync Hesapları Sunucu URL’si"
 
-#: data/org.gnome.epiphany.gschema.xml:372
+#: data/org.gnome.epiphany.gschema.xml:367
 msgid "URL to a custom Firefox Sync accounts server."
 msgstr "Özel Firefox Sync hesap sunucusu için URL."
 
-#: data/org.gnome.epiphany.gschema.xml:376
+#: data/org.gnome.epiphany.gschema.xml:371
 msgid "Currently signed in sync user"
 msgstr "Şu anda oturum açmış eşzamanlama kullanıcısı"
 
-#: data/org.gnome.epiphany.gschema.xml:377
+#: data/org.gnome.epiphany.gschema.xml:372
 msgid ""
 "The email linked to the Firefox Account used to sync data with Mozilla’s "
 "servers."
@@ -751,43 +739,43 @@ msgstr ""
 "Mozilla sunucularıyla verinin eşzamanlanmasında kullanılan Firefox Hesabına "
 "bağlı e-posta adresi."
 
-#: data/org.gnome.epiphany.gschema.xml:381
+#: data/org.gnome.epiphany.gschema.xml:376
 msgid "Last sync timestamp"
 msgstr "Son eşzamanlama zaman damgası"
 
-#: data/org.gnome.epiphany.gschema.xml:382
+#: data/org.gnome.epiphany.gschema.xml:377
 msgid "The UNIX time at which last sync was made in seconds."
 msgstr "Saniye cinsinden son eşzamanlamanın yapıldığı UNIX zamanı."
 
-#: data/org.gnome.epiphany.gschema.xml:386
+#: data/org.gnome.epiphany.gschema.xml:381
 msgid "Sync device ID"
 msgstr "Eşzamanlama aygıt kimliği"
 
-#: data/org.gnome.epiphany.gschema.xml:387
+#: data/org.gnome.epiphany.gschema.xml:382
 msgid "The sync device ID of the current device."
 msgstr "Geçerli aygıtın eşzamanlama aygıt kimliği."
 
-#: data/org.gnome.epiphany.gschema.xml:391
+#: data/org.gnome.epiphany.gschema.xml:386
 msgid "Sync device name"
 msgstr "Eşzamanlama aygıt adı"
 
-#: data/org.gnome.epiphany.gschema.xml:392
+#: data/org.gnome.epiphany.gschema.xml:387
 msgid "The sync device name of the current device."
 msgstr "Geçerli aygıtın eşzamanlama aygıt adı."
 
-#: data/org.gnome.epiphany.gschema.xml:396
+#: data/org.gnome.epiphany.gschema.xml:391
 msgid "The sync frequency in minutes"
 msgstr "Dakika cinsinden eşzamanlama sıklığı"
 
-#: data/org.gnome.epiphany.gschema.xml:397
+#: data/org.gnome.epiphany.gschema.xml:392
 msgid "The number of minutes between two consecutive syncs."
 msgstr "Ardışık iki eşzamanlama arasındaki dakika sayısı."
 
-#: data/org.gnome.epiphany.gschema.xml:401
+#: data/org.gnome.epiphany.gschema.xml:396
 msgid "Sync data with Firefox"
 msgstr "Veriyi Firefox ile eşzamanla"
 
-#: data/org.gnome.epiphany.gschema.xml:402
+#: data/org.gnome.epiphany.gschema.xml:397
 msgid ""
 "TRUE if Ephy collections should be synced with Firefox collections, FALSE "
 "otherwise."
@@ -795,31 +783,31 @@ msgstr ""
 "Eğer Ephy derlemeleri ile Firefox derlemeleri eşzamanlanacaksa DOĞRU (TRUE), "
 "aksi halde YANLIŞ (FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:406
+#: data/org.gnome.epiphany.gschema.xml:401
 msgid "Enable bookmarks sync"
 msgstr "Yer imi eşzamanlamayı etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:407
+#: data/org.gnome.epiphany.gschema.xml:402
 msgid "TRUE if bookmarks collection should be synced, FALSE otherwise."
 msgstr ""
 "Eğer yer imi derlemeleri eşzamanlanacaksa DOĞRU (TRUE), aksi halde YANLIŞ "
 "(FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:411
+#: data/org.gnome.epiphany.gschema.xml:406
 msgid "Bookmarks sync timestamp"
 msgstr "Yer imi eşzamanlama zaman damgası"
 
-#: data/org.gnome.epiphany.gschema.xml:412
+#: data/org.gnome.epiphany.gschema.xml:407
 msgid "The timestamp at which last bookmarks sync was made."
 msgstr "Son yer imi eşzamanlamasının yapıldığı zamana ait zaman damgası."
 
-#: data/org.gnome.epiphany.gschema.xml:416
-#: data/org.gnome.epiphany.gschema.xml:431
-#: data/org.gnome.epiphany.gschema.xml:446
+#: data/org.gnome.epiphany.gschema.xml:411
+#: data/org.gnome.epiphany.gschema.xml:426
+#: data/org.gnome.epiphany.gschema.xml:441
 msgid "Initial sync or normal sync"
 msgstr "İlk eşzamanlama veya normal eşzamanlama"
 
-#: data/org.gnome.epiphany.gschema.xml:417
+#: data/org.gnome.epiphany.gschema.xml:412
 msgid ""
 "TRUE if bookmarks collection needs to be synced for the first time, FALSE "
 "otherwise."
@@ -827,25 +815,25 @@ msgstr ""
 "Eğer yer imi derlemeleri ilk defa eşzamanlanacaksa DOĞRU (TRUE), aksi halde "
 "YANLIŞ (FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:421
+#: data/org.gnome.epiphany.gschema.xml:416
 msgid "Enable passwords sync"
 msgstr "Parola eşzamanlamayı etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:422
+#: data/org.gnome.epiphany.gschema.xml:417
 msgid "TRUE if passwords collection should be synced, FALSE otherwise."
 msgstr ""
 "Eğer parola derlemeleri eşzamanlanacaksa DOĞRU (TRUE), aksi halde YANLIŞ "
 "(FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:426
+#: data/org.gnome.epiphany.gschema.xml:421
 msgid "Passwords sync timestamp"
 msgstr "Parola eşzamanlama zaman damgası"
 
-#: data/org.gnome.epiphany.gschema.xml:427
+#: data/org.gnome.epiphany.gschema.xml:422
 msgid "The timestamp at which last passwords sync was made."
 msgstr "Son parola eşzamanlamasının yapıldığı zamana ait zaman damgası."
 
-#: data/org.gnome.epiphany.gschema.xml:432
+#: data/org.gnome.epiphany.gschema.xml:427
 msgid ""
 "TRUE if passwords collection needs to be synced for the first time, FALSE "
 "otherwise."
@@ -853,25 +841,25 @@ msgstr ""
 "Eğer parola derlemeleri ilk defa eşzamanlanacaksa DOĞRU (TRUE), aksi halde "
 "YANLIŞ (FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:436
+#: data/org.gnome.epiphany.gschema.xml:431
 msgid "Enable history sync"
 msgstr "Geçmiş eşzamanlamayı etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:437
+#: data/org.gnome.epiphany.gschema.xml:432
 msgid "TRUE if history collection should be synced, FALSE otherwise."
 msgstr ""
 "Eğer geçmiş derlemeleri eşzamanlanacaksa DOĞRU (TRUE), aksi halde YANLIŞ "
 "(FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:441
+#: data/org.gnome.epiphany.gschema.xml:436
 msgid "History sync timestamp"
 msgstr "Geçmiş eşzamanlama zaman damgası"
 
-#: data/org.gnome.epiphany.gschema.xml:442
+#: data/org.gnome.epiphany.gschema.xml:437
 msgid "The timestamp at which last history sync was made."
 msgstr "Son geçmiş eşzamanlamasının yapıldığı zamana ait zaman damgası."
 
-#: data/org.gnome.epiphany.gschema.xml:447
+#: data/org.gnome.epiphany.gschema.xml:442
 msgid ""
 "TRUE if history collection needs to be synced for the first time, FALSE "
 "otherwise."
@@ -879,29 +867,29 @@ msgstr ""
 "Eğer geçmis derlemeleri ilk defa eşzamanlanacaksa DOĞRU (TRUE), aksi halde "
 "YANLIS (FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:451
+#: data/org.gnome.epiphany.gschema.xml:446
 msgid "Enable open tabs sync"
 msgstr "Açık sekmeleri eşzamanlamayı etkinleştir"
 
-#: data/org.gnome.epiphany.gschema.xml:452
+#: data/org.gnome.epiphany.gschema.xml:447
 msgid "TRUE if open tabs collection should be synced, FALSE otherwise."
 msgstr ""
 "Eğer açık sekme derlemeleri eşzamanlanacaksa DOĞRU (TRUE), aksi halde YANLIŞ "
 "(FALSE)."
 
-#: data/org.gnome.epiphany.gschema.xml:456
+#: data/org.gnome.epiphany.gschema.xml:451
 msgid "Open tabs sync timestamp"
 msgstr "Açık sekme eşzamanlama zaman damgası"
 
-#: data/org.gnome.epiphany.gschema.xml:457
+#: data/org.gnome.epiphany.gschema.xml:452
 msgid "The timestamp at which last open tabs sync was made."
 msgstr "Son açık sekme eşzamanlamasının yapıldığı zamana ait zaman damgası."
 
-#: data/org.gnome.epiphany.gschema.xml:468
+#: data/org.gnome.epiphany.gschema.xml:463
 msgid "Decision to apply when microphone permission is requested for this host"
 msgstr "Bu ana makina için mikrofon izni istendiğinde uygulanacak seçim"
 
-#: data/org.gnome.epiphany.gschema.xml:469
+#: data/org.gnome.epiphany.gschema.xml:464
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to access the user’s microphone. The “undecided” default means the browser "
@@ -913,12 +901,12 @@ msgstr ""
 "tarayıcının izin için kullanıcıya sormasını gerektirir, “izin ver” ve "
 "“reddet” ise istek yapıldığı gibi bu yanıtı kendiliğinden verir."
 
-#: data/org.gnome.epiphany.gschema.xml:473
+#: data/org.gnome.epiphany.gschema.xml:468
 msgid ""
 "Decision to apply when geolocation permission is requested for this host"
 msgstr "Bu ana makina için coğrafi konum izni istendiğinde uygulanacak seçim"
 
-#: data/org.gnome.epiphany.gschema.xml:474
+#: data/org.gnome.epiphany.gschema.xml:469
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to access the user’s location. The “undecided” default means the browser "
@@ -930,12 +918,12 @@ msgstr ""
 "izin için kullanıcıya sormasını gerektirir, “izin ver” ve “reddet” ise istek "
 "yapıldığı gibi bu yanıtı kendiliğinden verir."
 
-#: data/org.gnome.epiphany.gschema.xml:478
+#: data/org.gnome.epiphany.gschema.xml:473
 msgid ""
 "Decision to apply when notification permission is requested for this host"
 msgstr "Bu ana makine için bildirim izni istendiğinde uygulanacak seçim"
 
-#: data/org.gnome.epiphany.gschema.xml:479
+#: data/org.gnome.epiphany.gschema.xml:474
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to show notifications. The “undecided” default means the browser needs to "
@@ -947,12 +935,12 @@ msgstr ""
 "kullanıcıya sormasını gerektirir, “izin ver” ve “reddet” ise istek yapıldığı "
 "gibi bu yanıtı kendiliğinden verir."
 
-#: data/org.gnome.epiphany.gschema.xml:483
+#: data/org.gnome.epiphany.gschema.xml:478
 msgid ""
 "Decision to apply when save password permission is requested for this host"
 msgstr "Bu ana makine için parola kaydetme izni istendiğinde uygulanacak karar"
 
-#: data/org.gnome.epiphany.gschema.xml:484
+#: data/org.gnome.epiphany.gschema.xml:479
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to save passwords. The “undecided” default means the browser needs to ask "
@@ -964,11 +952,11 @@ msgstr ""
 "kullanıcıya sormasını gerektirir, “izin ver” ve “reddet” ise istek yapıldığı "
 "gibi bu yanıtı kendiliğinden verir."
 
-#: data/org.gnome.epiphany.gschema.xml:488
+#: data/org.gnome.epiphany.gschema.xml:483
 msgid "Decision to apply when webcam permission is requested for this host"
 msgstr "Bu ana makine için web kamerası izni istendiğinde uygulanacak seçim"
 
-#: data/org.gnome.epiphany.gschema.xml:489
+#: data/org.gnome.epiphany.gschema.xml:484
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to access the user’s webcam. The “undecided” default means the browser needs "
@@ -980,12 +968,12 @@ msgstr ""
 "tarayıcının izin için kullanıcıya sormasını gerektirir, “izin ver” ve "
 "“reddet” ise istek yapıldığı gibi bu yanıtı kendiliğinden verir."
 
-#: data/org.gnome.epiphany.gschema.xml:493
+#: data/org.gnome.epiphany.gschema.xml:488
 msgid ""
 "Decision to apply when advertisement permission is requested for this host"
 msgstr "Bu ana makine için reklam izni istendiğinde uygulanacak seçim"
 
-#: data/org.gnome.epiphany.gschema.xml:494
+#: data/org.gnome.epiphany.gschema.xml:489
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to allow advertisements. The “undecided” default means the browser global "
@@ -997,13 +985,13 @@ msgstr ""
 "tarayıcının izin için kullanıcıya sormasını gerektirir, “allow” (izin ver) "
 "ve “deny” (reddet) ise istek yapıldığı gibi bu yanıtı kendiliğinden verir."
 
-#: data/org.gnome.epiphany.gschema.xml:498
+#: data/org.gnome.epiphany.gschema.xml:493
 msgid "Decision to apply when an autoplay policy is requested for this host"
 msgstr ""
 "Bu ana makine için kendiliğinden oynatma ilkesi istendiğinde uygulanacak "
 "seçim"
 
-#: data/org.gnome.epiphany.gschema.xml:499
+#: data/org.gnome.epiphany.gschema.xml:494
 msgid ""
 "This option is used to save whether a given host has been given permission "
 "to autoplay. The “undecided” default means to allow autoplay of muted media, "
@@ -1112,7 +1100,7 @@ msgstr ""
 "siteleri ve bu web sitelerindeki reklamverenler yine de sizi izliyor "
 "olabilir."
 
-#: embed/ephy-download.c:679 src/preferences/prefs-general-page.c:558
+#: embed/ephy-download.c:679 src/preferences/prefs-general-page.c:554
 msgid "Select a Directory"
 msgstr "Dizin Seç"
 
@@ -1124,15 +1112,15 @@ msgstr "Hedef Seç"
 msgid "Download Requested"
 msgstr "İndirme İstendi"
 
-#: embed/ephy-download.c:732 src/ephy-history-dialog.c:579
+#: embed/ephy-download.c:732 src/ephy-history-dialog.c:572
 #: src/ephy-window.c:265 src/preferences/extension-view.c:133
 #: src/preferences/passwords-view.c:183
 #: src/resources/gtk/firefox-sync-dialog.ui:139
 #: src/resources/gtk/history-dialog.ui:42
 #: src/resources/gtk/prefs-lang-dialog.ui:14 src/window-commands.c:331
 #: src/window-commands.c:577 src/window-commands.c:831
-#: src/window-commands.c:1238 src/window-commands.c:1919
-#: src/window-commands.c:2700
+#: src/window-commands.c:1238 src/window-commands.c:1937
+#: src/window-commands.c:2688
 msgid "_Cancel"
 msgstr "_İptal"
 
@@ -1217,7 +1205,6 @@ msgstr "Boş sayfa"
 #. Title for the blank page
 #. Translators: tooltip for the new tab button
 #: embed/ephy-embed-utils.h:32 src/resources/gtk/action-bar-start.ui:105
-#: src/resources/gtk/prefs-general-page.ui:135
 msgid "New Tab"
 msgstr "Yeni Sekme"
 
@@ -1557,7 +1544,7 @@ msgstr "Arama dizgisinin bir önceki göründüğü yeri bul"
 msgid "Find next occurrence of the search string"
 msgstr "Arama dizgisinin bir sonraki göründüğü yeri bul"
 
-#: embed/ephy-reader-handler.c:300
+#: embed/ephy-reader-handler.c:312
 #, c-format
 msgid "%s is not a valid URI"
 msgstr "%s geçerli bir URI değil"
@@ -1579,61 +1566,61 @@ msgid "All supported types"
 msgstr "Desteklenen tüm türler"
 
 #. Translators: Message appears when insecure password form is focused.
-#: embed/ephy-web-view.c:559
+#: embed/ephy-web-view.c:560
 msgid "This form is not secure ‒ passwords will not be kept private"
 msgstr "Bu form güvenli değil, parolalar gizli tutulmayacaktır"
 
-#: embed/ephy-web-view.c:560 embed/ephy-web-view.c:3258
+#: embed/ephy-web-view.c:561 embed/ephy-web-view.c:3276
 msgid "_Dismiss"
 msgstr "_Vazgeç"
 
-#: embed/ephy-web-view.c:769
+#: embed/ephy-web-view.c:782
 msgid "Web process crashed"
 msgstr "Web süreci çöktü"
 
-#: embed/ephy-web-view.c:772
+#: embed/ephy-web-view.c:785
 msgid "Web process terminated due to exceeding memory limit"
 msgstr "Web süreci bellek sınırını aştığı için son buldu"
 
-#: embed/ephy-web-view.c:775
+#: embed/ephy-web-view.c:788
 msgid "Web process terminated by API request"
 msgstr "Web süreci API isteği tarafından sonlandırıldı"
 
-#: embed/ephy-web-view.c:816
+#: embed/ephy-web-view.c:829
 msgid "Page Unresponsive"
 msgstr "Sayfa Yanıtlamıyor"
 
-#: embed/ephy-web-view.c:820
+#: embed/ephy-web-view.c:833
 #, c-format
 msgid "The current page “%s” is not responding"
 msgstr "Geçerli sayfa “%s” yanıtlamıyor"
 
-#: embed/ephy-web-view.c:824
+#: embed/ephy-web-view.c:837
 msgid "_Wait"
 msgstr "_Bekle"
 
-#: embed/ephy-web-view.c:825
+#: embed/ephy-web-view.c:838
 msgid "Force _Stop"
 msgstr "_Durmaya Zorla"
 
 #. translators: %s here is the address of the web page
-#: embed/ephy-web-view.c:1071
+#: embed/ephy-web-view.c:1084
 #, c-format
 msgid "Loading “%s”…"
 msgstr "“%s” yükleniyor…"
 
-#: embed/ephy-web-view.c:1073 embed/ephy-web-view.c:1079
+#: embed/ephy-web-view.c:1086 embed/ephy-web-view.c:1092
 msgid "Loading…"
 msgstr "Yükleniyor…"
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1412
+#: embed/ephy-web-view.c:1425
 msgid ""
 "This website presented identification that belongs to a different website."
 msgstr "Bu web sitesi farklı bir web sitesine ait kimlik sundu."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1417
+#: embed/ephy-web-view.c:1430
 msgid ""
 "This website’s identification is too old to trust. Check the date on your "
 "computer’s calendar."
@@ -1642,19 +1629,19 @@ msgstr ""
 "takvimindeki tarihi denetleyin."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1422
+#: embed/ephy-web-view.c:1435
 msgid "This website’s identification was not issued by a trusted organization."
 msgstr ""
 "Bu web sitesinin kimliği güvenilir bir kuruluş tarafından düzenlenmemiş."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1427
+#: embed/ephy-web-view.c:1440
 msgid ""
 "This website’s identification could not be processed. It may be corrupted."
 msgstr "Bu web sitesinin kimliği işlenemedi. Bozuk olabilir."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1432
+#: embed/ephy-web-view.c:1445
 msgid ""
 "This website’s identification has been revoked by the trusted organization "
 "that issued it."
@@ -1663,7 +1650,7 @@ msgstr ""
 "edildi."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1437
+#: embed/ephy-web-view.c:1450
 msgid ""
 "This website’s identification cannot be trusted because it uses very weak "
 "encryption."
@@ -1672,7 +1659,7 @@ msgstr ""
 "kullanıyor."
 
 #. Possible error message when a site presents a bad certificate.
-#: embed/ephy-web-view.c:1442
+#: embed/ephy-web-view.c:1455
 msgid ""
 "This website’s identification is only valid for future dates. Check the date "
 "on your computer’s calendar."
@@ -1682,24 +1669,24 @@ msgstr ""
 
 #. Page title when a site cannot be loaded due to a network error.
 #. Page title when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1507 embed/ephy-web-view.c:1563
+#: embed/ephy-web-view.c:1520 embed/ephy-web-view.c:1576
 #, c-format
 msgid "Problem Loading Page"
 msgstr "Sayfa Yükleme Sorunu"
 
 #. Message title when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1510
+#: embed/ephy-web-view.c:1523
 msgid "Unable to display this website"
 msgstr "Bu web sitesi gösterilemiyor"
 
 #. Error details when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1515
+#: embed/ephy-web-view.c:1528
 #, c-format
 msgid "The site at %s seems to be unavailable."
 msgstr "%s konumundaki site şu anda kullanılamıyor."
 
 #. Further error details when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1519
+#: embed/ephy-web-view.c:1532
 msgid ""
 "It may be temporarily inaccessible or moved to a new address. You may wish "
 "to verify that your internet connection is working correctly."
@@ -1708,7 +1695,7 @@ msgstr ""
 "bağlantınızın doğru olarak çalışıp çalışmadığını doğrulamak isteyebilirsiniz."
 
 #. Technical details when a site cannot be loaded due to a network error.
-#: embed/ephy-web-view.c:1529
+#: embed/ephy-web-view.c:1542
 #, c-format
 msgid "The precise error was: %s"
 msgstr "Ayrıntılı hata: %s"
@@ -1718,50 +1705,50 @@ msgstr "Ayrıntılı hata: %s"
 #. The button on the process crash error page. DO NOT ADD MNEMONICS HERE.
 #. The button on the unresponsive process error page. DO NOT ADD MNEMONICS HERE.
 #. Translators: tooltip for the refresh button
-#: embed/ephy-web-view.c:1534 embed/ephy-web-view.c:1587
-#: embed/ephy-web-view.c:1623 embed/ephy-web-view.c:1659
+#: embed/ephy-web-view.c:1547 embed/ephy-web-view.c:1600
+#: embed/ephy-web-view.c:1636 embed/ephy-web-view.c:1672
 #: src/ephy-action-bar-start.c:36 src/resources/gtk/page-menu-popover.ui:166
 msgid "Reload"
 msgstr "Yeniden Yükle"
 
 #. Mnemonic for the Reload button on browser error pages.
-#: embed/ephy-web-view.c:1538 embed/ephy-web-view.c:1591
-#: embed/ephy-web-view.c:1627 embed/ephy-web-view.c:1663
+#: embed/ephy-web-view.c:1551 embed/ephy-web-view.c:1604
+#: embed/ephy-web-view.c:1640 embed/ephy-web-view.c:1676
 msgctxt "reload-access-key"
 msgid "R"
 msgstr "R"
 
 #. Message title when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1566
+#: embed/ephy-web-view.c:1579
 msgid "Oops! There may be a problem"
 msgstr "Amanın! Bir sorun olabilir"
 
 #. Error details when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1571
+#: embed/ephy-web-view.c:1584
 #, c-format
 msgid "The page %s may have caused Web to close unexpectedly."
 msgstr ""
 "%s sayfası, Web’in beklenmedik biçimde kapanmasına neden olmuş olabilir."
 
 #. Further error details when a site cannot be loaded due to a page crash error.
-#: embed/ephy-web-view.c:1578
+#: embed/ephy-web-view.c:1591
 #, c-format
 msgid "If this happens again, please report the problem to the %s developers."
 msgstr "Eğer bu yeniden olursa, lütfen sorunu %s geliştiricilerine bildirin."
 
 #. Page title when a site cannot be loaded due to a process crash error.
-#: embed/ephy-web-view.c:1612
+#: embed/ephy-web-view.c:1625
 #, c-format
 msgid "Problem Displaying Page"
 msgstr "Sayfa Görüntüleme Sorunu"
 
 #. Message title when a site cannot be loaded due to a process crash error.
-#: embed/ephy-web-view.c:1615
+#: embed/ephy-web-view.c:1628
 msgid "Oops!"
 msgstr "Amanın!"
 
 #. Error details when a site cannot be loaded due to a process crash error.
-#: embed/ephy-web-view.c:1618
+#: embed/ephy-web-view.c:1631
 msgid ""
 "Something went wrong while displaying this page. Please reload or visit a "
 "different page to continue."
@@ -1770,18 +1757,18 @@ msgstr ""
 "yükleyin veya başka sayfayı ziyaret edin."
 
 #. Page title when web content has become unresponsive.
-#: embed/ephy-web-view.c:1648
+#: embed/ephy-web-view.c:1661
 #, c-format
 msgid "Unresponsive Page"
 msgstr "Tepki Vermeyen Sayfa"
 
 #. Message title when web content has become unresponsive.
-#: embed/ephy-web-view.c:1651
+#: embed/ephy-web-view.c:1664
 msgid "Uh-oh!"
 msgstr "Hay aksi!"
 
 #. Error details when web content has become unresponsive.
-#: embed/ephy-web-view.c:1654
+#: embed/ephy-web-view.c:1667
 msgid ""
 "This page has been unresponsive for too long. Please reload or visit a "
 "different page to continue."
@@ -1790,18 +1777,18 @@ msgstr ""
 "yükleyin ya da başka bir sayfayı ziyaret edin."
 
 #. Page title when a site is not loaded due to an invalid TLS certificate.
-#: embed/ephy-web-view.c:1690
+#: embed/ephy-web-view.c:1703
 #, c-format
 msgid "Security Violation"
 msgstr "Güvenlik İhlali"
 
 #. Message title when a site is not loaded due to an invalid TLS certificate.
-#: embed/ephy-web-view.c:1693
+#: embed/ephy-web-view.c:1706
 msgid "This Connection is Not Secure"
 msgstr "Bu Bağlantı Güvenli Değil"
 
 #. Error details when a site is not loaded due to an invalid TLS certificate.
-#: embed/ephy-web-view.c:1698
+#: embed/ephy-web-view.c:1711
 #, c-format
 msgid ""
 "This does not look like the real %s. Attackers might be trying to steal or "
@@ -1814,45 +1801,45 @@ msgstr ""
 #. The button on the invalid TLS certificate error page. DO NOT ADD MNEMONICS HERE.
 #. The button on unsafe browsing error page. DO NOT ADD MNEMONICS HERE.
 #. The button on no such file error page. DO NOT ADD MNEMONICS HERE.
-#: embed/ephy-web-view.c:1708 embed/ephy-web-view.c:1796
-#: embed/ephy-web-view.c:1846
+#: embed/ephy-web-view.c:1721 embed/ephy-web-view.c:1809
+#: embed/ephy-web-view.c:1859
 msgid "Go Back"
 msgstr "Geri Git"
 
 #. Mnemonic for the Go Back button on the invalid TLS certificate error page.
 #. Mnemonic for the Go Back button on the unsafe browsing error page.
 #. Mnemonic for the Go Back button on the no such file error page.
-#: embed/ephy-web-view.c:1711 embed/ephy-web-view.c:1799
-#: embed/ephy-web-view.c:1849
+#: embed/ephy-web-view.c:1724 embed/ephy-web-view.c:1812
+#: embed/ephy-web-view.c:1862
 msgctxt "back-access-key"
 msgid "B"
 msgstr "G"
 
 #. The hidden button on the invalid TLS certificate error page. Do not add mnemonics here.
 #. The hidden button on the unsafe browsing error page. Do not add mnemonics here.
-#: embed/ephy-web-view.c:1714 embed/ephy-web-view.c:1802
+#: embed/ephy-web-view.c:1727 embed/ephy-web-view.c:1815
 msgid "Accept Risk and Proceed"
 msgstr "Tehlikeyi Kabul Et ve Devam Et"
 
 #. Mnemonic for the Accept Risk and Proceed button on the invalid TLS certificate error page.
 #. Mnemonic for the Accept Risk and Proceed button on the unsafe browsing error page.
-#: embed/ephy-web-view.c:1718 embed/ephy-web-view.c:1806
+#: embed/ephy-web-view.c:1731 embed/ephy-web-view.c:1819
 msgctxt "proceed-anyway-access-key"
 msgid "P"
 msgstr "D"
 
 #. Page title when a site is flagged by Google Safe Browsing verification.
-#: embed/ephy-web-view.c:1746
+#: embed/ephy-web-view.c:1759
 #, c-format
 msgid "Security Warning"
 msgstr "Güvenlik Uyarısı"
 
 #. Message title on the unsafe browsing error page.
-#: embed/ephy-web-view.c:1749
+#: embed/ephy-web-view.c:1762
 msgid "Unsafe website detected!"
 msgstr "Güvenli olmayan web sitesi saptandı!"
 
-#: embed/ephy-web-view.c:1757
+#: embed/ephy-web-view.c:1770
 #, c-format
 msgid ""
 "Visiting %s may harm your computer. This page appears to contain malicious "
@@ -1861,7 +1848,7 @@ msgstr ""
 "%s adresini ziyaret etmek bilgisayarınıza zarar verebilir. Bu sayfa "
 "isteğiniz dışında bilgisayarınıza inen zararlı kod içeriyor gibi duruyor."
 
-#: embed/ephy-web-view.c:1761
+#: embed/ephy-web-view.c:1774
 #, c-format
 msgid ""
 "You can learn more about harmful web content including viruses and other "
@@ -1871,7 +1858,7 @@ msgstr ""
 "çoğunu ve bilgisayarınızı bunlardan nasıl koruyacağınızı %s adresinden "
 "öğrenebilirsiniz."
 
-#: embed/ephy-web-view.c:1768
+#: embed/ephy-web-view.c:1781
 #, c-format
 msgid ""
 "Attackers on %s may trick you into doing something dangerous like installing "
@@ -1882,7 +1869,7 @@ msgstr ""
 "(örneğin parolalar, telefon numaraları veya kredi kartları) ele vermek gibi "
 "tehlikeli şeyler yapmanız için sizi kandırabilir."
 
-#: embed/ephy-web-view.c:1773
+#: embed/ephy-web-view.c:1786
 #, c-format
 msgid ""
 "You can find out more about social engineering (phishing) at %s or from %s."
@@ -1890,7 +1877,7 @@ msgstr ""
 "Sosyal mühendislik (kimlik hırsızlığı) ile ilgili daha çoğunu %s veya %s "
 "adresinde bulabilirsiniz."
 
-#: embed/ephy-web-view.c:1782
+#: embed/ephy-web-view.c:1795
 #, c-format
 msgid ""
 "%s may contain harmful programs. Attackers might attempt to trick you into "
@@ -1901,7 +1888,7 @@ msgstr ""
 "olumsuz etkileyecek programlar kurdurmaya çalışabilirler (örneğin, başlangıç "
 "sayfanızı değiştirmek veya girdiğiniz sitelerde fazladan reklam göstermek)."
 
-#: embed/ephy-web-view.c:1787
+#: embed/ephy-web-view.c:1800
 #, c-format
 msgid "You can learn more about unwanted software at %s."
 msgstr ""
@@ -1910,17 +1897,17 @@ msgstr ""
 
 #. Page title on no such file error page
 #. Message title on the no such file error page.
-#: embed/ephy-web-view.c:1829 embed/ephy-web-view.c:1832
+#: embed/ephy-web-view.c:1842 embed/ephy-web-view.c:1845
 #, c-format
 msgid "File not found"
 msgstr "Dosya bulunamadı"
 
-#: embed/ephy-web-view.c:1837
+#: embed/ephy-web-view.c:1850
 #, c-format
 msgid "%s could not be found."
 msgstr "%s bulunamadı."
 
-#: embed/ephy-web-view.c:1839
+#: embed/ephy-web-view.c:1852
 #, c-format
 msgid ""
 "Please check the file name for capitalization or other typing errors. Also "
@@ -1929,11 +1916,11 @@ msgstr ""
 "Lütfen dosya adını büyük harf veya diğer yazım hataları için gözden geçirin. "
 "Ayrıca taşınma, yeniden adlandırılma veya silinme durumunu da denetleyin."
 
-#: embed/ephy-web-view.c:1902
+#: embed/ephy-web-view.c:1915
 msgid "None specified"
 msgstr "Hiçbir şey belirtilmemiş"
 
-#: embed/ephy-web-view.c:2033
+#: embed/ephy-web-view.c:2046
 msgid "Technical information"
 msgstr "Teknik bilgiler"
 
@@ -1953,7 +1940,7 @@ msgstr "Resimler"
 #. Translators: tooltip for the downloads button
 #: lib/ephy-file-helpers.c:120 lib/ephy-file-helpers.c:196
 #: src/resources/gtk/action-bar-end.ui:11
-#: src/resources/gtk/prefs-general-page.ui:155
+#: src/resources/gtk/prefs-general-page.ui:135
 msgid "Downloads"
 msgstr "İndirilenler"
 
@@ -1979,7 +1966,7 @@ msgstr "“%s” dosyası var. Lütfen başka yere taşıyın."
 #: lib/ephy-file-helpers.c:566
 #, c-format
 msgid "Failed to create directory “%s”."
-msgstr "“%s” dizini oluşturulurken hata oluştu."
+msgstr "“%s” dizini oluşturulamadı."
 
 #. TRANSLATORS: Please modify the main address of duckduckgo in order to match
 #. * the version used in your country. For example for the french version :
@@ -2075,7 +2062,7 @@ msgstr "%s masaüstü dosyası kurulamadı: "
 #: lib/ephy-web-app-utils.c:387
 #, c-format
 msgid "Profile directory %s already exists"
-msgstr "%s profil dizini halihazırda var"
+msgstr "%s profil dizini zaten var"
 
 #: lib/ephy-web-app-utils.c:394
 #, c-format
@@ -2117,7 +2104,7 @@ msgstr "%s formundaki parola"
 
 #: lib/sync/ephy-sync-service.c:979
 msgid "Failed to obtain storage credentials."
-msgstr "Depo kimlik bilgilerini alma başarısız."
+msgstr "Depo kimlik bilgileri alınamadı."
 
 #: lib/sync/ephy-sync-service.c:980 lib/sync/ephy-sync-service.c:1126
 #: lib/sync/ephy-sync-service.c:1940
@@ -2140,7 +2127,7 @@ msgstr ""
 
 #: lib/sync/ephy-sync-service.c:1125
 msgid "Failed to obtain signed certificate."
-msgstr "İmzalı sertifikayı alma başarısız."
+msgstr "İmzalı sertifika alınamadı."
 
 #: lib/sync/ephy-sync-service.c:1906 lib/sync/ephy-sync-service.c:1911
 msgid "Could not find the sync secrets for the current sync user."
@@ -2159,19 +2146,19 @@ msgstr "%s kullanıcısının eşzamanlama anahtarları"
 
 #: lib/sync/ephy-sync-service.c:2064
 msgid "Failed to upload client record."
-msgstr "İstemci kaydı yükleme başarısız."
+msgstr "İstemci kaydı yüklenemedi."
 
 #: lib/sync/ephy-sync-service.c:2267
 msgid "Failed to upload crypto/keys record."
-msgstr "Şifreleme/anahtar kaydını karşıya yukleme başarısız."
+msgstr "Şifreleme/anahtar kaydını yüklenemedi."
 
 #: lib/sync/ephy-sync-service.c:2379
 msgid "Failed to retrieve crypto keys."
-msgstr "Şifreleme anahtarını alma başarısız."
+msgstr "Şifreleme anahtarı alınamadı."
 
 #: lib/sync/ephy-sync-service.c:2433
 msgid "Failed to upload meta/global record."
-msgstr "Üst/genel kayıtları karşıya yukleme başarısız."
+msgstr "Üst/genel kayıtları yüklenemedi."
 
 #. Translators: the %d is the storage version, the \n is a newline character.
 #: lib/sync/ephy-sync-service.c:2555
@@ -2184,17 +2171,17 @@ msgstr ""
 
 #: lib/sync/ephy-sync-service.c:2566
 msgid "Failed to verify storage version."
-msgstr "Depo sürümünü doğrulama başarısız."
+msgstr "Depo sürümü doğrulanamadı."
 
 #: lib/sync/ephy-sync-service.c:2624
 msgid "Failed to upload device info"
-msgstr "Aygıt bilgisi yükleme başarısız"
+msgstr "Aygıt bilgisi yüklenemedi"
 
 #: lib/sync/ephy-sync-service.c:2700 lib/sync/ephy-sync-service.c:2783
 msgid "Failed to retrieve the Sync Key"
-msgstr "Eşzamanlama anahtarını alma başarısız"
+msgstr "Eşzamanlama anahtarı alınamadı."
 
-#: src/bookmarks/ephy-bookmark-row.c:64
+#: src/bookmarks/ephy-bookmark-row.c:65
 msgid "Bookmark Properties"
 msgstr "Yer İmi Özellikleri"
 
@@ -2272,7 +2259,7 @@ msgstr "Sayfayı Yer İmlerine Ekle"
 msgid "Edit Bookmark"
 msgstr "Yer İmini Düzenle"
 
-#: src/ephy-action-bar-start.c:562
+#: src/ephy-action-bar-start.c:568
 msgid "Stop"
 msgstr "Durdur"
 
@@ -2399,7 +2386,7 @@ msgstr "Son eşzamanlama: %s"
 msgid "Something went wrong, please try again later."
 msgstr "Bir şeyler yanlış gitti, lütfen yeniden deneyin."
 
-#: src/ephy-firefox-sync-dialog.c:625
+#: src/ephy-firefox-sync-dialog.c:627
 #, c-format
 msgid "%u min"
 msgid_plural "%u mins"
@@ -2418,23 +2405,23 @@ msgstr "Ana Menü"
 msgid "Stop loading the current page"
 msgstr "Geçerli sayfanın yüklenmesini durdur"
 
-#: src/ephy-history-dialog.c:142 src/ephy-history-dialog.c:1032
+#: src/ephy-history-dialog.c:142 src/ephy-history-dialog.c:1023
 msgid "It is not possible to modify history when in incognito mode."
 msgstr "Gizli tarama kipindeyken geçmişi düzenlemek olası değildir."
 
-#: src/ephy-history-dialog.c:493
+#: src/ephy-history-dialog.c:486
 msgid "Remove the selected pages from history"
 msgstr "Seçili sayfaları geçmişten sil"
 
-#: src/ephy-history-dialog.c:499
+#: src/ephy-history-dialog.c:492
 msgid "Copy URL"
 msgstr "URL’yi Kopyala"
 
-#: src/ephy-history-dialog.c:574
+#: src/ephy-history-dialog.c:567
 msgid "Clear Browsing History?"
 msgstr "Tarama Geçmişi Temizlensin Mi?"
 
-#: src/ephy-history-dialog.c:575
+#: src/ephy-history-dialog.c:568
 msgid ""
 "Clearing the browsing history will cause all history links to be permanently "
 "deleted."
@@ -2442,11 +2429,11 @@ msgstr ""
 "Tarama geçmişini temizlemek geçmişte ziyaret edilen bağlantıları kalıcı "
 "olarak siler."
 
-#: src/ephy-history-dialog.c:580 src/resources/gtk/location-entry.ui:294
+#: src/ephy-history-dialog.c:573 src/resources/gtk/location-entry.ui:294
 msgid "Cl_ear"
 msgstr "_Temizle"
 
-#: src/ephy-history-dialog.c:1035
+#: src/ephy-history-dialog.c:1026
 msgid "Remove all history"
 msgstr "Tüm geçmişi sil"
 
@@ -3101,34 +3088,21 @@ msgstr "Karanlık"
 msgid "Open File (manifest.json/xpi)"
 msgstr "Dosya Aç (manifest.json/xpi)"
 
-#: src/preferences/prefs-general-page.c:205
+#: src/preferences/prefs-general-page.c:201
 #: src/resources/gtk/prefs-lang-dialog.ui:8
 msgid "Add Language"
 msgstr "Dil Ekle"
 
-#: src/preferences/prefs-general-page.c:367
-#: src/preferences/prefs-general-page.c:523
+#: src/preferences/prefs-general-page.c:363
+#: src/preferences/prefs-general-page.c:519
 #, c-format
 msgid "System language (%s)"
 msgid_plural "System languages (%s)"
 msgstr[0] "Sistem dili (%s)"
 
-#: src/preferences/prefs-general-page.c:724
+#: src/preferences/prefs-general-page.c:720
 msgid "Supported Image Files"
 msgstr "Desteklenen Resim Dosyaları"
-
-#. Translators: tooltip for the secret homepage button
-#: src/preferences/prefs-general-page.c:904
-#: src/resources/gtk/action-bar-start.ui:89
-#: src/resources/gtk/extension-view.ui:69
-#: src/resources/gtk/prefs-general-page.ui:85
-msgid "Homepage"
-msgstr "Başlangıç sayfası"
-
-#: src/preferences/prefs-general-page.c:906
-#: src/preferences/prefs-general-page.c:909
-msgid "Blank"
-msgstr "Boş"
 
 #: src/profile-migrator/ephy-profile-migrator.c:1802
 msgid "Executes only the n-th migration step"
@@ -3170,6 +3144,13 @@ msgstr "Geri"
 #: src/resources/gtk/action-bar-start.ui:45
 msgid "Forward"
 msgstr "İleri"
+
+#. Translators: tooltip for the secret homepage button
+#: src/resources/gtk/action-bar-start.ui:89
+#: src/resources/gtk/extension-view.ui:69
+#: src/resources/gtk/prefs-general-page.ui:85
+msgid "Homepage"
+msgstr "Başlangıç sayfası"
 
 #: src/resources/gtk/bookmark-properties.ui:14
 msgid "Bookmark"
@@ -3706,47 +3687,43 @@ msgstr "_Boş Sayfa"
 msgid "_Custom"
 msgstr "_Özel"
 
-#: src/resources/gtk/prefs-general-page.ui:138
-msgid "New Tab Page"
-msgstr "Yeni Sekme Sayfası"
-
-#: src/resources/gtk/prefs-general-page.ui:159
+#: src/resources/gtk/prefs-general-page.ui:139
 msgid "Ask o_n Download"
 msgstr "_İndirirken Sor"
 
-#: src/resources/gtk/prefs-general-page.ui:172
+#: src/resources/gtk/prefs-general-page.ui:152
 msgid "_Download Folder"
 msgstr "İndirme _Klasörü"
 
-#: src/resources/gtk/prefs-general-page.ui:212
+#: src/resources/gtk/prefs-general-page.ui:192
 msgid "Search Engines"
 msgstr "Arama Motorları"
 
-#: src/resources/gtk/prefs-general-page.ui:220
+#: src/resources/gtk/prefs-general-page.ui:200
 msgid "Session"
 msgstr "Oturum"
 
-#: src/resources/gtk/prefs-general-page.ui:224
+#: src/resources/gtk/prefs-general-page.ui:204
 msgid "Start in _Incognito Mode"
 msgstr "Gizli Tarama _Kipinde Başlat"
 
-#: src/resources/gtk/prefs-general-page.ui:236
+#: src/resources/gtk/prefs-general-page.ui:216
 msgid "_Restore Tabs on Startup"
 msgstr "Başlangıçta Önceki Sekmeleri _Geri Yükle"
 
-#: src/resources/gtk/prefs-general-page.ui:249
+#: src/resources/gtk/prefs-general-page.ui:229
 msgid "Browsing"
 msgstr "Tarama"
 
-#: src/resources/gtk/prefs-general-page.ui:253
+#: src/resources/gtk/prefs-general-page.ui:233
 msgid "Mouse _Gestures"
 msgstr "Fare _Hareketleri"
 
-#: src/resources/gtk/prefs-general-page.ui:265
+#: src/resources/gtk/prefs-general-page.ui:245
 msgid "S_witch Immediately to New Tabs"
 msgstr "Hızla Yeni Sekmelere _Geç"
 
-#: src/resources/gtk/prefs-general-page.ui:294
+#: src/resources/gtk/prefs-general-page.ui:274
 msgid "_Spell Checking"
 msgstr "_Yazım Denetimi"
 
@@ -4188,7 +4165,7 @@ msgstr "“%s” için ağda ara"
 msgid "Load “%s”"
 msgstr "“%s” yükle…"
 
-#: src/synced-tabs-dialog.c:191
+#: src/synced-tabs-dialog.c:194
 msgid "Local Tabs"
 msgstr "Yerel Sekmeler"
 
@@ -4321,26 +4298,26 @@ msgstr ""
 msgid "Reload Website?"
 msgstr "Web Sitesi Yeniden Yüklensin Mi?"
 
-#: src/window-commands.c:1833
+#: src/window-commands.c:1851
 #, c-format
 msgid "The application “%s” is ready to be used"
 msgstr "“%s” uygulaması kullanılmaya hazır"
 
-#: src/window-commands.c:1836
+#: src/window-commands.c:1854
 #, c-format
 msgid "The application “%s” could not be created: %s"
 msgstr "“%s” uygulaması oluşturulamadı: %s"
 
 #. Translators: Desktop notification when a new web app is created.
-#: src/window-commands.c:1845
+#: src/window-commands.c:1863
 msgid "Launch"
 msgstr "Başlat"
 
-#: src/window-commands.c:1911
+#: src/window-commands.c:1929
 msgid "Replace Existing Web App?"
 msgstr "Var Olan Web Uygulaması Değiştirilsin Mi?"
 
-#: src/window-commands.c:1915
+#: src/window-commands.c:1933
 #, c-format
 msgid ""
 "An application named “%s” already exists, replacing it will overwrite it"
@@ -4348,27 +4325,27 @@ msgstr ""
 "“%s” adlı uygulama zaten var. Değiştirme işlemi var olan uygulamanın üzerine "
 "yazacaktır"
 
-#: src/window-commands.c:1920
+#: src/window-commands.c:1938
 msgid "_Replace"
 msgstr "_Değiştir"
 
-#: src/window-commands.c:2146
+#: src/window-commands.c:2134
 msgid "HTML"
 msgstr "HTML"
 
-#: src/window-commands.c:2150
+#: src/window-commands.c:2138
 msgid "MHTML"
 msgstr "MHTML"
 
-#: src/window-commands.c:2196
+#: src/window-commands.c:2184
 msgid "PNG"
 msgstr "PNG"
 
-#: src/window-commands.c:2695
+#: src/window-commands.c:2683
 msgid "Enable Caret Browsing Mode?"
 msgstr "Karet Tarama Kipi Etkinleştirilsin Mi?"
 
-#: src/window-commands.c:2696
+#: src/window-commands.c:2684
 msgid ""
 "Pressing F7 turns caret browsing on or off. This feature places a moveable "
 "cursor in web pages, allowing you to move around with your keyboard. Do you "
@@ -4378,6 +4355,6 @@ msgstr ""
 "web sayfalarına taşınabilir imleç yerleştirir, klavyenizle sayfada "
 "gezinmenizi sağlar. Karet taramayı etkinleştirmek ister misiniz?"
 
-#: src/window-commands.c:2701
+#: src/window-commands.c:2689
 msgid "_Enable"
 msgstr "_Etkinleştir"

@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-boxes master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-boxes/issues\n"
-"POT-Creation-Date: 2023-02-21 10:38+0000\n"
+"POT-Creation-Date: 2023-03-07 11:59+0000\n"
 "PO-Revision-Date: 2023-02-18 12:40+0300\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
 "Language-Team: Turkish <gnometurk@gnome.org>\n"
@@ -292,47 +292,47 @@ msgstr "İşletim Sistemi İndir"
 msgid "New"
 msgstr "Yeni"
 
-#: data/ui/collection-toolbar.ui:58 data/ui/display-toolbar.ui:29
+#: data/ui/collection-toolbar.ui:59 data/ui/display-toolbar.ui:29
 msgid "Back"
 msgstr "Geri"
 
-#: data/ui/collection-toolbar.ui:81
+#: data/ui/collection-toolbar.ui:82
 msgid "Application Menu"
 msgstr "Uygulama Menüsü"
 
-#: data/ui/collection-toolbar.ui:109
+#: data/ui/collection-toolbar.ui:110
 msgid "List view"
 msgstr "Liste görünümü"
 
-#: data/ui/collection-toolbar.ui:137
+#: data/ui/collection-toolbar.ui:138
 msgid "Grid view"
 msgstr "Tablo görünümü"
 
-#: data/ui/collection-toolbar.ui:164
+#: data/ui/collection-toolbar.ui:165
 msgid "Search"
 msgstr "Ara"
 
-#: data/ui/collection-toolbar.ui:191
+#: data/ui/collection-toolbar.ui:192
 msgid "Downloads"
 msgstr "İndirilenler"
 
-#: data/ui/collection-toolbar.ui:213
+#: data/ui/collection-toolbar.ui:214
 msgid "Create new virtual machine"
 msgstr "Yeni sanal makine oluştur"
 
-#: data/ui/collection-toolbar.ui:220
+#: data/ui/collection-toolbar.ui:221
 msgid "Install from File"
 msgstr "Dosyadan Kur"
 
-#: data/ui/collection-toolbar.ui:221
+#: data/ui/collection-toolbar.ui:222
 msgid "Select an .iso or .qcow2 file to install a virtual machine."
 msgstr "Sanal makine kurmak için .iso ya da .qcow2 dosyası seç."
 
-#: data/ui/collection-toolbar.ui:237
+#: data/ui/collection-toolbar.ui:238
 msgid "Download OS"
 msgstr "İşletim Sistemi İndir"
 
-#: data/ui/collection-toolbar.ui:238
+#: data/ui/collection-toolbar.ui:239
 msgid "Browse and search for operating systems to install."
 msgstr "Yüklenecek işletim sistemlerine göz at ve ara."
 
@@ -665,7 +665,9 @@ msgstr ""
 "Osman Karagöz <osmank3@gmail.com>"
 
 #: src/app.vala:114
-msgid "A simple GNOME 3 application to access virtual systems"
+#, fuzzy
+#| msgid "A simple GNOME 3 application to access virtual systems"
+msgid "A simple GNOME application to access virtual systems"
 msgstr "Sanal sistemlere erişmek için basit GNOME 3 uygulaması"
 
 #: src/app.vala:175 src/main.vala:9
@@ -746,7 +748,7 @@ msgstr "_İptal"
 msgid "_Open"
 msgstr "A_ç"
 
-#: src/assistant/assistant.vala:137
+#: src/assistant/assistant.vala:135
 #, c-format
 msgid "Failed to prepare express installation: %s"
 msgstr "Hızlı kurulum hazırlanamadı: %s"
@@ -856,40 +858,40 @@ msgid "Send key combinations"
 msgstr "Tuş birleştirmelerini gönder"
 
 #. Translators: The %s will be expanded with the name of the vm
-#: src/libvirt-machine.vala:491
+#: src/libvirt-machine.vala:492
 #, c-format
 msgid "Restoring %s from disk"
 msgstr "%s diskten geri yükleniyor"
 
 #. Translators: The %s will be expanded with the name of the vm
-#: src/libvirt-machine.vala:494
+#: src/libvirt-machine.vala:495
 #, c-format
 msgid "Starting %s"
 msgstr "%s başlatılıyor"
 
-#: src/libvirt-machine.vala:567
+#: src/libvirt-machine.vala:568
 #, c-format
 msgid "Restart of “%s” is taking too long. Force it to shutdown?"
 msgstr "“%s”in yeniden başlatılması çok zaman alıyor. Zorla kapatılsın mı?"
 
-#: src/libvirt-machine.vala:570
+#: src/libvirt-machine.vala:571
 msgid "Shutdown"
 msgstr "Gücü Kapat"
 
-#: src/libvirt-machine.vala:585
+#: src/libvirt-machine.vala:586
 #, c-format
 msgid "Cloning “%s”…"
 msgstr "“%s” klonlanıyor…"
 
-#: src/libvirt-machine.vala:711
+#: src/libvirt-machine.vala:712
 msgid "Installing…"
 msgstr "Kuruluyor…"
 
-#: src/libvirt-machine.vala:713
+#: src/libvirt-machine.vala:714
 msgid "Setting up clone…"
 msgstr "Klon kuruluyor…"
 
-#: src/libvirt-machine.vala:715
+#: src/libvirt-machine.vala:716
 msgid "Importing…"
 msgstr "İçe aktarılıyor…"
 
@@ -1028,12 +1030,12 @@ msgstr ""
 "neden olabilir. Değişiklikleri geri alabilmek için anlık görüntü oluşturmak "
 "ister misiniz?"
 
-#: src/preferences/resources-page.vala:270
+#: src/preferences/resources-page.vala:269
 #, c-format
 msgid "Failed to save domain configuration: %s"
 msgstr "Alan adı yapılandırması kaydedilemedi: %s"
 
-#: src/preferences/resources-page.vala:279
+#: src/preferences/resources-page.vala:278
 msgid "Changes to the settings below take effect after you restart your box."
 msgstr ""
 "Aşağıdaki ayar değişiklikleri kutunuzu yeniden başlatınca geçerli olacak."
