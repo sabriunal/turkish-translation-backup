@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: decoder master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/decoder/issues\n"
-"POT-Creation-Date: 2023-01-25 16:03+0000\n"
-"PO-Revision-Date: 2023-01-24 22:40+0300\n"
+"POT-Creation-Date: 2023-03-01 21:46+0000\n"
+"PO-Revision-Date: 2023-03-01 22:49+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <gnometurk@gnome.org>\n"
 "Language: tr\n"
@@ -24,12 +24,12 @@ msgstr ""
 #: data/com.belmoussaoui.Decoder.desktop.in.in:3
 #: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:7
 #: data/resources/ui/history_page.ui:14 data/resources/ui/window.ui:32
-#: src/application.rs:59 src/main.rs:21
+#: src/application.rs:44 src/main.rs:22
 msgid "Decoder"
 msgstr "Decoder"
 
 #: data/com.belmoussaoui.Decoder.desktop.in.in:4
-#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:8 src/application.rs:51
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:8 src/application.rs:36
 msgid "Scan and Generate QR Codes"
 msgstr "QR Kod Tara ve Oluştur"
 
@@ -49,7 +49,7 @@ msgid "Default window height"
 msgstr "Öntanımlı pencere yüksekliği"
 
 #: data/com.belmoussaoui.Decoder.gschema.xml.in:16
-msgid "Default window maximized behaviour"
+msgid "Default window maximized behavior"
 msgstr "Öntanımlı pencere büyütülme davranışı"
 
 #: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:10
@@ -88,7 +88,7 @@ msgstr "Kamera ile QR Kodu tarama"
 msgid "History of the scanner/generated QR codes"
 msgstr "Taranan/oluşturulan QR kodların geçmişi"
 
-#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:88
+#: data/com.belmoussaoui.Decoder.metainfo.xml.in.in:95
 msgid "Bilal Elmoussaoui"
 msgstr "Bilal Elmoussaoui"
 
@@ -195,8 +195,8 @@ msgid "Longitude"
 msgstr "Boylam"
 
 #: data/resources/ui/qrcode_kind_mail.ui:22
-msgid "E-Mail"
-msgstr "E-Posta"
+msgid "Email"
+msgstr "E-posta"
 
 #: data/resources/ui/qrcode_kind_mail.ui:51
 msgid "Subject"
@@ -279,50 +279,55 @@ msgstr "Decoder _Hakkında"
 msgid "Main Menu"
 msgstr "Ana Menü"
 
-#: data/resources/ui/window.ui:56
+#: data/resources/ui/window.ui:57
 msgid "_Create"
 msgstr "_Oluştur"
 
-#: data/resources/ui/window.ui:70
+#: data/resources/ui/window.ui:71
 msgid "_Scan"
 msgstr "_Tara"
 
-#: data/resources/ui/window.ui:83
+#: data/resources/ui/window.ui:84
 msgid "_History"
 msgstr "_Geçmiş"
 
-#: src/application.rs:57
+#: src/application.rs:42
 msgid "translator-credits"
 msgstr ""
 "Ümit Solmaz <u2slmz@pm.me>\n"
 "Emin Tufan Çetin <etcetin@gmail.com>"
 
-#. NOTE This is in the context of selecting a wifi encryption
-#. algorithm.
-#: src/qrcode_kind.rs:282
-msgid "None"
-msgstr "Bilinmeyen"
-
-#: src/widgets/camera_page.rs:195
+#: src/camera_provider.rs:99
 msgid "Unknown Device"
 msgstr "Bilinmeyen Aygıt"
 
-#: src/widgets/qrcode/create.rs:145 src/widgets/qrcode/scanned_page.rs:152
+#. NOTE This is in the context of selecting a wifi encryption
+#. algorithm.
+#: src/qrcode_kind.rs:277
+msgid "None"
+msgstr "Bilinmeyen"
+
+#: src/widgets/qrcode/create.rs:129 src/widgets/qrcode/scanned_page.rs:136
 msgid "Could not generate QR code"
 msgstr "QR kodu oluşturulamadı"
 
-#: src/widgets/qrcode/create.rs:202 src/widgets/qrcode/scanned_page.rs:147
+#: src/widgets/qrcode/create.rs:180 src/widgets/qrcode/scanned_page.rs:131
 msgid "QR Code saved in history"
 msgstr "QR Kodu geçmiye kaydedildi"
 
-#: src/widgets/window.rs:211
-msgid "Select"
-msgstr "Seç"
+#: src/widgets/qrcode/row.rs:157
+msgid "Copied to clipboard"
+msgstr "Panoya kopyalandı"
 
-#: src/widgets/window.rs:212
-msgid "Cancel"
-msgstr "İptal Et"
+#: src/widgets/window.rs:217
+msgid "Create New Bibliography"
+msgstr "Yeni Kaynakça Oluştur"
 
-#: src/widgets/window.rs:216
+#: src/widgets/window.rs:218
+msgid "_Select"
+msgstr "_Seç"
+
+#. TRANSLATORS This a file name, do not translate the file format (.png)
+#: src/widgets/window.rs:220
 msgid "qr-code.png"
 msgstr "qr-code.png"

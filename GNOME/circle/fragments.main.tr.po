@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fragments master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/World/Fragments/issues\n"
-"POT-Creation-Date: 2023-01-24 19:47+0000\n"
-"PO-Revision-Date: 2022-10-24 00:43+0300\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"POT-Creation-Date: 2023-03-08 18:02+0000\n"
+"PO-Revision-Date: 2023-03-06 21:17+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -112,7 +112,7 @@ msgstr "Torrent dosyası seç…"
 
 #: data/gtk/connection_box.ui:164
 msgid "Authentication required"
-msgstr "Yetkilendirme gerekli"
+msgstr "Kimlik doğrulama gerekli"
 
 #: data/gtk/connection_box.ui:179
 msgid "Username"
@@ -124,7 +124,7 @@ msgstr "Parola"
 
 #: data/gtk/connection_box.ui:194
 msgid "Authenticate"
-msgstr "Yetkilendir"
+msgstr "Kimlik Doğrula"
 
 #: data/gtk/connection_box.ui:211
 msgid "Connection error"
@@ -306,11 +306,12 @@ msgstr "Bilgisayar"
 
 #: data/gtk/preferences_window.ui:402
 msgid ""
-"You can verify your connection by asking <a href=\"https://transmissionbt.com"
-"\">transmissionbt.com</a> to test connecting to your computer as peers would."
+"You can verify your connection by asking <a href=\"https://transmissionbt."
+"com\">transmissionbt.com</a> to test connecting to your computer as peers "
+"would."
 msgstr ""
-"Bilgisayarınıza yapılacak bağlantıları <a href=\"https://transmissionbt.com"
-"\">transmissionbt.com</a> adresine sorarak sınayıp, doğrulayabilirsiniz."
+"Bilgisayarınıza yapılacak bağlantıları <a href=\"https://transmissionbt."
+"com\">transmissionbt.com</a> adresine sorarak sınayıp, doğrulayabilirsiniz."
 
 #: data/gtk/preferences_window.ui:414
 msgid "Test"
@@ -340,13 +341,14 @@ msgstr "Bağlantı Şifreleme Kipi"
 
 #: data/gtk/preferences_window.ui:475
 msgid ""
-"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption"
-"\">BitTorrent Protocol Encryption</a> can be used to improve privacy. It "
-"also can help to bypass ISP filters."
+"<a href=\"https://en.wikipedia.org/wiki/"
+"BitTorrent_protocol_encryption\">BitTorrent Protocol Encryption</a> can be "
+"used to improve privacy. It also can help to bypass ISP filters."
 msgstr ""
-"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_protocol_encryption"
-"\">BitTorrent İletişim Kuralı Şifrelemesi</a>, gizliliği iyileştirmede "
-"kullanılabilir. Ayrıca İSS süzgeçlerinden sıyrılmaya yardım edebilir."
+"<a href=\"https://en.wikipedia.org/wiki/"
+"BitTorrent_protocol_encryption\">BitTorrent İletişim Kuralı Şifrelemesi</a>, "
+"gizliliği iyileştirmede kullanılabilir. Ayrıca İSS süzgeçlerinden sıyrılmaya "
+"yardım edebilir."
 
 #: data/gtk/preferences_window.ui:478
 msgid "_Encryption"

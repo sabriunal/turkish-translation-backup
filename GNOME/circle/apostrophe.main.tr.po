@@ -835,3 +835,9 @@ msgstr "Başlık"
 #: apostrophe/text_view.py:177 apostrophe/text_view.py:179
 msgid "web page"
 msgstr "web sayfası"
+
+#~ msgid "{:n} of "
+#~ msgstr "{:n} / "
+
+#~ msgid "{:d}:{:02d}:{:02d} of "
+#~ msgstr "{:d}:{:02d}:{:02d} / "

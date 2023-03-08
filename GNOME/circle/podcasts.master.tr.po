@@ -417,3 +417,91 @@ msgstr "Geri al"
 #: podcasts-gtk/src/widgets/show_menu.rs:193
 msgid "Unsubscribed from {}"
 msgstr "{} aboneliğinden çıkıldı"
+
+#~ msgid "Top position of the last open main window"
+#~ msgstr "Son açılan ana pencerenin üst konumu"
+
+#~ msgid "Left position of the last open main window"
+#~ msgstr "Son açılan ana pencerenin sol konumu"
+
+#~ msgid "Enable or disable dark theme"
+#~ msgstr "Karanlık gövdeyi etkinleştir veya devre dışı bırak"
+
+#~ msgid "An in-app action notification"
+#~ msgstr "Uygulama içi eylem bildirimi"
+
+#~ msgid "Fetching new episodes"
+#~ msgstr "Yeni bölümler alınıyor"
+
+#~ msgid "Podcast app for GNOME"
+#~ msgstr "GNOME için Podcast uygulaması"
+
+#~ msgid "Double speed rate"
+#~ msgstr "İki kat hız oranı"
+
+#~ msgid "1.75 speed rate"
+#~ msgstr "1.75 hız oranı"
+
+#~ msgid "1.5 speed rate"
+#~ msgstr "1.5 hız oranı"
+
+#~ msgid "1.25 speed rate"
+#~ msgstr "1.25 hız oranı"
+
+#~ msgid "Normal speed"
+#~ msgstr "Olağan hız"
+
+#~ msgid "You are already subscribed to this show"
+#~ msgstr "Bu gösteriye zaten abonesiniz"
+
+#~ msgid "Invalid URL"
+#~ msgstr "Geçersiz URL"
+
+#~ msgid "@icon@"
+#~ msgstr "@icon@"
+
+#~ msgid "_Preferences"
+#~ msgstr "_Tercihler"
+
+#~ msgid "You are already subscribed to that feed!"
+#~ msgstr "Bu beslemeye zaten abonesiniz!"
+
+#~ msgctxt "shortcut window"
+#~ msgid "Preferences"
+#~ msgstr "Tercihler"
+
+#~ msgid "Preferences"
+#~ msgstr "Tercihler"
+
+#~ msgid "Appearance"
+#~ msgstr "Görünüm"
+
+#~ msgid "Dark Theme"
+#~ msgstr "Karanlık Gövde"
+
+#~ msgid "Delete played episodes"
+#~ msgstr "Oynatılan bölümleri sil"
+
+#~ msgid "After"
+#~ msgstr "Şundan Sonra"
+
+#~ msgid "Seconds"
+#~ msgstr "Saniye"
+
+#~ msgid "Minutes"
+#~ msgstr "Dakika"
+
+#~ msgid "Hours"
+#~ msgstr "Saat"
+
+#~ msgid "Days"
+#~ msgstr "Gün"
+
+#~ msgid "Weeks"
+#~ msgstr "Hafta"
+
+#~ msgid "_About"
+#~ msgstr "_Hakkında"
+
+#~ msgid "org.gnome.Podcasts"
+#~ msgstr "org.gnome.Podcasts"
